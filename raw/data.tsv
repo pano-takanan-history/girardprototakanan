@@ -1,14 +1,37 @@
-ID	IDinSource	ProtoForm	ProtoConcept	Doculect	ConceptInSource	Value	Note
-1	a1	*a-	*hacer	Tak	hacer	a-	
-2	a1	*a-	*hacer	Tak	quiero hacer	a-ha	
-3	a1	*a-	*hacer	Was	make!	age	
-4	a1	*a-	*hacer	Kav	decir,hacer,pegar,atacar,picar	a-	
-5	a1	*a-	*hacer	Kav	lo que hace	a-ya-ke,a-ye-ke	
-6	a1	*a-	*hacer	Kav	venir a hacer	a-na-	
-7	a1	*a-	*hacer	Kav	venir a hacer	a-na-ti	
-8	a1	*a-	*hacer	Kav	aconsejar,enseñar	a-na-ti-a-	
-9	a1	*a-	*hacer	Kav	no está hecho,si no	a-ma-ni	
-10	a1	*a-	*hacer	Ese	decir,hacer	a-ka-	
-11	a1	*abu- (<*a1+bu3)	*cargar	Tak	cargar	abu-	(see also *bu3, *bute)
-12	a1	*abu- (<*a1+bu3)	*cargar	Tak	topar,chocar una cosa con otra	h-abu-ti	(see also *bu3, *bute)
-13	a1	*abu- (<*a1+bu3)	*cargar	Tak	cárgate	h-abu-ti-ke	(see also *bu3, *bute)
+ID	IDinSource	Doculect	ConceptInSource	Value	MorphInfor	Note
+1	a1	ProTa	*hacer	*a-		
+2	a1	Tak	hacer	a-		
+3	a1	Tak	quiero hacer	a-ha		Armentia
+4	a1	Was	make!	age		
+5	a1	Kav	decir,hacer,pegar,atacar,picar	a-		
+6	a1	Kav	lo que hace	a-ya-ke,a-ye-ke		a-ya-ke taken from Armentia
+7	a1	Kav	venir a hacer	a-na-		
+8	a1	Kav	venir a hacer	a-na-ti		
+9	a1	Kav	aconsejar,enseñar	a-na-ti-a-		
+10	a1	Kav	no está hecho,si no	a-ma-ni		
+11	a1	Ese	decir,hacer	a-ka-		
+12	a1	ProTa	*cargar	*abu-	*a1+bu3	see also *bu3,*bute
+13	a1	Tak	cargar	abu-		
+14	a1	Tak	topar,chocar una cosa con otra	h-abu-ti		Armentia
+15	a1	Tak	cárgate	h-abu-ti-ke		Armentia
+16	a1	Kav	cargar	a-bo-ti		
+17	a1	Kav	jase (haz)	abo-ki		
+18	a1	Kav	cargar,escobar,tocar	abu		Armentia
+19	a1	Ese	cargar	bao-		
+20	a1	War	cargar	baʔo-		with metathesis: *bu+a- or not cognate?
+21	a1	ProTa	*muela	*amaka	*a1+maka2?	see also *maka2
+22	a1	Tak	muela	y-amaha		
+23	a1	Kav	quijada,cachete,mandíbula	y-amaka		
+24	a1	Kav	desquijarrar	amáka-kwayo		Armentia
+25	a1	Ese	muela	e-amaxa		
+26	a1	War	muela	eʔamaha		
+27	a1	ProTa	*persuadir	*amere	*a1+mere	see also *me2,*mere,*bamere
+28	a1	Tak	mandar hacer	ame		Armentia
+29	a1	Kav	persuadir	amere		Armentia
+30	a1	ProTa	*quedarse,*tener,*estar	*ani	*a1+ni	see also *ni
+31	a1	Tak	quedarse,estar,tener	ani-		concepts 'estar,tener' taken from Armentia
+32	a1	Tak	apartar,retirar,mudar de lugar	ani-dera-		concept 'mudar de lugar' taken from Armentia
+33	a1	Tak	andar a quedarse	ani-seheu-		
+34	a1	Tak	vivienda,lugar,parte ó lugar	ani-hude		concept 'parte ó lugar' taken from Armentia
+35	a1	Tak	sentar	ani-ute-		
+36	a1	Tak	asiento	e-ani-hi		Armentia
