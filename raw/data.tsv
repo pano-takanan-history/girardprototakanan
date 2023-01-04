@@ -1,37 +1,135 @@
-ID	IDinSource	Doculect	ConceptInSource	Value	MorphInfor	Note
-1	a1	ProTa	*hacer	*a-		
-2	a1	Tak	hacer	a-		
-3	a1	Tak	quiero hacer	a-ha		Armentia
-4	a1	Was	make!	age		
-5	a1	Kav	decir,hacer,pegar,atacar,picar	a-		
-6	a1	Kav	lo que hace	a-ya-ke,a-ye-ke		a-ya-ke taken from Armentia
-7	a1	Kav	venir a hacer	a-na-		
-8	a1	Kav	venir a hacer	a-na-ti		
-9	a1	Kav	aconsejar,enseñar	a-na-ti-a-		
-10	a1	Kav	no está hecho,si no	a-ma-ni		
-11	a1	Ese	decir,hacer	a-ka-		
-12	a1	ProTa	*cargar	*abu-	*a1+bu3	see also *bu3,*bute
-13	a1	Tak	cargar	abu-		
-14	a1	Tak	topar,chocar una cosa con otra	h-abu-ti		Armentia
-15	a1	Tak	cárgate	h-abu-ti-ke		Armentia
-16	a1	Kav	cargar	a-bo-ti		
-17	a1	Kav	jase (haz)	abo-ki		
-18	a1	Kav	cargar,escobar,tocar	abu		Armentia
-19	a1	Ese	cargar	bao-		
-20	a1	War	cargar	baʔo-		with metathesis: *bu+a- or not cognate?
-21	a1	ProTa	*muela	*amaka	*a1+maka2?	see also *maka2
-22	a1	Tak	muela	y-amaha		
-23	a1	Kav	quijada,cachete,mandíbula	y-amaka		
-24	a1	Kav	desquijarrar	amáka-kwayo		Armentia
-25	a1	Ese	muela	e-amaxa		
-26	a1	War	muela	eʔamaha		
-27	a1	ProTa	*persuadir	*amere	*a1+mere	see also *me2,*mere,*bamere
-28	a1	Tak	mandar hacer	ame		Armentia
-29	a1	Kav	persuadir	amere		Armentia
-30	a1	ProTa	*quedarse,*tener,*estar	*ani	*a1+ni	see also *ni
-31	a1	Tak	quedarse,estar,tener	ani-		concepts 'estar,tener' taken from Armentia
-32	a1	Tak	apartar,retirar,mudar de lugar	ani-dera-		concept 'mudar de lugar' taken from Armentia
-33	a1	Tak	andar a quedarse	ani-seheu-		
-34	a1	Tak	vivienda,lugar,parte ó lugar	ani-hude		concept 'parte ó lugar' taken from Armentia
-35	a1	Tak	sentar	ani-ute-		
-36	a1	Tak	asiento	e-ani-hi		Armentia
+ID	ID_in_Source	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	Value	Morph_Infor	Note	Uncertainty
+1	a1	*a-	*hacer	ProTa	hacer	a-			
+2	a1	*a-	*hacer	Tak	hacer	a-			
+3	a1	*a-	*hacer	Tak	quiero hacer	a-ha		Armentia	
+4	a1	*a-	*hacer	Was	make!	age			
+5	a1	*a-	*hacer	Kav	decir,hacer,pegar,atacar,picar	a-			
+6	a1	*a-	*hacer	Kav	lo que hace	a-ya-ke,a-ye-ke		a-ya-ke taken from Armentia	
+7	a1	*a-	*hacer	Kav	venir a hacer	a-na-			
+8	a1	*a-	*hacer	Kav	venir a hacer	a-na-ti			
+9	a1	*a-	*hacer	Kav	aconsejar,enseñar	a-na-ti-a-			
+10	a1	*a-	*hacer	Kav	no está hecho,si no	a-ma-ni			
+11	a1	*a-	*hacer	Ese	decir,hacer	a-ka-			
+12	a1	*abu-	*cargar	ProTa	cargar	abu-	*a1+bu3	see also *bu3,*bute	
+13	a1	*abu-	*cargar	Tak	cargar	abu-			
+14	a1	*abu-	*cargar	Tak	topar,chocar una cosa con otra	h-abu-ti		Armentia	
+15	a1	*abu-	*cargar	Tak	cárgate	h-abu-ti-ke		Armentia	
+16	a1	*abu-	*cargar	Kav	cargar	a-bo-ti			
+17	a1	*abu-	*cargar	Kav	jase (haz)	abo-ki			
+18	a1	*abu-	*cargar	Kav	cargar,escobar,tocar	abu		Armentia	
+19	a1	*abu-	*cargar	Ese	cargar	bao-			
+20	a1	*abu-	*cargar	War	cargar	baʔo-		with metathesis: *bu+a- or not cognate?	
+21	a1	*amaka	*muela	ProTa	muela	amaka	*a1+maka2?	see also *maka2	
+22	a1	*amaka	*muela	Tak	muela	y-amaha			
+23	a1	*amaka	*muela	Kav	quijada,cachete,mandíbula	y-amaka			
+24	a1	*amaka	*muela	Kav	desquijarrar	amáka-kwayo		Armentia	
+25	a1	*amaka	*muela	Ese	muela	e-amaxa			
+26	a1	*amaka	*muela	War	muela	eʔamaha			
+27	a1	*amere	*persuadir	ProTa	persuadir	amere	*a1+mere	see also *me2,*mere,*bamere	
+28	a1	*amere	*persuadir	Tak	mandar hacer	ame		Armentia	
+29	a1	*amere	*persuadir	Kav	persuadir	amere		Armentia	
+30	a1	*ani	*quedarse,*tener,*estar	ProTa	quedarse,tener,estar	ani	*a1+ni	see also *ni	
+31	a1	*ani	*quedarse,*tener,*estar	Tak	quedarse,estar,tener	ani-		concepts 'estar,tener' taken from Armentia	
+32	a1	*ani	*quedarse,*tener,*estar	Tak	apartar,retirar,mudar de lugar	ani-dera-		concept 'mudar de lugar' taken from Armentia	
+33	a1	*ani	*quedarse,*tener,*estar	Tak	andar a quedarse	ani-seheu-			
+34	a1	*ani	*quedarse,*tener,*estar	Tak	vivienda,lugar,parte ó lugar	ani-hude		concept 'parte ó lugar' taken from Armentia	
+35	a1	*ani	*quedarse,*tener,*estar	Tak	sentar	ani-ute-			
+36	a1	*ani	*quedarse,*tener,*estar	Tak	asiento	e-ani-hi		Armentia	
+37	a1	*ani	*quedarse,*tener,*estar	Tak	lindo,bonito,hermoso	ani-a			1
+38	a1	*ani	*quedarse,*tener,*estar	Tak	muy lindo	ani-a-ani-a			1
+39	a1	*ani	*quedarse,*tener,*estar	Tak	lindo, hermoso	ani-a-čidi			1
+40	a1	*ani	*quedarse,*tener,*estar	Rey	seated	ani-po-he			1
+41	a1	*ani	*quedarse,*tener,*estar	Mar	siéntate	ani-buteje		Cardús	
+42	a1	*ani	*quedarse,*tener,*estar	Was	sits	anibuteni			
+43	a1	*ani	*quedarse,*tener,*estar	Aro	il y a	eani			
+44	a1	*ani	*quedarse,*tener,*estar	Kav	tener,hay,vivir,sentir,quedar	ani-			
+45	a1	*ani	*quedarse,*tener,*estar	Kav	vive bien serio	ani-moida			
+46	a1	*ani	*quedarse,*tener,*estar	Kav	sentar,aterrizar	ani-bote			
+47	a1	*ani	*quedarse,*tener,*estar	Kav	pascana,campamento	e-ani-kware			
+48	a1	*ani	*quedarse,*tener,*estar	Kav	condición,complexión,zurdo	ani		Armentia	
+49	a1	*ani	*quedarse,*tener,*estar	Kav	errante	ani-baekwa		Armentia (:ani+baekwa 'no sabe')	
+50	a1	*ani	*quedarse,*tener,*estar	Kav	guarida	e-ani-ki		Armentia	
+51	a1	*ani	*quedarse,*tener,*estar	Kav	matriz	e-ani-ki-ki		Armentia	
+52	a1	*ani	*quedarse,*tener,*estar	Ese	sentar	ani-oke-			
+53	a1	*ani	*quedarse,*tener,*estar	Ese	estar	ani-			
+54	a1	*ani	*quedarse,*tener,*estar	Ese	subir,levantar	ani-sowa-ki-			
+55	a1	*ani	*quedarse,*tener,*estar	Ese	de paseo	ani-kwa			
+56	a1	*ani	*quedarse,*tener,*estar	War	sentarse	ani-			
+57	a1	*ani	*quedarse,*tener,*estar	War	sentarse	ani-ke-			
+58	a1	*ani	*quedarse,*tener,*estar	War	sentado	ani-hi			
+59	a1	*ani	*quedarse,*tener,*estar	War	vivir,estar	ani-			
+60	a1	*ape	*terminar,*acabar	ProTa	terminar,acabar	ape	*a1+pe	see also *pe	
+61	a1	*ape	*terminar,*acabar	Tak	terminar,acabar	ape-			
+62	a1	*ape	*terminar,*acabar	Tak	estoy terminando	y-ape-sa			
+63	a1	*ape	*terminar,*acabar	Tak	acabado	ape-hihi		Armentia	
+64	a1	*ape	*terminar,*acabar	Tak	acabando,cuando se acaba	ape-ta-su		Armentia	
+65	a1	*ape	*terminar,*acabar	Kav	contradicción	ape-		Armentia	
+66	a1	*ape	*terminar,*acabar	Kav	contradictor	ape-a-ki		Armentia	
+67	a1	*ape	*terminar,*acabar	Kav	Contradecir	ape-ʔa		Armentia	
+68	a1	*ase	*andar	ProTa	andar	ase	*a1+se	see also *se	
+69	a1	*ase	*andar	Tak	andar	ase-			
+70	a1	*ase	*andar	Tak	ir a cazar	ase-ase-ti-			
+71	a1	*ase	*andar	Tak	caminando,paseando	e-ase-neti		Armentia	
+72	a1	*ase	*andar	Tak	están andando	e-ase-tani		Armentia	
+73	a1	*ase	*andar	Rey	walk	ade-neti			
+74	a1	*ase	*andar	Mar	walk	aθe			
+75	a1	*ase	*andar	Kav	andar	ahe-			
+76	a1	*ase	*andar	Kav	cojo	ahe-hida-ma			
+77	a1	*ase	*andar	Kav	casi hacer	ahe-ri-			
+78	a1	*ase	*andar	Ese	errar	aho-		cognate?	
+79	a2	*a	*transitivizing suffix	ProTa	transitivizing suffix	a		equal or related to *a1	
+80	a2	*a	*transitivizing suffix	Tak	transitivizing suffix	-a(-)			
+81	a2	*a	*transitivizing suffix	Rey	transitivizing suffix	-a(-)			
+82	a2	*a	*transitivizing suffix	Kav	transitivizing suffix	-a(-)			
+83	a2	*a	*transitivizing suffix	Ese	transitivizing suffix	-a(-)			
+84	a2	*a	*transitivizing suffix	War	transitivizing suffix	-a(-)			
+85	a3	*a	*simple interrogante	ProTa	simple interrogante	a			
+86	a3	*a	*simple interrogante	Tak	simple interrogante	a		Armentia	
+87	a3	*a	*simple interrogante	Tak	tal vez,así será,casi lo mismo que a	awa		Armentia	
+88	a3	*a	*simple interrogante	Tak	será así,así será	awaʔe		Armentia	
+89	a3	*a	*simple interrogante	Ese	la seña de una interrogación	aʔa			
+90	a3	*aʔi	*qué?	ProTa	qué?	aʔi			
+91	a3	*aʔi	*qué?	Tak	lo que,qué?,qui cosa?,algun	ai		concept 'algun' taken from Armentia	
+92	a3	*aʔi	*qué?	Tak	qué?	ai ni da		Armentia	
+93	a3	*aʔi	*qué?	Tak	qué será?	ai hia			
+94	a3	*aʔi	*qué?	Kav	qué?,como?	ai ~ aʔi			
+95	a3	*aʔi	*qué?	Ese	qué?,quién?,nada!	ae			
+96	a3	*aʔikʷana	*cosa	ProTa	cosa	aʔikʷana	*a3+ʔi+kʷana		
+97	a3	*aʔikʷana	*cosa	Tak	cosas	aikwana			
+98	a3	*aʔikʷana	*cosa	Kav	cualquier cosa	aikwana			
+99	a3	*aʔikʷana	*cosa	Ese	cosa	akiana			
+100	a3	*aʔira	*quién	ProTa	quién	aʔira	*a3+ʔi+ra		
+101	a3	*aʔira	*quién	Tak	quién (trans.)	aiya			
+102	a3	*aʔira	*quién	Kav	quién	aira		Armentia	
+103	a3	*aʔira	*quién	Ese	quién	aʔya			
+104	a3	*aʔira	*quién	War	qué?,quién?	aya			
+105	a3	*aʔin{e/i}ke	*con qué?	ProTa	con qué?	aʔin{e/i}ke	*a3+ʔi+n{e/i}ke		
+106	a3	*aʔin{e/i}ke	*con qué?	Tak	con qué?	ainehe		Armentia	
+107	a3	*aʔin{e/i}ke	*con qué?	Ese	con quién?	ánixe			
+108	a3	*aʔipuki	*para qué?	ProTa	para qué?	aʔipuki	*a3+ʔi+pu+ki		
+109	a3	*aʔipuki	*para qué?	Tak	para qué?	aipuhi		Armentia	
+110	a3	*aʔipuki	*para qué?	Ese	por qué?	apioxi			
+111	a3	*aʔisa	*de quién	ProTa	de quién	aʔisa	*a3+ʔi+sa		
+112	a3	*aʔisa	*de quién	Tak	de quién	aisa			
+113	a3	*aʔisa	*de quién	Kav	cuyo	aiha-kie		Armentia	
+114	a3	*aʔisa	*de quién	Ese	de quién?	ahea			
+115	a3	*aʔize	*quién	ProTa	quién	aʔize	*a3+ʔi+ze		
+116	a3	*aʔize	*quién	Tak	quién	aidhe			
+117	a3	*aʔize	*quién	Tak	quién?	aidhe ni da			
+118	a3	*aʔize	*quién	Tak	quién será?	aidhe hia			
+119	a3	*aʔize	*quién	Tak	quienes	aidhe kwana			
+120	a3	*aʔize	*quién	Tak	algo	aidhe-bia-me		Armentia	
+121	a3	*aʔize	*quién	Tak	con quién?	aidhe-ni-nehe		Armentia	
+122	a3	*aʔize	*quién	Tak	de quién?	aidhe-ni-su		Armentia	
+123	a3	*aʔize	*quién	Mar	who?	hayse			
+124	a3	*aʔize	*quién	Ese	cual	ače			
+125	a3	*aʔize	*quién	Ese	de qué tamaño?	ače-kemo			
+126	a3	*aʔize	*quién	Ese	cuantos días?	áče-kawiwiso			
+127	a3	*aʔize	*quién	Ese	cuantos?	ače-wiso			
+128	a3	*aʔize	*quién	Ese	donde está?	ače-ho			
+129	a3	*aʔize	*quién	Ese	de donde?	ače-xe			
+130	a3	*aʔize	*quién	Ese	cuándo?	ače-šono			
+131	a3	*aʔize	*quién	War	cuál?	ače			
+132	a3	*aʔize	*quién	War	cuándo	ači-sono			
+133	a3	*aʔize	*quién	War	cuánto(s)	ači-bisó			
+134	a3	*aʔize	*quién	War	por donde	ače-he			
