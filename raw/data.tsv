@@ -192,3 +192,104 @@ ID	ID_in_Source	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	Value	Morph_
 191	akwi	*(a)kwi	*árbol	Mar	tree	áki		Heath	
 192	akwi	*(a)kwi	*árbol	Aro	árbol,palo	acui			
 193	akwi	*(a)kwi	*árbol	Aro	espina	acuisa			
+194	akwi	*(a)kwi	*árbol	Mab	tree	akwi			
+195	akwi	*(a)kwi	*árbol	Kav	árbol,palo	akwi			
+196	akwi	*(a)kwi	*árbol	Kav	espina	akwiha	*akwi+ija		
+197	akwi	*(a)kwi	*árbol	Kav	bi (árbol y fruta)	akwiho			
+198	akwi	*(a)kwi	*árbol	Kav	clase de árbol	kwi-nawi			
+199	akwi	*(a)kwi	*árbol	Kav	rama de yuca	kwawe ekwi			
+200	akwi	*(a)kwi	*árbol	Ese	árbol,palo	akwi			
+201	akwi	*(a)kwi	*árbol	Ese	espina	akwiša	*akwi+ija		
+202	akwi	*(a)kwi	*árbol	Ese	bagre (pez)	akwi-šaxi	*akwi+ija+ki		
+203	akwi	*(a)kwi	*árbol	Ese	naranjo	akwi-esiye			
+204	akwi	*(a)kwi	*árbol	Ese	garrotear	akwi-hea-	*akwi+sa-?		
+205	akwi	*(a)kwi	*árbol	Ese	callapo	akwí-hoheyo			
+206	akwi	*(a)kwi	*árbol	Ese	coquino	akwi-xaxa-tewe			
+207	akwi	*(a)kwi	*árbol	Ese	quemaquema	akwi-makwa			
+208	akwi	*(a)kwi	*árbol	Ese	gaveta	akwi-pexa			
+209	akwi	*(a)kwi	*árbol	War	árbol,palanca	akwi			
+210	akwi	*(a)kwi	*árbol	Ara	leaf	akui		Armentia	
+211	akwi	*(a)kwi	*árbol	Ara	spine	akuiša			
+212	ama	*-(a)ma	*negative suffix	ProTa	negative suffix	-(a)ma			
+213	ama	*-(a)ma	*negative suffix	Tak	negative suffix	-(a)ma			
+214	ama	*-(a)ma	*negative suffix	Kav	negative suffix	-(a)ma			
+215	ama	*-(a)ma	*negative suffix	Ese	negative suffix	-(a)ma			
+216	amac̣a	*amac̣a	*motacucillo	ProTa	motacucillo	amac̣a			
+217	amac̣a	*amac̣a	*motacucillo	Tak	motacucillo	amaca			
+218	amac̣a	*amac̣a	*motacucillo	Kav	motacucillo	amaca			
+219	ami	*ami	*sangre	ProTa	sangre	ami			
+220	ami	*ami	*sangre	Tak	sangre	ami			
+221	ami	*ami	*sangre	Tak	hemorragia,flujo	ami-pa			
+222	ami	*ami	*sangre	Tak	disentería	ami-dene			
+223	ami	*ami	*sangre	Tak	salir sangre	ami-kwina		Armentia	
+224	ami	*ami	*sangre	Tak	acusarse	ami-panati		Armentia	
+225	ami	*ami	*sangre	Rey	blood	ami			
+226	ami	*ami	*sangre	Mar	blood	ami		Armentia	
+227	ami	*ami	*sangre	Kav	sangre	ami			
+228	ami	*ami	*sangre	Kav	disentería	ami-boho			
+229	ami	*ami	*sangre	Kav	vena	ami-dihi			
+230	ami	*ami	*sangre	Kav	hemorragia	ami-horiya			
+231	ami	*ami	*sangre	Kav	ensangrentar	ami-ami-a		Armentia	
+232	ami	*ami	*sangre	Kav	exangüe,incruento	ami-ma		Armentia	
+233	ami	*ami	*sangre	Kav	hemorragio	ami-pusia		Armentia	
+234	ami	*ami	*sangre	Kav	desangrar	ami-tere			
+235	ana	*ana	*lengua	ProTa	lengua	ana			
+236	ana	*ana	*lengua	Kav	lengua	y-ana			
+237	ana	*ana	*lengua	Kav	lengua mala	ana mada-da			
+238	ana	*ana	*lengua	Rey	tongue	y-ana			
+239	ana	*ana	*lengua	Mar	tongue	éana		Heath	
+240	ana	*ana	*lengua	Sap	lingua	eana			
+241	ana	*ana	*lengua	Kav	lengua,ley,orden,costumbre,idioma	y-ana			
+242	ana	*ana	*lengua	Kav	obedecer,complir,hacer caso	y-ana-a-			
+243	ana	*ana	*lengua	Kav	palador	y-ana-baka			
+244	ana	*ana	*lengua	Kav	zonzo,opa,mudo	ana-ma			
+245	ana	*ana	*lengua	Kav	mentira,falso,de balde	y-ana-kana			
+246	ana	*ana	*lengua	Kav	regalar	y-ana-kana-tia-ya-			
+247	ana	*ana	*lengua	Kav	punto de lengua	y-ana-wito			
+248	ana	*ana	*lengua	Kav	lengua chuta	y-ana-tobo			
+249	ana	*ana	*lengua	Ese	tongue	eyana			
+250	ana	*ana	*lengua	War	lengua	y-ana ~ e-ana			
+251	ana	*ana	*lengua	Tia	tongue	yana		Fast	
+252	ana	*ana	*lengua	Ara	Zunge	eána		Nordenskiöld	
+253	anani	*anani	*palo santo	ProTa	palo santo	anani			
+254	anani	*anani	*palo santo	Tak	palo santo (árbol)	anani			
+255	anani	*anani	*palo santo	Kav	palo santo,hormiga de palo santo	anani			
+256	anani	*anani	*palo santo	Ese	palo santo (y hormiga)	biñani		*bira+anani?	
+257	anu	*anu	*mujer	ProTa	mujer	anu			
+258	anu	*anu	*mujer	Tak	mujer vieja	anu			
+259	anu	*anu	*mujer	Rey	woman	ano			
+260	anu	*anu	*mujer	Mar	woman	ánu		Heath and Nordenskiöld	
+261	anu	*anu	*mujer	Sap	woman	ánu			
+262	anu	*anu	*mujer	Kav	abuela	ano			
+263	anu	*anu	*mujer	Ese	abuela,suegra	ano			
+264	anu	*anu	*mujer	Čam	old woman	áno			
+265	anuʔai	*anuʔai	*gualusa	ProTa	gualusa	anuʔai			
+266	anuʔai	*anuʔai	*gualusa	Tak	gualusa	anuʔai			
+267	anuʔai	*anuʔai	*gualusa	Kav	gualusa	anoʔai			
+268	apu	*apu	*obscuro	ProTa	obscuro	apu			
+269	apu	*apu	*obscuro	Tak	obscurar	apu-			
+270	apu	*apu	*obscuro	Tak	obscuro	apu-da			
+271	apu	*apu	*obscuro	Tak	de noche,en la noche	apu-da-su			
+272	apu	*apu	*obscuro	Tak	de mañana	apu-da-ya			
+273	apu	*apu	*obscuro	Tak	de madrugada	apu-apu			
+274	apu	*apu	*obscuro	Rey	night	apo-me			
+275	apu	*apu	*obscuro	Mar	night	apumé		Heath	
+276	apu	*apu	*obscuro	Sap	oscuro	appume			
+277	apu	*apu	*obscuro	Kav	nublado,obscuro,madrugada	apo-apo		concepts 'obscuro,madrugada' taken from Armentia	
+278	apu	*apu	*obscuro	Kav	de mañana	apo-da-hodya			
+279	apu	*apu	*obscuro	Kav	obscuro,de noche	apo-da-ke			
+280	apu	*apu	*obscuro	Kav	anochecer,oscurecer	apo-			
+281	apu	*apu	*obscuro	Kav	sombra	apo-taho			
+282	apu	*apu	*obscuro	Kav	perder,desaparecer	apo-ta-			
+283	apu	*apu	*obscuro	Kav	perder su color	e-apo-tato apo-deda-			
+284	apu	*apu	*obscuro	Kav	eclipse del sol	e-heti-apo-ta			
+285	apu	*apu	*obscuro	Kav	entenebrear	apuna		Armentia	
+286	apu	*apu	*obscuro	Kav	descolorar	apu-paisa		Armentia	
+287	apu	*apu	*obscuro	Kav	anublar	k-apu-ti		Armentia	
+288	apu	*apu	*obscuro	Kav	obscuro	k-apu-ta		Armentia	
+289	apu	*apu	*obscuro	Kav	encapotar	k-apu-tahu		Armentia	
+290	apu	*apu	*obscuro	Kav	oscurecer	e-apu-ta		Armentia	
+291	apu	*apu	*obscuro	Kav	nube	pube		Armentia	1
+292	apu	*apu	*obscuro	Kav	asombro	puenrurusisama		Armentia	1
+293	apu	*apu	*obscuro	Kav	lobreguez,tinieblas	apu-da		Armentia	1
+294	apu	*apu	*obscuro	Kav	oscuro	kea-ʔapo			
