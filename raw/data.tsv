@@ -133,3 +133,62 @@ ID	ID_in_Source	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	Value	Morph_
 132	a3	*aʔize	*quién	War	cuándo	ači-sono			
 133	a3	*aʔize	*quién	War	cuánto(s)	ači-bisó			
 134	a3	*aʔize	*quién	War	por donde	ače-he			
+135	a3	*aʔi...	*interrogación	ProTa	interrogación	aʔi...			
+136	a3	*aʔi...	*interrogación	Tak	cosas	aikisa-kwana			
+137	a3	*aʔi...	*interrogación	Tak	no	aima		Armentia	
+138	a3	*aʔi...	*interrogación	Tak	no,no hay	aimawe			
+139	a3	*aʔi...	*interrogación	Aro	avec qui?	aydeni-ñae			
+140	a3	*aʔi...	*interrogación	Kav	donde	aiho	*aʔi+su		
+141	a3	*aʔi...	*interrogación	Kav	como se dice	aipo			
+142	a3	*aʔi...	*interrogación	Kav	qué es esto	airike			
+143	a3	*aʔi...	*interrogación	Kav	qué es esto	airiya			
+144	a3	*aʔi...	*interrogación	Kav	qué es eso	aitome			
+145	a3	*aʔi...	*interrogación	Kav	que	aitibu		Armentia	
+146	a3	*aʔi...	*interrogación	Kav	no hay	aiha-ma			1
+147	a3	*aʔi...	*interrogación	Kav	impossible	aiha-ma-taʔa			1
+148	a3	*aʔi...	*interrogación	Kav	así lo hace	aikiraaya			1
+149	a3	*aʔi...	*interrogación	Kav	para hacer	aikiraišo			1
+150	a3	*aʔi...	*interrogación	Kav	abundancia	aida		Armentia	1
+151	a3	*aʔi...	*interrogación	Kav	abundar	aidahu		Armentia	1
+152	a3	*aʔi...	*interrogación	Ese	a donde?	ačakwa		*aʔiza...?	
+153	a3	*aʔi...	*interrogación	Ese	cómo?	ačaxa			
+154	a3	*aʔi...	*interrogación	Ese	cómo se hace?	ačaxa akawi			
+155	a3	*aʔi...	*interrogación	Ese	cómo está Usted?	ačaxa mia			
+156	a3	*aʔi...	*interrogación	Ese	dónde está?	aekwe			
+157	a3	*aʔi...	*interrogación	Ese	espera!	aʔeso			
+158	a3	*aʔi...	*interrogación	War	cuánto(s)	ačaha			
+159	a3	*aʔi...	*interrogación	War	donde	ačakwa			
+160	a3	*aʔi...	*interrogación	War	que es esto?	ahia			
+161	ac̣a	*ac̣a	*barbasco	ProTa	barbasco	ac̣a			
+162	ac̣a	*ac̣a	*barbasco	Tak	barbasco (bejuco)	aca			
+163	ac̣a	*ac̣a	*barbasco	Kav	barbasco	aca			
+164	ac̣a	*ac̣a	*barbasco	Kav	resina de paquió	aca-ka-madi			
+165	ac̣i	*ac̣i	*pampa	ProTa	pampa	ac̣i			
+166	ac̣i	*ac̣i	*pampa	Tak	pampa,pajonal	y-aci		Concept 'pajonal' taken from Armentia	
+167	ac̣i	*ac̣i	*pampa	Mar	grass	eáxi		cognate?	
+168	ac̣i	*ac̣i	*pampa	Rey	grassland	y-aci			
+169	ac̣i	*ac̣i	*pampa	Kav	pampa,paja	y-ači		Concept 'paja' taken from Armentia	
+170	ac̣u	*ac̣u	*teta	Prota	teta	ac̣u			
+171	ac̣u	*ac̣u	*teta	Tak	teta	acu			
+172	ac̣u	*ac̣u	*teta	Tak	tetilla	acu-pa			
+173	ac̣u	*ac̣u	*teta	Tak	testes	e-acu-du		Armentia	
+174	ac̣u	*ac̣u	*teta	Tak	leche	acu-na		palabra arcaica	
+175	ac̣u	*ac̣u	*teta	Rey	breast	aco			
+176	ac̣u	*ac̣u	*teta	Mar	breasts	atru		Heath	
+177	ac̣u	*ac̣u	*teta	Kav	leche,ubre	aco-na			
+178	ac̣u	*ac̣u	*teta	Kav	leche	aco		Armentia	
+179	adune	*adune	*chontaloro	ProTa	chontaloro	adune			
+180	adune	*adune	*chontaloro	Tak	chontaloro (palmera)	adune			
+181	adune	*adune	*chontaloro	Kav	chontaloro	adone			
+182	akwi	*(a)kwi	*árbol	ProTa	árbol	(a)kwi		see also *kwi,*kwati	
+183	akwi	*(a)kwi	*árbol	Tak	árbol,palo	aki			
+184	akwi	*(a)kwi	*árbol	Tak	espina	akiřa	*akwi+ija		
+185	akwi	*(a)kwi	*árbol	Tak	suchi (pez)	akiřai	*akwi+ija+ki		
+186	akwi	*(a)kwi	*árbol	Tak	manzana silvestre (árbol)	akiřu			
+187	akwi	*(a)kwi	*árbol	Tak	gavetillo (árbol)	ki-pabi			1
+188	akwi	*(a)kwi	*árbol	Tak	árbol de cacao	kwase eki			1
+189	akwi	*(a)kwi	*árbol	Rey	tree	akwi			
+190	akwi	*(a)kwi	*árbol	Mar	leaf	ekená		Heath	
+191	akwi	*(a)kwi	*árbol	Mar	tree	áki		Heath	
+192	akwi	*(a)kwi	*árbol	Aro	árbol,palo	acui			
+193	akwi	*(a)kwi	*árbol	Aro	espina	acuisa			
