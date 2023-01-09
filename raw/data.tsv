@@ -1,295 +1,420 @@
-ID	ID_in_Source	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	Value	Morph_Infor	Note	Uncertainty
-1	a1	*a-	*hacer	ProTa	hacer	a-			
-2	a1	*a-	*hacer	Tak	hacer	a-			
-3	a1	*a-	*hacer	Tak	quiero hacer	a-ha		Armentia	
-4	a1	*a-	*hacer	Was	make!	age			
-5	a1	*a-	*hacer	Kav	decir,hacer,pegar,atacar,picar	a-			
-6	a1	*a-	*hacer	Kav	lo que hace	a-ya-ke,a-ye-ke		a-ya-ke taken from Armentia	
-7	a1	*a-	*hacer	Kav	venir a hacer	a-na-			
-8	a1	*a-	*hacer	Kav	venir a hacer	a-na-ti			
-9	a1	*a-	*hacer	Kav	aconsejar,enseñar	a-na-ti-a-			
-10	a1	*a-	*hacer	Kav	no está hecho,si no	a-ma-ni			
-11	a1	*a-	*hacer	Ese	decir,hacer	a-ka-			
-12	a1	*abu-	*cargar	ProTa	cargar	abu-	*a1+bu3	see also *bu3,*bute	
-13	a1	*abu-	*cargar	Tak	cargar	abu-			
-14	a1	*abu-	*cargar	Tak	topar,chocar una cosa con otra	h-abu-ti		Armentia	
-15	a1	*abu-	*cargar	Tak	cárgate	h-abu-ti-ke		Armentia	
-16	a1	*abu-	*cargar	Kav	cargar	a-bo-ti			
-17	a1	*abu-	*cargar	Kav	jase (haz)	abo-ki			
-18	a1	*abu-	*cargar	Kav	cargar,escobar,tocar	abu		Armentia	
-19	a1	*abu-	*cargar	Ese	cargar	bao-			
-20	a1	*abu-	*cargar	War	cargar	baʔo-		with metathesis: *bu+a- or not cognate?	
-21	a1	*amaka	*muela	ProTa	muela	amaka	*a1+maka2?	see also *maka2	
-22	a1	*amaka	*muela	Tak	muela	y-amaha			
-23	a1	*amaka	*muela	Kav	quijada,cachete,mandíbula	y-amaka			
-24	a1	*amaka	*muela	Kav	desquijarrar	amáka-kwayo		Armentia	
-25	a1	*amaka	*muela	Ese	muela	e-amaxa			
-26	a1	*amaka	*muela	War	muela	eʔamaha			
-27	a1	*amere	*persuadir	ProTa	persuadir	amere	*a1+mere	see also *me2,*mere,*bamere	
-28	a1	*amere	*persuadir	Tak	mandar hacer	ame		Armentia	
-29	a1	*amere	*persuadir	Kav	persuadir	amere		Armentia	
-30	a1	*ani	*quedarse,*tener,*estar	ProTa	quedarse,tener,estar	ani	*a1+ni	see also *ni	
-31	a1	*ani	*quedarse,*tener,*estar	Tak	quedarse,estar,tener	ani-		concepts 'estar,tener' taken from Armentia	
-32	a1	*ani	*quedarse,*tener,*estar	Tak	apartar,retirar,mudar de lugar	ani-dera-		concept 'mudar de lugar' taken from Armentia	
-33	a1	*ani	*quedarse,*tener,*estar	Tak	andar a quedarse	ani-seheu-			
-34	a1	*ani	*quedarse,*tener,*estar	Tak	vivienda,lugar,parte ó lugar	ani-hude		concept 'parte ó lugar' taken from Armentia	
-35	a1	*ani	*quedarse,*tener,*estar	Tak	sentar	ani-ute-			
-36	a1	*ani	*quedarse,*tener,*estar	Tak	asiento	e-ani-hi		Armentia	
-37	a1	*ani	*quedarse,*tener,*estar	Tak	lindo,bonito,hermoso	ani-a			1
-38	a1	*ani	*quedarse,*tener,*estar	Tak	muy lindo	ani-a-ani-a			1
-39	a1	*ani	*quedarse,*tener,*estar	Tak	lindo, hermoso	ani-a-čidi			1
-40	a1	*ani	*quedarse,*tener,*estar	Rey	seated	ani-po-he			1
-41	a1	*ani	*quedarse,*tener,*estar	Mar	siéntate	ani-buteje		Cardús	
-42	a1	*ani	*quedarse,*tener,*estar	Was	sits	anibuteni			
-43	a1	*ani	*quedarse,*tener,*estar	Aro	il y a	eani			
-44	a1	*ani	*quedarse,*tener,*estar	Kav	tener,hay,vivir,sentir,quedar	ani-			
-45	a1	*ani	*quedarse,*tener,*estar	Kav	vive bien serio	ani-moida			
-46	a1	*ani	*quedarse,*tener,*estar	Kav	sentar,aterrizar	ani-bote			
-47	a1	*ani	*quedarse,*tener,*estar	Kav	pascana,campamento	e-ani-kware			
-48	a1	*ani	*quedarse,*tener,*estar	Kav	condición,complexión,zurdo	ani		Armentia	
-49	a1	*ani	*quedarse,*tener,*estar	Kav	errante	ani-baekwa		Armentia (:ani+baekwa 'no sabe')	
-50	a1	*ani	*quedarse,*tener,*estar	Kav	guarida	e-ani-ki		Armentia	
-51	a1	*ani	*quedarse,*tener,*estar	Kav	matriz	e-ani-ki-ki		Armentia	
-52	a1	*ani	*quedarse,*tener,*estar	Ese	sentar	ani-oke-			
-53	a1	*ani	*quedarse,*tener,*estar	Ese	estar	ani-			
-54	a1	*ani	*quedarse,*tener,*estar	Ese	subir,levantar	ani-sowa-ki-			
-55	a1	*ani	*quedarse,*tener,*estar	Ese	de paseo	ani-kwa			
-56	a1	*ani	*quedarse,*tener,*estar	War	sentarse	ani-			
-57	a1	*ani	*quedarse,*tener,*estar	War	sentarse	ani-ke-			
-58	a1	*ani	*quedarse,*tener,*estar	War	sentado	ani-hi			
-59	a1	*ani	*quedarse,*tener,*estar	War	vivir,estar	ani-			
-60	a1	*ape	*terminar,*acabar	ProTa	terminar,acabar	ape	*a1+pe	see also *pe	
-61	a1	*ape	*terminar,*acabar	Tak	terminar,acabar	ape-			
-62	a1	*ape	*terminar,*acabar	Tak	estoy terminando	y-ape-sa			
-63	a1	*ape	*terminar,*acabar	Tak	acabado	ape-hihi		Armentia	
-64	a1	*ape	*terminar,*acabar	Tak	acabando,cuando se acaba	ape-ta-su		Armentia	
-65	a1	*ape	*terminar,*acabar	Kav	contradicción	ape-		Armentia	
-66	a1	*ape	*terminar,*acabar	Kav	contradictor	ape-a-ki		Armentia	
-67	a1	*ape	*terminar,*acabar	Kav	Contradecir	ape-ʔa		Armentia	
-68	a1	*ase	*andar	ProTa	andar	ase	*a1+se	see also *se	
-69	a1	*ase	*andar	Tak	andar	ase-			
-70	a1	*ase	*andar	Tak	ir a cazar	ase-ase-ti-			
-71	a1	*ase	*andar	Tak	caminando,paseando	e-ase-neti		Armentia	
-72	a1	*ase	*andar	Tak	están andando	e-ase-tani		Armentia	
-73	a1	*ase	*andar	Rey	walk	ade-neti			
-74	a1	*ase	*andar	Mar	walk	aθe			
-75	a1	*ase	*andar	Kav	andar	ahe-			
-76	a1	*ase	*andar	Kav	cojo	ahe-hida-ma			
-77	a1	*ase	*andar	Kav	casi hacer	ahe-ri-			
-78	a1	*ase	*andar	Ese	errar	aho-		cognate?	
-79	a2	*a	*transitivizing suffix	ProTa	transitivizing suffix	a		equal or related to *a1	
-80	a2	*a	*transitivizing suffix	Tak	transitivizing suffix	-a(-)			
-81	a2	*a	*transitivizing suffix	Rey	transitivizing suffix	-a(-)			
-82	a2	*a	*transitivizing suffix	Kav	transitivizing suffix	-a(-)			
-83	a2	*a	*transitivizing suffix	Ese	transitivizing suffix	-a(-)			
-84	a2	*a	*transitivizing suffix	War	transitivizing suffix	-a(-)			
-85	a3	*a	*simple interrogante	ProTa	simple interrogante	a			
-86	a3	*a	*simple interrogante	Tak	simple interrogante	a		Armentia	
-87	a3	*a	*simple interrogante	Tak	tal vez,así será,casi lo mismo que a	awa		Armentia	
-88	a3	*a	*simple interrogante	Tak	será así,así será	awaʔe		Armentia	
-89	a3	*a	*simple interrogante	Ese	la seña de una interrogación	aʔa			
-90	a3	*aʔi	*qué?	ProTa	qué?	aʔi			
-91	a3	*aʔi	*qué?	Tak	lo que,qué?,qui cosa?,algun	ai		concept 'algun' taken from Armentia	
-92	a3	*aʔi	*qué?	Tak	qué?	ai ni da		Armentia	
-93	a3	*aʔi	*qué?	Tak	qué será?	ai hia			
-94	a3	*aʔi	*qué?	Kav	qué?,como?	ai ~ aʔi			
-95	a3	*aʔi	*qué?	Ese	qué?,quién?,nada!	ae			
-96	a3	*aʔikʷana	*cosa	ProTa	cosa	aʔikʷana	*a3+ʔi+kʷana		
-97	a3	*aʔikʷana	*cosa	Tak	cosas	aikwana			
-98	a3	*aʔikʷana	*cosa	Kav	cualquier cosa	aikwana			
-99	a3	*aʔikʷana	*cosa	Ese	cosa	akiana			
-100	a3	*aʔira	*quién	ProTa	quién	aʔira	*a3+ʔi+ra		
-101	a3	*aʔira	*quién	Tak	quién (trans.)	aiya			
-102	a3	*aʔira	*quién	Kav	quién	aira		Armentia	
-103	a3	*aʔira	*quién	Ese	quién	aʔya			
-104	a3	*aʔira	*quién	War	qué?,quién?	aya			
-105	a3	*aʔin{e/i}ke	*con qué?	ProTa	con qué?	aʔin{e/i}ke	*a3+ʔi+n{e/i}ke		
-106	a3	*aʔin{e/i}ke	*con qué?	Tak	con qué?	ainehe		Armentia	
-107	a3	*aʔin{e/i}ke	*con qué?	Ese	con quién?	ánixe			
-108	a3	*aʔipuki	*para qué?	ProTa	para qué?	aʔipuki	*a3+ʔi+pu+ki		
-109	a3	*aʔipuki	*para qué?	Tak	para qué?	aipuhi		Armentia	
-110	a3	*aʔipuki	*para qué?	Ese	por qué?	apioxi			
-111	a3	*aʔisa	*de quién	ProTa	de quién	aʔisa	*a3+ʔi+sa		
-112	a3	*aʔisa	*de quién	Tak	de quién	aisa			
-113	a3	*aʔisa	*de quién	Kav	cuyo	aiha-kie		Armentia	
-114	a3	*aʔisa	*de quién	Ese	de quién?	ahea			
-115	a3	*aʔize	*quién	ProTa	quién	aʔize	*a3+ʔi+ze		
-116	a3	*aʔize	*quién	Tak	quién	aidhe			
-117	a3	*aʔize	*quién	Tak	quién?	aidhe ni da			
-118	a3	*aʔize	*quién	Tak	quién será?	aidhe hia			
-119	a3	*aʔize	*quién	Tak	quienes	aidhe kwana			
-120	a3	*aʔize	*quién	Tak	algo	aidhe-bia-me		Armentia	
-121	a3	*aʔize	*quién	Tak	con quién?	aidhe-ni-nehe		Armentia	
-122	a3	*aʔize	*quién	Tak	de quién?	aidhe-ni-su		Armentia	
-123	a3	*aʔize	*quién	Mar	who?	hayse			
-124	a3	*aʔize	*quién	Ese	cual	ače			
-125	a3	*aʔize	*quién	Ese	de qué tamaño?	ače-kemo			
-126	a3	*aʔize	*quién	Ese	cuantos días?	áče-kawiwiso			
-127	a3	*aʔize	*quién	Ese	cuantos?	ače-wiso			
-128	a3	*aʔize	*quién	Ese	donde está?	ače-ho			
-129	a3	*aʔize	*quién	Ese	de donde?	ače-xe			
-130	a3	*aʔize	*quién	Ese	cuándo?	ače-šono			
-131	a3	*aʔize	*quién	War	cuál?	ače			
-132	a3	*aʔize	*quién	War	cuándo	ači-sono			
-133	a3	*aʔize	*quién	War	cuánto(s)	ači-bisó			
-134	a3	*aʔize	*quién	War	por donde	ače-he			
-135	a3	*aʔi...	*interrogación	ProTa	interrogación	aʔi...			
-136	a3	*aʔi...	*interrogación	Tak	cosas	aikisa-kwana			
-137	a3	*aʔi...	*interrogación	Tak	no	aima		Armentia	
-138	a3	*aʔi...	*interrogación	Tak	no,no hay	aimawe			
-139	a3	*aʔi...	*interrogación	Aro	avec qui?	aydeni-ñae			
-140	a3	*aʔi...	*interrogación	Kav	donde	aiho	*aʔi+su		
-141	a3	*aʔi...	*interrogación	Kav	como se dice	aipo			
-142	a3	*aʔi...	*interrogación	Kav	qué es esto	airike			
-143	a3	*aʔi...	*interrogación	Kav	qué es esto	airiya			
-144	a3	*aʔi...	*interrogación	Kav	qué es eso	aitome			
-145	a3	*aʔi...	*interrogación	Kav	que	aitibu		Armentia	
-146	a3	*aʔi...	*interrogación	Kav	no hay	aiha-ma			1
-147	a3	*aʔi...	*interrogación	Kav	impossible	aiha-ma-taʔa			1
-148	a3	*aʔi...	*interrogación	Kav	así lo hace	aikiraaya			1
-149	a3	*aʔi...	*interrogación	Kav	para hacer	aikiraišo			1
-150	a3	*aʔi...	*interrogación	Kav	abundancia	aida		Armentia	1
-151	a3	*aʔi...	*interrogación	Kav	abundar	aidahu		Armentia	1
-152	a3	*aʔi...	*interrogación	Ese	a donde?	ačakwa		*aʔiza...?	
-153	a3	*aʔi...	*interrogación	Ese	cómo?	ačaxa			
-154	a3	*aʔi...	*interrogación	Ese	cómo se hace?	ačaxa akawi			
-155	a3	*aʔi...	*interrogación	Ese	cómo está Usted?	ačaxa mia			
-156	a3	*aʔi...	*interrogación	Ese	dónde está?	aekwe			
-157	a3	*aʔi...	*interrogación	Ese	espera!	aʔeso			
-158	a3	*aʔi...	*interrogación	War	cuánto(s)	ačaha			
-159	a3	*aʔi...	*interrogación	War	donde	ačakwa			
-160	a3	*aʔi...	*interrogación	War	que es esto?	ahia			
-161	ac̣a	*ac̣a	*barbasco	ProTa	barbasco	ac̣a			
-162	ac̣a	*ac̣a	*barbasco	Tak	barbasco (bejuco)	aca			
-163	ac̣a	*ac̣a	*barbasco	Kav	barbasco	aca			
-164	ac̣a	*ac̣a	*barbasco	Kav	resina de paquió	aca-ka-madi			
-165	ac̣i	*ac̣i	*pampa	ProTa	pampa	ac̣i			
-166	ac̣i	*ac̣i	*pampa	Tak	pampa,pajonal	y-aci		Concept 'pajonal' taken from Armentia	
-167	ac̣i	*ac̣i	*pampa	Mar	grass	eáxi		cognate?	
-168	ac̣i	*ac̣i	*pampa	Rey	grassland	y-aci			
-169	ac̣i	*ac̣i	*pampa	Kav	pampa,paja	y-ači		Concept 'paja' taken from Armentia	
-170	ac̣u	*ac̣u	*teta	Prota	teta	ac̣u			
-171	ac̣u	*ac̣u	*teta	Tak	teta	acu			
-172	ac̣u	*ac̣u	*teta	Tak	tetilla	acu-pa			
-173	ac̣u	*ac̣u	*teta	Tak	testes	e-acu-du		Armentia	
-174	ac̣u	*ac̣u	*teta	Tak	leche	acu-na		palabra arcaica	
-175	ac̣u	*ac̣u	*teta	Rey	breast	aco			
-176	ac̣u	*ac̣u	*teta	Mar	breasts	atru		Heath	
-177	ac̣u	*ac̣u	*teta	Kav	leche,ubre	aco-na			
-178	ac̣u	*ac̣u	*teta	Kav	leche	aco		Armentia	
-179	adune	*adune	*chontaloro	ProTa	chontaloro	adune			
-180	adune	*adune	*chontaloro	Tak	chontaloro (palmera)	adune			
-181	adune	*adune	*chontaloro	Kav	chontaloro	adone			
-182	akwi	*(a)kwi	*árbol	ProTa	árbol	(a)kwi		see also *kwi,*kwati	
-183	akwi	*(a)kwi	*árbol	Tak	árbol,palo	aki			
-184	akwi	*(a)kwi	*árbol	Tak	espina	akiřa	*akwi+ija		
-185	akwi	*(a)kwi	*árbol	Tak	suchi (pez)	akiřai	*akwi+ija+ki		
-186	akwi	*(a)kwi	*árbol	Tak	manzana silvestre (árbol)	akiřu			
-187	akwi	*(a)kwi	*árbol	Tak	gavetillo (árbol)	ki-pabi			1
-188	akwi	*(a)kwi	*árbol	Tak	árbol de cacao	kwase eki			1
-189	akwi	*(a)kwi	*árbol	Rey	tree	akwi			
-190	akwi	*(a)kwi	*árbol	Mar	leaf	ekená		Heath	
-191	akwi	*(a)kwi	*árbol	Mar	tree	áki		Heath	
-192	akwi	*(a)kwi	*árbol	Aro	árbol,palo	acui			
-193	akwi	*(a)kwi	*árbol	Aro	espina	acuisa			
-194	akwi	*(a)kwi	*árbol	Mab	tree	akwi			
-195	akwi	*(a)kwi	*árbol	Kav	árbol,palo	akwi			
-196	akwi	*(a)kwi	*árbol	Kav	espina	akwiha	*akwi+ija		
-197	akwi	*(a)kwi	*árbol	Kav	bi (árbol y fruta)	akwiho			
-198	akwi	*(a)kwi	*árbol	Kav	clase de árbol	kwi-nawi			
-199	akwi	*(a)kwi	*árbol	Kav	rama de yuca	kwawe ekwi			
-200	akwi	*(a)kwi	*árbol	Ese	árbol,palo	akwi			
-201	akwi	*(a)kwi	*árbol	Ese	espina	akwiša	*akwi+ija		
-202	akwi	*(a)kwi	*árbol	Ese	bagre (pez)	akwi-šaxi	*akwi+ija+ki		
-203	akwi	*(a)kwi	*árbol	Ese	naranjo	akwi-esiye			
-204	akwi	*(a)kwi	*árbol	Ese	garrotear	akwi-hea-	*akwi+sa-?		
-205	akwi	*(a)kwi	*árbol	Ese	callapo	akwí-hoheyo			
-206	akwi	*(a)kwi	*árbol	Ese	coquino	akwi-xaxa-tewe			
-207	akwi	*(a)kwi	*árbol	Ese	quemaquema	akwi-makwa			
-208	akwi	*(a)kwi	*árbol	Ese	gaveta	akwi-pexa			
-209	akwi	*(a)kwi	*árbol	War	árbol,palanca	akwi			
-210	akwi	*(a)kwi	*árbol	Ara	leaf	akui		Armentia	
-211	akwi	*(a)kwi	*árbol	Ara	spine	akuiša			
-212	ama	*-(a)ma	*negative suffix	ProTa	negative suffix	-(a)ma			
-213	ama	*-(a)ma	*negative suffix	Tak	negative suffix	-(a)ma			
-214	ama	*-(a)ma	*negative suffix	Kav	negative suffix	-(a)ma			
-215	ama	*-(a)ma	*negative suffix	Ese	negative suffix	-(a)ma			
-216	amac̣a	*amac̣a	*motacucillo	ProTa	motacucillo	amac̣a			
-217	amac̣a	*amac̣a	*motacucillo	Tak	motacucillo	amaca			
-218	amac̣a	*amac̣a	*motacucillo	Kav	motacucillo	amaca			
-219	ami	*ami	*sangre	ProTa	sangre	ami			
-220	ami	*ami	*sangre	Tak	sangre	ami			
-221	ami	*ami	*sangre	Tak	hemorragia,flujo	ami-pa			
-222	ami	*ami	*sangre	Tak	disentería	ami-dene			
-223	ami	*ami	*sangre	Tak	salir sangre	ami-kwina		Armentia	
-224	ami	*ami	*sangre	Tak	acusarse	ami-panati		Armentia	
-225	ami	*ami	*sangre	Rey	blood	ami			
-226	ami	*ami	*sangre	Mar	blood	ami		Armentia	
-227	ami	*ami	*sangre	Kav	sangre	ami			
-228	ami	*ami	*sangre	Kav	disentería	ami-boho			
-229	ami	*ami	*sangre	Kav	vena	ami-dihi			
-230	ami	*ami	*sangre	Kav	hemorragia	ami-horiya			
-231	ami	*ami	*sangre	Kav	ensangrentar	ami-ami-a		Armentia	
-232	ami	*ami	*sangre	Kav	exangüe,incruento	ami-ma		Armentia	
-233	ami	*ami	*sangre	Kav	hemorragio	ami-pusia		Armentia	
-234	ami	*ami	*sangre	Kav	desangrar	ami-tere			
-235	ana	*ana	*lengua	ProTa	lengua	ana			
-236	ana	*ana	*lengua	Kav	lengua	y-ana			
-237	ana	*ana	*lengua	Kav	lengua mala	ana mada-da			
-238	ana	*ana	*lengua	Rey	tongue	y-ana			
-239	ana	*ana	*lengua	Mar	tongue	éana		Heath	
-240	ana	*ana	*lengua	Sap	lingua	eana			
-241	ana	*ana	*lengua	Kav	lengua,ley,orden,costumbre,idioma	y-ana			
-242	ana	*ana	*lengua	Kav	obedecer,complir,hacer caso	y-ana-a-			
-243	ana	*ana	*lengua	Kav	palador	y-ana-baka			
-244	ana	*ana	*lengua	Kav	zonzo,opa,mudo	ana-ma			
-245	ana	*ana	*lengua	Kav	mentira,falso,de balde	y-ana-kana			
-246	ana	*ana	*lengua	Kav	regalar	y-ana-kana-tia-ya-			
-247	ana	*ana	*lengua	Kav	punto de lengua	y-ana-wito			
-248	ana	*ana	*lengua	Kav	lengua chuta	y-ana-tobo			
-249	ana	*ana	*lengua	Ese	tongue	eyana			
-250	ana	*ana	*lengua	War	lengua	y-ana ~ e-ana			
-251	ana	*ana	*lengua	Tia	tongue	yana		Fast	
-252	ana	*ana	*lengua	Ara	Zunge	eána		Nordenskiöld	
-253	anani	*anani	*palo santo	ProTa	palo santo	anani			
-254	anani	*anani	*palo santo	Tak	palo santo (árbol)	anani			
-255	anani	*anani	*palo santo	Kav	palo santo,hormiga de palo santo	anani			
-256	anani	*anani	*palo santo	Ese	palo santo (y hormiga)	biñani		*bira+anani?	
-257	anu	*anu	*mujer	ProTa	mujer	anu			
-258	anu	*anu	*mujer	Tak	mujer vieja	anu			
-259	anu	*anu	*mujer	Rey	woman	ano			
-260	anu	*anu	*mujer	Mar	woman	ánu		Heath and Nordenskiöld	
-261	anu	*anu	*mujer	Sap	woman	ánu			
-262	anu	*anu	*mujer	Kav	abuela	ano			
-263	anu	*anu	*mujer	Ese	abuela,suegra	ano			
-264	anu	*anu	*mujer	Čam	old woman	áno			
-265	anuʔai	*anuʔai	*gualusa	ProTa	gualusa	anuʔai			
-266	anuʔai	*anuʔai	*gualusa	Tak	gualusa	anuʔai			
-267	anuʔai	*anuʔai	*gualusa	Kav	gualusa	anoʔai			
-268	apu	*apu	*obscuro	ProTa	obscuro	apu			
-269	apu	*apu	*obscuro	Tak	obscurar	apu-			
-270	apu	*apu	*obscuro	Tak	obscuro	apu-da			
-271	apu	*apu	*obscuro	Tak	de noche,en la noche	apu-da-su			
-272	apu	*apu	*obscuro	Tak	de mañana	apu-da-ya			
-273	apu	*apu	*obscuro	Tak	de madrugada	apu-apu			
-274	apu	*apu	*obscuro	Rey	night	apo-me			
-275	apu	*apu	*obscuro	Mar	night	apumé		Heath	
-276	apu	*apu	*obscuro	Sap	oscuro	appume			
-277	apu	*apu	*obscuro	Kav	nublado,obscuro,madrugada	apo-apo		concepts 'obscuro,madrugada' taken from Armentia	
-278	apu	*apu	*obscuro	Kav	de mañana	apo-da-hodya			
-279	apu	*apu	*obscuro	Kav	obscuro,de noche	apo-da-ke			
-280	apu	*apu	*obscuro	Kav	anochecer,oscurecer	apo-			
-281	apu	*apu	*obscuro	Kav	sombra	apo-taho			
-282	apu	*apu	*obscuro	Kav	perder,desaparecer	apo-ta-			
-283	apu	*apu	*obscuro	Kav	perder su color	e-apo-tato apo-deda-			
-284	apu	*apu	*obscuro	Kav	eclipse del sol	e-heti-apo-ta			
-285	apu	*apu	*obscuro	Kav	entenebrear	apuna		Armentia	
-286	apu	*apu	*obscuro	Kav	descolorar	apu-paisa		Armentia	
-287	apu	*apu	*obscuro	Kav	anublar	k-apu-ti		Armentia	
-288	apu	*apu	*obscuro	Kav	obscuro	k-apu-ta		Armentia	
-289	apu	*apu	*obscuro	Kav	encapotar	k-apu-tahu		Armentia	
-290	apu	*apu	*obscuro	Kav	oscurecer	e-apu-ta		Armentia	
-291	apu	*apu	*obscuro	Kav	nube	pube		Armentia	1
-292	apu	*apu	*obscuro	Kav	asombro	puenrurusisama		Armentia	1
-293	apu	*apu	*obscuro	Kav	lobreguez,tinieblas	apu-da		Armentia	1
-294	apu	*apu	*obscuro	Kav	oscuro	kea-ʔapo			
+ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	Value	Morph_Infor	Note	Uncertainty
+1	1	a1	*a-	*hacer	ProTa	hacer	a-			
+2	1	a1	*a-	*hacer	Tak	hacer	a-			
+3	1	a1	*a-	*hacer	Tak	quiero hacer	a-ha		Armentia	
+4	1	a1	*a-	*hacer	Was	make!	age			
+5	1	a1	*a-	*hacer	Kav	decir,hacer,pegar,atacar,picar	a-			
+6	1	a1	*a-	*hacer	Kav	lo que hace	a-ya-ke,a-ye-ke		a-ya-ke taken from Armentia	
+7	1	a1	*a-	*hacer	Kav	venir a hacer	a-na-			
+8	1	a1	*a-	*hacer	Kav	venir a hacer	a-na-ti			
+9	1	a1	*a-	*hacer	Kav	aconsejar,enseñar	a-na-ti-a-			
+10	1	a1	*a-	*hacer	Kav	no está hecho,si no	a-ma-ni			
+11	1	a1	*a-	*hacer	Ese	decir,hacer	a-ka-			
+12	1	a1	*abu-	*cargar	ProTa	cargar	abu-	*a1+bu3	see also *bu3,*bute	
+13	1	a1	*abu-	*cargar	Tak	cargar	abu-			
+14	1	a1	*abu-	*cargar	Tak	topar,chocar una cosa con otra	h-abu-ti		Armentia	
+15	1	a1	*abu-	*cargar	Tak	cárgate	h-abu-ti-ke		Armentia	
+16	1	a1	*abu-	*cargar	Kav	cargar	a-bo-ti			
+17	1	a1	*abu-	*cargar	Kav	jase (haz)	abo-ki			
+18	1	a1	*abu-	*cargar	Kav	cargar,escobar,tocar	abu		Armentia	
+19	1	a1	*abu-	*cargar	Ese	cargar	bao-			
+20	1	a1	*abu-	*cargar	War	cargar	baʔo-		with metathesis: *bu+a- or not cognate?	
+21	1	a1	*amaka	*muela	ProTa	muela	amaka	*a1+maka2?	see also *maka2	
+22	1	a1	*amaka	*muela	Tak	muela	y-amaha			
+23	1	a1	*amaka	*muela	Kav	quijada,cachete,mandíbula	y-amaka			
+24	1	a1	*amaka	*muela	Kav	desquijarrar	amáka-kwayo		Armentia	
+25	1	a1	*amaka	*muela	Ese	muela	e-amaxa			
+26	1	a1	*amaka	*muela	War	muela	eʔamaha			
+27	1	a1	*amere	*persuadir	ProTa	persuadir	amere	*a1+mere	see also *me2,*mere,*bamere	
+28	1	a1	*amere	*persuadir	Tak	mandar hacer	ame		Armentia	
+29	1	a1	*amere	*persuadir	Kav	persuadir	amere		Armentia	
+30	1	a1	*ani	*quedarse,*tener,*estar	ProTa	quedarse,tener,estar	ani	*a1+ni	see also *ni	
+31	1	a1	*ani	*quedarse,*tener,*estar	Tak	quedarse,estar,tener	ani-		concepts 'estar,tener' taken from Armentia	
+32	1	a1	*ani	*quedarse,*tener,*estar	Tak	apartar,retirar,mudar de lugar	ani-dera-		concept 'mudar de lugar' taken from Armentia	
+33	1	a1	*ani	*quedarse,*tener,*estar	Tak	andar a quedarse	ani-seheu-			
+34	1	a1	*ani	*quedarse,*tener,*estar	Tak	vivienda,lugar,parte ó lugar	ani-hude		concept 'parte ó lugar' taken from Armentia	
+35	1	a1	*ani	*quedarse,*tener,*estar	Tak	sentar	ani-ute-			
+36	1	a1	*ani	*quedarse,*tener,*estar	Tak	asiento	e-ani-hi		Armentia	
+37	1	a1	*ani	*quedarse,*tener,*estar	Tak	lindo,bonito,hermoso	ani-a			1
+38	1	a1	*ani	*quedarse,*tener,*estar	Tak	muy lindo	ani-a-ani-a			1
+39	1	a1	*ani	*quedarse,*tener,*estar	Tak	lindo, hermoso	ani-a-čidi			1
+40	1	a1	*ani	*quedarse,*tener,*estar	Rey	seated	ani-po-he			1
+41	1	a1	*ani	*quedarse,*tener,*estar	Mar	siéntate	ani-buteje		Cardús	
+42	1	a1	*ani	*quedarse,*tener,*estar	Was	sits	anibuteni			
+43	1	a1	*ani	*quedarse,*tener,*estar	Aro	il y a	eani			
+44	1	a1	*ani	*quedarse,*tener,*estar	Kav	tener,hay,vivir,sentir,quedar	ani-			
+45	1	a1	*ani	*quedarse,*tener,*estar	Kav	vive bien serio	ani-moida			
+46	1	a1	*ani	*quedarse,*tener,*estar	Kav	sentar,aterrizar	ani-bote			
+47	1	a1	*ani	*quedarse,*tener,*estar	Kav	pascana,campamento	e-ani-kware			
+48	1	a1	*ani	*quedarse,*tener,*estar	Kav	condición,complexión,zurdo	ani		Armentia	
+49	1	a1	*ani	*quedarse,*tener,*estar	Kav	errante	ani-baekwa		Armentia (:ani+baekwa 'no sabe')	
+50	1	a1	*ani	*quedarse,*tener,*estar	Kav	guarida	e-ani-ki		Armentia	
+51	1	a1	*ani	*quedarse,*tener,*estar	Kav	matriz	e-ani-ki-ki		Armentia	
+52	1	a1	*ani	*quedarse,*tener,*estar	Ese	sentar	ani-oke-			
+53	1	a1	*ani	*quedarse,*tener,*estar	Ese	estar	ani-			
+54	1	a1	*ani	*quedarse,*tener,*estar	Ese	subir,levantar	ani-sowa-ki-			
+55	1	a1	*ani	*quedarse,*tener,*estar	Ese	de paseo	ani-kwa			
+56	1	a1	*ani	*quedarse,*tener,*estar	War	sentarse	ani-			
+57	1	a1	*ani	*quedarse,*tener,*estar	War	sentarse	ani-ke-			
+58	1	a1	*ani	*quedarse,*tener,*estar	War	sentado	ani-hi			
+59	1	a1	*ani	*quedarse,*tener,*estar	War	vivir,estar	ani-			
+60	1	a1	*ape	*terminar,*acabar	ProTa	terminar,acabar	ape	*a1+pe	see also *pe	
+61	1	a1	*ape	*terminar,*acabar	Tak	terminar,acabar	ape-			
+62	1	a1	*ape	*terminar,*acabar	Tak	estoy terminando	y-ape-sa			
+63	1	a1	*ape	*terminar,*acabar	Tak	acabado	ape-hihi		Armentia	
+64	1	a1	*ape	*terminar,*acabar	Tak	acabando,cuando se acaba	ape-ta-su		Armentia	
+65	1	a1	*ape	*terminar,*acabar	Kav	contradicción	ape-		Armentia	
+66	1	a1	*ape	*terminar,*acabar	Kav	contradictor	ape-a-ki		Armentia	
+67	1	a1	*ape	*terminar,*acabar	Kav	Contradecir	ape-ʔa		Armentia	
+68	1	a1	*ase	*andar	ProTa	andar	ase	*a1+se	see also *se	
+69	1	a1	*ase	*andar	Tak	andar	ase-			
+70	1	a1	*ase	*andar	Tak	ir a cazar	ase-ase-ti-			
+71	1	a1	*ase	*andar	Tak	caminando,paseando	e-ase-neti		Armentia	
+72	1	a1	*ase	*andar	Tak	están andando	e-ase-tani		Armentia	
+73	1	a1	*ase	*andar	Rey	walk	ade-neti			
+74	1	a1	*ase	*andar	Mar	walk	aθe			
+75	1	a1	*ase	*andar	Kav	andar	ahe-			
+76	1	a1	*ase	*andar	Kav	cojo	ahe-hida-ma			
+77	1	a1	*ase	*andar	Kav	casi hacer	ahe-ri-			
+78	1	a1	*ase	*andar	Ese	errar	aho-		cognate?	
+79	2	a2	*a	*transitivizing suffix	ProTa	transitivizing suffix	a		equal or related to *a1	
+80	2	a2	*a	*transitivizing suffix	Tak	transitivizing suffix	-a(-)			
+81	2	a2	*a	*transitivizing suffix	Rey	transitivizing suffix	-a(-)			
+82	2	a2	*a	*transitivizing suffix	Kav	transitivizing suffix	-a(-)			
+83	2	a2	*a	*transitivizing suffix	Ese	transitivizing suffix	-a(-)			
+84	3	a2	*a	*transitivizing suffix	War	transitivizing suffix	-a(-)			
+85	3	a3	*a	*simple interrogante	ProTa	simple interrogante	a			
+86	3	a3	*a	*simple interrogante	Tak	simple interrogante	a		Armentia	
+87	3	a3	*a	*simple interrogante	Tak	tal vez,así será,casi lo mismo que a	awa		Armentia	
+88	3	a3	*a	*simple interrogante	Tak	será así,así será	awaʔe		Armentia	
+89	3	a3	*a	*simple interrogante	Ese	la seña de una interrogación	aʔa			
+90	3	a3	*aʔi	*qué?	ProTa	qué?	aʔi			
+91	3	a3	*aʔi	*qué?	Tak	lo que,qué?,qui cosa?,algun	ai		concept 'algun' taken from Armentia	
+92	3	a3	*aʔi	*qué?	Tak	qué?	ai ni da		Armentia	
+93	3	a3	*aʔi	*qué?	Tak	qué será?	ai hia			
+94	3	a3	*aʔi	*qué?	Kav	qué?,como?	ai ~ aʔi			
+95	3	a3	*aʔi	*qué?	Ese	qué?,quién?,nada!	ae			
+96	3	a3	*aʔikʷana	*cosa	ProTa	cosa	aʔikʷana	*a3+ʔi+kʷana		
+97	3	a3	*aʔikʷana	*cosa	Tak	cosas	aikwana			
+98	3	a3	*aʔikʷana	*cosa	Kav	cualquier cosa	aikwana			
+99	3	a3	*aʔikʷana	*cosa	Ese	cosa	akiana			
+100	3	a3	*aʔira	*quién	ProTa	quién	aʔira	*a3+ʔi+ra		
+101	3	a3	*aʔira	*quién	Tak	quién (trans.)	aiya			
+102	3	a3	*aʔira	*quién	Kav	quién	aira		Armentia	
+103	3	a3	*aʔira	*quién	Ese	quién	aʔya			
+104	3	a3	*aʔira	*quién	War	qué?,quién?	aya			
+105	3	a3	*aʔin{e/i}ke	*con qué?	ProTa	con qué?	aʔin{e/i}ke	*a3+ʔi+n{e/i}ke		
+106	3	a3	*aʔin{e/i}ke	*con qué?	Tak	con qué?	ainehe		Armentia	
+107	3	a3	*aʔin{e/i}ke	*con qué?	Ese	con quién?	ánixe			
+108	3	a3	*aʔipuki	*para qué?	ProTa	para qué?	aʔipuki	*a3+ʔi+pu+ki		
+109	3	a3	*aʔipuki	*para qué?	Tak	para qué?	aipuhi		Armentia	
+110	3	a3	*aʔipuki	*para qué?	Ese	por qué?	apioxi			
+111	3	a3	*aʔisa	*de quién	ProTa	de quién	aʔisa	*a3+ʔi+sa		
+112	3	a3	*aʔisa	*de quién	Tak	de quién	aisa			
+113	3	a3	*aʔisa	*de quién	Kav	cuyo	aiha-kie		Armentia	
+114	3	a3	*aʔisa	*de quién	Ese	de quién?	ahea			
+115	3	a3	*aʔize	*quién	ProTa	quién	aʔize	*a3+ʔi+ze		
+116	3	a3	*aʔize	*quién	Tak	quién	aidhe			
+117	3	a3	*aʔize	*quién	Tak	quién?	aidhe ni da			
+118	3	a3	*aʔize	*quién	Tak	quién será?	aidhe hia			
+119	3	a3	*aʔize	*quién	Tak	quienes	aidhe kwana			
+120	3	a3	*aʔize	*quién	Tak	algo	aidhe-bia-me		Armentia	
+121	3	a3	*aʔize	*quién	Tak	con quién?	aidhe-ni-nehe		Armentia	
+122	3	a3	*aʔize	*quién	Tak	de quién?	aidhe-ni-su		Armentia	
+123	3	a3	*aʔize	*quién	Mar	who?	hayse			
+124	3	a3	*aʔize	*quién	Ese	cual	ače			
+125	3	a3	*aʔize	*quién	Ese	de qué tamaño?	ače-kemo			
+126	3	a3	*aʔize	*quién	Ese	cuantos días?	áče-kawiwiso			
+127	3	a3	*aʔize	*quién	Ese	cuantos?	ače-wiso			
+128	3	a3	*aʔize	*quién	Ese	donde está?	ače-ho			
+129	3	a3	*aʔize	*quién	Ese	de donde?	ače-xe			
+130	3	a3	*aʔize	*quién	Ese	cuándo?	ače-šono			
+131	3	a3	*aʔize	*quién	War	cuál?	ače			
+132	3	a3	*aʔize	*quién	War	cuándo	ači-sono			
+133	3	a3	*aʔize	*quién	War	cuánto(s)	ači-bisó			
+134	3	a3	*aʔize	*quién	War	por donde	ače-he			
+135	3	a3	*aʔi...	*interrogación	ProTa	interrogación	aʔi...			
+136	3	a3	*aʔi...	*interrogación	Tak	cosas	aikisa-kwana			
+137	3	a3	*aʔi...	*interrogación	Tak	no	aima		Armentia	
+138	3	a3	*aʔi...	*interrogación	Tak	no,no hay	aimawe			
+139	3	a3	*aʔi...	*interrogación	Aro	avec qui?	aydeni-ñae			
+140	3	a3	*aʔi...	*interrogación	Kav	donde	aiho	*aʔi+su		
+141	3	a3	*aʔi...	*interrogación	Kav	como se dice	aipo			
+142	3	a3	*aʔi...	*interrogación	Kav	qué es esto	airike			
+143	3	a3	*aʔi...	*interrogación	Kav	qué es esto	airiya			
+144	3	a3	*aʔi...	*interrogación	Kav	qué es eso	aitome			
+145	3	a3	*aʔi...	*interrogación	Kav	que	aitibu		Armentia	
+146	3	a3	*aʔi...	*interrogación	Kav	no hay	aiha-ma			1
+147	3	a3	*aʔi...	*interrogación	Kav	impossible	aiha-ma-taʔa			1
+148	3	a3	*aʔi...	*interrogación	Kav	así lo hace	aikiraaya			1
+149	3	a3	*aʔi...	*interrogación	Kav	para hacer	aikiraišo			1
+150	3	a3	*aʔi...	*interrogación	Kav	abundancia	aida		Armentia	1
+151	3	a3	*aʔi...	*interrogación	Kav	abundar	aidahu		Armentia	1
+152	3	a3	*aʔi...	*interrogación	Ese	a donde?	ačakwa		*aʔiza...?	
+153	3	a3	*aʔi...	*interrogación	Ese	cómo?	ačaxa			
+154	3	a3	*aʔi...	*interrogación	Ese	cómo se hace?	ačaxa akawi			
+155	3	a3	*aʔi...	*interrogación	Ese	cómo está Usted?	ačaxa mia			
+156	3	a3	*aʔi...	*interrogación	Ese	dónde está?	aekwe			
+157	3	a3	*aʔi...	*interrogación	Ese	espera!	aʔeso			
+158	3	a3	*aʔi...	*interrogación	War	cuánto(s)	ačaha			
+159	3	a3	*aʔi...	*interrogación	War	donde	ačakwa			
+160	3	a3	*aʔi...	*interrogación	War	que es esto?	ahia			
+161	4	ac̣a	*ac̣a	*barbasco	ProTa	barbasco	ac̣a			
+162	4	ac̣a	*ac̣a	*barbasco	Tak	barbasco (bejuco)	aca			
+163	4	ac̣a	*ac̣a	*barbasco	Kav	barbasco	aca			
+164	4	ac̣a	*ac̣a	*barbasco	Kav	resina de paquió	aca-ka-madi			
+165	5	ac̣i	*ac̣i	*pampa	ProTa	pampa	ac̣i			
+166	5	ac̣i	*ac̣i	*pampa	Tak	pampa,pajonal	y-aci		Concept 'pajonal' taken from Armentia	
+167	5	ac̣i	*ac̣i	*pampa	Mar	grass	eáxi		cognate?	
+168	5	ac̣i	*ac̣i	*pampa	Rey	grassland	y-aci			
+169	5	ac̣i	*ac̣i	*pampa	Kav	pampa,paja	y-ači		Concept 'paja' taken from Armentia	
+170	6	ac̣u	*ac̣u	*teta	Prota	teta	ac̣u			
+171	6	ac̣u	*ac̣u	*teta	Tak	teta	acu			
+172	6	ac̣u	*ac̣u	*teta	Tak	tetilla	acu-pa			
+173	6	ac̣u	*ac̣u	*teta	Tak	testes	e-acu-du		Armentia	
+174	6	ac̣u	*ac̣u	*teta	Tak	leche	acu-na		palabra arcaica	
+175	6	ac̣u	*ac̣u	*teta	Rey	breast	aco			
+176	6	ac̣u	*ac̣u	*teta	Mar	breasts	atru		Heath	
+177	6	ac̣u	*ac̣u	*teta	Kav	leche,ubre	aco-na			
+178	6	ac̣u	*ac̣u	*teta	Kav	leche	aco		Armentia	
+179	7	adune	*adune	*chontaloro	ProTa	chontaloro	adune			
+180	7	adune	*adune	*chontaloro	Tak	chontaloro (palmera)	adune			
+181	7	adune	*adune	*chontaloro	Kav	chontaloro	adone			
+182	8	akwi	*(a)kwi	*árbol	ProTa	árbol	(a)kwi		see also *kwi,*kwati	
+183	8	akwi	*(a)kwi	*árbol	Tak	árbol,palo	aki			
+184	8	akwi	*(a)kwi	*árbol	Tak	espina	akiřa	*akwi+ija		
+185	8	akwi	*(a)kwi	*árbol	Tak	suchi (pez)	akiřai	*akwi+ija+ki		
+186	8	akwi	*(a)kwi	*árbol	Tak	manzana silvestre (árbol)	akiřu			
+187	8	akwi	*(a)kwi	*árbol	Tak	gavetillo (árbol)	ki-pabi			1
+188	8	akwi	*(a)kwi	*árbol	Tak	árbol de cacao	kwase eki			1
+189	8	akwi	*(a)kwi	*árbol	Rey	tree	akwi			
+190	8	akwi	*(a)kwi	*árbol	Mar	leaf	ekená		Heath	
+191	8	akwi	*(a)kwi	*árbol	Mar	tree	áki		Heath	
+192	8	akwi	*(a)kwi	*árbol	Aro	árbol,palo	acui			
+193	8	akwi	*(a)kwi	*árbol	Aro	espina	acuisa			
+194	8	akwi	*(a)kwi	*árbol	Mab	tree	akwi			
+195	8	akwi	*(a)kwi	*árbol	Kav	árbol,palo	akwi			
+196	8	akwi	*(a)kwi	*árbol	Kav	espina	akwiha	*akwi+ija		
+197	8	akwi	*(a)kwi	*árbol	Kav	bi (árbol y fruta)	akwiho			
+198	8	akwi	*(a)kwi	*árbol	Kav	clase de árbol	kwi-nawi			
+199	8	akwi	*(a)kwi	*árbol	Kav	rama de yuca	kwawe ekwi			
+200	8	akwi	*(a)kwi	*árbol	Ese	árbol,palo	akwi			
+201	8	akwi	*(a)kwi	*árbol	Ese	espina	akwiša	*akwi+ija		
+202	8	akwi	*(a)kwi	*árbol	Ese	bagre (pez)	akwi-šaxi	*akwi+ija+ki		
+203	8	akwi	*(a)kwi	*árbol	Ese	naranjo	akwi-esiye			
+204	8	akwi	*(a)kwi	*árbol	Ese	garrotear	akwi-hea-	*akwi+sa-?		
+205	8	akwi	*(a)kwi	*árbol	Ese	callapo	akwí-hoheyo			
+206	8	akwi	*(a)kwi	*árbol	Ese	coquino	akwi-xaxa-tewe			
+207	8	akwi	*(a)kwi	*árbol	Ese	quemaquema	akwi-makwa			
+208	8	akwi	*(a)kwi	*árbol	Ese	gaveta	akwi-pexa			
+209	8	akwi	*(a)kwi	*árbol	War	árbol,palanca	akwi			
+210	8	akwi	*(a)kwi	*árbol	Ara	leaf	akui		Armentia	
+211	8	akwi	*(a)kwi	*árbol	Ara	spine	akuiša			
+212	9	ama	*-(a)ma	*negative suffix	ProTa	negative suffix	-(a)ma			
+213	9	ama	*-(a)ma	*negative suffix	Tak	negative suffix	-(a)ma			
+214	9	ama	*-(a)ma	*negative suffix	Kav	negative suffix	-(a)ma			
+215	9	ama	*-(a)ma	*negative suffix	Ese	negative suffix	-(a)ma			
+216	10	amac̣a	*amac̣a	*motacucillo	ProTa	motacucillo	amac̣a			
+217	10	amac̣a	*amac̣a	*motacucillo	Tak	motacucillo	amaca			
+218	10	amac̣a	*amac̣a	*motacucillo	Kav	motacucillo	amaca			
+219	11	ami	*ami	*sangre	ProTa	sangre	ami			
+220	11	ami	*ami	*sangre	Tak	sangre	ami			
+221	11	ami	*ami	*sangre	Tak	hemorragia,flujo	ami-pa			
+222	11	ami	*ami	*sangre	Tak	disentería	ami-dene			
+223	11	ami	*ami	*sangre	Tak	salir sangre	ami-kwina		Armentia	
+224	11	ami	*ami	*sangre	Tak	acusarse	ami-panati		Armentia	
+225	11	ami	*ami	*sangre	Rey	blood	ami			
+226	11	ami	*ami	*sangre	Mar	blood	ami		Armentia	
+227	11	ami	*ami	*sangre	Kav	sangre	ami			
+228	11	ami	*ami	*sangre	Kav	disentería	ami-boho			
+229	11	ami	*ami	*sangre	Kav	vena	ami-dihi			
+230	11	ami	*ami	*sangre	Kav	hemorragia	ami-horiya			
+231	11	ami	*ami	*sangre	Kav	ensangrentar	ami-ami-a		Armentia	
+232	11	ami	*ami	*sangre	Kav	exangüe,incruento	ami-ma		Armentia	
+233	11	ami	*ami	*sangre	Kav	hemorragio	ami-pusia		Armentia	
+234	11	ami	*ami	*sangre	Kav	desangrar	ami-tere			
+235	12	ana	*ana	*lengua	ProTa	lengua	ana			
+236	12	ana	*ana	*lengua	Kav	lengua	y-ana			
+237	12	ana	*ana	*lengua	Kav	lengua mala	ana mada-da			
+238	12	ana	*ana	*lengua	Rey	tongue	y-ana			
+239	12	ana	*ana	*lengua	Mar	tongue	éana		Heath	
+240	12	ana	*ana	*lengua	Sap	lingua	eana			
+241	12	ana	*ana	*lengua	Kav	lengua,ley,orden,costumbre,idioma	y-ana			
+242	12	ana	*ana	*lengua	Kav	obedecer,complir,hacer caso	y-ana-a-			
+243	12	ana	*ana	*lengua	Kav	palador	y-ana-baka			
+244	12	ana	*ana	*lengua	Kav	zonzo,opa,mudo	ana-ma			
+245	12	ana	*ana	*lengua	Kav	mentira,falso,de balde	y-ana-kana			
+246	12	ana	*ana	*lengua	Kav	regalar	y-ana-kana-tia-ya-			
+247	12	ana	*ana	*lengua	Kav	punto de lengua	y-ana-wito			
+248	12	ana	*ana	*lengua	Kav	lengua chuta	y-ana-tobo			
+249	12	ana	*ana	*lengua	Ese	tongue	eyana			
+250	12	ana	*ana	*lengua	War	lengua	y-ana ~ e-ana			
+251	12	ana	*ana	*lengua	Tia	tongue	yana		Fast	
+252	12	ana	*ana	*lengua	Ara	Zunge	eána		Nordenskiöld	
+253	13	anani	*anani	*palo santo	ProTa	palo santo	anani			
+254	13	anani	*anani	*palo santo	Tak	palo santo (árbol)	anani			
+255	13	anani	*anani	*palo santo	Kav	palo santo,hormiga de palo santo	anani			
+256	13	anani	*anani	*palo santo	Ese	palo santo (y hormiga)	biñani		*bira+anani?	
+257	14	anu	*anu	*mujer	ProTa	mujer	anu			
+258	14	anu	*anu	*mujer	Tak	mujer vieja	anu			
+259	14	anu	*anu	*mujer	Rey	woman	ano			
+260	14	anu	*anu	*mujer	Mar	woman	ánu		Heath and Nordenskiöld	
+261	14	anu	*anu	*mujer	Sap	woman	ánu			
+262	14	anu	*anu	*mujer	Kav	abuela	ano			
+263	14	anu	*anu	*mujer	Ese	abuela,suegra	ano			
+264	14	anu	*anu	*mujer	Čam	old woman	áno			
+265	15	anuʔai	*anuʔai	*gualusa	ProTa	gualusa	anuʔai			
+266	15	anuʔai	*anuʔai	*gualusa	Tak	gualusa	anuʔai			
+267	15	anuʔai	*anuʔai	*gualusa	Kav	gualusa	anoʔai			
+268	16	apu	*apu	*obscuro	ProTa	obscuro	apu			
+269	16	apu	*apu	*obscuro	Tak	obscurar	apu-			
+270	16	apu	*apu	*obscuro	Tak	obscuro	apu-da			
+271	16	apu	*apu	*obscuro	Tak	de noche,en la noche	apu-da-su			
+272	16	apu	*apu	*obscuro	Tak	de mañana	apu-da-ya			
+273	16	apu	*apu	*obscuro	Tak	de madrugada	apu-apu			
+274	16	apu	*apu	*obscuro	Rey	night	apo-me			
+275	16	apu	*apu	*obscuro	Mar	night	apumé		Heath	
+276	16	apu	*apu	*obscuro	Sap	oscuro	appume			
+277	16	apu	*apu	*obscuro	Kav	nublado,obscuro,madrugada	apo-apo		concepts 'obscuro,madrugada' taken from Armentia	
+278	16	apu	*apu	*obscuro	Kav	de mañana	apo-da-hodya			
+279	16	apu	*apu	*obscuro	Kav	obscuro,de noche	apo-da-ke			
+280	16	apu	*apu	*obscuro	Kav	anochecer,oscurecer	apo-			
+281	16	apu	*apu	*obscuro	Kav	sombra	apo-taho			
+282	16	apu	*apu	*obscuro	Kav	perder,desaparecer	apo-ta-			
+283	16	apu	*apu	*obscuro	Kav	perder su color	e-apo-tato apo-deda-			
+284	16	apu	*apu	*obscuro	Kav	eclipse del sol	e-heti-apo-ta			
+285	16	apu	*apu	*obscuro	Kav	entenebrear	apuna		Armentia	
+286	16	apu	*apu	*obscuro	Kav	descolorar	apu-paisa		Armentia	
+287	16	apu	*apu	*obscuro	Kav	anublar	k-apu-ti		Armentia	
+288	16	apu	*apu	*obscuro	Kav	obscuro	k-apu-ta		Armentia	
+289	16	apu	*apu	*obscuro	Kav	encapotar	k-apu-tahu		Armentia	
+290	16	apu	*apu	*obscuro	Kav	oscurecer	e-apu-ta		Armentia	
+291	16	apu	*apu	*obscuro	Kav	nube	pube		Armentia	1
+292	16	apu	*apu	*obscuro	Kav	asombro	puenrurusisama		Armentia	1
+293	16	apu	*apu	*obscuro	Kav	lobreguez,tinieblas	apu-da		Armentia	1
+294	16	apu	*apu	*obscuro	Ese	oscuro	kea-ʔapo			
+295	17	ari	*ari-	*crecer,agrandar	ProTa	crecer,agrandar	ari-			
+296	17	ari	*ari-	*crecer,agrandar	Tak	crecir,agrandar	ai-			
+297	17	ari	*ari-	*crecer,agrandar	Tak	grande	ai-da			
+298	17	ari	*ari-	*crecer,agrandar	Rey	large	ai-me			
+299	17	ari	*ari-	*crecer,agrandar	Mar	stort hus	-aymi in etaiaymi		Nordenskiöld	
+300	17	ari	*ari-	*crecer,agrandar	Mar	stort	haymi		Heath	
+301	17	ari	*ari-	*crecer,agrandar	Was	great	ai-			
+302	17	ari	*ari-	*crecer,agrandar	Kav	crecer,agrandar	ari-			
+303	17	ari	*ari-	*crecer,agrandar	Kav	grande,grueso	ari-da			
+304	17	ari	*ari-	*crecer,agrandar	Kav	delgado	ari-da-ma			
+305	17	ari	*ari-	*crecer,agrandar	Ese	sucha (pez)	babaʔ-ai			
+306	17	ari	*ari-	*crecer,agrandar	War	grande	ai-ai			
+307	18	ařa	*ařa-	*hombro	ProTa	hombro	ařa-			
+308	18	ařa	*ařa-	*hombro	Tak	hombro	y-ara-pa			
+309	18	ařa	*ařa-	*hombro	Rey	shoulder	y-ara			
+310	18	ařa	*ařa-	*hombro	Kav	hombro	y-ara-kaka			
+311	18	ařa	*ařa-	*hombro	Kav	paleta	y-ara			
+312	18	ařa	*ařa-	*hombro	Kav	urina (venado)	y-ara-pasa			
+313	18	ařa	*ařa-	*hombro	Kav	despaldillar	tim-ara-ke		Armentia	
+314	19	asari	*asari	*grillo	ProTa	grillo	asari			
+315	19	asari	*asari	*grillo	Tak	grillo	asai		Armentia	
+316	19	asari	*asari	*grillo	Kav	grillo	ahari			
+317	20	asi	*asi	*alacrán	ProTa	alacrán	asi			
+318	20	asi	*asi	*alacrán	Tak	alacrán	asi			
+319	20	asi	*asi	*alacrán	Kav	alacrán	ahi-pa			
+320	20	asi	*asi	*alacrán	Ese	alacrán	ahi			
+321	21	ata	*ata	*amigo	ProTa	amigo	ata			
+322	21	ata	*ata	*amigo	Tak	barrio,parcialidad	ata			
+323	21	ata	*ata	*amigo	Kav	amigo,pariente,vecino,paisano	ata			
+324	21	ata	*ata	*amigo	Kav	enemigo	ata-ama			
+325	21	ata	*ata	*amigo	Kav	alma,espíritu	y-ata-nana			
+326	21	ata	*ata	*amigo	Kav	desalmado	ata-nana-ma		Armentia	
+327	21	ata	*ata	*amigo	Kav	consanguíneo	ata-piisi		Armentia	
+328	22	atata	*atata	*abeja	ProTa	abeja	atata			
+329	22	atata	*atata	*abeja	Tak	barbón (abeja chica)	atata			
+330	22	atata	*atata	*abeja	Kav	clase de abeja	atata-waha			
+331	23	awa	*awa	*mundo	ProTa	mundo	awa		see also *uwa	
+332	23	awa	*awa	*mundo	Tak	tierra,mundo,suelo	y-awa			
+333	23	awa	*awa	*mundo	Tak	abajo	e-awa-ni		Armentia	
+334	23	awa	*awa	*mundo	Tak	llanura	e-awa-pamapa		Armentia	
+335	23	awa	*awa	*mundo	Kav	mundo,suelo,piso,terreno	y-awa			
+336	24	awada	*awada	*tapir	ProTa	tapir	awada			
+337	24	awada	*awada	*tapir	Tak	anta	awada			
+338	24	awada	*awada	*tapir	Rey	tapir	awandza			
+339	24	awada	*awada	*tapir	Mar	tapir	áhuánsha		Armentia	
+340	24	awada	*awada	*tapir	Kav	anta,tapir	awada			
+341	24	awada	*awada	*tapir	Kav	tapir foot (plant sp.)	awa-taka			
+342	25	awei	*awei	*marido	ProTa	marido	awei		see also *wane	
+343	25	awei	*awei	*marido	Tak	marido	y-awe			
+344	25	awei	*awei	*marido	Tak	cuñado (hermano de marido)	y-awe-sa due			
+345	25	awei	*awei	*marido	Tak	cuñada (hermana de marido)	y-awe-sa dudu			
+346	25	awei	*awei	*marido	Tak	suegra (madre de marido)	y-awe-sa kwara			
+347	25	awei	*awei	*marido	Tak	suegro (padre de marido)	y-awe-sa tata			
+348	25	awei	*awei	*marido	Tak	soltera	awe-mawe			
+349	25	awei	*awei	*marido	Tak	concuñada	awe-pai			
+350	25	awei	*awei	*marido	Tak	yerno	ebaképunasawe	*e-bakwa-e-puna-sa-awe		
+351	25	awei	*awei	*marido	Tak	casar (refiere a mujeres)	haweti	*ka-awe-ti-		
+352	25	awei	*awei	*marido	Tak	casamiento,bode	e-ave-ti-ani		Armentia	
+353	25	awei	*awei	*marido	Rey	husband	-yadhe			
+354	25	awei	*awei	*marido	Mar	my husband	kiave		Heath	
+355	25	awei	*awei	*marido	Kav	soltera	awe-ma			
+356	25	awei	*awei	*marido	Kav	viuda	e-awe-maho-ke			
+357	25	awei	*awei	*marido	Kav	enviudar	e-ave-mahu		Armentia	
+358	25	awei	*awei	*marido	Kav	cuñada	aveine		Armentia	
+359	25	awei	*awei	*marido	Kav	concuñado	y-awi-nake			
+360	25	awei	*awei	*marido	Kav	marido	y-awi-ke			
+361	25	awei	*awei	*marido	Kav	novio	y-awi-kehoya-ke			
+362	25	awei	*awei	*marido	Ese	macho,marido	ey-awe			
+363	25	awei	*awei	*marido	Ese	casada	y-awe-xi			
+364	25	awei	*awei	*marido	Ese	soltera	y-awe-má			
+365	25	awei	*awei	*marido	Ese	viuda	y-awe-mano			
+366	25	awei	*awei	*marido	Ese	casarse (la mujer)	xaweaki-	*ka-awe-a-ti-		
+367	25	awei	*awei	*marido	War	marido	y-awe,e-awe			
+368	25	awei	*awei	*marido	War	sin marido	awe-ma			
+369	25	awei	*awei	*marido	War	casar (mujer)	habiatimeʔe			
+370	25	awei	*awei	*marido	Tia	man	yawi		Fast	
+371	26	azi	*azi	*sucio	ProTa	sucio	azi			
+372	26	azi	*azi	*sucio	Tak	sucio	adhi-da			
+373	26	azi	*azi	*sucio	Tak	sucio	adi-adi		Armentia	
+374	26	azi	*azi	*sucio	Tak	tener asco	adi-ba		Armentia	
+375	26	azi	*azi	*sucio	Tak	feo	ači		cognate?	
+376	26	azi	*azi	*sucio	Kav	feo,sucio	asi-kani			
+377	26	azi	*azi	*sucio	Kav	sucio	asi-ka-osi-ke			
+378	26	azi	*azi	*sucio	Kav	limpio	asi-ka-da-ma			
+379	26	azi	*azi	*sucio	Kav	sucio	asi-ka-da			
+380	26	azi	*azi	*sucio	Kav	contaminación	asi-ka-tura		Armentia	
+381	26	azi	*azi	*sucio	Kav	depravación,embrutecer,escombro	ka-asi-ka-ti		Armentia	
+382	26	azi	*azi	*sucio	Kav	depravadamente	ka-asi-ka-ti-ceve		Armentia	
+383	27	ba1	*ba-	*mirar,ver	ProTa	mirar,ver	ba-			
+394	27	ba1	*ba-	*mirar,ver	Tak	mirar,ver	ba-			
+395	27	ba1	*ba-	*mirar,ver	Tak	huella	e-ba-ki			
+396	27	ba1	*ba-	*mirar,ver	Tak	ver	ba-tani		Armentia	
+397	27	ba1	*ba-	*mirar,ver	Tak	mirar	ba-ba-iti		Armentia	
+398	27	ba1	*ba-	*mirar,ver	Tak	mirar hacia arriba	ba-cua		Armentia	
+399	27	ba1	*ba-	*mirar,ver	Tak	escuchar,oir	iša-ba-			
+400	27	ba1	*ba-	*mirar,ver	Mar	see	xa-mba-ti		Heath	
+401	27	ba1	*ba-	*mirar,ver	Kav	mirar,ver	ba-			
+402	27	ba1	*ba-	*mirar,ver	Kav	venir,visitar	ba-na-			
+403	27	ba1	*ba-	*mirar,ver	Kav	lo que ve	ba-ya-ke			
+404	27	ba1	*ba-	*mirar,ver	Kav	despertar,encontrar	ka-ba-ti			
+405	27	ba1	*ba-	*mirar,ver	Ese	mirar,encontrar,conocer	ba-			
+406	27	ba1	*ba-	*mirar,ver	War	mirar,ver	ba-			
+407	27	ba1	*bamere	*mostrar	ProTa	mostrar	bamere	*ba1+mere		
+408	27	ba1	*bamere	*mostrar	Tak	mostrar	bame-			
+409	27	ba1	*bamere	*mostrar	Kav	mostrar	bamere-			
+410	27	ba1	*bamere	*mostrar	Kav	guia	e-bamere		Armentia	
+411	27	ba1	*bamere	*mostrar	Ese	mostrar	bamee-			
+412	27	ba1	*bata	*parecido	ProTa	parecido	bata	*ba1+ta		
+413	27	ba1	*bata	*parecido	Tak	color,parecido	bata-me			
+414	27	ba1	*bata	*parecido	Kav	parecido,igual	bata-ki			
+415	27	ba1	*bata	*parecido	Kav	nada,falta	bata-ki-ama			
+416	27	ba1	*bata	*parecido	Kav	se ve	bata-ki-dya			
+417	27	ba1	*bata	*parecido	Kav	es preciso	bata		Armentia	
+418	27	ba1	*bawei	*saber	ProTa	saber	bawei	*ba1+wei		
+419	27	ba1	*bawei	*saber	Tak	enseñar	bawe-cua-,bue-cua-			
+420	27	ba1	*bawei	*saber	Tak	aprender	ha-bue-cua-ti-			
+421	27	ba1	*bawei	*saber	Kav	saber	bawe-			
+422	27	ba1	*bawei	*saber	Kav	sabe	bawe-dya			
+423	27	ba1	*bawei	*saber	Kav	prudente,sabe	bawe-ke			
+424	27	ba1	*bawei	*saber	Kav	profesor	bawi-tia-ki-ke			
+425	27	ba1	*bawei	*saber	Kav	enseñar	bawi-tia-			
+426	27	ba1	*bawei	*saber	Kav	aprender	ka-bawi-tia-ti-			
+427	27	ba1	*bawei	*saber	Ese	acordarse	xa-bawe-xa-ki-			
+428	27	ba1	*bawei	*saber	Tia	know	habawikaña		Fast	
+429	28	ba2	*ba-							
