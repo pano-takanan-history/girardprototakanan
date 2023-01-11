@@ -436,4 +436,198 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 445	29	*ba3-	*bac̣u	*codo	Tak	codo,esquina	e-ba-cu			
 446	29	*ba3-	*bac̣u	*codo	Rey	elbow	e-mba-co			
 447	29	*ba3-	*bai	*brazo	ProTa	brazo	bai		*ba3+i?	
-448
+448	29	*ba3-	*bai	*brazo	Tak	brazo,brazo de río	e-bai		Concept 'brazo de río' taken from Armentia	
+449	29	*ba3-	*bai	*brazo	Tak	manco	bai čuto			
+450	29	*ba3-	*bai	*brazo	Tak	a la derecha,brazo derecho	bai ene bene			
+451	29	*ba3-	*bai	*brazo	Tak	ala,manga de vestida	e-na-bai			
+452	29	*ba3-	*bai	*brazo	Rey	arma	e-mbai			
+453	29	*ba3-	*bai	*brazo	Rey	wing	e-na-mbai			
+454	29	*ba3-	*bai	*brazo	Mar	arm	embai		Heath	
+455	29	*ba3-	*bai	*brazo	Sap	braccio	ebbai			
+456	29	*ba3-	*bai	*brazo	Was	arm	ebbay			
+457	29	*ba3-	*bai	*brazo	Mab	arm	ibai			
+458	29	*ba3-	*bai	*brazo	Kav	brazo	e-bi			
+459	29	*ba3-	*bai	*brazo	Kav	pelo del brazo,vello	e-bi-caro			
+460	29	*ba3-	*bai	*brazo	Kav	pulso	e-bi-kana		Armentia	
+461	29	*ba3-	*bai	*brazo	Kav	manga	e-bi-kani		Armentia	
+462	29	*ba3-	*bai	*brazo	Kav	puño,puñete	e-bi-pokaka			
+463	29	*ba3-	*bai	*brazo	Kav	dar puñete	e-bi-pokaka-tia-			
+464	29	*ba3-	*bai	*brazo	Kav	maña	bi-hi		Armentia	
+465	29	*ba3-	*bai	*brazo	Kav	mañoso	bi-hi-a-ki		Armentia | Root: bai or *be...?	
+466	29	*ba3-	*bai	*brazo	Ese	codo	e-bašo			
+467	29	*ba3-	*bai	*brazo	Ese	alcanzar	baña-			
+468	29	*ba3-	*bai	*brazo	War	codo,brazo	e-bašo			
+469	29	*ba3-	*bai	*brazo	Tia	elbow	wacu			
+470	29	*ba3-	*bai	*brazo	Ara	elbow	ébaša		Nordenskiöld	
+471	29	*ba3-	*bazede	*espalda	ProTa	espalda	bazede	*ba3+zede		
+472	29	*ba3-	*bazede	*espalda	Tak	espalda superior,pulmones	badhede			
+472	29	*ba3-	*bazede	*espalda	Rey	back of body	e-mbasendze			
+473	29	*ba3-	*ba...	*hombro	ProTa	hombro	ba...			
+474	29	*ba3-	*ba...	*hombro	Mab	shoulder	ibatha			
+475	29	*ba3-	*ba...	*hombro	Ese	hombro	e-baʔaxa			
+476	29	*ba3-	*ba...	*hombro	War	hombro	e-baʔaha			
+477	30	*ba4-	*ba-	*frío	ProTa	frío	ba-			
+478	30	*ba4-	*ba-	*frío	Tak	frío,fresco	ba-da,ba-da-ke			
+479	30	*ba4-	*ba-	*frío	Tak hacer frío	ba-da-ho-			
+480	30	*ba4-	*ba-	*frío	Tak	enfriar,refrescar	ba-ne-			
+481	30	*ba4-	*ba-	*frío	Tak	refrescar	baaisa		Armentia	
+482	30	*ba4-	*ba-	*frío	Tak	friolento	baakumu-da-ma		Armentia	
+482	30	*ba4-	*ba-	*frío	Tak	frescura	ba-titi		Armentia	
+483	30	*ba4-	*ba-	*frío	Tak	resfriar	ba-naisa		Armentia	
+484	30	*ba4-	*ba-	*frío	Tak	enfriar	ba-nesa		Armentia	
+485	30	*ba4-	*ba-	*frío	Tak	calofrío	ba-su		Armentia	
+486	30	*ba4-	*ba-	*frío	Tak	fiebre (chills?)	baara			
+487	30	*ba4-	*ba-	*frío	Mab	cold	buata			1
+488	30	*ba4-	*ba-	*frío	Ese	frío	kea-boe			
+489	30	*ba4-	*ba-	*frío	Ese	no hace frío	boeʔama			
+490	30	*ba4-	*ba-	*frío	War	frío	kia-buewe			1
+491	31	*ba5-	*bakwV	*cielo	ProTa	cielo	ba-	*ba5+kwV		
+492	31	*ba5-	*bakwV	*cielo	Tak	cielo (donde mora Dios)	e-bakwa-pača			
+493	31	*ba5-	*bakwV	*cielo	Tak	arriba	e-bake-su			
+494	31	*ba5-	*bakwV	*cielo	Tak	bien arriba,alto	baki-bauda			
+495	31	*ba5-	*bakwV	*cielo	Tak	arriba	e-bake		Armentia	
+496	31	*ba5-	*bakwV	*cielo	Tak	de arriba	e-bakiehe		Armentia	
+497	31	*ba5-	*bakwV	*cielo	Mar	sky	e-mbacue-pacha		Cardús	
+498	31	*ba5-	*bakwV	*cielo	Sap	cielo	euacuepana			
+499	31	*ba5-	*bakwV	*cielo	Sap	sù	evacuezù			
+499	31	*ba5-	*bakwV	*cielo	Sap	giù	evaazu			
+500	31	*ba5-	*bakwV	*cielo	Was	heaven	evacuepacha			
+501	31	*ba5-	*bakwV	*cielo	Kav	alzadora	e-bakwa-bapo-hi			
+502	31	*ba5-	*bare	*cielo	ProTa	cielo	bare	*ba5+re		
+503	31	*ba5-	*bare	*cielo	Kav	cielo	bue-pa			
+504	31	*ba5-	*bare	*cielo	Kav	noon	bue-patia			
+505	31	*ba5-	*bare	*cielo	Kav	cielo	bai-pa		Armentia	
+506	31	*ba5-	*bare	*cielo	Kav	medio día	bae-patia		Armentia	
+507	31	*ba5-	*bare	*cielo	Kav	alcanzar,conseguir	bae-ha		Armentia	
+508	31	*ba5-	*bare	*cielo	Rey	sky,heavens	mbai-pa			
+509	31	*ba5-	*bare	*cielo	Kav	grande	e-bari		*bare+i?	
+510	31	*ba5-	*bare	*cielo	Kav	cielo	bare-pa			
+511	31	*ba5-	*bare	*cielo	Kav	noon	bare-patya			
+512	31	*ba5-	*bare	*cielo	Kav	pasar,ganar,alargar	bare-		Concept 'alargar' taken from Armentia	
+513	31	*ba5-	*bare	*cielo	Kav	corona,celebro	bare-re		Concept 'celebro' taken from Armentia	
+514	31	*ba5-	*bare	*cielo	Kav	encopetar	e-bare-hu		Armentia	
+515	31	*ba5-	*baru	*largo	ProTa	largo	baru	*ba5+ru		
+516	31	*ba5-	*baru	*largo	Tak	largo	bau-da			
+517	31	*ba5-	*baru	*largo	Tak	crecer	bau-na-			
+518	31	*ba5-	*baru	*largo	Rey	tall	mbao-me			
+519	31	*ba5-	*baru	*largo	Kav	alto,largo	baro-da			
+520	31	*ba5-	*baru	*largo	Kav	corto,juatoco	baro-da-ma			
+521	31	*ba5-	*baru	*largo	Kav	estatura	baru		Armentia	
+522	31	*ba5-	*baru	*largo	Kav	cielo,arriba	e-baro-kwe			
+523	32	*baʔawa	*baʔawa	*ajoajo	ProTa	ajoajo	baʔawa			
+524	32	*baʔawa	*baʔawa	*ajoajo	Tak	ajoajo (árbol)	bua			
+525	32	*baʔawa	*baʔawa	*ajoajo	Kav	ajoajo	baawa-na			
+526	33	*baba	*baba	*abuelo	ProTa	abuelo	baba			
+527	33	*baba	*baba	*abuelo	Tak	hombre viejo	baba			
+528	33	*baba	*baba	*abuelo	Tak	su abuelo	e-baba-ce			
+529	33	*baba	*baba	*abuelo	Aro	chef du village	baba xiodi		Robuchon	
+530	33	*baba	*baba	*abuelo	Aro	dieu créateur	baba buada		Robuchon	
+531	33	*baba	*baba	*abuelo	Kav	antiguos,antecesores	baba-kwana			
+532	33	*baba	*baba	*abuelo	Kav	abuelo	e-baba			
+533	33	*baba	*baba	*abuelo	Kav	abuelos	e-baba-ekana			
+534	33	*baba	*baba	*abuelo	Ese	abuelo,suegro	baba			
+535	33	*baba	*baba	*abuelo	Ese	sucha colorada (pez)	babaʔai			
+536	33	*baba	*baba	*abuelo	Čam	grandfather	bába			
+537	33	*baba	*baba	*abuelo	Tia	uncle	bapba		Faust	
+538	34	*bac̣a	*bac̣a	*cedro	ProTa	cedro	bac̣a			
+539	34	*bac̣a	*bac̣a	*cedro	Tak	paquío (arbol grande)	baca-ha			
+540	34	*bac̣a	*bac̣a	*cedro	Kav	cedro	baca-ra			
+541	35	*bac̣i	*bac̣i	*gualusa	ProTa	gualusa	bac̣i			
+542	35	*bac̣i	*bac̣i	*gualusa	Tak	un bejuco con papas que se comen	baci			
+543	35	*bac̣i	*bac̣i	*gualusa	Kav	gualusa (tubérculo)	bači			
+544	36	*bade-	*bade-	*colgar	ProTa	colgar	bade-		*ba5+de?	
+545	36	*bade-	*bade-	*colgar	Tak	colgar	badi-a-na-			
+546	36	*bade-	*bade-	*colgar	Kav	colgar	bade-			
+547	36	*bade-	*bade-	*colgar	Kav	hamaca	e-bade-ki			
+548	36	*bade-	*bade-	*colgar	Ese	colgar	baʔe-wana-sowa-			
+549	36	*bade-	*bade-	*colgar	Ese	viver	baʔe-			
+550	36	*bade-	*bade-	*colgar	Ese	quedar	baʔe-čiča-			
+551	36	*bade-	*bade-	*colgar	Ese	encostar	baʔe-ña-			
+552	36	*bade-	*bade-	*colgar	Ese	ayudar	baʔe-sawaka-			
+553	36	*bade-	*bade-	*colgar	War	colgar	bae-bana			
+554	36	*bade-	*bade-	*colgar	War	colgable	bae-bana-tahi			
+556	37	*badi	*badi	*luna	ProTa	luna	badi		*ba5+di?	
+557	37	*badi	*badi	*luna	Tak	luna	badi			
+558	37	*badi	*badi	*luna	Tak	luna nueva	bad'di-janana		Armentia	
+559	37	*badi	*badi	*luna	Rey	moon	mbandzi			
+560	37	*badi	*badi	*luna	Mar	moon	bansri,bantrí		/bansri/ taken from Cardús, /bantrí/ taken from Heath	
+561	37	*badi	*badi	*luna	Sap	moon	bari			
+562	37	*badi	*badi	*luna	Sap	mese	bâri			
+563	37	*badi	*badi	*luna	Aro	moon	badi			
+564	37	*badi	*badi	*luna	Kav	luna,mes	badi			
+565	37	*badi	*badi	*luna	Kav	novilunio	badi-nana		Armentia	
+566	37	*badi	*badi	*luna	Ese	luna,mes	baʔi			
+567	37	*badi	*badi	*luna	Čam	moon	/mái/			
+568	38	*badu-1	*badu-	*desidia	ProTa	desidia	badu-			
+569	38	*badu-1	*badu-	*desidia	Tak	impertinente,molesto	badu-ha-da		Armentia	
+570	38	*badu-1	*badu-	*desidia	Tak	aburrirse	ha-badu-ha-ti	Armentia	
+571	38	*badu-1	*badu-	*desidia	Kav	desidia	badu-da		Armentia	
+572	38	*badu-1	*badu-	*desidia	Kav	desidioso	badu-da aki		Armentia	
+573	38	*badu-1	*badu-	*desidia	Kav	gorronazo	hua-ki		Armentia	
+574	38	*badu-1	*badu-	*desidia	Kav	gorrista	badu-hu		Armentia	
+575	39	*badu-2	*badu-	*hilar	ProTa	hilar	badu-			
+576	39	*badu-2	*badu-	*hilar	Tak	hilar	badu-			
+577	39	*badu-2	*badu-	*hilar	Tak	hilado	e-badu		Armentia	
+578	39	*badu-2	*badu-	*hilar	War	hilar	baʔo-			
+579	39	*badu-2	*badu-	*hilar	War	hilado	e-baʔo-hi			
+580	40	*baka-	*baka-	*pedir	ProTa	pedir	baka-			
+581	40	*baka-	*baka-	*pedir	Tak	comprar,pedir	baha-		Concept 'pedir' taken from Armentia	
+582	40	*baka-	*baka-	*pedir	Tak	estoy pidiendo	e-baha-nia		Armentia	
+583	40	*baka-	*baka-	*pedir	Tak	voy a pedir	e-baha-ti		Armentia	
+584	40	*baka-	*baka-	*pedir	Kav	preguntar	baka-dora-			
+585	40	*baka-	*baka-	*pedir	Kav	pedir,reclamar	baka-ti-			
+586	40	*baka-	*baka-	*pedir	Kav	pedir,suplicar,súplica	baka-baka		Armentia	
+587	40	*baka-	*baka-	*pedir	Kav	petición	baka-baka-ra		Armentia	
+588	40	*baka-	*baka-	*pedir	Kav	ruego	baka-baka-ti		Armentia	
+589	40	*baka-	*baka-	*pedir	Kav	indagar	baka-dura		Armentia	
+590	40	*baka-	*baka-	*pedir	Kav	decir	baka-mahu		Armentia	
+591	40	*baka-	*baka-	*pedir	Kav	conceder,devoción	ka-baka-ti		Armentia	
+592	41	*bakani	*bakani	*nombre	ProTa	nombre	bakani		*baka+ni?	
+593	41	*bakani	*bakani	*nombre	Tak	nombre	e-bani			
+594	41	*bakani	*bakani	*nombre	Mar	name	bani,embáni		/bani/ taken from Cardús, /embáni/ taken from Heath	
+595	41	*bakani	*bakani	*nombre	Was	name	evani			
+596	41	*bakani	*bakani	*nombre	Aro	nom	baani(-)		in 'efe baanitzo-mi' "comment t'appelles-tu?"	
+597	41	*bakani	*bakani	*nombre	Kav	nombre	e-bakani			
+598	41	*bakani	*bakani	*nombre	Kav	innominado	bakani-ma		Armentia	
+599	41	*bakani	*bakani	*nombre	Ese	nombre	baxani			
+600	41	*bakani	*bakani	*nombre	War	nombre	e-bahani			
+601	41	*bakani	*bakani	*nombre	War	nombrar	bahani-			
+602	42	*bakasume	*jochi pintado	ProTa	jochi pintado	bakasume			
+603	42	*bakasume	*jochi pintado	Tak	jochi pintado	basume			
+604	42	*bakasume	*jochi pintado	Kav	jochi pintado (aguti)	bakahome			
+605	43	*bakwa1	*bakwa	*víbora	ProTa	víbora	bakwa		see also *banakwa	
+606	43	*bakwa1	*bakwa	*víbora	Tak	víboro	bakwa			
+607	43	*bakwa1	*bakwa	*víbora	Tak	hoja de víbora	bakwa ina			
+608	43	*bakwa1	*bakwa	*víbora	Rey	snake	mbakwa			
+609	43	*bakwa1	*bakwa	*víbora	Rey	water boa	sombakwa			
+610	43	*bakwa1	*bakwa	*víbora	Rey	snake	bacua		Heath	
+611	43	*bakwa1	*bakwa	*víbora	Rey	rattlesnake	sumbacua		Heath	
+612	43	*bakwa1	*bakwa	*víbora	Kav	culebra,serpiente,víbora	bakwa			
+613	43	*bakwa1	*bakwa	*víbora	Kav	cheperequi (árbol)	bakwakwi			
+614	43	*bakwa1	*bakwa	*víbora	Kav	la flor morado de un árbol	bakwa-kwica		or from *bakwa2?	
+615	43	*bakwa1	*bakwa	*víbora	Kav	grosca,hidra	bakwa-pa		Armentia	
+616	43	*bakwa1	*bakwa	*víbora	Ese	coral	bakwa-tawa			
+617	44	*bakwa2	*bakwa	*hijo	ProTa	hijo	bakwa		*ba5?	
+618	44	*bakwa2	*bakwa	*hijo	Tak	hijo	e-bakwa			
+619	44	*bakwa2	*bakwa	*hijo	Tak	nuera	e-bakwasane	*e-bakwa-sa-wane		
+620	44	*bakwa2	*bakwa	*hijo	Tak	sobrina/o (hija/o de hermana de madre o de hermano de padre)	bakwa			
+621	44	*bakwa2	*bakwa	*hijo	Tak	hija	e-baképuna			
+622	44	*bakwa2	*bakwa	*hijo	Tak	yerno	e-baképunasawe	*e-bakwa-e-puna-sa-awe		
+623	44	*bakwa2	*bakwa	*hijo	Mar	my daughter/son	quiembaqua		Heath	
+624	44	*bakwa2	*bakwa	*hijo	Mar	son	(n)bákua		Nordenskiöld	
+625	44	*bakwa2	*bakwa	*hijo	Mar	daufhter	(n)bákuapúná		Nordernskiöld	
+626	44	*bakwa2	*bakwa	*hijo	Kav	hijo	e-bakwa			
+627	44	*bakwa2	*bakwa	*hijo	Kav	hija	e-bakohona-ke			
+628	44	*bakwa2	*bakwa	*hijo	Kav	muchacha (chica)	e-bakona-pihi		-pihi: Kav. diminutive	
+629	44	*bakwa2	*bakwa	*hijo	Kav	alzadora	e-bakwa-ba-pohi			
+630	44	*bakwa2	*bakwa	*hijo	Kav	criatura,muchacho	e-bakwa-nana			
+631	44	*bakwa2	*bakwa	*hijo	Kav	muchacho	e-bakwa-pihi			
+632	44	*bakwa2	*bakwa	*hijo	Kav	ahijado	e-bakwa-pohi-ke			
+633	44	*bakwa2	*bakwa	*hijo	Kav	hijo	e-bakwa-ke			
+634	44	*bakwa2	*bakwa	*hijo	Kav	nuera	e-bakwa-ke-ha-wane			
+635	44	*bakwa2	*bakwa	*hijo	Kav	filial	e-bakwa-ha		Armentia	
+636	44	*bakwa2	*bakwa	*hijo	Kav	sobrino	e-bakwa-hua		Armentia	
+637	44	*bakwa2	*bakwa	*hijo	Kav	hijastro	e-bakwa-puhi		Armentia	
+638	44	*bakwa2	*bakwa	*hijo	Ese	hijo	e-bakwa			
+639	44	*bakwa2	*bakwa	*hijo	War	paria	bakwa			
+640	44	*bakwa2	*bakwa	*hijo	Tia	boy	ibakwe		Faust	
