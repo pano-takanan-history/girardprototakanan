@@ -468,7 +468,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 476	29	*ba3-	*ba...	*hombro	War	hombro	e-baʔaha			
 477	30	*ba4-	*ba-	*frío	ProTa	frío	ba-			
 478	30	*ba4-	*ba-	*frío	Tak	frío,fresco	ba-da,ba-da-ke			
-479	30	*ba4-	*ba-	*frío	Tak hacer frío	ba-da-ho-			
+479	30	*ba4-	*ba-	*frío	Tak	hacer frío	ba-da-ho-			
 480	30	*ba4-	*ba-	*frío	Tak	enfriar,refrescar	ba-ne-			
 481	30	*ba4-	*ba-	*frío	Tak	refrescar	baaisa		Armentia	
 482	30	*ba4-	*ba-	*frío	Tak	friolento	baakumu-da-ma		Armentia	
@@ -592,9 +592,9 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 599	41	*bakani	*bakani	*nombre	Ese	nombre	baxani			
 600	41	*bakani	*bakani	*nombre	War	nombre	e-bahani			
 601	41	*bakani	*bakani	*nombre	War	nombrar	bahani-			
-602	42	*bakasume	*jochi pintado	ProTa	jochi pintado	bakasume			
-603	42	*bakasume	*jochi pintado	Tak	jochi pintado	basume			
-604	42	*bakasume	*jochi pintado	Kav	jochi pintado (aguti)	bakahome			
+602	42	*bakasume	*bakasume	*jochi pintado	ProTa	jochi pintado	bakasume			
+603	42	*bakasume	*bakasume	*jochi pintado	Tak	jochi pintado	basume			
+604	42	*bakasume	*bakasume	*jochi pintado	Kav	jochi pintado (aguti)	bakahome			
 605	43	*bakwa1	*bakwa	*víbora	ProTa	víbora	bakwa		see also *banakwa	
 606	43	*bakwa1	*bakwa	*víbora	Tak	víboro	bakwa			
 607	43	*bakwa1	*bakwa	*víbora	Tak	hoja de víbora	bakwa ina			
@@ -631,3 +631,238 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 638	44	*bakwa2	*bakwa	*hijo	Ese	hijo	e-bakwa			
 639	44	*bakwa2	*bakwa	*hijo	War	paria	bakwa			
 640	44	*bakwa2	*bakwa	*hijo	Tia	boy	ibakwe		Faust	
+641	45	*bana-1	*bana-	*sembrar	ProTa	sembrar	bana-			
+642	45	*bana-1	*bana-	*sembrar	Tak	sembrar	bana-			
+643	45	*bana-1	*bana-	*sembrar	Kav	punzón,palo para sembrar	e-bana-takwi			
+644	45	*bana-1	*bana-	*sembrar	Ese	sembrar	bana-			
+645	45	*bana-1	*bana-	*sembrar	War	sembrar	bana-			
+646	46	*bana2	*bana	*caricari	ProTa	caricari	bana			
+647	46	*bana2	*bana	*caricari	Tak	caricari (árbol con espina)	bana			
+648	46	*bana2	*bana	*caricari	Kav	caricari	bana			
+649	47	*banakwa	*banakwa	*jausi,lagartija	ProTa	jausi,lagartija	banakwa		see also *bakwa1	
+650	47	*banakwa	*banakwa	*jausi,lagartija	Tak	jausi,lagartija	banakwa			
+651	47	*banakwa	*banakwa	*jausi,lagartija	Kav	jausi	banakwa			
+652	47	*banakwa	*banakwa	*jausi,lagartija	Kav	peni (clase de lagarto)	banakwa-pa			
+653	47	*banakwa	*banakwa	*jausi,lagartija	Ese	jausi	ša-banakwa			
+654	47	*banakwa	*banakwa	*jausi,lagartija	War	lagartija	ša-banakwa			
+655	48	*banu	*banu	*sal	ProTa	sal	banu			
+656	48	*banu	*banu	*sal	Tak	salado	banu-pace-da		Armentia	
+657	48	*banu	*banu	*sal	Tak	salado	bue-da		cognate?	
+658	48	*banu	*banu	*sal	Rey	salt	mbano			
+659	48	*banu	*banu	*sal	Mar	salt	banu		Heath	
+660	48	*banu	*banu	*sal	Kav	sal	bano			
+661	48	*banu	*banu	*sal	Kav	sin sal	bano-ma čapa			
+662	48	*banu	*banu	*sal	Kav	está con sal	bano-ki			
+663	49	*basa-/basai-	*basa-/basai-	*acomodar	ProTa	acomodar	basa-/basai-			
+664	49	*basa-/basai-	*basa-/basai-	*acomodar	Tak	acomodar,arreglar	basa-ita-			
+665	49	*basa-/basai-	*basa-/basai-	*acomodar	Tak	adornado,compuesto	basa-ita-hi-hi		Armentia	
+666	49	*basa-/basai-	*basa-/basai-	*acomodar	Tak	componer	baseta ~ basaita		Armentia	
+667	49	*basa-/basai-	*basa-/basai-	*acomodar	Tak	entretener	basia		Armentia	
+668	49	*basa-/basai-	*basa-/basai-	*acomodar	Kav	acomodar,limpiar,componer	bahehe-			
+669	49	*basa-/basai-	*basa-/basai-	*acomodar	Kav	acomodado	e-bahehe		*basai+i?	
+670	50	*bata2-	*bata-	*arrojar	ProTa	arrojar	bata-			
+671	50	*bata2-	*bata-	*arrojar	Tak	arrojar,vomitar	bata-siu-			
+672	50	*bata2-	*bata-	*arrojar	Ese	volcar	hea-baka-			
+673	51	*bazu	*bazu	*tostar	ProTa	tostar	bazu			
+674	51	*bazu	*bazu	*tostar	Tak	tostar	badhu-			
+675	51	*bazu	*bazu	*tostar	Tak	tiesto de barro,tostador	e-badhu-(h)i			
+676	51	*bazu	*bazu	*tostar	Kav	tostar,freir	baho-			
+676	52	*be1-	*be-	*ventear	ProTa	ventear	be-			
+677	52	*be1-	*be-	*ventear	Tak	turbio,agua turbia	be-ha-be-ha		Armentia	
+678	52	*be1-	*be-	*ventear	Tak	ventear	bi-a-we-			
+679	52	*be1-	*be-	*ventear	Tak	flato	be-di		Armentia	
+680	52	*be1-	*be-	*ventear	Kav	huelgo,eructar	be-hi		Armentia	
+681	52	*be1-	*be-	*ventear	Kav	mécelo	be-hi-duke		Armentia	
+682	52	*be1-	*beni	*viento	ProTa	viento	beni			
+683	52	*be1-	*beni	*viento	Tak	viento	beni			
+684	52	*be1-	*beni	*viento	Rey	viento	beni			
+685	52	*be1-	*beni	*viento	Mar	wind	béni		Heath	
+686	52	*be1-	*beni	*viento	Sap	vento	veni			
+687	52	*be1-	*beni	*viento	Kav	sur	beni			
+688	52	*be1-	*beni	*viento	Kav	ventarron	beni-hubi-da		Armentia	
+689	52	*be1-	*beni	*viento	Ese	viento	beni			
+690	52	*be1-	*beni	*viento	War	viento	beni			
+691	52	*be1-	*beni	*viento	Čam	wind	béni			
+692	53	*be2-	*be-	*traer	ProTa	traer	be-			
+693	53	*be2-	*be-	*traer	Tak	mandar,despachar	be-itu-		Concept 'despachar' taken from Armentia	
+694	53	*be2-	*be-	*traer	Kav	traer	be-			
+695	53	*be2-	*be-	*traer	Kav	aparejar	ka-be-ti		Armentia	1
+696	54	*be3-	*be-	*espalda	ProTa	espalda	be-		see also *ba3	
+697	54	*be3-	*be-	*espalda	Tak	espinaza	e-be-dhe-dhe			
+698	54	*be3-	*be-	*espalda	Tak	vena de la hoja del motacú	tumi be-dhedhe			
+699	54	*be3-	*be-	*espalda	Tak	mango,e.g.,cuchillo	bedede		Armentia | There is uncertainty regarding the meaning of the form	
+670	54	*be3-	*be-	*espalda	Mab	back	ibibakwa			
+671	54	*be3-	*be-	*espalda	Kav	espalda	e-be-bakwa			
+672	54	*be3-	*be-	*espalda	Ese	riñones	e-be-tete			
+673	54	*be3-	*be-	*espalda	Ese	hombro	e-be-yoxo			
+674	54	*be3-	*be-	*espalda	Ese	clavícula	e-be-yoxo-ša			
+675	54	*be3-	*be-	*espalda	War	hombro	be-be-oho			
+676	54	*be3-	*beca	*nadar	ProTa	nadar	beca	*be3+ca		
+677	54	*be3-	*beca	*nadar	Tak	nadar,bracear	beca-		Concept 'bracear' taken from Armentia	
+678	54	*be3-	*beca	*nadar	Tak	a nado	beca-hi		Armentia	
+679	54	*be3-	*beca	*nadar	Kav	nadar	beca-			
+680	54	*be3-	*beca	*nadar	Ese	bañarse	besa-			
+681	54	*be3-	*beca	*nadar	Ese	cruzar (el río)		besa-poki-			
+682	54	*be3-	*beca	*nadar	War	bañarse	besa-			
+683	55	*bea-	*beake	*encima	ProTa	encima	beake			
+684	55	*bea-	*beake	*encima	Tak	por encima,montado	e-bia-he			
+685	55	*bea-	*beake	*encima	Kav	encima,sobre,muy	dyake		Concept 'muy' taken from Armentia | [y] as a superscript | Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	1
+686	55	*bea-	*beake	*encima	Kav	demasiado,por de más	dyake-kwita		[y] as a superscript | Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	1
+687	55	*bea-	*beake	*encima	Kav	peor,por de más	dyake-ne		[y] as a superscript | Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	1
+688	55	*bea-	*beake	*encima	Kav	engradecer	diake-dianea		Armentia | Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	1
+689	55	*bea-	*beake	*encima	Kav	enteramente	diake-hie		Armentia | Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	1
+690	55	*bea-	*beake	*encima	Kav	externo	diake-hu		Armentia | Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	1
+691	55	*bea-	*beake	*encima	Kav	creciente	diake-hunati		Armentia | Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	1
+692	55	*bea-	*beake	*encima	Kav	enorme	diake-neuti		Armentia | Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	1
+693	55	*bea-	*beake	*encima	Kav	extraordinario	diake-pihe		Armentia | Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	1
+694	55	*bea-	*beake	*encima	Kav	intemporie	diake-pihine		Armentia | cognate? | Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	1
+695	55	*bea-	*beake	*encima	Kav	encima	biaxe		Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	1
+696	55	*bea-	*beake	*encima	War	encima	e-biahe		Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	1
+697	55	*bea-	*bea...	*también	ProTa	también	bea...			
+698	55	*bea-	*bea...	*también	Tak	tapar	bia-teri-,bia-dunu-			
+699	55	*bea-	*bea...	*también	Tak	mojar	ca-bia-		i.e., 'cover with water'	
+700	55	*bea-	*bea...	*también	Tak	demasiado,mucho,encima	e-bia-su			
+701	55	*bea-	*bea...	*también	Tak	antes	bia-wa			
+702	55	*bea-	*bea...	*también	Tak	tambien,nada,aún todavía,aunque,en cuanto	bia-me		Armentia	
+703	55	*bea-	*bea...	*también	Tak	vaciar	bia-dera		Armentia	
+704	55	*bea-	*bea...	*también	Tak	velar	bia-ide		Armentia	
+705	55	*bea-	*bea...	*también	Tak	encomendar	bia-mimi-a		Armentia	
+706	55	*bea-	*bea...	*también	Tak	enjugar	bia-rukwa		Armentia	
+707	55	*bea-	*bea...	*también	Tak	apurarse	bia-tipie		Armentia	
+708	55	*bea-	*bea...	*también	Tak	defenderse,resistirse	bia-tuče		Armentia	
+709	55	*bea-	*bea...	*también	Tak	fardo	dunu-hi		Armentia	
+710	55	*bea-	*bea...	*también	Kav	seguido	dyahotiʔi		Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	1
+711	55	*bea-	*bea...	*también	Kav	también	diadi		Armentia | Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	1
+712	55	*bea-	*bea...	*también	Kav	enfermer,contagiar	a-dya-		cognate? | Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	1
+713	55	*bea-	*beakwa	*río arriba	ProTa	río arriba	beakwa			
+714	55	*bea-	*beakwa	*río arriba	Tak	arriba (río arriba)	biakwa-wa			
+715	55	*bea-	*beakwa	*río arriba	Ese	río arriba	beakwa ~ biakwa			
+716	55	*bea-	*beakwa	*río arriba	War	arriba del río	beakwa,beakwa-ena			
+717	55	*bea-	*beakwa	*río arriba	Ara	en haut	beákua		Nordenskiöld	
+718	55	*bea-	*beakwa	*río arriba	Tia	above	biäkwa		Faust	
+719	56	*bedu	*bedu	*buitre negro	ProTa	buitre negro	bedu			
+720	56	*bedu	*bedu	*buitre negro	Rey	buzzard	bendzo			
+721	56	*bedu	*bedu	*buitre negro	Ese	sucha	beʔo			
+722	56	*bedu	*bedu	*buitre negro	War	gallinazo	beó ~ beʔó			
+723	57	*bei	*bei	*feliz,alegre,contento	ProTa	feliz,alegre	bei			
+724	57	*bei	*bei	*feliz,alegre,contento	Tak	feliz,alegre	bei-da-hi			
+725	57	*bei	*bei	*feliz,alegre,contento	Tak	alegría	bei-bi		Armentia	
+726	57	*bei	*bei	*feliz,alegre,contento	Tak	alegre,contento	bei-bi-hi		Armentia	
+727	57	*bei	*bei	*feliz,alegre,contento	Tak	cariño,halago	ha-bei-ba-ti		Armentia	
+728	57	*bei	*bei	*feliz,alegre,contento	Tak	halago,cariño,halagar	bei-ba		Armentia	
+729	57	*bei	*bei	*feliz,alegre,contento	Tak	acarícialo	bei-ba-ke		Armentia	
+730	57	*bei	*bei	*feliz,alegre,contento	Kav	afortunado	bi-bi-a-ki		Armentia	
+731	57	*bei	*bei	*feliz,alegre,contento	Ese	contento	kea-bei-nee			
+732	57	*bei	*bei	*feliz,alegre,contento	Ese	está contento	biwi-			
+733	57	*bei	*bei	*feliz,alegre,contento	Ese	adorar	biwi-a-			
+734	57	*bei	*bei	*feliz,alegre,contento	Ese	contento	kea-biwi			
+735	57	*bei	*bei	*feliz,alegre,contento	Ese	alegrarse	xa-biwi-			
+736	57	*bei	*beiji	*querer	ProTa	querer	beiji		found only in form *biji	
+737	57	*bei	*beiji	*querer	Tak	chistoso	biři-da puhi			
+738	57	*bei	*beiji	*querer	Tak	conseguir,andar atener suerte	biři-na-			
+739	57	*bei	*beiji	*querer	Kav	querer,desear,agradar,tener ganas,gustar	bihi-da			
+740	57	*bei	*beiji	*querer	Kav	prohibir,no querer	bihi-da-ma			
+741	57	*bei	*beiji	*querer	Kav	determinar	ka-bihi-ti		Armentia	
+742	57	*bei	*beiji	*querer	Kav	indeterminado	ka-bihi-ti-ma		Armentia	
+743	57	*bei	*beiji	*querer	Kav	cosquilloso	kwita-bihi-da			
+744	58	*bekwiji	*bekwiji	*garrapata	ProTa	garrapata	bekwiji			
+745	58	*bekwiji	*bekwiji	*garrapata	Tak	garrapata	bekidi		:bekiři?	
+746	58	*bekwiji	*bekwiji	*garrapata	Kav	garrapata	bekwihi			
+747	58	*bekwiji	*bekwiji	*garrapata	Kav	garrapata	kawiši			
+748	58	*bekwiji	*bekwiji	*garrapata	Kav	tick	bakiši		The second Eseʔexa and the Warayo forms would appear to come from ¨batiji	
+749	58	*bekwiji	*bekwiji	*garrapata	War	garrapata	batiši		The second Eseʔexa and the Warayo forms would appear to come from ¨batiji	
+750	59	*bere	*bere	*escarbar	ProTa	escarbar	bere			
+751	59	*bere	*bere	*escarbar	Tak	escarbar	bere-			
+752	59	*bere	*bere	*escarbar	Ese	delgado	kea-behe			
+753	59	*bere	*bere	*escarbar	Ese	afinar (con azuela)	be-axe-hea-		cognate??	
+754	60	*beru	*beru	*viejo	ProTa	viejo	beru			
+755	60	*beru	*beru	*viejo	Tak	ya	beu			
+756	60	*beru	*beru	*viejo	Tak	ya	beʔu		Tumupasa dialect	
+757	60	*beru	*beru	*viejo	Kav	viejo,antiguo,antes	bero			
+758	61	*beta	*beta	*dos	ProTa	dos	beta			
+759	61	*beta	*beta	*dos	Tak	dos	beta			
+760	61	*beta	*beta	*dos	Rey	two	mbeta			
+761	61	*beta	*beta	*dos	Mar	two	beta		Heath	
+762	61	*beta	*beta	*dos	Sap	two	beta			
+763	61	*beta	*beta	*dos	Aro	two	beta			
+764	61	*beta	*beta	*dos	Kav	dos	beta			
+765	61	*beta	*beta	*dos	Kav	gemelo	beta-hara		Armentia	
+766	61	*beta	*beta	*dos	Ese	dos	beka			
+767	61	*beta	*beta	*dos	Ese	acompañar	beka-pee-			
+768	61	*beta	*beta	*dos	Ese	3	beka-pee-xima			
+769	61	*beta	*beta	*dos	Ese	4	beka-pee-peaai			
+770	61	*beta	*beta	*dos	Ese	algunos	e-beka-kwana			
+771	61	*beta	*beta	*dos	Ese	jugar	xa-beka-iki-			
+772	61	*beta	*beta	*dos	War	dos	beabué		cognate?	
+773	61	*beta	*beta	*dos	Čam	2	béka			
+774	61	*beta	*beta	*dos	Tia	2	bikapiai		or '4'?	
+775	62	*be(ʔ)i(wi)	*be(ʔ)i(wi)	*oso hormiguero,oso perezoso	ProTa	oso hormiguero,oso perezoso	be(ʔ)i(wi)		There is uncertainty regarding the protoform on the ID in the source	
+776	62	*be(ʔ)i(wi)	*be(ʔ)i(wi)	*oso hormiguero,oso perezoso	Kav	perezoso	bei			
+777	62	*be(ʔ)i(wi)	*be(ʔ)i(wi)	*oso hormiguero,oso perezoso	Tak	oso hormiguero	besawa			
+778	62	*be(ʔ)i(wi)	*be(ʔ)i(wi)	*oso hormiguero,oso perezoso	Tak	oso	beisawa		Armentia	
+779	62	*be(ʔ)i(wi)	*be(ʔ)i(wi)	*oso hormiguero,oso perezoso	Rey	oso hormiguero	mbei			
+780	62	*be(ʔ)i(wi)	*be(ʔ)i(wi)	*oso hormiguero,oso perezoso	Kav	oso hormiguero	be(ʔ)i			
+781	62	*be(ʔ)i(wi)	*be(ʔ)i(wi)	*oso hormiguero,oso perezoso	Ese	perezoso	bewi-haha			
+782	62	*be(ʔ)i(wi)	*be(ʔ)i(wi)	*oso hormiguero,oso perezoso	Ese	oso hormiguero	beo-pisi			
+783	62	*be(ʔ)i(wi)	*be(ʔ)i(wi)	*oso hormiguero,oso perezoso	War	oso hormiguero	be,bewi-pisi			
+784	62	*be(ʔ)i(wi)	*be(ʔ)i(wi)	*oso hormiguero,oso perezoso	War	perezoso	bewí-haha			
+785	63	*bia	*bia	*piojo	ProTa	piojo	bia		cf. *bira,*biwa	
+786	63	*bia	*bia	*piojo	Tak	piojo	bia			
+787	63	*bia	*bia	*piojo	Tak	liendre	bia eha		Armentia	
+788	63	*bia	*bia	*piojo	Rey	lice	biya			
+789	63	*bia	*bia	*piojo	Mar	louse	biya		Heath	
+790	63	*bia	*bia	*piojo	Kav	piojo	bia			
+791	63	*bia	*bia	*piojo	Kav	liendre	eka-bia-ha-ke			
+792	63	*bia	*bia	*piojo	Kav	despiojar	bia-bia		Armentia	
+793	63	*bia	*bia	*piojo	Kav	expulgar	bia-bia-aʔaj-		Armentia	
+794	63	*bia	*bia	*piojo	Kav	piojera	bia-kini		Armentia	
+795	63	*bia	*bia	*piojo	Ese	piojo	biá			
+796	63	*bia	*bia	*piojo	War	piojo	beá			
+797	64	*biʔi	*biʔi	*palma real	ProTa	palma real	biʔi			
+798	64	*biʔi	*biʔi	*palma real	Tak	palma real	bi			
+798	64	*biʔi	*biʔi	*palma real	Kav	palma real	bi(ʔ)i			
+799	65	*biji	*biji	*balsa	ProTa	balsa	biji			
+800	65	*biji	*biji	*balsa	Tak	balsa	biři			
+801	65	*biji	*biji	*balsa	Kav	balsa	bihi			
+802	65	*biji	*biji	*balsa	Ese	canoa,cedro	bišé			
+803	65	*biji	*biji	*balsa	Ese	espalda de la canoa	biše-daasa			
+804	65	*biji	*biji	*balsa	Ese	cáscara del cedro	biše-hé			
+805	65	*biji	*biji	*balsa	Ese	popa de la canoa	biše-kii			
+806	65	*biji	*biji	*balsa	Ese	canoa (juguete)	biše-dišo			
+807	66	*bijiji	*bijiji	*cuquisa	ProTa	bijiji	cuquisa			
+808	66	*bijiji	*bijiji	*cuquisa	Tak	paloma cuquisa	biřidi		biřiři? or dissimilation	
+809	66	*bijiji	*bijiji	*cuquisa	Kav	cuquisa	bihihi			
+810	67	*biju	*biju	*ají	ProTa	ají	biju			
+811	67	*biju	*biju	*ají	Tak	ají	biřu			
+812	67	*biju	*biju	*ají	Rey	chile,chili pepper	mbišo			
+813	67	*biju	*biju	*ají	Kav	ají	biho			
+814	67	*biju	*biju	*ají	War	ají	bišo			
+815	68	*bikwe	*bikwe	*pesado	ProTa	pesado	bikwe			
+816	68	*bikwe	*bikwe	*pesado	Tak	pesado	bike-da			
+817	68	*bikwe	*bikwe	*pesado	Kav	pesado	bikwe-da			
+818	68	*bikwe	*bikwe	*pesado	Kav	triste	nime-bikwe-da			
+819	68	*bikwe	*bikwe	*pesado	Ese	pesado	kea-bike			
+820	68	*bikwe	*bikwe	*pesado	War	pesado	kia-bikie,kia-bíkie-ne			
+821	68	*bikwe	*bikwe	*pesado	War	muy pesado	kia-bikie-nei-nei			
+822	68	*bikwe	*bikwe	*pesado	War	no pesado	bikiánima,bikie-ama			
+823	69	*bina	*bina	*murciélago	ProTa	murciélago	bina			
+824	69	*bina	*bina	*murciélago	Tak	murciélago	bina			
+825	69	*bina	*bina	*murciélago	Rey	bat	bina			
+826	69	*bina	*bina	*murciélago	Kav	murciélago	bina			
+827	69	*bina	*bina	*murciélago	Ese	murciélago	biña			
+828	69	*bina	*bina	*murciélago	War	murciélago	biña			
+829	69	*bina	*bina	*murciélago	War	grande murciélago	biña-ai-ai			
+830	69	*bina	*bina	*murciélago	War	pequeño murciélago	biña-sisi			
+831	70	*bira	*bira	*avispo,peto	ProTa	avispo,peto	bira			
+832	70	*bira	*bira	*avispo,peto	Tak	avispo,peto	bia			
+833	70	*bira	*bira	*avispo,peto	Kav	avispo,peto	bira			
+834	70	*bira	*bira	*avispo,peto	Ese	peto	biya			
+835	70	*bira	*bira	*avispo,peto	Ese	clase de víbora	biya-peeyo			
+836	70	*bira	*bira	*avispo,peto	War	avispa	bía			
+837	71	*bita	*bita	*dulce	ProTa	dulce	bita			
+838	71	*bita	*bita	*dulce	Tak	dulce	bita-da			
+839	71	*bita	*bita	*dulce	Tak	endulcer	bita-dena			
+840	71	*bita	*bita	*dulce	Sap	dolce	vitame			
+841	71	*bita	*bita	*dulce	Ese	endulzer	bikia-			
+842	71	*bita	*bita	*dulce	Ese	dulce	kea-bikia			
+843	72
