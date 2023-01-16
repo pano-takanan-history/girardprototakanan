@@ -865,4 +865,290 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 840	71	*bita	*bita	*dulce	Sap	dolce	vitame			
 841	71	*bita	*bita	*dulce	Ese	endulzer	bikia-			
 842	71	*bita	*bita	*dulce	Ese	dulce	kea-bikia			
-843	72
+843	72	*biti	*biti	*piel	ProTa	piel	biti			
+844	72	*biti	*biti	*piel	Tak	cuero,piel,cáscara,corteza	e-biti			
+845	72	*biti	*biti	*piel	Rey	skin	e-mbiti			
+846	72	*biti	*biti	*piel	Mar	bark	embiti		Heath	
+847	72	*biti	*biti	*piel	Kav	piel,cutis,cuero	e-biti			
+848	72	*biti	*biti	*piel	Kav	descascarar	biti-kemi-			
+849	73	*biu-	*biu-	*meter	ProTa	meter	biu-			
+850	73	*biu-	*biu-	*meter	Tak	meter	biu-			
+851	73	*biu-	*biu-	*meter	Kav	meter	bio-			
+852	74	*biwa	*biwa	*marimono	ProTa	marimono	biwa			
+853	74	*biwa	*biwa	*marimono	Tak	marimono	biwa			
+854	74	*biwa	*biwa	*marimono	Rey	spider monkey	biwa			
+855	74	*biwa	*biwa	*marimono	Kav	marimono	biwa			
+856	74	*biwa	*biwa	*marimono	Ese	marimono	biya			
+857	74	*biwa	*biwa	*marimono	War	mono maquisapa	bía		-*w- here involved palitalization?	
+858	75	*bizu	*bizu	*vergüenza	ProTa	vergüenza	bizu			
+859	75	*bizu	*bizu	*vergüenza	Tak	vergüenza	bidhu			
+860	75	*bizu	*bizu	*vergüenza	Tak	mentira	bidhu-mimi			
+861	75	*bizu	*bizu	*vergüenza	Tak	mentir	bidhu-mimi a-			
+862	75	*bizu	*bizu	*vergüenza	Tak	mentiroso	bidhu-mimi puhi			
+863	75	*bizu	*bizu	*vergüenza	Kav	tener vergüenza	biso-			
+864	75	*bizu	*bizu	*vergüenza	Kav	avergonzado	biso-a-ki			
+865	75	*bizu	*bizu	*vergüenza	Ese	vergonzoso	bea-bičo			
+867	75	*bizu	*bizu	*vergüenza	War	está enfadado	bičo-ani			
+868	76	*bu1-	*bu-	*sucio	ProTa	sucio	bu-			
+869	76	*bu1-	*bu-	*sucio	Tak	suciedad,nubo	bu-dhu			
+870	76	*bu1-	*bu-	*sucio	Tak	nublado,sucio	bu-dhu(h)i			
+871	76	*bu1-	*bu-	*sucio	Kav	mancha	buhe		Armentia	
+872	76	*bu1-	*bu-	*sucio	Kav	manchar	buhehu		Armentia	
+873	76	*bu1-	*bu-	*sucio	Kav	limpiada	buheakima		Armentia	
+874	76	*bu1-	*bu-	*sucio	Kav	limpia,limpieza	buhema		Armentia	
+875	76	*bu1-	*bu-	*sucio	Kav	pureza	buhemakwita		Armentia	
+876	76	*bu1-	*bu-	*sucio	Kav	limpiar	buhemahu		Armentia	
+878	76	*bu1-	*bu-	*sucio	Ese	nube	bo			
+879	76	*bu1-	*bu-	*sucio	War	nube	bo			
+880	76	*bu1-	*bubu	*basura	ProTa	basura	bubu			
+881	76	*bu1-	*bubu	*basura	Tak	basura	bubu			
+882	76	*bu1-	*bubu	*basura	Kav	escoba	e-bobo-ki			
+883	77	*bu2-	*buc̣e	*par	ProTa	par	buc̣e	*bu2+c̣e		
+884	77	*bu2-	*buc̣e	*par	Tak	delante de,al frente	e-buce-su			
+885	77	*bu2-	*buc̣e	*par	Tak	par	e-buce			
+886	77	*bu2-	*buc̣e	*par	Tak	sin par	buce-mawe			
+887	77	*bu2-	*buc̣e	*par	Tak	recto	buce-pi			
+888	77	*bu2-	*buc̣e	*par	Tak	paralelo	ha-buce-ti		Armentia	
+889	77	*bu2-	*buc̣e	*par	Tak	correcto,la verdad	ene-buce-pi			
+890	77	*bu2-	*buc̣e	*par	Tak	canilla	ta-buce			
+891	77	*bu2-	*buc̣e	*par	Kav	cara	e-boce-kini			
+892	77	*bu2-	*buc̣e	*par	Kav	recién,primera vez	boce-šo			
+893	77	*bu2-	*buc̣e	*par	Kav	así como,parece	boča	*boc̣e-a		
+894	77	*bu2-	*buc̣e	*par	Kav	carilucio	buce-pikinipupu		Armentia	
+895	77	*bu2-	*buc̣e	*par	Kav	carinegro	buce-pikiniceve		Armentia	
+896	77	*bu2-	*buc̣e	*par	Ese	cara	e-bosi/e-bose			
+897	77	*bu2-	*bu...	*cara	ProTa	cara	bu...			
+898	77	*bu2-	*bu...	*cara	Tak	cara	e-bu			
+899	77	*bu2-	*bu...	*cara	Tak	falso	bu-beta			
+900	77	*bu2-	*bu...	*cara	Tak	ambos lados	bu-beta-na-su			
+901	77	*bu2-	*bu...	*cara	Tak	serio,cara brava	bu-ʔiya-da			
+902	77	*bu2-	*bu...	*cara	Tak	sien	e-bu-awa			
+903	77	*bu2-	*bu...	*cara	Tak	a un lado	e-bu-awa-su			
+904	77	*bu2-	*bu...	*cara	Tak	un lado,otro lado	bu-pene			
+905	77	*bu2-	*bu...	*cara	Tak	acompañar	bu-ke-			
+906	77	*bu2-	*bu...	*cara	Tak	compañero	e-bu-ke-hi			
+907	77	*bu2-	*bu...	*cara	Tak	tuerto	bu-pe padha			
+908	77	*bu2-	*bu...	*cara	Mar	face	embu		Heath	
+909	77	*bu2-	*bu...	*cara	Sap	faccia	ebbù			
+910	77	*bu2-	*bu...	*cara	Mab	eyebrow	iboathuna			
+911	77	*bu2-	*bu...	*cara	Ese	pluma	boʔba		cognate?	
+912	78	*bu3-	*bu-	*abajo	ProTa	abajo	bu-			
+913	78	*bu3-	*bu-	*abajo	Tak	pozo en el río,remanso	ena-bu-e			
+914	78	*bu3-	*bu-	*abajo	Kav	tropezar	kwa-bo-		go+down	
+915	78	*bu3-	*bute	*bajar	ProTa	bajar	bute	bu3+te		
+916	78	*bu3-	*bute	*bajar	Tak	bajada,puerto	e-bute-hi			
+917	78	*bu3-	*bute	*bajar	Tak	bajar	bute		Armentia	
+918	78	*bu3-	*bute	*bajar	Tak	bajar	bute-ni		Armentia	
+919	78	*bu3-	*bute	*bajar	Tak	inclínate,encúrbate	ha-bute-ke		Armentia	
+920	78	*bu3-	*bute	*bajar	Mar	sit down	animabotia		Heath	
+921	78	*bu3-	*bute	*bajar	Was	sits	anibuteni			
+922	78	*bu3-	*bute	*bajar	Kav	puerto	e-bote			
+923	78	*bu3-	*bute	*bajar	Kav	bajar	bote-			
+924	78	*bu3-	*bute	*bajar	Kav	bajar	botya-	*bute-a-		
+925	78	*bu3-	*bute	*bajar	Kav	sentar,aterrizar	ani-bote-			
+926	79	*bu4-	*bu	*sobrino/a	ProTa	sobrino/a	bu			
+927	79	*bu4-	*bu	*sobrino/a	Tak	sobrino/a (hijo/a de hermano de madre)	bu-i			
+928	79	*bu4-	*bu	*sobrino/a	Kav	sobrina	e-bo-ke			
+929	79	*bu4-	*bu	*sobrino/a	Ese	sobrino	bo-e			
+930	80	*buka	*buka	*melero	ProTa	melero	buka			
+931	80	*buka	*buka	*melero	Tak	melero (animal)	buha			
+932	80	*buka	*buka	*melero	Kav	melero	boka			
+933	81	*buna	*buna	*tucandera	ProTa	tucandera	buna			
+934	81	*buna	*buna	*tucandera	Tak	tucandera (hormiga grande qui pica fuerte)	buna			
+935	81	*buna	*buna	*tucandera	Kav	tucandera	bona			
+936	82	*buni	*buni	*perdiz	ProTa	perdiz	buni			
+937	82	*buni	*buni	*perdiz	Tak	perdiz del monte	buni			
+938	82	*buni	*buni	*perdiz	Tak	perdiz azul (grande)	buni-pa			
+939	82	*buni	*buni	*perdiz	Mar	bird	búni		Heath	
+940	82	*buni	*buni	*perdiz	Sap	uccello	buni			
+941	82	*buni	*buni	*perdiz	Kav	perdiz grande	boñari	*buni+ari		
+942	82	*buni	*buni	*perdiz	Kav	perdiz	buni		Armentia	
+943	83	*burewe	*burewe	*guayaba (árbol)	ProTa	guayaba (árbol)	burewe			
+944	83	*burewe	*burewe	*guayaba (árbol)	Tak	guayaba (árbol)	bure			
+945	83	*burewe	*burewe	*guayaba (árbol)	Kav	perotó (árbol)	borewe			
+946	84	*buři	*buři	*risueño	ProTa	risueño	buři			
+947	84	*buři	*buři	*risueño	Tak	risueño	buri-da			
+948	84	*buři	*buři	*risueño	Tak	bien risueño	buri-buri			
+949	84	*buři	*buři	*risueño	Tak	bien risueño	buri-buri čidi			
+950	84	*buři	*buři	*risueño	Kav	partir,reventar	bori-			
+951	84	*buři	*buři	*risueño	Kav	gozo,gozoso	buri-buri		Armentia	
+952	84	*buři	*buři	*risueño	Kav	gozar	buri-buri-hu		Armentia	
+953	84	*buři	*buři	*risueño	Kav	ansia,ansiar	buri-ri		Armentia	
+954	85	*buřuřu	*buřuřu	*rana,sapo	ProTa	rana,sapo	buřuřu			
+955	85	*buřuřu	*buřuřu	*rana,sapo	Tak	especie de sapo	bururu			
+956	85	*buřuřu	*buřuřu	*rana,sapo	Tak	víbora sapo	bururu bakwa			
+957	85	*buřuřu	*buřuřu	*rana,sapo	Rey	frog	mbororo			
+958	85	*buřuřu	*buřuřu	*rana,sapo	Kav	rana,sapo	bororo			
+959	85	*buřuřu	*buřuřu	*rana,sapo	Ese	víbora (yoperojobobo)	boʔo-bakwa			
+960	86	*busu	*busu	*pus,materia	ProTa	materia	busu		*bu2+su?	
+961	86	*busu	*busu	*pus,materia	Tak	pus,materia	busu			
+962	86	*busu	*busu	*pus,materia	Kav	materia,pus	e-boho-co			
+963	86	*busu	*busu	*pus,materia	Kav	disentería	ami-boho			
+964	86	*busu	*busu	*pus,materia	Kav	apostema	buhu-cu		Armentia	
+965	86	*busu	*busu	*pus,materia	War	pus	boho			
+966	87	*bu(w)e(i)	*bu(w)e(i)	*chuchio,charo,caña brava	ProTa	chuchio,charo,caña brava	bu(w)e(i)		There is uncertainty regarding the protoform on the ID in the source		
+967	87	*bu(w)e(i)	*bu(w)e(i)	*chuchio,charo,caña brava	Tak	chuchio,charo,caña brava	bue			
+968	87	*bu(w)e(i)	*bu(w)e(i)	*chuchio,charo,caña brava	Rey	cane	bobhe			
+969	87	*bu(w)e(i)	*bu(w)e(i)	*chuchio,charo,caña brava	Kav	caña	bue		Armentia	
+970	87	*bu(w)e(i)	*bu(w)e(i)	*chuchio,charo,caña brava	Ese	chuchio,charo	bekiobo			
+971	87	*bu(w)e(i)	*bu(w)e(i)	*chuchio,charo,caña brava	War	caña brava	bekiobo		*bei-tubu? | cognate?	
+972	88	*c̣a1-	*c̣a-	*floración	ProTa	floración	c̣a-			
+973	88	*c̣a1-	*c̣a-	*floración	Tak	puma (de flecha),floración	e-ca			
+974	88	*c̣a1-	*c̣a-	*floración	Tak	urupé,cedazo hecho de hojas de palma torcidas	e-ca-ihi			
+975	88	*c̣a1-	*c̣a-	*floración	Tak	intestinos (toda la tripa)	e-ca-ma			
+976	88	*c̣a1-	*c̣a-	*floración	Tak	mapaju,algodon silvestre (árbol con seda vegetal)	ca-pu			
+977	88	*c̣a1-	*c̣a-	*floración	Tak	piña	ca-ya			
+978	88	*c̣a1-	*c̣a-	*floración	Tak	afrecha,chala,jachi	e-ca-bi			
+979	88	*c̣a1-	*c̣a-	*floración	Tak	florecer	ha-ca-da-ti-		Armentia	
+980	88	*c̣a1-	*c̣a-	*floración	Mar	hair	etra		Heath	
+981	88	*c̣a1-	*c̣a-	*floración	Kav	dar guasca,florecer	ka-ca-ti-			
+982	88	*c̣a1-	*c̣a-	*floración	Kav	atoakaka (una fruta del monte)	ca-bona			
+983	88	*c̣a1-	*c̣a-	*floración	Kav	guayaba	ca-kote			
+984	88	*c̣a1-	*c̣a-	*floración	Kav	mapajo (árbol)	ca-kwa			
+985	88	*c̣a1-	*c̣a-	*floración	Kav	jachi	e-ca-ke			
+986	88	*c̣a1-	*c̣a-	*floración	Kav	una fruta	ca-rena			
+987	88	*c̣a1-	*c̣a-	*floración	Kav	tutumá,mate	ca-ceya		all cognate?	
+988	88	*c̣a1-	*c̣aru	*cabello	ProTa	cabello	c̣aru	*c̣a1+ru		
+989	88	*c̣a1-	*c̣aru	*cabello	Tak	surco	e-cau-nu		Armentia | cognate?	
+990	88	*c̣a1-	*c̣aru	*cabello	Sap	cappelli	echau			
+991	88	*c̣a1-	*c̣aru	*cabello	Kav	peludo,velludo	caro-caro			
+992	88	*c̣a1-	*c̣aru	*cabello	Kav	cabello,pello	e-caro			
+993	88	*c̣a1-	*c̣aru	*cabello	Kav	empelar	caru-kihu		Armentia	
+994	88	*c̣a1-	*c̣aru	*cabello	Kav	quedeja	e-caru-dekaka		Armentia	
+995	88	*c̣a1-	*c̣aru	*cabello	Kav	crencha	e-caru-dihi		Armentia	
+996	88	*c̣a1-	*c̣aru	*cabello	Ese	cabello corto	sawomá			
+997	89	*c̣a2-	*c̣a-	*mojar	ProTa	mojar	c̣a-			
+998	89	*c̣a2-	*c̣a-	*mojar	Tak	mojer	ca-bia-			
+999	89	*c̣a2-	*c̣a-	*mojar	Tak	mojado	ca-bi-da			
+1000	89	*c̣a2-	*c̣a-	*mojar	Kav	rozar,chaquear	ca-he-			
+1001	89	*c̣a2-	*c̣a-	*mojar	Kav	chilchiar (lloviznar)	ka-ca-ca-			
+1002	90	*c̣a3-	*c̣a-	*reír	ProTa	reír	c̣a-			
+1003	90	*c̣a3-	*c̣a-	*reír	Kav	reír,sonreír	ca-			
+1004	90	*c̣a3-	*c̣a-	*reír	Kav	están enamorados	ca-ye ekace			
+1005	90	*c̣a3-	*c̣a-	*reír	Kav	sonrisa	ca-ye-ke			
+1006	90	*c̣a3-	*c̣a-	*reír	Ese	reirse	soa-			
+1007	90	*c̣a3-	*c̣a-	*reír	Ese	asustarse	xa-xa-soa-ki-			
+1008	90	*c̣a3-	*c̣a-	*reír	Ese	feliz	kea-soa-še		cognate?	
+1009	90	*c̣a3-	*c̣a-	*reír	Ara	rire	esa			
+1010	91	*c̣a4-	*c̣a-	*orilla	ProTa	orilla	c̣a-			
+1011	91	*c̣a4-	*c̣a-	*orilla	Tak	orilla,borde,canto	e-ca-na		Armentia	
+1012	91	*c̣a4-	*c̣a-	*orilla	Tak	alborde del río	e-ca-na-u		Armentia	
+1013	91	*c̣a4-	*c̣a-	*orilla	Ese	orilla	e-sa-wa			
+1014	92	*c̣aʔa	*c̣aʔa	*necesito	ProTa	necesito	c̣aʔa			
+1015	92	*c̣aʔa	*c̣aʔa	*necesito	Tak	yo necesito	caʔa		Armentia	
+1016	92	*c̣aʔa	*c̣aʔa	*necesito	Tak	no necesito	caʔa mave		Armentia	
+1017	92	*c̣aʔa	*c̣aʔa	*necesito	Tak	querer,yo necesito	ca-da		Armentia	
+1018	92	*c̣aʔa	*c̣aʔa	*necesito	Tak	está buscando una cosa que necesita	e-ca-tani		Armentia	
+1019	92	*c̣aʔa	*c̣aʔa	*necesito	Tak	necesidad	ha-ca-ti		Armentia	
+1020	92	*c̣aʔa	*c̣aʔa	*necesito	Ese	buscar	saʔaxa-nahe			
+1021	93	*c̣aka	*c̣aka	*pie,pierna	ProTa	pie,pierna	c̣aka			
+1022	93	*c̣aka	*c̣aka	*pie,pierna	Tak	pié y tobillo,canilla,pié o tronco de un árbol,pata de un animal	e-caha		Armentia	
+1023	93	*c̣aka	*c̣aka	*pie,pierna	Tak	vuélcalo	caha-sia-pa-ke		Armentia	
+1024	93	*c̣aka	*c̣aka	*pie,pierna	Tak	al ras	caha-su		Armentia	
+1025	93	*c̣aka	*c̣aka	*pie,pierna	Rey	root	e-caha			
+1026	93	*c̣aka	*c̣aka	*pie,pierna	Kav	pierna	e-caka			
+1027	93	*c̣aka	*c̣aka	*pie,pierna	Kav	entrepiernas	e-caka-mahata		Armentia	
+1028	93	*c̣aka	*c̣aka	*pie,pierna	Ese	raíz	e-saxa			
+1029	93	*c̣aka	*c̣aka	*pie,pierna	War	raíz (of a tree)	akwi-saha			
+1030	94	*c̣apa	*c̣apa	*cabeza	ProTa	cabeza	c̣apa			
+1031	94	*c̣apa	*c̣apa	*cabeza	Tak	seso,médula	e-capona		*c̣apa+?	
+1032	94	*c̣apa	*c̣apa	*cabeza	Ese	cabeza	e-sapa			
+1033	94	*c̣apa	*c̣apa	*cabeza	Ese	seso	e-sapa-doxo			
+1034	94	*c̣apa	*c̣apa	*cabeza	Ese	almohada	e-sapa-haaxi			
+1035	94	*c̣apa	*c̣apa	*cabeza	Ese	calavera	sapa-xi			
+1036	94	*c̣apa	*c̣apa	*cabeza	Ese	calvo	sapa-ñama			
+1037	94	*c̣apa	*c̣apa	*cabeza	Ese	rubio	sapa-oše			
+1038	94	*c̣apa	*c̣apa	*cabeza	Ese	calvo	sapa-pohi			
+1039	94	*c̣apa	*c̣apa	*cabeza	Ese	dandruff	sapa-bó			
+1040	94	*c̣apa	*c̣apa	*cabeza	War	cabeza	e-sapa			
+1041	94	*c̣apa	*c̣apa	*cabeza	War	calavera	e-manu-sápa-hi			
+1042	95	*c̣ati	*c̣ati	*punta de flecha hecha de tacuara raspada	ProTa	punta de flecha hecha de tacuara raspada	c̣ati			
+1043	95	*c̣ati	*c̣ati	*punta de flecha hecha de tacuara raspada	Tak	punta de flecha hecha de tacuara raspada	cati			
+1044	95	*c̣ati	*c̣ati	*punta de flecha hecha de tacuara raspada	Kav	unta de tacuara de flecha	cati			
+1045	95	*c̣ati	*c̣ati	*punta de flecha hecha de tacuara raspada	Ara	flèche à pointe de caña brava	sāti			
+1046	96	*c̣au	*c̣au	*hueso	ProTa	hueso	c̣au			
+1047	96	*c̣au	*c̣au	*hueso	Tak	hueso	e-cau			
+1048	96	*c̣au	*c̣au	*hueso	Tak	tuétano	e-cau-dubudu		Armentia	
+1049	96	*c̣au	*c̣au	*hueso	Rey	bone	e-cao			
+1050	96	*c̣au	*c̣au	*hueso	Kav	hueso,jipurí (nervio principal de la hoja de la palmera totai)	e-cao			
+1051	96	*c̣au	*c̣au	*hueso	Ese	hueso	e-sá			
+1052	96	*c̣au	*c̣au	*hueso	War	hueso	e-sá			
+1053	97	*c̣awa-	*c̣awa-	*ayudar	ProTa	ayudar	c̣awa-			
+1054	97	*c̣awa-	*c̣awa-	*ayudar	Tak	ayudar	cawa-			
+1055	97	*c̣awa-	*c̣awa-	*ayudar	Kav	ayudar	cawa-			
+1056	97	*c̣awa-	*c̣awa-	*ayudar	Ese	ayudar	ewa-sawa-,baʔe-sawa-ka-			
+1057	98	*c̣e1	*c̣e	*diente	ProTa	diente	c̣e		see also *c̣ewe	
+1058	98	*c̣e1	*c̣e	*diente	Tak	diente	e-ce			
+1059	98	*c̣e1	*c̣e	*diente	Tak	muela	e-ce y-amaha			
+1060	98	*c̣e1	*c̣e	*diente	Tak	encía	e-ce-tibu			
+1061	98	*c̣e1	*c̣e	*diente	Tak	colmillo	e-ce-buce		Armentia	
+1062	98	*c̣e1	*c̣e	*diente	Tak	gancho,horqueta	e-ce-dada		Armentia	
+1063	98	*c̣e1	*c̣e	*diente	Tak	con dientes	e-ce-hi		Armentia	
+1064	98	*c̣e1	*c̣e	*diente	Tak	punta	e-ce-ki		Armentia	
+1065	98	*c̣e1	*c̣e	*diente	Tak	encía	e-ce-caha		Armentia	
+1066	98	*c̣e1	*c̣e	*diente	Rey	tooth	e-ce			
+1067	98	*c̣e1	*c̣e	*diente	Mar	teeth	etre		Heath	
+1068	98	*c̣e1	*c̣e	*diente	Mar	tooth	étschée		Nordenskiöld	
+1069	98	*c̣e1	*c̣e	*diente	Sap	dente	echee			
+1070	98	*c̣e1	*c̣e	*diente	Mab	teeth	itsi			
+1071	98	*c̣e1	*c̣e	*diente	Kav	diente	e-ce			
+1072	98	*c̣e1	*c̣e	*diente	Kav	encía	e-ce-kona			
+1073	98	*c̣e1	*c̣e	*diente	Kav	sin diente	ce-ma			
+1074	98	*c̣e1	*c̣e	*diente	Kav	dentellar	e-ce-taki-a-		Armentia	
+1075	98	*c̣e1	*c̣e	*diente	Kav	dentón	ce-baru-da		Armentia	
+1076	98	*c̣e1	*c̣e	*diente	Kav	dentera	ce-pariri		Armentia	
+1077	98	*c̣e1	*c̣e	*diente	Kav	dentado	ce-ki		Armentia	
+1078	98	*c̣e1	*c̣e	*diente	Kav	endentecer	ce-ki-hu		Armentia	
+1079	98	*c̣e1	*c̣e	*diente	Ese	diente	e-se			
+1080	98	*c̣e1	*c̣e	*diente	War	diente	e-sé			
+1081	98	*c̣e1	*c̣e	*diente	War	sin dientes	e-se-ma			
+1082	98	*c̣e1	*c̣e	*diente	War	encias	e-se-kew-kwionehi			
+1083	98	*c̣e1	*c̣e	*diente	Čam	tooth	e-sé			
+1084	98	*c̣e1	*c̣e	*diente	Ara	tooth	ese		Nordenskiöld	
+1085	98	*c̣e1	*c̣e	*diente	Tia	teeth	ese		Faust	
+1086	99	*-c̣e2	*-c̣e	*dual suffix	ProTa	dual suffix	-c̣e			
+1087	99	*-c̣e2	*-c̣e	*dual suffix	Tak	Uds. (dual/intrans.)	me-ce-da			
+1088	99	*-c̣e2	*-c̣e	*dual suffix	Tak	ellos (dual/intrans.)	tua-ce-da			
+1089	99	*-c̣e2	*-c̣e	*dual suffix	Tak	nosotros (dual/incl./intrans.)	e-ce-da			
+1090	99	*-c̣e2	*-c̣e	*dual suffix	Tak	nosotros (dual/excl./intrans.)	e-ce-a e-ci-a			
+1091	99	*-c̣e2	*-c̣e	*dual suffix	Tak	dual suffix for nouns	-de-ce			
+1092	99	*-c̣e2	*-c̣e	*dual suffix	Kav	nosotros dos	ya-ce			
+1093	99	*-c̣e2	*-c̣e	*dual suffix	Kav	ambos,ellos dos	ta-ce			
+1094	99	*-c̣e2	*-c̣e	*dual suffix	Kav	dentrambos	ta-ce ~ e-ka-ce		Armentia	
+1095	100	*c̣ea-(c̣ea-)	*c̣ea-(c̣ea-)	*gritar	ProTa	gritar	c̣ea-(c̣ea-)			
+1096	100	*c̣ea-(c̣ea-)	*c̣ea-(c̣ea-)	*gritar	Tak	gritar,gruñir,chillar	cia-cia		Armentia	
+1097	100	*c̣ea-(c̣ea-)	*c̣ea-(c̣ea-)	*gritar	Tak	gritón	cia-cia-cia-cia		Armentia	
+1098	100	*c̣ea-(c̣ea-)	*c̣ea-(c̣ea-)	*gritar	Tak	grito,ahuillido,graznido	e-cia-cia-ni		Armentia	
+1099	100	*c̣ea-(c̣ea-)	*c̣ea-(c̣ea-)	*gritar	Kav	vivo,sano,chacota,grito,griterio	ča-ča		Concepts 'chacota,grito,griterio' seems to be taken from Armentia. Not sure about this one. Refer to the source.	
+1100	100	*c̣ea-(c̣ea-)	*c̣ea-(c̣ea-)	*gritar	Kav	insaludable	ča-ča-bakwa		Armentia	
+1101	100	*c̣ea-(c̣ea-)	*c̣ea-(c̣ea-)	*gritar	Kav	gritar	ča-ča-ča		Armentia	
+1102	100	*c̣ea-(c̣ea-)	*c̣ea-(c̣ea-)	*gritar	Kav	rojo	ča-ča-da		Armentia
+1103	100	*c̣ea-(c̣ea-)	*c̣ea-(c̣ea-)	*gritar	Kav	contender	ča-ča-he		Armentia	
+1104	100	*c̣ea-(c̣ea-)	*c̣ea-(c̣ea-)	*gritar	Kav	chacotear,sanar	ča-ča-hu		Armentia	
+1105	100	*c̣ea-(c̣ea-)	*c̣ea-(c̣ea-)	*gritar	Kav	curar	ča-ča-mere		Armentia	
+1106	100	*c̣ea-(c̣ea-)	*c̣ea-(c̣ea-)	*gritar	Kav	curar,salvar	ča-ča-ne-			
+1107	100	*c̣ea-(c̣ea-)	*c̣ea-(c̣ea-)	*gritar	Kav	curandero,salvador	ča-ča-ne-pohi			
+1108	100	*c̣ea-(c̣ea-)	*c̣ea-(c̣ea-)	*gritar	Kav	zorro	ča-ča-ihawa			
+1109	100	*c̣ea-(c̣ea-)	*c̣ea-(c̣ea-)	*gritar	Kav	disfavor	ča-ča-ne-ma		Armentia	
+1110	100	*c̣ea-(c̣ea-)	*c̣ea-(c̣ea-)	*gritar	Ese	gritar	sea-sea-			
+1111	101	*c̣ec̣e	*c̣ec̣e	*fuerte,agrio	ProTa	fuerte,agrio	c̣ec̣e			
+1112	101	*c̣ec̣e	*c̣ec̣e	*fuerte,agrio	Tak	fermentar la chicha	cece-na-			
+1113	101	*c̣ec̣e	*c̣ec̣e	*fuerte,agrio	Tak	borracho	cece-hihi			
+1114	101	*c̣ec̣e	*c̣ec̣e	*fuerte,agrio	Tak	emborracher	cece-			
+1115	101	*c̣ec̣e	*c̣ec̣e	*fuerte,agrio	Tak	avinegrado	cece-na-hihi		Armentia	
+1116	101	*c̣ec̣e	*c̣ec̣e	*fuerte,agrio	Mar	strong	tretremí		Heath	
+1117	101	*c̣ec̣e	*c̣ec̣e	*fuerte,agrio	Ese	fuerte,agrio	kea-sese			
+1118	101	*c̣ec̣e	*c̣ec̣e	*fuerte,agrio	War	agrio	kia-sese			
+1119	101	*c̣ec̣e	*c̣ec̣e	*fuerte,agrio	War	no agrio	sesé-ma			
+1120	101	*c̣ec̣e	*c̣ec̣e	*fuerte,agrio	War	borracho	e-sese-nansi			
+1121	101	*c̣ec̣e	*c̣ec̣e	*fuerte,agrio	War	emborracher	sese-na-			
+1122	102	*c̣edu	*c̣edu	*pecho	ProTa	pecho	c̣edu			
+1123	102	*c̣edu	*c̣edu	*pecho	Tak	pecho	e-cedu			
+1124	102	*c̣edu	*c̣edu	*pecho	Tak	galápago	cedu-hari			
+1125	102	*c̣edu	*c̣edu	*pecho	Rey	chest	e-čendzo			
+1126	102	*c̣edu	*c̣edu	*pecho	Mar	chest	ečéntru		Heath	
+1127	102	*c̣edu	*c̣edu	*pecho	Sap	petto	echerù			
+1128	102	*c̣edu	*c̣edu	*pecho	Ese	pecho	e-seʔo			
+1129	102	*c̣edu	*c̣edu	*pecho	Ese	vello del pecho	e-seʔo-ña			
+1130	102	*c̣edu	*c̣edu	*pecho	War	pecho	e-seo			
+1131	102	*c̣edu	*c̣edu	*pecho	Ara	poitrine	eséo		Nordenskiöld	
