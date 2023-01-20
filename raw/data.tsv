@@ -1456,4 +1456,435 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 1433	138	*diji	*diji	*camino	Kav	hostigar	dihi-ma		Armentia	
 1434	138	*diji	*diji	*camino	Ese	rayar	dii-		cognate?	
 1435	139	*du1-	*du-	*pariente	ProTa	pariente	du-			
-1436
+1436	139	*du1-	*du-	*pariente	Tak	pariente,hermano	e-du-e			
+1437	139	*du1-	*du-	*pariente	Tak	mucho,harto,tiene hermanos,bandada	du-e-hi		Concept 'bandada' taken from Armentia | *du+re?	
+1438	139	*du1-	*du-	*pariente	Tak	hermana mayor (entre mujeres)	du-du		Hombres usan para todas las hermanas	
+1439	139	*du1-	*du-	*pariente	Tak	cuñado (marido de hermana)	e-du-s-awe	*du-sa-awe			
+1440	139	*du1-	*du-	*pariente	Mar	much	drúxa		Heath	
+1441	139	*du1-	*du-	*pariente	Mar	older sister	drundru		Heath	
+1442	139	*du1-	*du-	*pariente	Aro	parents	-edoï-		Robuchon	
+1443	139	*du1-	*du-	*pariente	Mab	brother	dodo			
+1444	139	*du1-	*du-	*pariente	Mab	sister	doda			
+1445	139	*du1-	*du-	*pariente	Kav	campañero	e-dure		Armentia	
+1446	139	*du1-	*du-	*pariente	Kav	todo,completo	du-tia			
+1447	139	*du1-	*du-	*pariente	Kav	no es todo	du-tia ama			
+1448	139	*du1-	*du-	*pariente	Kav	todas partes,todo el mundo	du-tia keha			
+1449	139	*du1-	*du-	*pariente	Kav	igual	du-tia-topo			
+1450	139	*du1-	*du-	*pariente	Ese	brother	e-doe			
+1451	139	*du1-	*du-	*pariente	War	vecino,paisano	doe			
+1452	139	*du1-	*du-	*pariente	War	compañero	e-doe			
+1453	139	*du1-	*du-	*pariente	Čam	my brother	ekwia-dói		*du+re?	
+1454	140	*du2-	*du-	*hondo	ProTa	hondo	du-		cf- *nu3 and *nubi	
+1455	140	*du2-	*du-	*hondo,profundo	Tak	adentro	e-du-me-su			
+1456	140	*du2-	*du-	*hondo,profundo	Tak	hondo	du-e-da			
+1457	140	*du2-	*du-	*hondo,profundo	Tak	por adentro	e-du-me-he			
+1458	140	*du2-	*du-	*hondo,profundo	Tak	mitad	e-du-sete			
+1459	140	*du2-	*du-	*hondo,profundo	Tak	en el medio	e-du-sete-su			
+1460	140	*du2-	*du-	*hondo,profundo	Tak	medir la profundidad	du-e-ba		Armentia	
+1461	140	*du2-	*du-	*hondo,profundo	Tak	irse a lo profundo	du-e-da-su-nubi		Armentia	
+1462	140	*du2-	*du-	*hondo,profundo	Kav	profundo,hondo	de-da			
+1463	140	*du2-	*du-	*hondo,profundo	Kav	pando,poco profundo	de-da-ma-ke			
+1464	140	*du2-	*du-	*hondo,profundo	Kav	fondear	de-daʔa		Armentia	
+1465	140	*du2-	*du-	*hondo,profundo	Kav	fondeo,hondura	de-u		Armentia	
+1466	140	*du2-	*du-	*hondo,profundo	Kav	panza	du-e-niti			1
+1467	140	*du2-	*du-	*hondo,profundo	Ese	hondo	kea-do-e			
+1468	140	*du2-	*du-	*hondo,profundo	Ese	hongo	doo			1
+1469	140	*du2-	*du-	*hondo,profundo	Ese	envolver	do-do-ka-			
+1470	140	*du2-	*du-	*hondo,profundo	Ese	bajar (por el río)	do-ho-ka-			
+1471	140	*du2-	*du-	*hondo,profundo	Ese	desbarrancar	do-ho-ka-ki-			
+1472	140	*du2-	*du-	*hondo,profundo	Ese	enviar	do-ho-mee-ka-			
+1473	140	*du2-	*du-	*hondo,profundo	Ese	apartir	do-ho-tepe-ka-			
+1474	140	*du2-	*du-	*hondo,profundo	Ese	tapar	do-ko-ka-		all from *du2?	
+1475	140	*du2-	*du-	*hondo,profundo	War	hondo	kia-doi,kia-done			
+1476	140	*du2-	*du-	*hondo,profundo	Čam	toadstoll	Nóo		cognate?	
+1477	140	*du2-	*dubi	*entrar,centro	ProTa	entrar,centro	dubi	*du2+di		
+1478	140	*du2-	*dubi	*entrar,centro	Tak	medula,entrañas,centro	e-dubi-ři		Concepts 'entrañas,centro' taken from Armentia	
+1479	140	*du2-	*dubi	*entrar,centro	Tak	embudo,echador	e-dubi-uhi		Armentia	
+1480	140	*du2-	*dubi	*entrar,centro	Tak	hueco	dubi-dihi		Armentia	
+1481	140	*du2-	*dubi	*entrar,centro	Tak	entresacar	dubi-ha		Armentia	
+1482	140	*du2-	*dubi	*entrar,centro	Ese	entrar	dobi-			
+1483	140	*du2-	*dubi	*entrar,centro	Ese	hundirse	hea-dobi-			
+1484	140	*du2-	*dubi	*entrar,centro	Ese	volcar	kwea-hea-dobi-a-ka-			
+1485	140	*du2-	*dubi	*entrar,centro	Ese	meter	iya-dobe-a-			
+1486	140	*du2-	*duku	*adentro,en	ProTa	adentro,en	duku	*du2+ku		
+1487	140	*du2-	*duku	*adentro,en	Tak	entre medio	e-duhu-su			
+1488	140	*du2-	*duku	*adentro,en	Tak	empuñar	e-me-duhu-			
+1489	140	*du2-	*duku	*adentro,en	Tak	entre	duhu		Armentia	
+1490	140	*du2-	*duku	*adentro,en	Tak	adentro de entre,en el centro	duhu-su		Armentia	
+1491	140	*du2-	*duku	*adentro,en	Was	of thy womb	ečeme-rˈuzu			
+1492	140	*du2-	*duku	*adentro,en	Kav	adentro	e-doko-ho			
+1493	140	*du2-	*duku	*adentro,en	Kav	adentro del agua	ena-doko			
+1494	140	*du2-	*duku	*adentro,en	Kav	interno	e-duku-hu		Armentia	
+1495	140	*du2-	*duku	*adentro,en	Ese	adentro,en	e-doxo-ho			
+1496	140	*du2-	*duku	*adentro,en	Ese	en la casa	e-kii-doxo-ho			
+1497	140	*du2-	*duku	*adentro,en	Ese	espíritu	e-doxo-šawa			
+1498	140	*du2-	*duku	*adentro,en	Ese	costillas	e-doxo-xáni-xi			
+1499	140	*du2-	*duku	*adentro,en	Ese	seso	e-sapa-doxo			
+1500	140	*du2-	*duku	*adentro,en	War	llenar	doho-			
+1501	140	*du2-	*dunu	*envolver	ProTa	envolver	dunu	*du2+nu		
+1502	140	*du2-	*dunu	*envolver	Tak	envolver	dunu-			
+1503	140	*du2-	*dunu	*envolver	Tak	tapar (encima)	bia-dunu-			
+1504	140	*du2-	*dunu	*envolver	Tak	cosa (como trapo) para envolver	e-dunu-(h)i			
+1505	140	*du2-	*dunu	*envolver	Tak	retobo	e-dunu-risi		Armentia	
+1506	140	*du2-	*dunu	*envolver	Kav	envolver,liar	dono-			
+1507	140	*du2-	*dunu	*envolver	Kav	liar para asar	dono-kwawi			
+1508	140	*du2-	*dunu	*envolver	Kav	paquete	e-dono-pihi			
+1509	140	*du2-	*dunu	*envolver	Ese	acomodar	dono-			
+1510	140	*du2-	*dunu	*envolver	War	envolver	dono-			
+1511	141	*du3-	*du-	*cascabel	ProTa	cascabel	du-		*du1?	
+1512	141	*du3-	*du-	*cascabel	Tak	cascabel	du		Armentia	
+1513	141	*du3-	*du-	*cascabel	Tak	serpentear	duniduni		Armentia	
+1514	141	*du3-	*du-	*cascabel	Kav	revés	dunieke		Armentia | cognate?	
+1515	142	*du4-	*du-	*racimo	ProTa	racimo	du-		*du1?	
+1516	142	*du4-	*du-	*racimo	Tak	racimo	e-du			
+1517	142	*du4-	*du-	*racimo	Kav	yema	e-du		Armentia | or from *du2?	
+1518	142	*du4-	*du-	*racimo	Kav	cocinar,preparar,espesar	do-ca-		Concept 'espesar' taken from Armentia	
+1519	142	*du4-	*du-	*racimo	Kav	caldo,comido	e-do-ca			
+1520	142	*du4-	*du-	*racimo	Kav	turbio,espeso	do-ca-da			
+1521	142	*du4-	*du-	*racimo	Kav	ralo	do-ca-da-ma			
+1522	142	*du4-	*du-	*racimo	Kav	coagular	e-du-ta		Armentia	
+1523	143	*duc̣i	*duc̣i	*brujo,dios	ProTa	brujo,dios	duc̣i			
+1524	143	*duc̣i	*duc̣i	*brujo,dios	Tak	piedra de brujo,poder de brujería	e-duci			
+1525	143	*duc̣i	*duc̣i	*brujo,dios	Sap	dio	eruchi			
+1526	143	*duc̣i	*duc̣i	*brujo,dios	Aro	dios	edutzi			
+1527	143	*duc̣i	*duc̣i	*brujo,dios	Kav	dios	e-duči		Armentia	
+1528	143	*duc̣i	*duc̣i	*brujo,dios	Ese	brujo,curandero	e-dosi-kia			
+1529	144	*dudu-	*dudu-	*moler,tocar	ProTa	moler,tocar	dudu-			
+1530	144	*dudu-	*dudu-	*moler,tocar	Tak	moler	dudu-			
+1531	144	*dudu-	*dudu-	*moler,tocar	Tak	piedra de moler	e-dudu-i tumu			
+1532	144	*dudu-	*dudu-	*moler,tocar	Kav	tocar,sonar (instrumento)	dodo-			
+1533	144	*dudu-	*dudu-	*moler,tocar	Kav	música,puntear	dodo-dodo-ya-ke		Concepto 'puntear' taken from Armentia	
+1534	144	*dudu-	*dudu-	*moler,tocar	Kav	horcón,poste	dodo			
+1535	145	*dukweri	*dukweri	*venado	ProTa	venado	dukweri			
+1536	145	*dukweri	*dukweri	*venado	Tak	venado,huasa	dukei			
+1537	145	*dukweri	*dukweri	*venado	Tak	venado de pajonal	ča-dukei		Armentia	
+1538	145	*dukweri	*dukweri	*venado	Tak	hormiga colorada larga, muy venenosa	dukei-buna			
+1539	145	*dukweri	*dukweri	*venado	Rey	deer	ndzokwei			
+1540	145	*dukweri	*dukweri	*venado	Kav	venado,huaso del monte	dokweri			
+1541	145	*dukweri	*dukweri	*venado	Kav	león leopardo	dokweri iba			
+1542	145	*dukweri	*dukweri	*venado	Ese	venado	dokwé			
+1543	145	*dukweri	*dukweri	*venado	Ese	ciervo	dokwe-ʔai			
+1544	145	*dukweri	*dukweri	*venado	Ese	león	dokwe ibia			
+1545	145	*dukweri	*dukweri	*venado	War	venado,ciervo	dokwei			
+1546	145	*dukweri	*dukweri	*venado	War	venado rojo	dokwei oʔó			
+1547	145	*dukweri	*dukweri	*venado	War	venado blanco	dokwei oši			
+1548	145	*dukweri	*dukweri	*venado	War	venado negro	dokwei tewe			
+1549	146	*dumi	*dumi	*excremento	ProTa	excremento	dumi			
+1550	146	*dumi	*dumi	*excremento	Tak	excremento	dumi			
+1551	146	*dumi	*dumi	*excremento	Tak	hormiga hedionda	dumi-daři			
+1552	146	*dumi	*dumi	*excremento	Tak	hormiga escarabajo	dumi-tahai			
+1553	146	*dumi	*dumi	*excremento	Kav	panza,barriga grande	e-domi-hiti			
+1554	146	*dumi	*dumi	*excremento	Kav	excremento,excretar,mierda,coagada,cagar	dumi		Armentia	
+1555	146	*dumi	*dumi	*excremento	Kav	cagadero	dumi-kini		Armentia	
+1556	146	*dumi	*dumi	*excremento	Kav	extreñir	dumi-tadata		Armentia	
+1557	146	*dumi	*dumi	*excremento	Kav	intestino	e-dumi-ti		Armentia	
+1558	147	*dus...	*dus...	*llevar	ProTa	llevar	dus...			
+1559	147	*dus...	*dus...	*llevar	Tak	llevar	dusu-			
+1560	147	*dus...	*dus...	*llevar	Tak	traer	duse-			
+1561	147	*dus...	*dus...	*llevar	Kav	llevar	doho-			
+1562	147	*dus...	*dus...	*llevar	Kav	aparecer	ka-duhu-neti		Armentia	
+1563	147	*dus...	*dus...	*llevar	Ese	llevar	doho-			
+1564	148	*duʔu	*duʔu	*mono manechi	ProTa	mono manechi	duʔu			
+1565	148	*duʔu	*duʔu	*mono manechi	Tak	mono manechi	du			
+1566	148	*duʔu	*duʔu	*mono manechi	Tak	mono lucashi	du-ka-du-ka			
+1567	148	*duʔu	*duʔu	*mono manechi	Rey	howler monkey	ndzo			
+1568	148	*duʔu	*duʔu	*mono manechi	Kav	manechi (mono aullador)	do(ʔ)o			
+1569	148	*duʔu	*duʔu	*mono manechi	Kav	mono lucashi,mono león	do-kwa-do-kwa			
+1570	148	*duʔu	*duʔu	*mono manechi	Kav	erereú (abeja)	doʔo-waha			
+1571	148	*duʔu	*duʔu	*mono manechi	Ese	manechi	dó			
+1572	148	*duʔu	*duʔu	*mono manechi	War	mono coto	do			
+1573	148	*duʔu	*duʔu	*mono manechi	War	howler monkey	ndo		Hart/Fast	
+1574	149	*e-	*e-	*absolutive prefix	ProTa	absolutive prefix	e-			
+1575	149	*e-	*e-	*absolutive prefix	Tak	absolutive prefix	e-			
+1576	149	*e-	*e-	*absolutive prefix	Kav	absolutive prefix	e-			
+1577	149	*e-	*e-	*absolutive prefix	Ese	absolutive prefix	e-			
+1578	150	*eʔe	*eʔe	*sí	ProTa	sí	eʔe			
+1579	150	*eʔe	*eʔe	*sí	Tak	sí	eʔe			
+1580	150	*eʔe	*eʔe	*sí	Mar	yes	ee			
+1581	150	*eʔe	*eʔe	*sí	Kav	sí	heh-eʔe			
+1582	150	*eʔe	*eʔe	*sí	Kav	esta	eʔe-ke			
+1583	150	*eʔe	*eʔe	*sí	Ese	sí está bien	eʔe			
+1584	150	*eʔe	*eʔe	*sí	Ese	de veras,cierto	eʔe hohinee			
+1585	150	*eʔe	*eʔe	*sí	Ara	yes	ehe,e			
+1586	151	*ei-	*ei-	*1P	ProTa	1P	ei-		see also *c̣e2,*kwana	
+1587	151	*ei-	*ei-	*1P	Tak	I (intr.)	e-ma			
+1588	151	*ei-	*ei-	*1P	Tak	I (tr.)	yama	*e-ra-ma		
+1589	151	*ei-	*ei-	*1P	Tak	yo solo	e-ma-mewa			
+1590	151	*ei-	*ei-	*1P	Tak	conmigo	e-ma-nehe			
+1591	151	*ei-	*ei-	*1P	Rey	I	e-me			
+1592	151	*ei-	*ei-	*1P	Mar	I	éme		Heath	
+1593	151	*ei-	*ei-	*1P	Aro	I	ema,yama			
+1594	151	*ei-	*ei-	*1P	Kav	I (tr.)	e-ra			
+1595	151	*ei-	*ei-	*1P	Kav	I (intr.)	i-ke		Armentia: <yequia>	
+1596	151	*ei-	*ei-	*1P	Kav	yo solo,yo mismo	i-ta			
+1597	151	*ei-	*ei-	*1P	Kav	hacía mí	iakeha			
+1598	151	*ei-	*ei-	*1P	Kav	conmigo	iacewe		Armentia: <eatseve>	
+1599	151	*ei-	*ei-	*1P	Kav	nosotros dos	yace			
+1600	151	*ei-	*ei-	*1P	Ese	yo	ea ~ eyaya	*e-ra(e-ra)		
+1601	152	*iba	*iba	*tigre	ProTa	tigre	iba			
+1602	152	*iba	*iba	*tigre	Tak	tigre	iba			
+1603	152	*iba	*iba	*tigre	Rey	jaguar	imba			
+1604	152	*iba	*iba	*tigre	Mar	jaguar	imba,ínpa		/imba/ from Cardús, /ínpa/ Nordenskiöld	
+1605	152	*iba	*iba	*tigre	Kav	tigre (jaguar)	iba			
+1606	152	*iba	*iba	*tigre	Kav	tigrecillo	iba-wiri			
+1607	152	*iba	*iba	*tigre	Kav	clase de víbora	iba-bakwa			
+1608	152	*iba	*iba	*tigre	Kav	garduña	ibazebe		Armentia	
+1609	152	*iba	*iba	*tigre	Ese	tigre	ibiá			
+1610	152	*iba	*iba	*tigre	Ese	tigre pintado	ibiá-koxoka			
+1611	152	*iba	*iba	*tigre	War	tigre	ibá			
+1612	152	*iba	*iba	*tigre	War	tigre rojo	ibá oʔo		no palatalization!	
+1613	153	*ibabi	*ibabi	*raya	ProTa	raya	ibabi			
+1614	153	*ibabi	*ibabi	*raya	Tak	raya	ibabi			
+1615	153	*ibabi	*ibabi	*raya	Kav	raya	ibabi			
+1616	153	*ibabi	*ibabi	*raya	Ese	raya	ibabi			
+1617	153	*ibabi	*ibabi	*raya	War	raya	ibabi		no palatalization!	
+1618	154	*idu-	*idu-	*remedio	ProTa	remedio	idu-			
+1619	154	*idu-	*idu-	*remedio	Tak	remedio	e-idu			
+1620	154	*idu-	*idu-	*remedio	Tak	remedio	e-idue		Armentia	
+1621	154	*idu-	*idu-	*remedio	Tak	curar	iduene-			
+1622	154	*idu-	*idu-	*remedio	Kav	aguantar	ido-			
+1623	154	*idu-	*idu-	*remedio	Kav	sufrir	idu-ho-		Armentia	
+1624	154	*idu-	*idu-	*remedio	Kav	sufrible	idu-hu-ta-ki		Armentia	
+1625	154	*idu-	*idu-	*remedio	Kav	exasperar	idu-maʔa		Armentia	
+1626	154	*idu-	*idu-	*remedio	Kav	compunción	idu-u		Armentia	
+1627	155	*ija1	*ija	*puerco espín	ProTa	puerco espín	ija			
+1628	155	*ija1	*ija	*puerco espín	Tak	puerco espín	iřa			
+1629	155	*ija1	*ija	*puerco espín	Tak	espina	akiřa	*akwi-ija		
+1630	155	*ija1	*ija	*puerco espín	Kav	puerco espín	iha			
+1631	155	*ija1	*ija	*puerco espín	Kav	limar	iha-ha-			
+1632	155	*ija1	*ija	*puerco espín	Kav	espina	akwiha			
+1633	155	*ija1	*ija	*puerco espín	Kav	erizar	isasa		Armentia | cognate?	
+1634	155	*ija1	*ija	*puerco espín	Ese	puerco espín	xiša		x < ?	
+1635	155	*ija1	*ija	*puerco espín	Ese	sacar (cuero o cáscara)	išá-			
+1636	155	*ija1	*ija	*puerco espín	Ese	rasparse	xa-iša-ki-			
+1637	155	*ija1	*ija	*puerco espín	Ese	afilar	išo-			
+1638	155	*ija1	*ija	*puerco espín	Ese	espina	akwiša			
+1639	155	*ija1	*ija	*puerco espín	War	puerco espín	hiša			
+1640	155	*ija1	*ija	*puerco espín	Ara	scratch oneself	ešeuviseuvi			
+1641	156	*ija2-	*ija-	*oreja	ProTa	oreja	ija-		All the Čamik forms appear to be based on *jaka	
+1642	156	*ija2-	*ija-	*oreja	Tak	escuchar,oír	iřa-ba-			
+1643	156	*ija2-	*ija-	*oreja	Tak	sordo	iřa-ha-mawe
+1644	156	*ija2-	*ija-	*oreja	Tak	oreja	e-iřa-ha			
+1645	156	*ija2-	*ija-	*oreja	Tak	bulla	ida-ba-da		Armentia	
+1646	156	*ija2-	*ija-	*oreja	Rey	ear	e-šaxa			
+1647	156	*ija2-	*ija-	*oreja	Mar	ear	ešakuéna		Heath	
+1648	156	*ija2-	*ija-	*oreja	Mar	ear	éshaquehuéna		Nordenskiöld	
+1649	156	*ija2-	*ija-	*oreja	Mab	ear	ithaha			
+1650	156	*ija2-	*ija-	*oreja	Kav	oreja	iha-ka			
+1651	156	*ija2-	*ija-	*oreja	Kav	oído	iha-ka-kani			
+1652	156	*ija2-	*ija-	*oreja	Kav	sordo	iha-ka-ma			
+1653	156	*ija2-	*ija-	*oreja	Kav	sordo	isave		Armentia	
+1654	156	*ija2-	*ija-	*oreja	Kav	ensordecer	izabeʔa		Armentia | cognate?	
+1655	156	*ija2-	*ija-	*oreja	Ese	oreja	e-šaxa			
+1656	156	*ija2-	*ija-	*oreja	Ese	conejo	saša-biso		:narrow ears	
+1657	156	*ija2-	*ija-	*oreja	War	orejas,oído	e-šaha			
+1658	156	*ija2-	*ija-	*oreja	War	oír	šaha-aha-			
+1659	156	*ija2-	*ija-	*oreja	Tia	ear	icahak			
+1660	156	*ija2-	*ija-	*oreja	Ara	ear	éšaša		Nordenskiöld	
+1661	156	*ija2-	*ija-	*oreja	Ara	to hear	ešašaaša		Nordenskiöld	
+1662	157	*ijami-	*ijami-	*cariño	ProTa	cariño	ijami-			
+1663	157	*ijami-	*ijami-	*cariño	Tak	abracer	iřami-			
+1664	157	*ijami-	*ijami-	*cariño	Tak	criatura de pechos	e-idami		Armentia	
+1665	157	*ijami-	*ijami-	*cariño	Kav	caricia,cariño	ihamia		Armentia	
+1666	157	*ijami-	*ijami-	*cariño	Kav	cariñoso	ihamiaki		Armentia	
+1667	157	*ijami-	*ijami-	*cariño	Kav	encariñar	ihami-mere		Armentia	
+1668	158	*ijawa	*ijawa	*diablo,zorro	ProTa	diablo,zorro	ijawa		Čamik forms appear to be based on *jawa	
+1669	158	*ijawa	*ijawa	*diablo,zorro	Tak	diablo	išawa,ičawa		iřawa? | /ičawa/ taken from Armentia	
+1670	158	*ijawa	*ijawa	*diablo,zorro	Sap	demonio	isaba			
+1671	158	*ijawa	*ijawa	*diablo,zorro	Kav	diablo,zorro	ihawa			
+1672	158	*ijawa	*ijawa	*diablo,zorro	Kav	infierno	ihawa-etiki			
+1673	158	*ijawa	*ijawa	*diablo,zorro	Kav	máscara	ihawa-ihawa			
+1674	158	*ijawa	*ijawa	*diablo,zorro	Kav	condenar	ihawa-ho-			
+1675	158	*ijawa	*ijawa	*diablo,zorro	Kav	zorro	ikodo-ihawa			
+1676	158	*ijawa	*ijawa	*diablo,zorro	Kav	adulterar	ihawa-tena		Armentia	
+1677	158	*ijawa	*ijawa	*diablo,zorro	Ese	diablo	ešawa			
+1678	158	*ijawa	*ijawa	*diablo,zorro	Ese	adivinar	šawa-baki-			
+1679	158	*ijawa	*ijawa	*diablo,zorro	Ese	pensar	xa-šawa-baki-			
+1680	159	*ije	*ije	*vivo	ProTa	vivo	ije			
+1681	159	*ije	*ije	*vivo	Tak	vivo,sano,remedio	e-iře		Concepts 'sano,remedio' taken from Armentia	
+1682	159	*ije	*ije	*vivo	Tak	vivió,por,resucitó	ide-ti-da		Armentia	
+1683	159	*ije	*ije	*vivo	Tak	resucitar	ide-yu		Armentia	
+1684	159	*ije	*ije	*vivo	Tak	salvar,escapar	e-ide-pu		Armentia	
+1685	159	*ije	*ije	*vivo	Tak	está despierto	e-ide-su		Armentia	
+1686	159	*ije	*ije	*vivo	Tak	los bichos,los vivos	e-iře kwana		Concept 'los vivos' taken from Armentia	
+1687	159	*ije	*ije	*vivo	Mar	living	ešeevére		Heath	
+1688	159	*ije	*ije	*vivo	Was	the living (as opossed to the dead)	eisiecuana			
+1689	159	*ije	*ije	*vivo	Kav	botado	e-ihe-we-ke			
+1690	159	*ije	*ije	*vivo	Kav	botar,echar	ihe-we-			
+1691	159	*ije	*ije	*vivo	Ese	crudo,pando	kea-eše			
+1692	159	*ije	*ije	*vivo	Ese	crudo,vivo despierto	eše			
+1693	160	*(i)je-ti	*(i)je-ti	*sol	ProTa	sol	(i)je-ti		*(i)je+ti1?	
+1694	160	*(i)je-ti	*(i)je-ti	*sol	Tak	sol	iřeti			
+1695	160	*(i)je-ti	*(i)je-ti	*sol	Tak	resolana	iřeti-kware			
+1696	160	*(i)je-ti	*(i)je-ti	*sol	Tak	oriente	ideti ekwinanani bene		Armentia	
+1697	160	*(i)je-ti	*(i)je-ti	*sol	Tak	poniente	ideti enubiani bene		Armentia	
+1698	160	*(i)je-ti	*(i)je-ti	*sol	Tak	asolear	iři-a-ti-			
+1699	160	*(i)je-ti	*(i)je-ti	*sol	Tak	asolear	ha-ři-a-ti-			
+1700	160	*(i)je-ti	*(i)je-ti	*sol	Tak	buen tiempo,escampar	ha-di-a-ti		Armentia	
+1701	160	*(i)je-ti	*(i)je-ti	*sol	Rey	sun	išeti			
+1702	160	*(i)je-ti	*(i)je-ti	*sol	Mar	sun	ichetti,isxeti		/iccheti/ from Cardús, /isxeti/ from Heath	
+1703	160	*(i)je-ti	*(i)je-ti	*sol	Sap	sole	iseti			
+1704	160	*(i)je-ti	*(i)je-ti	*sol	Aro	sol	izeti			
+1705	160	*(i)je-ti	*(i)je-ti	*sol	Kav	sol	iheti			
+1706	160	*(i)je-ti	*(i)je-ti	*sol	Kav	oeste,poniente	iheti-keha			
+1707	160	*(i)je-ti	*(i)je-ti	*sol	Kav	eclipse del sol	e-heti-apo-ta-			
+1708	160	*(i)je-ti	*(i)je-ti	*sol	Kav	donde sale el sol	e-heti-kwinanaya-keha			
+1709	160	*(i)je-ti	*(i)je-ti	*sol	Ese	sol	e-šeki			
+1710	160	*(i)je-ti	*(i)je-ti	*sol	Ese	año	e-šeki-aha			
+1711	160	*(i)je-ti	*(i)je-ti	*sol	Ese	reloj	e-šeki-baxa			
+1712	160	*(i)je-ti	*(i)je-ti	*sol	War	sol	e-šeti			
+1713	161	*iji-	*iji-	*tomar,beber	ProTa	tomar,beber	iji-			
+1714	161	*iji-	*iji-	*tomar,beber	Tak	chicha	e-iři			
+1715	161	*iji-	*iji-	*tomar,beber	Tak	tomar	iři-			
+1716	161	*iji-	*iji-	*tomar,beber	Tak	vasija para tomar	e-iři-mehi			
+1717	161	*iji-	*iji-	*tomar,beber	Tak	tomador,borrachón	ha-iři-ti aida			
+1718	161	*iji-	*iji-	*tomar,beber	Tak	dar de beber	idi-me		Armentia	
+1719	161	*iji-	*iji-	*tomar,beber	Tak	probar (cosa líquida)	idi-ba		Armentia	
+1720	161	*iji-	*iji-	*tomar,beber	Tak	quiero beber,tengo sed	idi-ha		Armentia	
+1721	161	*iji-	*iji-	*tomar,beber	Rey	corn drink	e-iši			
+1722	161	*iji-	*iji-	*tomar,beber	Rey	drink	ʔašitihe		cognate?	
+1723	161	*iji-	*iji-	*tomar,beber	Mar	chicha	ichi		Cardús	
+1724	161	*iji-	*iji-	*tomar,beber	Mar	to drink	jaischitri		Heath	
+1725	161	*iji-	*iji-	*tomar,beber	Aro	drink	eidi			
+1726	161	*iji-	*iji-	*tomar,beber	Kav	tomar,beber	ihi-			
+1727	161	*iji-	*iji-	*tomar,beber	Kav	bebida	ihi-išo-			
+1728	161	*iji-	*iji-	*tomar,beber	Kav	tiene sed,sin tomar	ihi-madya			
+1729	161	*iji-	*iji-	*tomar,beber	Kav	oloroso,olor agradable	ihi-meda		cognate?	
+1730	161	*iji-	*iji-	*tomar,beber	Ese	tomar,chupar	iši-			
+1731	161	*iji-	*iji-	*tomar,beber	War	tomar,chupar,beber	iši-			
+1732	161	*iji-	*iji-	*tomar,beber	War	bebedor	iši-hinsi			
+1733	161	*iji-	*iji-	*tomar,beber	War	bebible	iši-tahi			
+1734	161	*iji-	*iji-	*tomar,beber	Ara	drink	éiši			
+1735	162	*iju-a-	*iju-a-	*esperar	ProTa	esperar	iju-a-			
+1736	162	*iju-a-	*iju-a-	*esperar	Tak	esperar	iřu-a-			
+1737	162	*iju-a-	*iju-a-	*esperar	Kav	esperar	ihu-a-			
+1738	162	*iju-a-	*iju-a-	*esperar	Ese	esperar	išo-a-			
+1739	162	*iju-a-	*iju-a-	*esperar	Ese	esperar	xa-išo-a-ki-			
+1740	163	*ijuwi	*ijuwi	*hormiga	ProTa	hormiga	ijuwi		There is uncertainty regarding the protoform on the ID in the source	
+1741	163	*ijuwi	*ijuwi	*hormiga	Tak	hormiga	iřui		:iřuwi	
+1742	163	*ijuwi	*ijuwi	*hormiga	Rey	ant	išobhi			
+1743	163	*ijuwi	*ijuwi	*hormiga	Kav	hormiguero	išowi		loan?	
+1744	163	*ijuwi	*ijuwi	*hormiga	Ese	hormiga negra	bišo		cognate?	
+1745	164	*ik(i)a	*ik(i)a	*consumir	ProTa	consumir	ik(i)a			
+1746	164	*ik(i)a	*ik(i)a	*consumir	Kav	bebedor	ikia-ki		Armentia	
+1747	164	*ik(i)a	*ik(i)a	*consumir	Ese	cimer,morder,picar	ixia-			
+1748	164	*ik(i)a	*ik(i)a	*consumir	Ese	crujer	ixia-kaʔaka-			
+1749	164	*ik(i)a	*ik(i)a	*consumir	Ese	fumar	ixia-wičača-			
+1750	164	*ik(i)a	*ik(i)a	*consumir	Ese	tragar	ixia-hea-			
+1751	164	*ik(i)a	*ik(i)a	*consumir	Ese	cepillar	ixia-hewi-mee-			
+1752	164	*ik(i)a	*ik(i)a	*consumir	Ese	comilón	ixia-pa-hea-pa-hea-ʔaxa			
+1753	164	*ik(i)a	*ik(i)a	*consumir	Ese	aserrar	ixia-sexa-mee-			
+1754	164	*ik(i)a	*ik(i)a	*consumir	Ese	comida	e-ixia-xi			
+1755	165	*ina1	*ina	*hoja,pelo,pluma	ProTa	hoja,pelo,pluma	ina			
+1756	165	*ina1	*ina	*hoja,pelo,pluma	Tak	hoja,pluma	e-ina			
+1757	165	*ina1	*ina	*hoja,pelo,pluma	Tak	chamuscar	ina-kwawi-			
+1758	165	*ina1	*ina	*hoja,pelo,pluma	Tak	desplumar	ina-mucu-			
+1759	165	*ina1	*ina	*hoja,pelo,pluma	Tak	yerba de semilla como la de mostaza	ina-masa-tidi		Armentia	
+1760	165	*ina1	*ina	*hoja,pelo,pluma	Tak	trasquilar,cortar el pelo	ina-raha		Armentia	
+1761	165	*ina1	*ina	*hoja,pelo,pluma	Mar	feathers	enuqua		Heath	
+1762	165	*ina1	*ina	*hoja,pelo,pluma	Kav	cola	ina		Heath	
+1763	165	*ina1	*ina	*hoja,pelo,pluma	Kav	largar	ina-haka-			
+1764	165	*ina1	*ina	*hoja,pelo,pluma	Kav	descolar	ina-tieba-			
+1765	165	*ina1	*ina	*hoja,pelo,pluma	Ese	pelo,vellos	eña			
+1766	165	*ina1	*ina	*hoja,pelo,pluma	Ese	doblar (las hojas)	iña-noe-			
+1767	165	*ina1	*ina	*hoja,pelo,pluma	Ese	calvo	sepañama	*c̣apa-ina-ma			
+1768	165	*ina1	*ina	*hoja,pelo,pluma	Ese	perro	iñaewa			
+1769	165	*ina1	*ina	*hoja,pelo,pluma	War	hoja	iña			
+1770	165	*ina1	*ina	*hoja,pelo,pluma	War	hoja de árbol	akwiña			
+1771	165	*ina1	*ina	*hoja,pelo,pluma	War	hoja de palmiche	sipiiña			
+1772	165	*ina1	*ina	*hoja,pelo,pluma	War	hoja de llarina	omeiña			
+1773	166	*ina2-	*ina2-	*agarrar	ProTa	agarrar	ina-			
+1774	166	*ina2-	*ina2-	*agarrar	Tak	agarrar	ina-			
+1775	166	*ina2-	*ina2-	*agarrar	Tak	hacer agarrar	ina-me		Armentia	
+1776	166	*ina2-	*ina2-	*agarrar	Tak	cuidado	ina-ciu-a-ke		Armentia	
+1777	166	*ina2-	*ina2-	*agarrar	Tak	agarrado	ina-hi		Armentia	
+1778	166	*ina2-	*ina2-	*agarrar	Kav	coger,salvar,sostener,agarrar	ina-			
+1779	166	*ina2-	*ina2-	*agarrar	Kav	recibir,aceptar	ina-ca-			
+1780	166	*ina2-	*ina2-	*agarrar	Kav	asa	e-ina-ke		Armentia	
+1781	166	*ina2-	*ina2-	*agarrar	Kav	completar,finalizar	ina-ruma-hu		Armentia	
+1782	166	*ina2-	*ina2-	*agarrar	Ese	agarrar,recibir	iña-			
+1783	166	*ina2-	*ina2-	*agarrar	Ese	apretar	iña-pee-			
+1784	166	*ina2-	*ina2-	*agarrar	Ese	encender (la lanterna)	iña-pokwa-			
+1785	166	*ina2-	*ina2-	*agarrar	Ese	estrujar	iña-powi-			
+1786	166	*ina2-	*ina2-	*agarrar	Ese	arrugar	e-iña-šiwi-			
+1787	166	*ina2-	*ina2-	*agarrar	Ese	soltar	iña-wixio-			
+1788	166	*ina2-	*ina2-	*agarrar	Ese	atajar	iña-wooña-			
+1789	166	*ina2-	*ina2-	*agarrar	Ese	exprimir	iña-xasayo-			
+1790	166	*ina2-	*ina2-	*agarrar	Ese	recibir	iña-xeki-			
+1791	166	*ina2-	*ina2-	*agarrar	Ese	empujar	iña-yehea-			
+1792	166	*ina2-	*ina2-	*agarrar	Ese	agarrar	iña-			
+1793	167	*in(i)akwa	*in(i)akwa	*japutamu	ProTa	japutamu	in(i)akwa			
+1794	167	*in(i)akwa	*in(i)akwa	*japutamu	Tak	japutamu	inakwa			
+1795	167	*in(i)akwa	*in(i)akwa	*japutamu	Kav	japutamu (insecto)	iñakwa			
+1796	168	*irine	*irine	*collar	ProTa	collar	irine			
+1797	168	*irine	*irine	*collar	Tak	collar	ine			
+1798	168	*irine	*irine	*collar	Tak	collar tejido con chaquiras	ine-rapa		Armentia	
+1799	168	*irine	*irine	*collar	Kav	collar,chaquira,abalorio	irine		Concepts 'chaquira,abalorio' taken from Armentia	
+1800	169	*iřare	*iřare	*urupé (cedazo)	ProTa	urupé (cedazo)	iřare			
+1801	169	*iřare	*iřare	*urupé (cedazo)	Tak	urupé (cedazo hecha de palma)	pa-ire		cognate?	
+1802	169	*iřare	*iřare	*urupé (cedazo)	Kav	urupé (cedazo)	irare			
+1803	170	*iřu-	*iřu-	*vender	ProTa	vender	iřu-			
+1804	170	*iřu-	*iřu-	*vender	Tak	vender	iru-			
+1805	170	*iřu-	*iřu-	*vender	Tak	venta	e-iru-hi		Armentia	
+1806	170	*iřu-	*iřu-	*vender	Tak	volver a vender	iru-yuiča		Armentia	
+1807	170	*iřu-	*iřu-	*vender	Tak	mujer desenvuelta, que se vende	ha-iru-ti-hi		Armentia	
+1808	170	*iřu-	*iřu-	*vender	Kav	vender	iru-			
+1809	171	*iřuřu-	*iřuřu	*desgranar	ProTa	desgranar	iřuřu			
+1810	171	*iřuřu-	*iřuřu	*desgranar	Tak	desgranar	iruru-a-			
+1811	171	*iřuřu-	*iřuřu	*desgranar	Kav	desgranar	iroro-			
+1812	171	*iřuřu-	*iřuřu	*desgranar	Kav	granoso	iruru-a-ki		Armentia	
+1813	172	*iwa	*iwa	*cola	ProTa	cola	iwa		There is uncertainty regarding the protoform on the ID in the source	
+1814	172	*iwa	*iwa	*cola	Kav	cola	iwa			
+1815	172	*iwa	*iwa	*cola	Ese	cola	ewaʔo			
+1816	172	*iwa	*iwa	*cola	Ese	tail	ewaʔyo			
+1817	172	*iwa	*iwa	*cola	Ese	perro	iña-ewa			
+1818	173	*iwara	*iwara	*llamar	ProTa	llamar	iwara			
+1819	173	*iwara	*iwara	*llamar	Tak	llamar	iwa-			
+1820	173	*iwara	*iwara	*llamar	Kav	llamar	iwara-			
+1821	173	*iwara	*iwara	*llamar	Ese	llamar	íya-		palatalization of *-w-?	
+1822	174	*iwi-	*iwi-	*pudrirse	ProTa	pudrirse	iwi-		cf. *wi-	
+1823	174	*iwi-	*iwi-	*pudrirse	Tak	hedionda,podrido	iwi-da			
+1824	174	*iwi-	*iwi-	*pudrirse	Kav	olor mal,hediondez	iwi-da			
+1825	174	*iwi-	*iwi-	*pudrirse	Ese	pudrirse	iwi-			
+1826	174	*iwi-	*iwi-	*pudrirse	Ese	stench	kea-iwi			
+1827	174	*iwi-	*iwi-	*pudrirse	Ese	podrido	e-ʔiwi			
+1828	174	*iwi-	*iwi-	*pudrirse	War	hediondo	kia-íbui			
+1829	174	*iwi-	*iwi-	*pudrirse	War	no es hediondo	ibuí-ama			
+1830	174	*iwi-	*iwi-	*pudrirse	War	heder	eíbuí ~ eíui			
+1831	174	*iwi-	*iwi-	*pudrirse	War	pudrirse	ibi-a-			
+1832	174	*iwi-	*iwi-	*pudrirse	War	no se pudre	ibi-yota-aha			
+1833	175	*iya-	*iya-	*dejar,poner	ProTa	dejar,poner	iya-			
+1834	175	*iya-	*iya-	*dejar,poner	Tak	dejar,poner	iča-			
+1835	175	*iya-	*iya-	*dejar,poner	Tak	sacar afuera	iča-kwi-			
+1836	175	*iya-	*iya-	*dejar,poner	Tak	apartar	iča-dera-			
+1837	175	*iya-	*iya-	*dejar,poner	Tak	meter adentro	iča-nubi-a-			
+1838	175	*iya-	*iya-	*dejar,poner	Tak	guardar	iča-saita-			
+1839	175	*iya-	*iya-	*dejar,poner	Tak	dejar	iča-use-a-			
+1840	175	*iya-	*iya-	*dejar,poner	Kav	poner,dejar,servir	iya-			
+1841	175	*iya-	*iya-	*dejar,poner	Kav	dejar	iya-eti-			
+1842	175	*iya-	*iya-	*dejar,poner	Kav	ponerse	ha-iča-ti-			
+1843	175	*iya-	*iya-	*dejar,poner	Kav	bájalo,apéalo	iča-bute-ke		Armentia	
+1844	176	*iyakwa	*iyakwa	*nuevo,ahora	ProTa	nuevo,ahora	iyakwa			
+1845	176	*iyakwa	*iyakwa	*nuevo,ahora	Tak	nuevo	e-ičakwa			
+1846	176	*iyakwa	*iyakwa	*nuevo,ahora	Tak	renovar	ečakwa ayu		Armentia	
+1847	176	*iyakwa	*iyakwa	*nuevo,ahora	Tak	nuevo	ečača ~ eičakwa		Armentia	
+1848	176	*iyakwa	*iyakwa	*nuevo,ahora	Kav	ahora,nuevo	i(y)akwa			
+1849	176	*iyakwa	*iyakwa	*nuevo,ahora	Kav	hoy día	(i)yakwa-wekaka			
+1850	176	*iyakwa	*iyakwa	*nuevo,ahora	Kav	nuevo	iyakwa-ke			
+1851	176	*iyakwa	*iyakwa	*nuevo,ahora	Kav	ahorita	iyakwahita			
+1852	176	*iyakwa	*iyakwa	*nuevo,ahora	Kav	desde hoy	yakwakidie		Armentia	
+1853	176	*iyakwa	*iyakwa	*nuevo,ahora	Ese	nuevo	eyakwa			
+1854	176	*iyakwa	*iyakwa	*nuevo,ahora	War	nuevo	eyakwanei			
+1855	176	*iyakwa	*iyakwa	*nuevo,ahora	War	no es nuevo	eyakwa-pohi-ama			
+1856	177	*iye-	*iye-	*pegar	ProTa	pegar	iye-			
+1857	177	*iye-	*iye-	*pegar	Tak	pegar,dar guasco	iče-			
+1858	177	*iye-	*iye-	*pegar	Tak	matar (pegando)	iče-wana-			
+1859	177	*iye-	*iye-	*pegar	Tak	ha de pegar,golpear ó azotear	e-iče-taiti		Armentia	
+1860	177	*iye-	*iye-	*pegar	Tak	pelear	ha-iče-ti		Armentia	
+1861	177	*iye-	*iye-	*pegar	Tak	pelea	ha-iče-ti-hi		Armentia	
+1862	177	*iye-	*iye-	*pegar	Tak	camenazar	iče-ibua		Armentia	
+1863	177	*iye-	*iye-	*pegar	Tak	compaderse,perdonar	iče-nuba		Armentia	
+1864	177	*iye-	*iye-	*pegar	Tak	impedir,pobre,pena,trabajo,miseria	iče-nuda		Armentia	
+1865	177	*iye-	*iye-	*pegar	Was	forgive	ichenume			
+1866	177	*iye-	*iye-	*pegar	Kav	matar	iye-			
+1867	177	*iye-	*iye-	*pegar	Kav	matador	iye-ke		Armentia	
