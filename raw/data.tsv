@@ -1888,3 +1888,90 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 1865	177	*iye-	*iye-	*pegar	Was	forgive	ichenume			
 1866	177	*iye-	*iye-	*pegar	Kav	matar	iye-			
 1867	177	*iye-	*iye-	*pegar	Kav	matador	iye-ke		Armentia	
+1868	178	*ja1-	*jakwi	*cuñado	ProTa	cuñado	jakwi			
+1869	178	*ja1-	*jakwi	*cuñado	Tak	cuñado (marido de hermana, hombres dicen)	řaki			
+1870	178	*ja1-	*jakwi	*cuñado	Kav	cuñado	e-hakwi				
+1871	178	*ja1-	*jakwi	*cuñado	Kav	cuñado	e-hakwi-ke			
+1872	178	*ja1-	*jakwi	*cuñado	Ese	soltero	šakwi-má			
+1873	178	*ja1-	*jakwi	*cuñado	Ese	viudo	šakwi-mano			
+1874	178	*ja1-	*jana	*hermana menor	ProTa	hermana menor	jana			
+1875	178	*ja1-	*jana	*hermana menor	Tak	hermana menor (entre mujeres)	řana			
+1876	178	*ja1-	*jana	*hermana menor	Tak	cuñado (marido de hermana menor)	řana-save			
+1877	178	*ja1-	*jana	*hermana menor	Mar	younger sister	lana		Heath	
+1878	178	*ja1-	*jana	*hermana menor	Aro	hermana	zatna			
+1879	178	*ja1-	*jana	*hermana menor	Kav	hermana menor	e-hana			
+1880	178	*ja1-	*jana	*hermana menor	Ese	cuñada	šana			
+1881	178	*ja1-	*jau	*hermano menor	ProTa	hermano menor	jau			
+1882	178	*ja1-	*jau	*hermano menor	Tak	hermano menor (entre hermanos)	řau			
+1883	178	*ja1-	*jau	*hermano menor	Tak	cuñada (esposa de hermano menor)	řau-sane			
+1884	178	*ja1-	*jau	*hermano menor	Aro	hermano	zau			
+1885	178	*ja1-	*jau	*hermano menor	Kav	hermano menor	e-hao			
+1886	178	*ja1-	*jau	*hermano menor	Kav	hermano menor	e-ho-ke		*e-hao-ke?	
+1887	179	*ja2-	*ja-	*bofe	ProTa	bofe	ja-			
+1888	179	*ja2-	*ja-	*bofe	Tak	bofe	e-řa-ta			
+1889	179	*ja2-	*ja-	*bofe	Kav	bofe	e-ha-sa			
+1890	179	*ja2-	*ja-	*bofe	Ese	pulmones	e-ša-ho			
+1891	179	*ja2-	*ja-	*bofe	Ese	blando	kea-šaho			
+1892	179	*ja2-	*ja-	*bofe	War	lungs	e-šaw		Hart/Fast	
+1893	180	*jabu	*jabu	*barrer	ProTa	barrer	jabu			
+1894	180	*jabu	*jabu	*barrer	Kav	barrido	e-habo			
+1895	180	*jabu	*jabu	*barrer	Kav	barrer,basurear	habo-			
+1896	180	*jabu	*jabu	*barrer	Ese	barrer	kwea-šaba-			
+1897	180	*jabu	*jabu	*barrer	Ese	basura	šabo			
+1898	180	*jabu	*jabu	*barrer	War	barrer	šabo-hea-			
+1899	181	*jakwa	*jakwa	*lavar	ProTa	lavar	jakwa			
+1900	181	*jakwa	*jakwa	*lavar	Tak	lavar	řakwa-řakwa-		<dˈacuadˈdacua> taken from Armentia	
+1901	181	*jakwa	*jakwa	*lavar	Ese	lavarse	šakwa-			
+1902	182	*jani	*jani	*izquierdo,zurdo	ProTa	izquierdo,zurdo	jani			
+1903	182	*jani	*jani	*izquierdo,zurdo	Tak	a la izquierdo,zurdo	řani-bai			
+1904	182	*jani	*jani	*izquierdo,zurdo	Kav	izquierdo,zurdo	hani			
+1905	182	*jani	*jani	*izquierdo,zurdo	Ese	izquierdo	šani			
+1906	182	*jani	*jani	*izquierdo,zurdo	Ese	mano izquierda	emé šani			
+1907	182	*jani	*jani	*izquierdo,zurdo	War	izquierdo	šani			
+1908	182	*jani	*jani	*izquierdo,zurdo	Čam	right side	šani			1
+1909	183	*jata(ra)	*jata(ra)	*barbasco	ProTa	barbasco	jata(ra)			
+1910	183	*jata(ra)	*jata(ra)	*barbasco	Tak	barbasquillo sembrado,barbasco	řata		Concept 'barbasco' taken from  Armentia	
+1911	183	*jata(ra)	*jata(ra)	*barbasco	Kav	pez como la palometa	hatara		"that which is caught by means of barbasco" or not cognate?	
+1912	183	*jata(ra)	*jata(ra)	*barbasco	War	barbasco	šata			
+1913	184	*jawi	*jawi	*mandíbula	ProTa	mandíbula	jawi			
+1914	184	*jawi	*jawi	*mandíbula	Tak	mandíbula	e-řawi			
+1915	184	*jawi	*jawi	*mandíbula	Rey	jaw	e-labhi			
+1916	184	*jawi	*jawi	*mandíbula	Mab	chin	ithawi			
+1917	185	*je-(wi)	*je-(wi)	*raspar	ProTa	raspar	je-(wi)			
+1918	185	*je-(wi)	*je-(wi)	*raspar	Tak	raspar (con cualq. instrumento filo)	ře-u-			
+1919	185	*je-(wi)	*je-(wi)	*raspar	Tak	arañar	ře-wi-			
+1920	185	*je-(wi)	*je-(wi)	*raspar	Kav	raspador,rallador	he-reišoke			
+1921	185	*je-(wi)	*je-(wi)	*raspar	Kav	raspar	he-re-			
+1922	185	*je-(wi)	*je-(wi)	*raspar	Kav	arañado	e-he-wi			
+1923	185	*je-(wi)	*je-(wi)	*raspar	Ese	raspar (con la uña)	še-wi			
+1924	185	*je-(wi)	*je-(wi)	*raspar	Ese	frotar	še-haxi-			
+1925	185	*je-(wi)	*je-(wi)	*raspar	Ese	filo	kea-še-xi			
+1926	185	*je-(wi)	*je-(wi)	*raspar	War	rasguñar,arañar	še-wi-			
+1927	186	*jea-	*jea-	*abrir	ProTa	abrir	jea-			
+1928	186	*jea-	*jea-	*abrir	Tak	abrir	řia-			
+1929	186	*jea-	*jea-	*abrir	Ese	abrir (el libro)	šea-			
+1930	186	*jea-	*jea-	*abrir	War	abrir	šea-			
+1931	187	*jeje	*jeje	*tareche	ProTa	tareche	jeje			
+1932	187	*jeje	*jeje	*tareche	Tak	tareche (loro)	řeře			
+1933	187	*jeje	*jeje	*tareche	Ese	loro	šeše			
+1934	187	*jeje	*jeje	*tareche	Ese	tarechi	piya-sese		sic	
+1935	188	*jeke	*jeke	*hincharse	ProTa	hincharse	jeke		see also *seke	
+1936	188	*jeke	*jeke	*hincharse	Tak	enchumado,tupido,espeso,remontado,un campo en que ha crecida la maleza,ó un camino	řehe-da		Concept 'un camino' taken from Armentia	
+1937	188	*jeke	*jeke	*hincharse	Ese	hincharse	šexe-			
+1938	188	*jeke	*jeke	*hincharse	Ese	lleno	kea-šexe			
+1939	189	*jemu	*jemu	*concha	ProTa	concha	jemu			
+1940	189	*jemu	*jemu	*concha	Tak	concha	řemu			
+1941	189	*jemu	*jemu	*concha	Kav	turo,concha	hemo			
+1942	189	*jemu	*jemu	*concha	Ese	caracol	šemo			
+1943	190	*jetete	*jetete	*araña	ProTa	araña	jetete		cf. *je-(wi)	
+1944	190	*jetete	*jetete	*araña	Tak	araña,apasanca	řetete		Concept 'apasanca' taken from Armentia	
+1945	190	*jetete	*jetete	*araña	Rey	spider	letete			
+1946	191	*jike	*jike	*maíz	ProTa	maíz	jike			
+1947	191	*jike	*jike	*maíz	Tak	maíz	řihe			
+1948	191	*jike	*jike	*maíz	Rey	corn	šihe			
+1949	191	*jike	*jike	*maíz	Mar	corn	šike,tsyíhe		/šike/ taken from Heath	
+1950	191	*jike	*jike	*maíz	Aro	maíz	zia			
+1951	191	*jike	*jike	*maíz	Kav	maíz	i-hike			
+1952	191	*jike	*jike	*maíz	Ese	maíz	šixe			
+1953	191	*jike	*jike	*maíz	Ese	maizal	šixe-iye			
+1954	191	*jike	*jike	*maíz	Ara	maíz	šiše			
