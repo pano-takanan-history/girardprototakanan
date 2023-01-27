@@ -1975,3 +1975,79 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 1952	191	*jike	*jike	*maíz	Ese	maíz	šixe			
 1953	191	*jike	*jike	*maíz	Ese	maizal	šixe-iye			
 1954	191	*jike	*jike	*maíz	Ara	maíz	šiše			
+1955	192	*jipi	*jipi	*cicatriz	ProTa	cicatriz	jipi			
+1956	192	*jipi	*jipi	*cicatriz	Tak	cicatriz	řipi			
+1957	192	*jipi	*jipi	*cicatriz	Kav	cicatriz	hipi			
+1958	193	*jiřu	*jiřu	*oler	ProTa	oler	jiřu			
+1959	193	*jiřu	*jiřu	*oler	Kav	oler,olfatear	hiro-			
+1960	193	*jiřu	*jiřu	*oler	Kav	bufar	ka-hiru-ti-		Armentia	
+1961	193	*jiřu	*jiřu	*oler	Ese	fragrante	kea-šiye			
+1962	193	*jiřu	*jiřu	*oler	Ese	oler	šiya-ʔaxa-			
+1963	193	*jiřu	*jiřu	*oler	War	oloroso	šiye-nei			
+1964	193	*jiřu	*jiřu	*oler	War	fragrante	kia-šío			
+1965	194	*jiti	*jiti	*canasta	ProTa	canasta	jiti			
+1966	194	*jiti	*jiti	*canasta	Tak	canasta	řiti			
+1967	194	*jiti	*jiti	*canasta	Kav	canasta	hiti			
+1968	194	*jiti	*jiti	*canasta	Kav	jasayé (canasta)	hiti-sawa			
+1969	195	*ju-	*ju-	*echar	ProTa	echar	ju-			
+1970	195	*ju-	*ju-	*echar	Tak	echar,vaciar	řu-			
+1971	195	*ju-	*ju-	*echar	Tak	derramar (líquidos)	řu-iča-			
+1972	195	*ju-	*ju-	*echar	Tak	destilar,gotear	řu-řu-a-			
+1973	195	*ju-	*ju-	*echar	Kav	chorrear	ho-ri-			
+1974	195	*ju-	*ju-	*echar	Kav	correntada	e-ho-ri			
+1975	195	*ju-	*ju-	*echar	Kav	hemorragia	ami-ho-ri-ya			
+1976	195	*ju-	*ju-	*echar	Ese	echar,regar	šo-hea-			
+1977	195	*ju-	*ju-	*echar	Ese	rocio	šo			
+1978	195	*ju-	*ju-	*echar	Ese	sacar (agua)	šo-			
+1979	196	*junu	*junu	*largo	ProTa	largo	junu			
+1980	196	*junu	*junu	*largo	Kav	largo	hono-da			
+1981	196	*junu	*junu	*largo	Kav	corto	hono-da-ma			
+1982	196	*junu	*junu	*largo	Ese	despacio	kea-šono			
+1983	197	*ka1-	*ka-	*desiderative	ProTa	desiderative	ka-			
+1984	197	*ka1-	*ka-	*desiderative	Tak	desiderative	ha-		There is no concept in the source.	
+1985	197	*ka1-	*ka-	*desiderative	Kav	desiderative	ka-		There is no concept in the source.	
+1986	197	*ka1-	*ka-	*desiderative	Ese	reflexive ("interés del sujeto") preffix	xa-			
+1987	197	*ka1-	*ka-	*desiderative	Tak	desiderative suffix	-ha			
+1988	198	*-ka2	*-ka	*derivative suffix with reference to "body parts"	ProTa	derivative suffix with reference to "body parts"	-ka			
+1989	198	*-ka2	*-ka	*derivative suffix with reference to "body parts"	Tak	derivative suffix with reference to "body parts"	-ha		There is no concept in the source.	
+1990	198	*-ka2	*-ka	*derivative suffix with reference to "body parts"	Kav	derivative suffix with reference to "body parts"	-ka		There is no concept in the source.	
+1991	198	*-ka2	*-ka	*derivative suffix with reference to "body parts"	Ese	derivative suffix with reference to "body parts"	-xa			
+1992	199	*ka3-	*ka-	*huevo	ProTa	huevo	ka-			
+1993	199	*ka3-	*ka-	*huevo	Tak	huevo	e-ha			
+1994	199	*ka3-	*ka-	*huevo	Tak	poner huevo	ha-ha-ti-			
+1995	199	*ka3-	*ka-	*huevo	Tak	yemo de huevo	e-ha-ha-re		Armentia	
+1996	199	*ka3-	*ka-	*huevo	Tak	clara de huevo	e-ha-pasa		Armentia	
+1997	199	*ka3-	*ka-	*huevo	Tak	testes	e-ha-cudua		Armentia	
+1998	199	*ka3-	*ka-	*huevo	Mar	egg	exa		Heath	
+1999	199	*ka3-	*ka-	*huevo	Kav	huevo	e-ka			
+2000	199	*ka3-	*ka-	*huevo	Kav	clara de huevo	e-ka-paha			
+2001	199	*ka3-	*ka-	*huevo	Ese	huevo	e-xa			
+2002	199	*ka3-	*ka-	*huevo	Ese	huevo de peto	kwiao-xa			
+2003	199	*ka3-	*ka-	*huevo	Ese	poner huevo	xa-yo			
+2004	199	*ka3-	*ka-	*huevo	War	huevo	e-ha			
+2005	199	*ka3-	*ka-	*huevo	War	clara de huevo	e-ha kia-óše			
+2006	199	*ka3-	*ka-	*huevo	Čam	egg	e-xá			
+2007	200	*ka4-	*ka-	*planta de plátano	ProTa	planta de plátano	ka-		*ka3?	
+2008	200	*ka4-	*ka-	*planta de plátano	Tak	camote	ha-riri			
+2009	200	*ka4-	*ka-	*planta de plátano	Tak	patujú (planta con hoja como de plátano)	ha-pa-ina			
+2010	200	*ka4-	*ka-	*planta de plátano	Tak	platanillo	ha-pa-uru			
+2011	200	*ka4-	*ka-	*planta de plátano	Tak	achachairú (fruta)	ha-sau			
+2012	200	*ka4-	*ka-	*planta de plátano	Tak	papa redondo	e-ha-si			
+2013	200	*ka4-	*ka-	*planta de plátano	Tak	cogollo de palmeras	ha-ta			
+2014	200	*ka4-	*ka-	*planta de plátano	Ese	plátano	e-xa-wi			
+2015	200	*ka4-	*ka-	*planta de plátano	Ese	planta del plátano	e-xa-wise			
+2016	200	*ka4-	*kaka	*fruta	ProTa	fruta	kaka			
+2017	200	*ka4-	*kaka	*fruta	Tak	fruta,semilla	e-haha			
+2018	200	*ka4-	*kaka	*fruta	Tak	planta que tiene papas	hahiru		*haha+iřu?	
+2019	200	*ka4-	*kaka	*fruta	Rey	fruit,seed	e-haha			
+2020	200	*ka4-	*kaka	*fruta	Kav	semilla,fruta,pepita	e-kaka		Concept 'pepita' taken from Armentia	
+2021	200	*ka4-	*kaka	*fruta	Kav	frutar,dar fruta	ka-kaka-ti			
+2022	200	*ka4-	*kaka	*fruta	Ese	fruta	e-xaxa			
+2023	200	*ka4-	*kaka	*fruta	Ese	chonta (palmera)	xaxa-siye			
+2024	200	*ka4-	*kaka	*fruta	Ese	horcón de chonta	xaxa-siye-naba			
+2025	200	*ka4-	*kaka	*fruta	Ese	fruta del motacú	hememe-xaxa			
+2026	200	*ka4-	*kaka	*fruta	Ese	coquino	akwi-xaxa-tewe			
+2027	200	*ka4-	*kaka	*fruta	War	fruta	haha			
+2028	200	*ka4-	*kama	*chaquillo (árbol)	ProTa	chaquillo (árbol)	kama			
+2029	200	*ka4-	*kama	*chaquillo (árbol)	Tak	chaquillo (árbol)	hama			
+2030	200	*ka4-	*kama	*chaquillo (árbol)	Kav	árbol para hacer limón, limón (de carretín)	kama			
