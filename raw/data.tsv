@@ -2051,3 +2051,197 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 2028	200	*ka4-	*kama	*chaquillo (árbol)	ProTa	chaquillo (árbol)	kama			
 2029	200	*ka4-	*kama	*chaquillo (árbol)	Tak	chaquillo (árbol)	hama			
 2030	200	*ka4-	*kama	*chaquillo (árbol)	Kav	árbol para hacer limón, limón (de carretín)	kama			
+2031	200	*ka4-	*kanize	*maní	ProTa	maní	kanize			
+2032	200	*ka4-	*kanize	*maní	Tak	maní	hanidhe			
+2033	200	*ka4-	*kanize	*maní	Tak	piñón (árbol)	waka-hanidhe		loan?	
+2034	200	*ka4-	*kanize	*maní	Kav	maní	kanise			
+2035	200	*ka4-	*kanize	*maní	Kav	pitón (planta)	waka-kanise			
+2036	200	*ka4-	*kape	*zumaqui (árbol)	Prota	zumaqui (árbol)	kape			
+2037	200	*ka4-	*kape	*zumaqui (árbol)	Tak	zumaqui (árbol)	hape			
+2038	200	*ka4-	*kape	*zumaqui (árbol)	Kav	sumuqué (palmera)	kape-kwi			
+2039	201	*kac̣a	*kac̣a	*costillo de casa	ProTa	costillo de casa	kac̣a			
+2040	201	*kac̣a	*kac̣a	*costillo de casa	Tak	costillo de casa (donde amarran las hojas)	e-haca			
+2041	201	*kac̣a	*kac̣a	*costillo de casa	Kav	los dos, costilla (de casa)	e-kace			
+2042	201	*kac̣a	*kac̣a	*costillo de casa	Kav	castigar,azotar,chicotear,dar guasca	kaca-			
+2043	201	*kac̣a	*kac̣a	*costillo de casa	Kav	azote	kaca-kikie		Armentia	
+2044	201	*kac̣a	*kac̣a	*costillo de casa	Ese	palos para una casa	e-xasa			
+2045	201	*kac̣a	*kac̣a	*costillo de casa	Ese	moler (la caña)	kwea-xasa-			
+2046	201	*kac̣a	*kac̣a	*costillo de casa	Ese	moler	xa-hea-xasa-ki-			
+2047	201	*kac̣a	*kac̣a	*costillo de casa	Ese	azotarse	ka-xasa-ki-			
+2048	201	*kac̣a	*kac̣a	*costillo de casa	War	costillares (palos)	e-hasa			
+2049	202	*kaka2-	*kaka-	*roll up	Prota	roll up	kaka-			
+2050	202	*kaka2-	*kaka-	*roll up	Kav	roll up	kaka-			
+2061	202	*kaka2-	*kaka-	*roll up	Kav	rollado	e-kaka-ke			
+2062	202	*kaka2-	*kaka-	*roll up	Ese	roll up	xaxa-yo-			
+2063	203	*kama2-	*kama-	*techo	Prota	techo	kama-			
+2064	203	*kama2-	*kama-	*techo	Kav	techo,cabellete	e-kama-wa			
+2065	203	*kama2-	*kama-	*techo	Ese	techo	e-hama-ko			
+2066	203	*kama2-	*kama-	*techo	Ese	encima	e-hama-koʔoho		N.B. Ese. x is expected here.	
+2067	204	*kama3-	*kama-	*nada más	ProTa	nada más	kama-			
+2068	204	*kama3-	*kama-	*nada más	Kav	nada más,ya bastante	kama-dya			
+2069	204	*kama3-	*kama-	*nada más	Kav	último	kama-dya-išo			
+2070	204	*kama3-	*kama-	*nada más	Ese	así,no más	hama-ti			
+2071	204	*kama3-	*kama-	*nada más	Ese	por eso	hama-xea			
+2072	204	*kama3-	*kama-	*nada más	Ese	así	hama-ya		N.B. Ese. x is expected here.	
+2073	205	*kana1	*kana	*descansar	ProTa	descansar	kana			
+2074	205	*kana1	*kana	*descansar	Tak	descansar	hana-wa-			
+2075	205	*kana1	*kana	*descansar	Tak	agitarse,sofocarse	hana-ta		Armentia	
+2076	205	*kana1	*kana	*descansar	Tak	agitado	hana-tahi-hi		Armentia	
+2077	205	*kana1	*kana	*descansar	Kav	descansar,reposar	kana-hara-		Concept 'reposar' taken from Armentia	
+2078	205	*kana1	*kana	*descansar	Kav	palpitar,aspirar	kana-kana-			
+2079	205	*kana1	*kana	*descansar	Kav	aire,vapor,cansado,hálito,regüeldo	kana	Concepts 'cansado,hálito,regüeldo' taken from Armentia	
+2080	205	*kana1	*kana	*descansar	Kav	agitación,boquear,jadear,respiración,vida,vivir,vivo	kana-he-ti		Armentia	
+2081	205	*kana1	*kana	*descansar	Kav	infatigable	kana-ma		Armentia	
+2082	205	*kana1	*kana	*descansar	Kav	fatiga,fatigar	kana-tere		Armentia	
+2083	205	*kana1	*kana	*descansar	Kav	pulso	e-bi-kana		Armentia	
+2084	205	*kana1	*kana	*descansar	Kav	mentira,falso	y-ana-kana			
+2085	206	*kana2	*kana	*comida	ProTa	comida	kana		*kana1?	
+2086	206	*kana2	*kana	*comida	Tak	comida	hana			
+2087	206	*kana2	*kana	*comida	Tak	cocinar	hana-a			
+2088	206	*kana2	*kana	*comida	Tak	cocinar	hana-pu-			
+2089	206	*kana2	*kana	*comida	Mar	comida	jana		Cardús	
+2090	206	*kana2	*kana	*comida	Aro	comida	jana			
+2091	207	*kani	*kani	*pozo	ProTa	pozo	kani			
+2092	207	*kani	*kani	*pozo	Tak	garganta	e-cui-hani			
+2093	207	*kani	*kani	*pozo	Tak	narices	e-biani	*e-wi-hani	Armentia	
+2094	207	*kani	*kani	*pozo	Kav	pozo,hueco,agujero,cueva,pauroi	kani			
+2095	207	*kani	*kani	*pozo	Kav	agujerear	kani-ne-			
+2096	207	*kani	*kani	*pozo	Kav	empozar	kani-isa		Armentia	
+2097	207	*kani	*kani	*pozo	Kav	manga	e-bi-kani		Armentia	
+2098	207	*kani	*kani	*pozo	Kav	garganta	e-cori-kani			
+2099	207	*kani	*kani	*pozo	Kav	oído	ihaka-kani			
+2100	207	*kani	*kani	*pozo	Ese	cueva,nido	xani			
+2101	207	*kani	*kani	*pozo	Ese	noria	e-xani eteowexa			
+2102	207	*kani	*kani	*pozo	War	pozo en la tierra	e-hani			
+2103	207	*kani	*kani	*pozo	War	pozo en el agua	ena-háni-ho			
+2104	208	*kara	*kara	*paraba	ProTa	paraba	kara		or *ka+...?	
+2105	208	*kara	*kara	*paraba	Tak	paraba (loro)	ha			
+2106	208	*kara	*kara	*paraba	Kav	paraba (guacamayo)	kara			
+2107	208	*kara	*kara	*paraba	Kav	tarechi (loro)	kaekae			
+2108	208	*kara	*kara	*paraba	Ese	paraba (ave)	xa			
+2109	208	*kara	*kara	*paraba	Ese	paraba (colorado)	xa-we			
+2110	208	*kara	*kara	*paraba	Čam	parrot	xá			
+2111	209	*-ke	*-ke	*agent nominalizer suffix	ProTa	agent nominalizer suffix	-ke			
+2112	209	*-ke	*-ke	*agent nominalizer suffix	Tak	agent nominalizer suffix	-he			
+2113	209	*-ke	*-ke	*agent nominalizer suffix	Kav	nominalizing suffix "lo que _"	-ke			
+2114	210	*ke...	*ke...	*creer	ProTa	creer	ke...			
+2115	210	*ke...	*ke...	*creer	Tak	creer	hei		Armentia	
+2116	210	*ke...	*ke...	*creer	Tak	creer	heipu		Armentia	
+2117	210	*ke...	*ke...	*creer	Tak	obedecer	heihatihi		Armentia	
+2118	210	*ke...	*ke...	*creer	Kav	creencia,credulidad	kehenati		Armentia	
+2119	210	*ke...	*ke...	*creer	Kav	intriga,fementido,incredulidad	kehenatima		Armentia	
+2120	211	*kea-	*kea-	*hoy día,ahora	ProTa	hoy día,ahora	kea-			
+2121	211	*kea-	*kea-	*hoy día,ahora	Tak	hoy día,ahora	hia-we			
+2122	211	*kea-	*kea-	*hoy día,ahora	Tak	será	hea		Armentia	
+2123	211	*kea-	*kea-	*hoy día,ahora	Tak	ahora mismo	hea-veve		Armentia	
+2124	211	*kea-	*kea-	*hoy día,ahora	Mar	today	xeáve		Heath	
+2125	211	*kea-	*kea-	*hoy día,ahora	Was	this day	geabe			
+2126	211	*kea-	*kea-	*hoy día,ahora	Ese	ahora	xeya-wa			
+2127	211	*kea-	*kea-	*hoy día,ahora	Ese	ahora	xeya			
+2128	211	*kea-	*kea-	*hoy día,ahora	War	ahora	heya ~ heyawa			
+2129	211	*kea-	*kea-	*hoy día,ahora	War	ahora mismo	heya-wa-nei			
+2130	212	*keke	*keke	*gritar	ProTa	gritar	keke			
+2131	212	*keke	*keke	*gritar	Tak	gritar	hehe-			
+2132	212	*keke	*keke	*gritar	Mar	to cry	xexaxe		Heath	
+2133	212	*keke	*keke	*gritar	Kav	gritar,aullar,cantar el gallo	keke-			
+2134	212	*keke	*keke	*gritar	Kav	primer canto del gallo	keke-pidya			
+2135	212	*keke	*keke	*gritar	Kav	gritón	keke-a-ki		Armentia	
+2136	212	*keke	*keke	*gritar	Kav	graznar	keke-tere		Armentia	
+2137	213	*kemi1	*kemi	*sacar,comprar	ProTa	sacar,comprar	kemi			
+2138	213	*kemi1	*kemi	*sacar,comprar	Tak	sacar	hemi-			
+2139	213	*kemi1	*kemi	*sacar,comprar	Tak	casarse	ha-hemi-ti-			
+2140	213	*kemi1	*kemi	*sacar,comprar	Tak	recibir	me-hemi-			
+2141	213	*kemi1	*kemi	*sacar,comprar	Tak	alzar	hemi-cua-			
+2142	213	*kemi1	*kemi	*sacar,comprar	Tak	sacar (agua)	hemi-kwina-			
+2143	213	*kemi1	*kemi	*sacar,comprar	Kav	comprar,sacar	kemi-			
+2144	213	*kemi1	*kemi	*sacar,comprar	Kav	casrse,comprar	ka-kemi-ti-			
+2145	213	*kemi1	*kemi	*sacar,comprar	Kav	descascarar	biti-kemi-			
+2146	214	*kemi2	*kemi	*zapayo,joco	ProTa	zapayo,joco	kemi			
+2147	214	*kemi2	*kemi	*zapayo,joco	Tak	zapayo,joco	hemi			
+2148	214	*kemi2	*kemi	*zapayo,joco	Rey	squash	hemi			
+2149	214	*kemi2	*kemi	*zapayo,joco	Mar	squash	xemi		Heath	
+2150	214	*kemi2	*kemi	*zapayo,joco	Kav	joco,calabaza	kemi			
+2151	214	*kemi2	*kemi	*zapayo,joco	Ese	joco	xemi			
+2152	215	*kere	*kere	*haz	ProTa	haz	kere			
+2153	215	*kere	*kere	*haz	Tak	haz,jase	e-he			
+2154	215	*kere	*kere	*haz	Kav	haz,agavillar,fajina,gavilla,manojo	kere			
+2155	216	*keti-	*keti-	*traer	ProTa	traer	keti-			
+2156	216	*keti-	*keti-	*traer	Tak	traer	heti-			
+2157	216	*keti-	*keti-	*traer	Kav	traer	keti-			
+2158	216	*keti-	*keti-	*traer	Kav	frente	e-keti			
+2159	216	*keti-	*keti-	*traer	Ese	traer	heki-			
+2160	216	*keti-	*keti-	*traer	Ese	estirar (el arco)	heki-sewi-			
+2161	216	*keti-	*keti-	*traer	Ese	tener hijo	heki-sobo-			
+2162	216	*keti-	*keti-	*traer	Ese	pescar	xeki-aya-			
+2163	216	*keti-	*keti-	*traer	Ese	alzar	xeki-sowa-ki-			
+2164	216	*keti-	*keti-	*traer	Ese	jalar	xeki-yiye-			
+2165	216	*keti-	*keti-	*traer	Ese	apretar	xeki-nasi-			
+2166	216	*keti-	*keti-	*traer	War	traer	heti-			
+2167	217	*-ki	*-ki	*past participle	ProTa	past participle	-ki			
+2168	217	*-ki	*-ki	*past participle	Tak	past participle	-(h)i			
+2169	217	*-ki	*-ki	*past participle	Kav	past participle	-ki			
+2170	217	*-ki	*-ki	*past participle	Ese	past participle	-xi			
+2171	218	*kike	*kike	*monte	ProTa	monte	kike			
+2172	218	*kike	*kike	*monte	Tak	monte	e-hihe			
+2173	218	*kike	*kike	*monte	Kav	monte,selva	e-kikek			
+2174	218	*kike	*kike	*monte	Kav	diablo (animal)	e-kike-čapa			
+2175	219	*kiri	*kiri	*pachiuba (palmera)	ProTa	pachiuba (palmera)	kiri			
+2176	219	*kiri	*kiri	*pachiuba (palmera)	Tak	pachiuba (palmera)	hi			
+2177	219	*kiri	*kiri	*pachiuba (palmera)	Kav	pachiuba	kiri			
+2178	220	*ku-	*ku-	*tío	ProTa	tío	ku-		or *kuku	
+2179	220	*ku-	*ku-	*tío	Tak	tío por madre (hermano de madre)	hu-hu			
+2180	220	*ku-	*ku-	*tío	Tak	tía (esposa de tío)	hu-sane			
+2181	220	*ku-	*ku-	*tío	Aro	tío	juju			
+2182	220	*ku-	*ku-	*tío	Kav	tío	e-ko-ko			
+2183	220	*ku-	*ku-	*tío	Kav	esposa del tío	e-koko-kehawane	*e-koko-ke-sa-wane	
+2184	220	*ku-	*ku-	*tío	Ese	hermana mayor	xoʔi			
+2185	221	*kucu	*kucu	*campanillo (wild turkey)	ProTa	campanillo (wild turkey)	kucu			
+2186	221	*kucu	*kucu	*campanillo (wild turkey)	Rey	campanillo	hoco			
+2187	221	*kucu	*kucu	*campanillo (wild turkey)	Kav	campanillo (wild turkey)	koco			
+2188	222	*kude	*kude	*pueblo	ProTa	pueblo	kude			
+2189	222	*kude	*kude	*pueblo	Tak	pueblo	e-hode			
+2190	222	*kude	*kude	*pueblo	Tak	vivienda,lugar	ani-hude			
+2191	222	*kude	*kude	*pueblo	Rey	town,village	e-hondze			
+2192	223	*kunu	*kunu	*bejuco	ProTa	bejuco	kunu			
+2193	223	*kunu	*kunu	*bejuco	Tak	bejuco	hunu			
+2194	223	*kunu	*kunu	*bejuco	Tak	regaliz,raíz dulce	hunu-bita		Armentia	
+2195	223	*kunu	*kunu	*bejuco	Kav	bejuco	kono			
+2196	223	*kunu	*kunu	*bejuco	Kav	yerba de bejuco	kono-wiha			
+2197	223	*kunu	*kunu	*bejuco	Kav	bejucal	kono-kini			
+2198	223	*kunu	*kunu	*bejuco	Kav	corona de espina	kono-sawa-kwiha			
+2199	223	*kunu	*kunu	*bejuco	Kav	fruta de bejuco del monte	kono-tiri-kaka			
+2200	223	*kunu	*kunu	*bejuco	Kav	camote	kono-kahi			
+2201	223	*kunu	*kunu	*bejuco	Ese	bejuco,ombligo	xono			
+2202	223	*kunu	*kunu	*bejuco	Ese	soga	baa-xono			
+2203	223	*kunu	*kunu	*bejuco	Ese	surubí (pez)	xono-hai			
+2204	223	*kunu	*kunu	*bejuco	Ese	arroyo	xono-šaša		gloss? 'reed + flower': 'bekucal'?	
+2205	224	*kuřakwa	*kuřakwa	*loro	ProTa	loro	kuřakwa			
+2206	224	*kuřakwa	*kuřakwa	*loro	Tak	loro	hurakwa			
+2207	224	*kuřakwa	*kuřakwa	*loro	Tak	víbora loro	hurakwa-bakwa			
+2208	224	*kuřakwa	*kuřakwa	*loro	Kav	loro	korakwa			
+2209	225	*kuři	*kuři	*tigrecillo	ProTa	tigrecillo	kuři			
+2210	225	*kuři	*kuři	*tigrecillo	Tak	tigrecillo	huri			
+2211	225	*kuři	*kuři	*tigrecillo	Mab	jaguar	huli			
+2212	225	*kuři	*kuři	*tigrecillo	Kav	tejón	ho-kori			
+2213	225	*kuři	*kuři	*tigrecillo	Ese	tigrecillo	xowi			
+2214	225	*kuřu	*kuřu	*canoso	ProTa	canoso	kuřu			
+2215	225	*kuřu	*kuřu	*canoso	Tak	canoso,motacú bien maduro	e-huru			
+2216	225	*kuřu	*kuřu	*canoso	Tak	cano,canoso	huru			
+2217	225	*kuřu	*kuřu	*canoso	Tak	podrido	huru-huru			
+2218 	225	*kuřu	*kuřu	*canoso	Tak	nuca	huru-tiani			
+2219	225	*kuřu	*kuřu	*canoso	Tak	encanecer	huru-			
+2220	225	*kuřu	*kuřu	*canoso	Tak	bien maduro	e-hurara			
+2221	225	*kuřu	*kuřu	*canoso	Kav	masrcar	koro-			
+2222	225	*kuřu	*kuřu	*canoso	Kav	acullicar,coquar (mascar coca)	koro-koro-			
+2223	226	*kwa1-	*kwa-	*ir	ProTa	ir	kwa-			
+2224	226	*kwa1-	*kwa-	*ir	Tak	volar	kwa-beca-			
+2225	226	*kwa1-	*kwa-	*ir	Tak	me voy	e-kwa-yo		Armentia	
+2226	226	*kwa1-	*kwa-	*ir	Tak	se están yendo	e-kwatabuyo		Armentia	
+2227	226	*kwa1-	*kwa-	*ir	Kav	ir	kwa-			
+2228	226	*kwa1-	*kwa-	*ir	Kav	tropezar	kwa-bo-			
+2229	226	*kwa1-	*kwa-	*ir	Ese	vamos	kwaʔa			
+2230	226	*kwa1-	*kwa-	*ir	Ese	salir,nacer	kwa-ya-			
+2231	226	*kwa1-	*kwa-	*ir	Ese	poner huevo	xa-kwa-ya-			
+2232	226	*kwa1-	*kwa-	*ir	Ese	de paseo	ani-kwa			
+2233	226	*kwa1-	*kwa-	*ir	War	vamos	kwaʔa			
+2234	226	*kwa1-	*kwa-	*ir	Ara	run	ekuahi-kuahi			
