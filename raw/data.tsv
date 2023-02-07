@@ -2443,3 +2443,54 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 2430	247	*kweře	*kweře	*pintado	ProTa	pintado	kweře			
 2431	247	*kweře	*kweře	*pintado	Tak	pintado,mezclado,pinta como la del taitetú	kere-kere		Concept 'pinta como la del taitetú' taken from Armentia	
 2432	247	*kweře	*kweře	*pintado	Kav	rayado,pintado	kwere-kwere			
+2433	248	*kwesi1	*kwesi	*viento	ProTa	viento	kwesi			
+2434	248	*kwesi1	*kwesi	*viento	Kav	viento	kwehi-hi			
+2435	248	*kwesi1	*kwesi	*viento	Kav	hacer viento	kwehi-hi-ho-			
+2436	248	*kwesi1	*kwesi	*viento	Kav	ventarrón	kwehi-pa			
+2437	248	*kwesi1	*kwesi	*viento	Ese	correntoso	kea-kwehi-paši			
+2438	249	*kwesi2	*kwesi	*quiabó	ProTa	quiabó	kwesi			
+2439	249	*kwesi2	*kwesi	*quiabó	Tak	que huele a pesado,quiabó	kesi-da			
+2440	249	*kwesi2	*kwesi	*quiabó	Kav	queabó (mal odor)	kwehi-da			
+2441	250	*(i)kwi	*(i)kwi	*espinas	ProTa	espinas	(i)kwi		*(a)kwi?	
+2442	250	*(i)kwi	*(i)kwi	*espinas	Tak	con espinas,espinudo	ki-da-ki-da-hi		Armentia	
+2443	250	*(i)kwi	*(i)kwi	*espinas	Kav	arista	kwi-ha-da			
+2444	250	*(i)kwi	*(i)kwi	*espinas	Kav	aguja	e-co-kwi-ha			
+2445	250	*(i)kwi	*(i)kwi	*espinas	Ese	espiga	kwi-na			
+2446	250	*(i)kwi	*(i)kwi	*espinas	Ese	punta	eʔikwi			
+2447	251	*kwi1-	*kwi-	*pene	ProTa	pene	kwi-		*(i)kwi?	
+2448	251	*kwi1-	*kwi-	*pene	Tak	pene,miembro del hombre	ki		Armentia	
+2449	251	*kwi1-	*kwi-	*pene	Tak	regar	ki-dudu-a		Armentia	
+2450	251	*kwi1-	*kwi-	*pene	Tak	gonorrea	ki-du-busu		Armentia	
+2451	251	*kwi1-	*kwi-	*pene	Kav	espurriar	kwi-su		Armentia	
+2452	251	*kwi1-	*kwi-	*pene	Kav	glándula	kwi-di		Armentia	
+2453	251	*kwi1-	*kwi-	*pene	Ese	gotear	kwi-kwi-			
+2454	252	*kwi2-	*kwi-	*cuidar	ProTa	cuidar	kwi-			
+2455	252	*kwi2-	*kwi-	*cuidar	Tak	cuidar	e-ki-na			
+2456	252	*kwi2-	*kwi-	*cuidar	Tak	cuidante,para cuidar	e-ki-na-(h)i			
+2457	252	*kwi2-	*kwi-	*cuidar	Tak	cuidar	ki-na		Armentia	
+2458	252	*kwi2-	*kwi-	*cuidar	Tak	mujer que ayuda a los curanderos	ki-na			
+2459	252	*kwi2-	*kwi-	*cuidar	Ese	cuidar	kwi-ña			
+2460	252	*kwi2-	*kwi-	*cuidar	Ese	cuidante	e-kwi-ña-xi			
+2461	252	*kwi2-	*kwi-	*cuidar	Ese	limpiar	kwi-			
+2462	252	*kwi2-	*kwi-	*cuidar	War	limpiar	kwi-			
+2463	252	*kwi2-	*kwi-	*cuidar	War	limpiador	ma-kwi-hi			
+2464	253	*kwina	*kwina	*salir,llegar	ProTa	salir	kwina			
+2465	253	*kwina	*kwina	*salir,llegar	Tak	salir	kwina-na-			
+2466	253	*kwina	*kwina	*salir,llegar	Tak	llegar	kwina-			
+2467	253	*kwina	*kwina	*salir,llegar	Tak	partera	e-kwina-mehi		Armentia | loans?	
+2468	253	*kwina	*kwina	*salir,llegar	Was	from which sprang	zacuinagigi			
+2469	253	*kwina	*kwina	*salir,llegar	Kav	salir,llegar,parir	kwina-na-		Concepts 'llegar,parir' taken from Armentia	
+2470	253	*kwina	*kwina	*salir,llegar	Kav	donde sale el sol	e-heti-kwina-nayo-ke-ha			
+2471	253	*kwina	*kwina	*salir,llegar	Kav	sacar (agua)	hemi-kwina-			
+2472	253	*kwina	*kwina	*salir,llegar	Kav	nacer	kwina-ra		Armentia	
+2473 	253	*kwina	*kwina	*salir,llegar	Kav	nacido,paride	e-kwina-na		Armentia	
+2474	255	*kwita	*kwita	*cuerpo	ProTa	cuerpo	kwita			
+2475	255	*kwita	*kwita	*cuerpo	Tak	cuerpo	e-kita			
+2476	255	*kwita	*kwita	*cuerpo	Tak	entero	kita-na			
+2477	255	*kwita	*kwita	*cuerpo	Tak	verdad	e-ne-kita			
+2478	255	*kwita	*kwita	*cuerpo	Sap	corpo	ecuita			
+2479	255	*kwita	*kwita	*cuerpo	Aro	cuerpo	ecuicha			
+2480	255	*kwita	*kwita	*cuerpo	Kav	hombre,gente,santo,cuerpo	e-kwita			
+2481	255	*kwita	*kwita	*cuerpo	Kav	cuerudo,no siente nada	kwita-ohe-da-ma			
+2482	255	*kwita	*kwita	*cuerpo	Kav	cosquilloso	kwita-bihi-da			
+2483	255	*kwita	*kwita	*cuerpo	Kav	homicida	kwita-yeki		Armentia	
