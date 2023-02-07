@@ -2224,24 +2224,222 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 2211	225	*kuři	*kuři	*tigrecillo	Mab	jaguar	huli			
 2212	225	*kuři	*kuři	*tigrecillo	Kav	tejón	ho-kori			
 2213	225	*kuři	*kuři	*tigrecillo	Ese	tigrecillo	xowi			
-2214	225	*kuřu	*kuřu	*canoso	ProTa	canoso	kuřu			
-2215	225	*kuřu	*kuřu	*canoso	Tak	canoso,motacú bien maduro	e-huru			
-2216	225	*kuřu	*kuřu	*canoso	Tak	cano,canoso	huru			
-2217	225	*kuřu	*kuřu	*canoso	Tak	podrido	huru-huru			
-2218 	225	*kuřu	*kuřu	*canoso	Tak	nuca	huru-tiani			
-2219	225	*kuřu	*kuřu	*canoso	Tak	encanecer	huru-			
-2220	225	*kuřu	*kuřu	*canoso	Tak	bien maduro	e-hurara			
-2221	225	*kuřu	*kuřu	*canoso	Kav	masrcar	koro-			
-2222	225	*kuřu	*kuřu	*canoso	Kav	acullicar,coquar (mascar coca)	koro-koro-			
-2223	226	*kwa1-	*kwa-	*ir	ProTa	ir	kwa-			
-2224	226	*kwa1-	*kwa-	*ir	Tak	volar	kwa-beca-			
-2225	226	*kwa1-	*kwa-	*ir	Tak	me voy	e-kwa-yo		Armentia	
-2226	226	*kwa1-	*kwa-	*ir	Tak	se están yendo	e-kwatabuyo		Armentia	
-2227	226	*kwa1-	*kwa-	*ir	Kav	ir	kwa-			
-2228	226	*kwa1-	*kwa-	*ir	Kav	tropezar	kwa-bo-			
-2229	226	*kwa1-	*kwa-	*ir	Ese	vamos	kwaʔa			
-2230	226	*kwa1-	*kwa-	*ir	Ese	salir,nacer	kwa-ya-			
-2231	226	*kwa1-	*kwa-	*ir	Ese	poner huevo	xa-kwa-ya-			
-2232	226	*kwa1-	*kwa-	*ir	Ese	de paseo	ani-kwa			
-2233	226	*kwa1-	*kwa-	*ir	War	vamos	kwaʔa			
-2234	226	*kwa1-	*kwa-	*ir	Ara	run	ekuahi-kuahi			
+2214	226	*kuřu	*kuřu	*canoso	ProTa	canoso	kuřu			
+2215	226	*kuřu	*kuřu	*canoso	Tak	canoso,motacú bien maduro	e-huru			
+2216	226	*kuřu	*kuřu	*canoso	Tak	cano,canoso	huru			
+2217	226	*kuřu	*kuřu	*canoso	Tak	podrido	huru-huru			
+2218 	226	*kuřu	*kuřu	*canoso	Tak	nuca	huru-tiani			
+2219	226	*kuřu	*kuřu	*canoso	Tak	encanecer	huru-			
+2220	226	*kuřu	*kuřu	*canoso	Tak	bien maduro	e-hurara			
+2221	226	*kuřu	*kuřu	*canoso	Kav	masrcar	koro-			
+2222	226	*kuřu	*kuřu	*canoso	Kav	acullicar,coquar (mascar coca)	koro-koro-			
+2223	227	*kwa1-	*kwa-	*ir	ProTa	ir	kwa-			
+2224	227	*kwa1-	*kwa-	*ir	Tak	volar	kwa-beca-			
+2225	227	*kwa1-	*kwa-	*ir	Tak	me voy	e-kwa-yo		Armentia	
+2226	227	*kwa1-	*kwa-	*ir	Tak	se están yendo	e-kwatabuyo		Armentia	
+2227	227	*kwa1-	*kwa-	*ir	Kav	ir	kwa-			
+2228	227	*kwa1-	*kwa-	*ir	Kav	tropezar	kwa-bo-			
+2229	227	*kwa1-	*kwa-	*ir	Ese	vamos	kwaʔa			
+2230	227	*kwa1-	*kwa-	*ir	Ese	salir,nacer	kwa-ya-			
+2231	227	*kwa1-	*kwa-	*ir	Ese	poner huevo	xa-kwa-ya-			
+2232	227	*kwa1-	*kwa-	*ir	Ese	de paseo	ani-kwa			
+2233	227	*kwa1-	*kwa-	*ir	War	vamos	kwaʔa			
+2234	227	*kwa1-	*kwa-	*ir	Ara	run	ekuahi-kuahi			
+2235	228	*kwa2-	*kwa-	*madre	ProTa	madre	kwa-			
+2236	228	*kwa2-	*kwa-	*madre	Tak	madre	kwa-ra			
+2237	228	*kwa2-	*kwa-	*madre	Tak	madrastra,madrina,patrona	kwa-ra-pu(h)i		Concept 'patrona' taken from Armentia	
+2238	228	*kwa2-	*kwa-	*madre	Tak	tía por madre (hermana de madre)	kwa-ibe			
+2239	228	*kwa2-	*kwa-	*madre	Rey	madre	-koʔa		?kẃaʔa			
+2240	228	*kwa2-	*kwa-	*madre	Mar	my mother	kikua		Heath	
+2241	228	*kwa2-	*kwa-	*madre	Mar	mother	kúá		Nordenskiöld	
+2242	228	*kwa2-	*kwa-	*madre	Was	mother	equay,cua			
+2243	228	*kwa2-	*kwa-	*madre	Sap	madre	cùa			
+2244	228	*kwa2-	*kwa-	*madre	Kav	madre	e-kwaʔa			
+2245	228	*kwa2-	*kwa-	*madre	Kav	mamá	e-kwake			
+2246	228	*kwa2-	*kwa-	*madre	Kav	tía	kwaine			
+2247	228	*kwa2-	*kwa-	*madre	Kav	madrastra	kwapuhike		Armentia	
+2248	229	*kwa3-	*kwa-	*hot	ProTa	hot	kwa-			
+2249	229	*kwa3-	*kwa-	*hot	Ara	hot	ekua-kua			
+2250	229	*kwa3-	*kwase	*caliente	ProTa	caliente	kwase			
+2251	229	*kwa3-	*kwase	*caliente	Tak	tibio,medio caliente	kwase-kwase			
+2252	229	*kwa3-	*kwase	*caliente	Tak	calientar	kwase-sia			
+2253	229	*kwa3-	*kwaře	*claro	ProTa	claro	kwaře			
+2254	229	*kwa3-	*kwaře	*claro	Tak	claro,transparente,brilloso	kware-da			
+2255	229	*kwa3-	*kwaře	*claro	Sap	chiaro	cuareme			
+2256	229	*kwa3-	*kwařařa	*freir	ProTa	freir	kwařařa			
+2257	229	*kwa3-	*kwařařa	*freir	Tak	hervir,freir	kwarara-			
+2258	229	*kwa3-	*kwařařa	*freir	Kav	chicharrón,freir	kwarara-isa		Armentia	
+2259	229	*kwa3-	*kwařařa	*freir	Kav	frito	e-kwarara-isa		Armentia	
+2260	229	*kwa3-	*kwati	*leña	ProTa	leña	kwati			
+2261	229	*kwa3-	*kwati	*leña	Tak	leña	kwati			
+2262	229	*kwa3-	*kwati	*leña	Tak	fuego,tizón,brasa	kwati-dare-da			
+2263	229	*kwa3-	*kwati	*leña	Tak	abeja leña (su picada es como fuego)	kwati-wasa			
+2264	229	*kwa3-	*kwati	*leña	Tak	haz arder el fuego	kwati dareʔake		Armentia	
+2265	229	*kwa3-	*kwati	*leña	Tak	fogata	kwati e-tua			
+2266	229	*kwa3-	*kwati	*leña	Tak	atiza el fuego	kwati time-ke			
+2267	229	*kwa3-	*kwati	*leña	Tak	enciende el fuego	kwati turu-ke			
+2268	229	*kwa3-	*kwati	*leña	Tak	en el fuego	kwati-su			
+2269	229	*kwa3-	*kwati	*leña	Rey	firewood	kwati			
+2270	229	*kwa3-	*kwati	*leña	Mar	fire	cuati		Cardús	
+2271	229	*kwa3-	*kwati	*leña	Mar	fire	cuhuóti		Nordenskiöld	
+2272	229	*kwa3-	*kwati	*leña	Mar	fire	kuáti		Heath	
+2273	229	*kwa3-	*kwati	*leña	Sap	fuoco	cuáti			
+2274	229	*kwa3-	*kwati	*leña	Aro	fuego	cuati ibueda			
+2275	229	*kwa3-	*kwati	*leña	Aro	leña	cuatimanu			
+2276	229	*kwa3-	*kwati	*leña	Mab	fire	kwathi			
+2277	229	*kwa3-	*kwati	*leña	Mab	wood	kwathithi			
+2278	229	*kwa3-	*kwati	*leña	Kav	leña	kwati			
+2279	229	*kwa3-	*kwati	*leña	Ese	fuego,leña	kwaki			
+2280	229	*kwa3-	*kwati	*leña	Ese	brasas	kwaki-kóxaša			
+2281	229	*kwa3-	*kwati	*leña	Ese	ceniza	kwaki-maxo			
+2282	229	*kwa3-	*kwati	*leña	Ese	venteador	kwaki-pexe			
+2283	229	*kwa3-	*kwati	*leña	Ese	ceniza	kwaki-powi			
+2284	229	*kwa3-	*kwati	*leña	War	fuego,tizón,leña	kwati			
+2285	229	*kwa3-	*kwati	*leña	War	ceniza	kwati-poi			
+2286	229	*kwa3-	*kwati	*leña	Čam	kindling wood	kwáki			
+2287	229	*kwa3-	*kwati	*leña	Ara	fire	kuáti			
+2288	229	*kwa3-	*kwati	*leña	Ara	bois (chonta) de la flèche	kuato		Robuchon	
+2289	229	*kwa3-	*kwawi	*asar	ProTa	asar	kwawi			
+2290	229	*kwa3-	*kwawi	*asar	Tak	asar	kwawi-			
+2291	229	*kwa3-	*kwawi	*asar	Tak	chamuscar	ina-kwawi-			
+2292	229	*kwa3-	*kwawi	*asar	Tak	quemarse	ha-kwawi-ta-			
+2293	229	*kwa3-	*kwawi	*asar	Tak	asado (en chapapa)	kwawi-hihi			
+2294	229	*kwa3-	*kwawi	*asar	Kav	asar,asar en brasas	kwawi-		Concept 'asar en brasas' taken from Armentia	
+2295	230	*(a)kwa	*(a)kwa	*pecho	ProTa	pecho	(a)kwa			
+2296	230	*(a)kwa	*(a)kwa	*pecho	Kav	pecho	y-akwa			
+2297	230	*(a)kwa	*(a)kwa	*pecho	Kav	pecho	iyakwa		Armentia	
+2298	230	*(a)kwa	*(a)kwa	*pecho	Kav	pechuga	yakwace		Armentia	
+2299	230	*(a)kwa	*(a)kwa	*pecho	Ese	pecho	e-kwá			
+2300	231	*kwaba	*kwaba	*canoa	ProTa	canoa	kwaba			
+2301	231	*kwaba	*kwaba	*canoa	Tak	canoa	kwaba			
+2302	231	*kwaba	*kwaba	*canoa	Tak	cedro	kwaba-du			
+2303	231	*kwaba	*kwaba	*canoa	Rey	canoa	kwamba			
+2304	231	*kwaba	*kwaba	*canoa	Mar	canoe	kuambá		Heath	
+2305	231	*kwaba	*kwaba	*canoa	Aro	canoa	cuamba			
+2306	231	*kwaba	*kwaba	*canoa	Kav	canoa	kwaba			
+2307	231	*kwaba	*kwaba	*canoa	Kav	chalupa	kwaba e-bari			
+2308	231	*kwaba	*kwaba	*canoa	War	canoa	e-kwaba			
+2309	232	*kwac̣a	*kwac̣a	*boca	ProTa	boca	kwac̣a		see also *kwei-	
+2310	232	*kwac̣a	*kwac̣a	*boca	Tak	boca	e-kwaca			
+2311	232	*kwac̣a	*kwac̣a	*boca	Tak	bostezar	ha-kwaca-wawa-ti-			
+2312	232	*kwac̣a	*kwac̣a	*boca	Tak	besar	kwaca-cu-			
+2313	232	*kwac̣a	*kwac̣a	*boca	Tak	ordenar,mandar	kwaca-sia-			
+2314 	232	*kwac̣a	*kwac̣a	*boca	Tak	achacar,imputar	kwaca		Armentia	
+2315	232	*kwac̣a	*kwac̣a	*boca	Tak	un bocado,un trago,una palabra,una boca	kwaca peada		Armentia	
+2316	232	*kwac̣a	*kwac̣a	*boca	Tak	tapar (cántaro ó botella)	kwaca-teri		Armentia	
+2317	232	*kwac̣a	*kwac̣a	*boca	Rey	mouth	e-kwaca			
+2318	232	*kwac̣a	*kwac̣a	*boca	Mar	mouth	ekuatra		Heath	
+2319	232	*kwac̣a	*kwac̣a	*boca	Sap	bocca	ecuacha			
+2320	232	*kwac̣a	*kwac̣a	*boca	Sap	labbro	ecuachacubbi			
+2321	232	*kwac̣a	*kwac̣a	*boca	Mab	mouth	ikwatsa			
+2322	232	*kwac̣a	*kwac̣a	*boca	Kav	boca,ribera	e-kwaca			
+2323	232	*kwac̣a	*kwac̣a	*boca	Kav	labio	e-kwaca-biti			
+2324	232	*kwac̣a	*kwac̣a	*boca	Kav	dicho,cuento	kwaca-bihi			
+2325	232	*kwac̣a	*kwac̣a	*boca	Kav	corregir	kwaca-wana		Armentia	
+2326	232	*kwac̣a	*kwac̣a	*boca	Kav	orillar	kwaca-hu		Armentia	
+2327	232	*kwac̣a	*kwac̣a	*boca	Kav	embozar	kwaca-tumu		Armentia	
+2328	232	*kwac̣a	*kwac̣a	*boca	Ese	labios	e-kwasa			
+2329	232	*kwac̣a	*kwac̣a	*boca	Ese	crecer la barba	kwaša-		š < ?
+2330	232	*kwac̣a	*kwac̣a	*boca	War	labio	e-kwasa			
+2331	233	*kwadidi	*kwadidi	*picaflor	ProTa	picaflor	kwadidi			
+2332	233	*kwadidi	*kwadidi	*picaflor	Tak	picaflor (ave),colibrí	kwadidi			
+2333	233	*kwadidi	*kwadidi	*picaflor	Rey	hummingbird	kwandzindzi			
+2334	233	*kwadidi	*kwadidi	*picaflor	Kav	gavetillo (árbol)	kwadidi-kwi		hummingbird-tree?	
+2335	233	*kwadidi	*kwadidi	*picaflor	Ese	clase de picaflor	kwaʔii			
+2336	234	*-kwana	*-kwana	*plural suffix, noun and pronoun	ProTa	plural suffix, noun and pronoun	-kwana			
+2337	234	*-kwana	*-kwana	*plural suffix, noun and pronoun	Tak	plural suffix, noun and pronoun	-kwana			
+2338	234	*-kwana	*-kwana	*plural suffix, noun and pronoun	Kav	plural suffix, noun and pronoun	-kwana			
+2339	234	*-kwana	*-kwana	*plural suffix, noun and pronoun	Ese	plural suffix, noun and pronoun	-kwana			
+2340	235	*kwari	*kwari	*jefe,juez	ProTa	jefe,juez	kwari			
+2341	235	*kwari	*kwari	*jefe,juez	Tak	jefe,señor	e-kwai		Concept 'señor' taken from Armentia	
+2342	235	*kwari	*kwari	*jefe,juez	Kav	juez	e-kwari			
+2343	236	*kwase	*kwase	*chocolate	ProTa	chocolate	kwase			
+2344	236	*kwase	*kwase	*chocolate	Tak	fruta de cacao	kwase			
+2345	236	*kwase	*kwase	*chocolate	Tak	árbol de cacao	kwase eki			
+2346	236	*kwase	*kwase	*chocolate	Kav	chocolatillo (árbol)	kwahe			
+2347	236	*kwase	*kwase	*chocolate	Kav	chocolate	kwahe-ri			
+2348	236	*kwase	*kwase	*chocolate	Ese	chocolate	kwahe			
+2349	236	*kwase	*kwase	*chocolate	Ese	chocolatal	kwahe ʔiye			
+2350	236	*kwase	*kwase	*chocolate	War	cacao	kuahe			
+2351	236	*kwase	*kwase	*chocolate	Čam	chocolate	/gwáxi/			
+2352	237	*kwawe	*kwawe	*yuca	ProTa	yuca	kwawe			
+2353	237	*kwawe	*kwawe	*yuca	Tak	yuca	kwawe			
+2354	237	*kwawe	*kwawe	*yuca	Tak	rama de yuca	kwawe eča			
+2355	237	*kwawe	*kwawe	*yuca	Tak	chivé	kwawe harina			
+2356	237	*kwawe	*kwawe	*yuca	Tak	yucal	kwawe hude			
+2357	237	*kwawe	*kwawe	*yuca	Rey	yuca	kwabhe			
+2358	237	*kwawe	*kwawe	*yuca	Mar	Mandioca	cáhue		Nordenskiöld	
+2359	237	*kwawe	*kwawe	*yuca	Aro	yuca	cuabe			
+2360	237	*kwawe	*kwawe	*yuca	Mab	yuca	kwavia			
+2361	237	*kwawe	*kwawe	*yuca	Kav	yuca	kwawe			
+2362	237	*kwawe	*kwawe	*yuca	Kav	rama de yuca	kwawe ekwi			
+2363	237	*kwawe	*kwawe	*yuca	Kav	almidón de yuca	kwawe-moro			
+2364	238	*kwazi	*kwazi	*asomar	ProTa	asomar	kwazi			
+2365	238	*kwazi	*kwazi	*asomar	Tak	espiar,asomarse	kwadhi-ba-		Concept 'asomarse' taken from Armentia	
+2366	238	*kwazi	*kwazi	*asomar	Kav	asomar	kwahi		Armentia	
+2367	238	*kwazi	*kwazi	*asomar	Kav	averiguar,exploración	kwahi-ti		Armentia	
+2368	238	*kwazi	*kwazi	*asomar	Kav	inaveriguable	kwahi-tima			
+2369	238	*kwazi	*kwazi	*asomar	Kav	convidar	ka-kwahi-titi		Armentia	
+2370	239	*kwe1-	*kweru	*afilado	ProTa	afilado	kweru			
+2371	239	*kwe1-	*kweru	*afilado	Tak	afilado	keu-da			
+2372	239	*kwe1-	*kweru	*afilado	Kav	filoso	kwero-da			
+2373	239	*kwe1-	*kweru	*afilado	Kav	muto (sin filo)	kwero-da-ma			
+2374	239	*kwe1-	*kweru	*afilado	Kav	hacer punta	kwero-			
+2375	239	*kwe1-	*kwesa	*delgado	ProTa	delgado	kwesa			
+2376	239	*kwe1-	*kwesa	*delgado	Tak	delgado (como papel o tela)	kesa-da			
+2377	240	*-kwe2	*-kwe	*imperative suffix	ProTa	imperative suffix	-kwe			
+2378	240	*-kwe2	*-kwe	*imperative suffix	Tak	imperative suffix	-ke			
+2379	240	*-kwe2	*-kwe	*imperative suffix	Was	imperative suffix	-he		e.g., < tia-ge >	
+2380	240	*-kwe2	*-kwe	*imperative suffix	Kav	imperative suffix	-kwe			
+2381	240	*-kwe2	*-kwe	*imperative suffix	Ese	imperative suffix	-kwe			
+2382	241	*-kwe3-	*-kwe-	*possessive affix	ProTa	possessive affix	-kwe-		apparently only employed with 1st and 2nd person pronouns (e.g. Tak ke-ma 'my', mi-ke-da 'thy', Kav e-kwe 'my', mi-kwe 'thy', Ese e-kwe-a 'my')	
+2383	241	*-kwe3-	*-kwe-	*possessive affix	Tak	possessive affix	-ke			
+2384	241	*-kwe3-	*-kwe-	*possessive affix	Kav	possessive affix	-kwe			
+2385	241	*-kwe3-	*-kwe-	*possessive affix	Ese	possessive affix	-kwe			
+2386	241	*-kwe3-	*-kwe-	*possessive affix	Rey	possessive prefix	ki-			
+2387	242	*kwec̣ara	*kwec̣ara	*nutria	ProTa	nutria	kwec̣ara			
+2388	242	*kwec̣ara	*kwec̣ara	*nutria	Tak	londra,lobo	keca			
+2389	242	*kwec̣ara	*kwec̣ara	*nutria	Rey	otter	kweca			
+2390	242	*kwec̣ara	*kwec̣ara	*nutria	Kav	lobo (nutria)	kwecara			
+2391	243	*kwei-	*kwei-	*barba	ProTa	berba	*kwei-		see also *kwac̣a	
+2392	243	*kwei-	*kwei-	*barba	Tak	barba,bigote	ke-dha			
+2393	243	*kwei-	*kwei-	*barba	Tak	saliva	e-ke-di			
+2394	243	*kwei-	*kwei-	*barba	Tak	labio,orilla	e-ke-ke		Armentia	
+2395	243	*kwei-	*kwei-	*barba	Tak	bigote	e-ke-ke-da		Armentia	
+2396	243	*kwei-	*kwei-	*barba	Tak	escupar	ki-tu-a			
+2397	243	*kwei-	*kwei-	*barba	Rey	beard	kwesa			
+2398	243	*kwei-	*kwei-	*barba	Mar	berad	euesa		Heath	
+2399	243	*kwei-	*kwei-	*barba	Kav	barba,bigote	kwe-sa			
+2400	243	*kwei-	*kwei-	*barba	Kav	saliva	e-kwe-di			
+2401	243	*kwei-	*kwei-	*barba	Kav	escupar	e-kwe-dira-a-			
+2402	243	*kwei-	*kwei-	*barba	Kav	mentón	e-kwe-doko			
+2403	243	*kwei-	*kwei-	*barba	Kav	la barba	e-kwe-kwi			
+2404	243	*kwei-	*kwei-	*barba	Kav	salivar	e-kwe-di-a		Armentia	
+2405	243	*kwei-	*kwei-	*barba	Kav	cara	e-kwei-ki		Armentia	
+2406	243	*kwei-	*kwei-	*barba	Ese	barba	e-kwe-ša			
+2407	243	*kwei-	*kwei-	*barba	Ese	escoba	e-kwe-ša-baxi		< *kwei+c̣a or *kwe+ja or perhaps *kwei+ja	
+2408	243	*kwei-	*kwei-	*barba	Ese	pelo de la barba	e-kwe-kweña		< *kwe-kwe-ina	
+2409	243	*kwei-	*kwei-	*barba	Ese	saliva	kwi-čo			
+2410	243	*kwei-	*kwei-	*barba	Ese	escupar	kwi-čo-hea-ka-		< *kwei+tu?, cf. Tak forms above	
+2411	243	*kwei-	*kweisa	*avisar	ProTa	avisar	kweisa			
+2412	243	*kwei-	*kweisa	*avisar	Tak	avisar	kisa-			
+2413	243	*kwei-	*kweisa	*avisar	Tak	conversar,charlar	kisa-kisa-pu-			
+2414	243	*kwei-	*kweisa	*avisar	Kav	avisar,hacer señas	ka-kweha-ti-			
+2415	243	*kwei-	*kweisa	*avisar	Kav	decir,avisar,predicar,invitar,contar,señalar	kweha-			
+2416	243	*kwei-	*kwei-weiwei	*barranco	ProTa	barranco	kwei-weiwei		There is uncertainty regarding the protoform on the ID in the source	
+2417	243	*kwei-	*kwei-weiwei	*barranco	Tak	barranco	e-ke-wiwi			
+2418	243	*kwei-	*kwei-weiwei	*barranco	Kav	barranco,costado	e-kwe-wewe			
+2419	243	*kwei-	*kwei-weiwei	*barranco	War	barranco de tierra	e-kwe-wewe			
+2420	244	*kwene	*kwene	*primero	ProTa	primero	kwene			
+2421	244	*kwene	*kwene	*primero	Tak	primero	e-kene			
+2422	244	*kwene	*kwene	*primero	Kav	primero,adelante,antes	i-kwene			
+2423	245	*kwere	*kwere	*tumbar	ProTa	tumbar	kwere			
+2424	245	*kwere	*kwere	*tumbar	Tak	tumbar,hachear	ke-			
+2425	245	*kwere	*kwere	*tumbar	Kav	tumbar,hachear	kwere-			
+2426	245	*kwere	*kwere	*tumbar	Ese	pegar,castigar	kweá-			
+2427	246	*kweri	*kweri	*río	ProTa	río	kweri			
+2428	246	*kweri	*kweri	*río	Kav	Río Beni,río	kweri			
+2429	246	*kweri	*kweri	*río	Ese	río	kwei			
+2430	247	*kweře	*kweře	*pintado	ProTa	pintado	kweře			
+2431	247	*kweře	*kweře	*pintado	Tak	pintado,mezclado,pinta como la del taitetú	kere-kere		Concept 'pinta como la del taitetú' taken from Armentia	
+2432	247	*kweře	*kweře	*pintado	Kav	rayado,pintado	kwere-kwere			
