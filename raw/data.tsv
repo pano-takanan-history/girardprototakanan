@@ -2484,13 +2484,179 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 2471	253	*kwina	*kwina	*salir,llegar	Kav	sacar (agua)	hemi-kwina-			
 2472	253	*kwina	*kwina	*salir,llegar	Kav	nacer	kwina-ra		Armentia	
 2473 	253	*kwina	*kwina	*salir,llegar	Kav	nacido,paride	e-kwina-na		Armentia	
-2474	255	*kwita	*kwita	*cuerpo	ProTa	cuerpo	kwita			
-2475	255	*kwita	*kwita	*cuerpo	Tak	cuerpo	e-kita			
-2476	255	*kwita	*kwita	*cuerpo	Tak	entero	kita-na			
-2477	255	*kwita	*kwita	*cuerpo	Tak	verdad	e-ne-kita			
-2478	255	*kwita	*kwita	*cuerpo	Sap	corpo	ecuita			
-2479	255	*kwita	*kwita	*cuerpo	Aro	cuerpo	ecuicha			
-2480	255	*kwita	*kwita	*cuerpo	Kav	hombre,gente,santo,cuerpo	e-kwita			
-2481	255	*kwita	*kwita	*cuerpo	Kav	cuerudo,no siente nada	kwita-ohe-da-ma			
-2482	255	*kwita	*kwita	*cuerpo	Kav	cosquilloso	kwita-bihi-da			
-2483	255	*kwita	*kwita	*cuerpo	Kav	homicida	kwita-yeki		Armentia	
+2474	254	*kwita	*kwita	*cuerpo	ProTa	cuerpo	kwita			
+2475	254	*kwita	*kwita	*cuerpo	Tak	cuerpo	e-kita			
+2476	254	*kwita	*kwita	*cuerpo	Tak	entero	kita-na			
+2477	254	*kwita	*kwita	*cuerpo	Tak	verdad	e-ne-kita			
+2478	254	*kwita	*kwita	*cuerpo	Sap	corpo	ecuita			
+2479	254	*kwita	*kwita	*cuerpo	Aro	cuerpo	ecuicha			
+2480	254	*kwita	*kwita	*cuerpo	Kav	hombre,gente,santo,cuerpo	e-kwita			
+2481	254	*kwita	*kwita	*cuerpo	Kav	cuerudo,no siente nada	kwita-ohe-da-ma			
+2482	254	*kwita	*kwita	*cuerpo	Kav	cosquilloso	kwita-bihi-da			
+2483	254	*kwita	*kwita	*cuerpo	Kav	homicida	kwita-yeki		Armentia	
+2484	255	*ma1-	*ma-	*abajo	ProTa	abajo	ma-			
+2485	255	*ma1-	*ma-	*abajo	Tak	abajo,debajo	e-ma-su			
+2486	255	*ma1-	*ma-	*abajo	Tak	por abajo	e-ma-he			
+2487	255	*ma1-	*ma-	*abajo	Sap	giù	emabuzu			
+2488	255	*ma1-	*ma-	*abajo	Kav	abajo	e-ma-ke			
+2489	255	*ma1-	*ma-	*abajo	Kav	morir	ma-ho-			
+2490	255	*ma1-	*ma-	*abajo	Kav	la muerte	ma-ho-ya			
+2491	255	*ma1-	*ma-	*abajo	Kav	muerrto	e-ma-ho			
+2492	255	*ma1-	*ma-	*abajo	Kav	tumba	e-ma-ho-kani			
+2493	255	*ma1-	*ma-	*abajo	Kav	muerto,finado,difunto	e-ma-ho-ke			
+2494	255	*ma1-	*ma-	*abajo	Kav	esqueleto	e-ma-ho-ke caʔo			
+2495	255	*ma1-	*ma-	*abajo	Kav	viuda	e-awe-ma-ho-ke			
+2496	255	*ma1-	*ma-	*abajo	Kav	mortal	ma-ho-aki		Armentia	
+2497	255	*ma1-	*ma-	*abajo	Kav	hospital	ma-hue-tare		Armentia	
+2498	255	*ma1-	*ma-	*abajo	Kav	panteón	ma-hu-kini		Armentia	
+2499	255	*ma1-	*ma-	*abajo	Kav	sano,salud	ma-hu-ma		Armentia	
+2500	255	*ma1-	*ma-	*abajo	Kav	sofocar	ma-hu-mere		Armentia	
+2501	255	*ma1-	*ma-	*abajo	Kav	enfermo	ma-hu-ya		Armentia	
+2502	255	*ma1-	*ma-	*abajo	Ese	he allí	maʔahe			
+2503	255	*ma1-	*ma-	*abajo	Ese	ahí,está	mahotii			
+2504	255	*ma1-	*makwa	*abajo	ProTa	abajo	makwa			
+2505	255	*ma1-	*makwa	*abajo	Tak	abajo (dirección en que corre los ríos)	e-makwa-wa			
+2506	255	*ma1-	*makwa	*abajo	Tak	este (al lado de abajo)	e-makwa-wa-bene			
+2507	255	*ma1-	*makwa	*abajo	Ese	hacia abajo	makwa-wa-sixe			
+2508	255	*ma1-	*makwa	*abajo	War	abajo	makwaba			
+2509	255	*ma1-	*makwa	*abajo	War	para abajo	makwabahasihi			
+2510	256	*ma2-	*ma-	*vientre	ProTa	vientre	ma-		*ma1-?	
+2511	256	*ma2-	*ma-	*vientre	Tak	bajo vientre	e-ha-mawa			
+2512	256	*ma2-	*ma-	*vientre	Tak	preñada	mabe			
+2513	256	*ma2-	*ma-	*vientre	Tak	corazón,estómago	mue-sumu		Armentia: maesumu	
+2514	256	*ma2-	*ma-	*vientre	Tak	concebir,quedar embarazada la mujer	ha-mabi-a-ti		Armentia	
+2515	256	*ma2-	*ma-	*vientre	Tak	grueso (en derredor, como hilo)	mawai-čidi			
+2516	256	*ma2-	*ma-	*vientre	Tak	grueso (en derredor como hilo, bejuco)	maʔaida			
+2517	256	*ma2-	*ma-	*vientre	Rey	heart	masomo			
+2518	256	*ma2-	*ma-	*vientre	Mar	heart	masumú		Heath	
+2519	256	*ma2-	*ma-	*vientre	Sap	cuore	mauzuma			
+2520	256	*ma2-	*ma-	*vientre	Aro	corazón	emofobo			
+2521	256	*ma2-	*ma-	*vientre	Kav	preñada	ma-ki			
+2522	256	*ma2-	*ma-	*vientre	Ese	estómago	e-maxii			
+2523	256	*ma2-	*ma-	*vientre	Ese	cintura	e-mawawa			
+2524	256	*ma2-	*ma-	*vientre	Ese	panza	e-mape			
+2525	257	*-ma3	*-ma	*negative/privative suffix	ProTa	negative/privative suffix	-ma		or *ama	
+2526	257	*-ma3	*-ma	*negative/privative suffix	Tak	negative/privative suffix	-ma			
+2527	257	*-ma3	*-ma	*negative/privative suffix	Kav	negative/privative suffix	-ma			
+2528	257	*-ma3	*-ma	*negative/privative suffix	Ese	negative/privative suffix	-ma			
+2529	258	*mace1	*mace	*achiote	ProTa	achiote	mace			
+2530	258	*mace1	*mace	*achiote	Tak	achiote,urucú	mace			
+2531	258	*mace1	*mace	*achiote	Tak	víbora coral	mace bakwa			
+2532	258	*mace1	*mace	*achiote	Kav	achiote	e-mace			
+2533	258	*mace1	*mace	*achiote	Kav	clase de víbora de color rojo	e-mace-bakwa			
+2534	259	*mace2	*mace	*castigar	ProTa	castigar	mace			
+2535	259	*mace2	*mace	*castigar	Tak	castigo de Dios,cualquier sufrimiento	ha-mace-ti			
+2536	259	*mace2	*mace	*castigar	Tak	castigar	mace		Armentia	
+2537	259	*mace2	*mace	*castigar	Tak	castigo,penitencia	e-mace-natani		Armentia	
+2538	259	*mace2	*mace	*castigar	Ese	bravo	kea-mase			
+2539	259	*mace2	*mace	*castigar	Ese	ponerse bravo	xa-mase-ki-		cognate??	
+2540	260	*mada	*mada	*jochi colorado	ProTa	jochi colorado	mada			
+2541	260	*mada	*mada	*jochi colorado	Tak	jochi colorado	mada			
+2542	260	*mada	*mada	*jochi colorado	Kav	jochi colorado	mada			
+2543	261	*madakapa	*madakapa	*martin pescador (ave)	ProTa	martin pescador (ave)	madakapa			
+2544	261	*madakapa	*madakapa	*martin pescador (ave)	Tak	martin pescador (ave)	madapa			
+2545	261	*madakapa	*madakapa	*martin pescador (ave)	Kav	martin pescador	madakapa			
+2546	262	*madi	*madi	*resina	ProTa	resina	madi			
+2547	262	*madi	*madi	*resina	Tak	resina	e-madi			
+2548	262	*madi	*madi	*resina	Kav	bolacha,plancha,resina de goma	e-madi			
+2549	262	*madi	*madi	*resina	Kav	va a traer goma	e-madi-hiteke			
+2550	262	*madi	*madi	*resina	Kav	resina de paquió	acaka-madi			
+2551	262	*madi	*madi	*resina	Kav	gomosidad	madi-ki		Armentia	
+2552	262	*madi	*madi	*resina	Ese	leche,resina	e-maʔo			
+2553	262	*madi	*madi	*resina	Ese	resina de solimán	šibe-mai			
+2554	262	*madi	*madi	*resina	War	goma	akwi-maʔí			
+2555	263	*maka1	*maka	*bibosi (árbol)	ProTa	bibosi (árbol)	maka			
+2556	263	*maka1	*maka	*bibosi (árbol)	Tak	bibosi (árbol)	maha			
+2557	263	*maka1	*maka	*bibosi (árbol)	Kav	bibosi	maka			
+2558	264	*maka2	*maka	*cascajo	ProTa	cascajo	maka		see also *a-maka	
+2559	264	*maka2	*maka	*cascajo	Tak	nido maduro del turiro de tierra	mahaita		perhaps cognate with *makai?	
+2560	264	*maka2	*maka	*cascajo	Kav	cascajo,piedra de moler,cachuela,macanique,ripio	maka-na			
+2561	265	*makai	*makai	*guerra,enemigo	ProTa	guerra,enemigo	makai			
+2562	265	*makai	*makai	*guerra,enemigo	Tak	guerra,enemigo	mahai		Armentia	
+2563	265	*makai	*makai	*guerra,enemigo	Tak	guerra	ha-mahai-ti		Armentia	
+2564	265	*makai	*makai	*guerra,enemigo	Kav	bárbaro	makei-kwana			
+2565	265	*makai	*makai	*guerra,enemigo	Kav	plátano chama	makei-bodari			
+2566	265	*makai	*makai	*guerra,enemigo	Kav	enemigo	makei		Armentia	
+2567	265	*makai	*makai	*guerra,enemigo	Kav	adversario,guerrear,guerra	ka-makei-ti		Armentia	
+2568	265	*makai	*makai	*guerra,enemigo	Kav	guerreador	ka-makei-ti-a-ki		Armentia	
+2569	266	*makare	*makare	*orilla,banda	ProTa	orilla,banda	makare			
+2570	266	*makare	*makare	*orilla,banda	Tak	orilla,banda	e-mahe			
+2571	266	*makare	*makare	*orilla,banda	Tak	en la orilla del río	e-na-mahe			
+2572	266	*makare	*makare	*orilla,banda	Tak	banda	ču-mahe			
+2573	266	*makare	*makare	*orilla,banda	Tak	aquella banda	ču-mahe-me			
+2574	266	*makare	*makare	*orilla,banda	Tak	por/in aquella banda	ču-mahe-he			
+2575	266	*makare	*makare	*orilla,banda	Kav	banda	yo-eke-makare			
+2576	267	*make	*make	*palometa (pez)	ProTa	palometa (pez)	make			
+2577	267	*make	*make	*palometa (pez)	Tak	palometa (pez)	mahe			
+2578	267	*make	*make	*palometa (pez)	Rey	piranha	mahe			
+2579	267	*make	*make	*palometa (pez)	Kav	palometa	make			
+2580	268	*maku	*maku	*saya,majo	ProTa	saya,majo	maku			
+2581	268	*maku	*maku	*saya,majo	Tak	saya, palma de cuyo fruto se saca un aceite muy bueno	mahu		Armentia	
+2582	268	*maku	*maku	*saya,majo	Aro	pitauá (palmera)	majo			
+2583	268	*maku	*maku	*saya,majo	Kav	majo (palmera)	mako			
+2584	268	*maku	*maku	*saya,majo	Kav	majosal,majutú	mako-kini			
+2585	268	*maku	*makuri	*majillo (palmera)	ProTa	majillo (palmera)	makuri		or *makwuri?	
+2586	268	*maku	*makuri	*majillo (palmera)	Tak	majillo (palmera)	makuri			
+2587	268	*maku	*makuri	*majillo (palmera)	Kav	majillo	makori			
+2588	269	*mama1	*mama	*madre,mamá	ProTa	madre,mamá	mama			
+2589	269	*mama1	*mama	*madre,mamá	Tak	madre,mamá	mama			
+2590	269	*mama1	*mama	*madre,mamá	Kav	madre,mamá	mama			
+2591	270	*mama2	*mama	*alligator	ProTa	alligator	mama			
+2592	270	*mama2	*mama	*alligator	Tak	alligator	mama-mama			
+2593	270	*mama2	*mama	*alligator	Kav	alligator	mama-mama			
+2594	271	*mani	*mani	*árbol de siringa	ProTa	árbol de siringa	mani			
+2595	271	*mani	*mani	*árbol de siringa	Tak	un árbol harinoso	mani		Armentia	
+2596	271	*mani	*mani	*árbol de siringa	Kav	árbol de siringa	mani			
+2597	272	*manu	*manu	*morir	ProTa	morir	manu		*ma1?	
+2598	272	*manu	*manu	*morir	Tak	morir	manu-			
+2599	272	*manu	*manu	*morir	Tak	matar	manu-a-me-			
+2600	272	*manu	*manu	*morir	Tak	solimán (árbol venenoso)	manu-nu			
+2601	272	*manu	*manu	*morir	Tak	cadáver	manu-hi		Armentia	
+2602	272	*manu	*manu	*morir	Tak	muerto	manu-hi-hi		Armentia	
+2603	272	*manu	*manu	*morir	Tak	ha de morir	e-manu-iča		Armentia	
+2604	272	*manu	*manu	*morir	Tak	inmortal,que no sabe morir	e-manu-bae-maoe		Armentia	
+2605	272	*manu	*manu	*morir	Tak	el que ayuda a matar	ha-manu-a-ti-ha		Armentia	
+2606	272	*manu	*manu	*morir	Mar	morir	manu		Cardús/Heath	
+2607	272	*manu	*manu	*morir	Mar	kill	manéme		Heath	
+2608	272	*manu	*manu	*morir	Was	the dead (pl)	manugigicuana			
+2609	272	*manu	*manu	*morir	Kav	marchita,seco	e-mano-no		cognate?	
+2610	272	*manu	*manu	*morir	Ese	enfermarse,cansarse	mano-			
+2611	272	*manu	*manu	*morir	Ese	morir	mano-yo-			
+2612	272	*manu	*manu	*morir	Ese	enfermo,cansado	kea-mano			
+2613	272	*manu	*manu	*morir	Ese	embrujar	mano-meeka-nahe			
+2614	272	*manu	*manu	*morir	Ese	el enfermo	e-mano			
+2615	272	*manu	*manu	*morir	Ese	el muerte	e-mano-yo			
+2616	272	*manu	*manu	*morir	Ese	viuda	y-awe-mano			
+2617	272	*manu	*manu	*morir	War	morir	manu-			
+2618	272	*manu	*manu	*morir	War	muerto	e-mano			
+2619	272	*manu	*manu	*morir	Ara	dead	eman{u/o}			
+2620	273	*mapa-	*mapa-	*llevar,cargar,abrazar	ProTa	llevar,cargar,abrazar	mapa-			
+2621	273	*mapa-	*mapa-	*llevar,cargar,abrazar	Tak	baby sitter	y-anana mapa-(h)i			
+2622	273	*mapa-	*mapa-	*llevar,cargar,abrazar	Kav	llevar,cargar	mapa-			
+2623	273	*mapa-	*mapa-	*llevar,cargar,abrazar	Kav	alzador	mapa-pohi			
+2624	273	*mapa-	*mapa-	*llevar,cargar,abrazar	Ese	abrazar	mapa-			
+2625	273	*mapa-	*mapa-	*llevar,cargar,abrazar	War	abrazar	mapa-			
+2626	274	*mapi	*mapi	*paujil	ProTa	paujil	mapi			
+2627	274	*mapi	*mapi	*paujil	Tak	mutún (ave),paujil	mapi			
+2628	274	*mapi	*mapi	*paujil	Tak	mal agüero	mapi-dhi			
+2629	274	*mapi	*mapi	*paujil	Mab	poweel	mapi			
+2630	274	*mapi	*mapi	*paujil	Kav	garza morena	mapi-niri			
+2631	274	*mapi	*mapi	*paujil	Kav	sicurí (boa),mal agüero	mapi-si			
+2632	275	*mare	*mare	*chonta	ProTa	chonta	mare			
+2633	275	*mare	*mare	*chonta	Tak	chima (árbol)	mue		Armentia: maʔe	
+2634	275	*mare	*mare	*chonta	Kav	chonta	mare			
+2635	275	*mare	*mare	*chonta	Kav	chima	mare-kaka			
+2636	275	*mare	*mare	*chonta	Ese	chima (fruta)	mai			
+2637	276	*maru	*maru	*bruja,hechicero	ProTa	bruja,hechicero	maru			
+2638	276	*maru	*maru	*bruja,hechicero	Tak	bruja	mau			
+2639	276	*maru	*maru	*bruja,hechicero	Tak	embrujar,maleficio	ha-mawati		Armentia	
+2640	276	*maru	*maru	*bruja,hechicero	Tak	matador,el que mata	ha-mauna-meti-hi		Armentia	
+2641	276	*maru	*maru	*bruja,hechicero	Kav	bruja,hechicero	maro			
+2642	276	*maru	*maru	*bruja,hechicero	Kav	hechicero	maro-pohi			
+2643	276	*maru	*maru	*bruja,hechicero	Kav	veneno	maro		Armentia	
+2644	276	*maru	*maru	*bruja,hechicero	Kav	envenenar	marua		Armentia	
+2645	277	*masi	*masi	*caitu (hilo hecho en casa)	ProTa	caitu (hilo hecho en casa)	masi			
+2646	277	*masi	*masi	*caitu (hilo hecho en casa)	Kav	caitu (hilo hecho en casa)	masi			
+2647	277	*masi	*masi	*caitu (hilo hecho en casa)	Ese	hilo de algodón	mahii			
+2648	277	*masi	*masi	*caitu (hilo hecho en casa)	Ara	fil	mahi		Robuchon	
+2649	277	*masi	*masi	*caitu (hilo hecho en casa)	Ara	ligature de la flèche	mahí		Robuchon	
