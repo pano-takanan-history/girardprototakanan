@@ -2777,3 +2777,277 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 2764	283	*-me3	*-me	*adjective suffix	Rey	adjective suffix	-me		productive	
 2765	283	*-me3	*-me	*adjective suffix	Mar	adjective suffix	-me		productive	
 2766	283	*-me3	*-me	*adjective suffix	Sap	adjective suffix	-me		productive	
+2767	284	*mece1	*mece	*arma	ProTa	arma	mece			
+2768	284	*mece1	*mece	*arma	Tak	arma	mece			
+2769	284	*mece1	*mece	*arma	Tak	ajeno,con arma	mece-hi			
+2770	284	*mece1	*mece	*arma	Kav	ajeno	mece-kike			
+2771	285	*mece2	*mece	*dueño	ProTa	dueño	mece		or *mecei			
+2772	285	*mece2	*mece	*dueño	Tak	dueño	e-mece			
+2773	285	*mece2	*mece	*dueño	Tak	hacerse dueño,apoderarse	ha-mece-weti		Armentia	
+2774	285	*mece2	*mece	*dueño	Kav	dueño	e-meči-ki			
+2775	285	*mece2	*mece	*dueño	Kav	enseñorear,heredero	mece-ne		Armentia	
+2776	285	*mece2	*mece	*dueño	Ese	dueño	e-yowa-mese			
+2777	286	*meki	*meki	*vaciar	ProTa	vaciar	meki			
+2778	286	*meki	*meki	*vaciar	Tak	vaciar,desocuparlo	mehi-ve-			
+2779	286	*meki	*meki	*vaciar	Tak	local	e-mehi		Armentia	
+2780	286	*meki	*meki	*vaciar	Tak	adentro	e-mehi-su		Armentia	
+2781	286	*meki	*meki	*vaciar	Tak	forrar por dentro	mehi-dunu		Armentia	
+2782	286	*meki	*meki	*vaciar	Tak	enjuagar	mehi-rukwa		Armentia	
+2783	286	*meki	*meki	*vaciar	Tak	dentro	mehi-su		Armentia	
+2784	286	*meki	*meki	*vaciar	Tak	arrebatar,quitar	mehemi		Armentia	
+2785	286	*meki	*meki	*vaciar	Ese	vaciar	e-mexé			
+2786	287	*mema	*mema	*vacío	ProTa	vacío	mema			
+2787	287	*mema	*mema	*vacío	Tak	vacío	mema-we			
+2788	287	*mema	*mema	*vacío	Kav	vacío,infecundo	mema		Concept 'infecundo' taken from Armentia	
+2789	288	*mepe	*mepe	*recoger	ProTa	recoger	mepe			
+2790	288	*mepe	*mepe	*recoger	Kav	recoger,escoger	mepe-			
+2791	288	*mepe	*mepe	*recoger	Ese	recoger	mepe-			
+2792	289	*-mere	*-mere	*causative suffix	ProTa	causative suffix	-mere		see also *a-mere,*ba-mere,*me2	
+2793	289	*-mere	*-mere	*causative suffix	Tak	causative suffix	-me			
+2794	289	*-mere	*-mere	*causative suffix	Kav	causative suffix	-mere			
+2795	290	*meta	*meta	*mañana,ayer	ProTa	mañana,ayer	meta		or *maita?	
+2796	290	*meta	*meta	*mañana,ayer	Tak	mañana	mueta			
+2797	290	*meta	*meta	*mañana,ayer	Tak	ayer,mañana	maita		Armentia	
+2798	290	*meta	*meta	*mañana,ayer	Tak	mañana por la mañana	maita apudayá		Armentia	
+2799	290	*meta	*meta	*mañana,ayer	Tak	ayer	maita puiča		Armentia	
+2800	290	*meta	*meta	*mañana,ayer	Mar	mañana	maita		Cardús	
+2801	290	*meta	*meta	*mañana,ayer	Mar	morning,yesterday	maíta		Heath	
+2802	290	*meta	*meta	*mañana,ayer	Sap	notte	maetahe			
+2803	290	*meta	*meta	*mañana,ayer	Kav	noche	meta			
+2804	290	*meta	*meta	*mañana,ayer	Kav	mañana	meta-hodya			
+2805	290	*meta	*meta	*mañana,ayer	Kav	anteayer	meta-hodya-tibene			
+2806	290	*meta	*meta	*mañana,ayer	Kav	medianoche	meta-patya			
+2807	290	*meta	*meta	*mañana,ayer	Ese	mañana,ayer	meka-waxe			
+2808	290	*meta	*meta	*mañana,ayer	Ese	noche	meka-xe			
+2809	290	*meta	*meta	*mañana,ayer	Ese	anochecer	meka-xe-poa-			
+2810	290	*meta	*meta	*mañana,ayer	Ese	mañanita	meka-xeawa			
+2811	290	*meta	*meta	*mañana,ayer	Ese	media noche	meka-šono
+2812	290	*meta	*meta	*mañana,ayer	Ese	ayer	oma-meka-xe			
+2813	290	*meta	*meta	*mañana,ayer	Ara	tomorrow	eméte			
+2814	291	*mew{i/e}	*mew{i/e}	*celar	ProTa	celar	mew{i/e}			
+2815	291	*mew{i/e}	*mew{i/e}	*celar	Tak	apuntar	mevi-tua-			
+2816	291	*mew{i/e}	*mew{i/e}	*celar	Kav	celar	mewe-			
+2817	292	*mi-	*mi-	*2da persona	ProTa	2da persona	mi-			
+2818	292	*mi-	*mi-	*2da persona	Tak	thy	mi-ke			
+2819	292	*mi-	*mi-	*2da persona	Tak	you (pl)	mi-kwana-sa			
+2820	292	*mi-	*mi-	*2da persona	Tak	Usted (trans.),tú (trans.)	mi-a-da			
+2821	292	*mi-	*mi-	*2da persona	Tak	Ustedes (pl)	mi-kwane-da			
+2822	292	*mi-	*mi-	*2da persona	Tak	Usted (intr.),tú (intr.)	mi-da			
+2823	292	*mi-	*mi-	*2da persona	Tak	Usted solo	mi-mewa			
+2824	292	*mi-	*mi-	*2da persona	Tak	de Usted,de tí	mi-ke-da			
+2825	292	*mi-	*mi-	*2da persona	Rey	you (sg)	mibhe			
+2826	292	*mi-	*mi-	*2da persona	Mar	you	mive			
+2827	292	*mi-	*mi-	*2da persona	Aro	tu	mitya			
+2828	292	*mi-	*mi-	*2da persona	Aro	de toi	mike			
+2829	292	*mi-	*mi-	*2da persona	Aro	à toi	mida			
+2830	292	*mi-	*mi-	*2da persona	Kav	ustedes (intr.)	mi-kwana			
+2831	292	*mi-	*mi-	*2da persona	Kav	V. (trans.),tú (trans.)	mi-ra			
+2832	292	*mi-	*mi-	*2da persona	Kav	Vds. (trans.)	mi-kwana-ra			
+2833	292	*mi-	*mi-	*2da persona	Kav	suyo (de Vd.)	mi-kwi-ke			
+2834	292	*mi-	*mi-	*2da persona	Kav	Vd. (intr.),tú (intr.)	mi-ke			
+2835	292	*mi-	*mi-	*2da persona	Kav	usted solo,usted mismo	mi-ta			
+2836	292	*mi-	*mi-	*2da persona	Kav	contigo	miaceve		Armentia	
+2837	292	*mi-	*mi-	*2da persona	Kav	de Vd.	mi-kwe			
+2838	292	*mi-	*mi-	*2da persona	Kav	de Vds.	mi-kwana-ha			
+2839	292	*mi-	*mi-	*2da persona	Ese	usted	mi-a			
+2840	292	*mi-	*mi-	*2da persona	Ese	ustedes	mi-keana-ya			
+2841	292	*mi-	*mi-	*2da persona	Ese	usted	mi-ya-ya			
+2842	292	*mi-	*mi-	*2da persona	Ese	suyo	mi-kea			
+2843	292	*mi-	*mi-	*2da persona	Ara	tu	mikía			
+2844	293	*mimi	*mimi	*palabra,hablar,cantar	ProTa	palabra,hablar,cantar	mimi			
+2845	293	*mimi	*mimi	*palabra,hablar,cantar	Tak	palabra	mimi			
+2846	293	*mimi	*mimi	*palabra,hablar,cantar	Tak	hablar	mimi-			
+2847	293	*mimi	*mimi	*palabra,hablar,cantar	Tak	conversación	mimi-mimi		Armentia	
+2848	293	*mimi	*mimi	*palabra,hablar,cantar	Tak	despacio	mimi-sai-da			
+2849	293	*mimi	*mimi	*palabra,hablar,cantar	Mar	speak	mimi		Cardús/Heath	
+2850	293	*mimi	*mimi	*palabra,hablar,cantar	Kav	prayer	yosa-mimi		'Dios-palabra'	
+2851	293	*mimi	*mimi	*palabra,hablar,cantar	Ese	hablar,cantar,bramar	mimi-			
+2852	293	*mimi	*mimi	*palabra,hablar,cantar	Ese	chismoso	mimi-hahixi			
+2853	293	*mimi	*mimi	*palabra,hablar,cantar	Ese	bullicioso	kea-mimi-na			
+2854	293	*mimi	*mimi	*palabra,hablar,cantar	Čam	talking	mímiani			
+2855	294	*miwa	*miwa	*dar de comer	ProTa	dar de comer	miwa			
+2856	294	*miwa	*miwa	*dar de comer	Tak	dar de comer	miwa-			
+2857	294	*miwa	*miwa	*dar de comer	Kav	carnaza	e-miwa-ki			
+2858	295	*miza	*miza	*pancho	ProTa	pancho	miza			
+2859	295	*miza	*miza	*pancho	Tak	pancho	midha			
+2860	295	*miza	*miza	*pancho	Tak	soga (pancho torcido)	midha erei			
+2861	295	*miza	*miza	*pancho	Kav	pancho	misa			
+2862	296	*muc̣u-	*muc̣u-	*arrancar,desplumar	ProTa	arrancar,desplumar	muc̣u-			
+2863	296	*muc̣u-	*muc̣u-	*arrancar,desplumar	Tak	arrancar	mucu-			
+2864	296	*muc̣u-	*muc̣u-	*arrancar,desplumar	Tak	desplumar	ina-mucu-			
+2865	296	*muc̣u-	*muc̣u-	*arrancar,desplumar	Kav	arrancar,desplumar	moco-			
+2866	296	*muc̣u-	*muc̣u-	*arrancar,desplumar	Kav	desherber,despreocupar	mucu-mucu		Armentia	
+2867	297	*muri	*muri	*tacuara,flauta	ProTa	tacuara,flauta	muri			
+2868	297	*muri	*muri	*tacuara,flauta	Tak	tacuara,flauta	mui			
+2869	297	*muri	*muri	*tacuara,flauta	Kav	tacuara,flauta	mori			
+2870	298	*muru	*muru	*ceniza	ProTa	ceniza	muru			
+2871	298	*muru	*muru	*ceniza	Tak	ceniza	e-ti-mo			
+2872	298	*muru	*muru	*ceniza	Kav	ceniza,polvo,arena	moro			
+2873	298	*muru	*muru	*ceniza	Kav	rescoldo	muru-ukeda		Armentia	
+2874	298	*muru	*muru	*ceniza	Kav	encenizar	muru-viru		Armentia	
+2875	298	*muru	*muru	*ceniza	Kav	almidón de yuca	kwawe-moro			
+2876	298	*muru	*muru	*ceniza	Ese	renacuajo	moo			
+2877	298	*muru	*muru	*ceniza	Ese	hartos	kea-moo			
+2878	299	*muři	*muři	*seco	ProTa	seco	muři			
+2879	299	*muři	*muři	*seco	Tak	seco	muri-da			
+2880	299	*muři	*muři	*seco	Rey	dry	mori-me			
+2881	299	*muři	*muři	*seco	Mar	dry season	murími			
+2882	300	*muřu	*muřu	*crecer	ProTa	muřu			
+2883	300	*muřu	*muřu	*crecer	Tak	retoñar,nacer,brotar las plantas	muru-		Concepts 'nacer,brotar las plantas' taken from Armentia	
+2884	300	*muřu	*muřu	*crecer	Tak	mogote,repechones	muru-ku		Concept 'repechones' taken from Armentia	
+2885	300	*muřu	*muřu	*crecer	Tak	brotó,creció	muru-itia		Armentia	
+2886	300	*muřu	*muřu	*crecer	Tak	crecido	muru-ti-hihi		Armentia	
+2887	300	*muřu	*muřu	*crecer	Kav	descrecer	muru-ta		Armentia	
+2888	301	*musa	*musa	*hinchar	ProTa	hinchar	musa			
+2889	301	*musa	*musa	*hinchar	Tak	harinoso,fofo	musa-musa			
+2890	301	*musa	*musa	*hinchar	Tak	suave	musa-da		Armentia	
+2891	301	*musa	*musa	*hinchar	Kav	hinchar	moha-			
+2892	301	*musa	*musa	*hinchar	Kav	hipocondría	e-muha		Armentia	
+2893	301	*musa	*musa	*hinchar	Kav	hidrópico	e-muha-ki		Armentia	
+2894	302	*musu	*musu	*gorgojo	ProTa	gorgojo	musu			
+2895	302	*musu	*musu	*gorgojo	Tak	polillo,gorgojo	musu			
+2896	302	*musu	*musu	*gorgojo	Kav	gorgojo	muhu		Armentia	
+2897	302	*musu	*musu	*gorgojo	Ese	gorgojo	e-moho-yo			
+2898	303	*mutiřu	*mutiřu	*sombrero	ProTa	sombrero	mutiřu			
+2899	303	*mutiřu	*mutiřu	*sombrero	Tak	sombrero	mutiru			
+2900	303	*mutiřu	*mutiřu	*sombrero	Kav	sombrero	motiro			
+2901	304	*mu...ke	*mu...ke	*almendro	ProTa	almendro	mu...ke		or *makiwe (?) | There is uncertainty in regards to both protoforms on the ID in the source	
+2902	304	*mu...ke	*mu...ke	*almendro	Tak	castaña,almendro	muihe			
+2903	304	*mu...ke	*mu...ke	*almendro	Tak	almendra de Tumupasa	mavi-haha		Armentia	
+2904	304	*mu...ke	*mu...ke	*almendro	Kav	almendro	moke			
+2905	305	*na1-	*na(ʔ)i	*lluvia,aguacero	ProTa	lluvia,aguacero	na(ʔ)i			
+2906	305	*na1-	*na(ʔ)i	*lluvia,aguacero	Tak	lluvia,aguacero	nai			
+2907	305	*na1-	*na(ʔ)i	*lluvia,aguacero	Tak	norte	nai-bene		Armentia	
+2908	305	*na1-	*na(ʔ)i	*lluvia,aguacero	Rey	rain	nai			
+2909	305	*na1-	*na(ʔ)i	*lluvia,aguacero	Mar	rain	nai		Cardús/Heath	
+2910	305	*na1-	*na(ʔ)i	*lluvia,aguacero	Sap	pioggia	nai			
+2911	305	*na1-	*na(ʔ)i	*lluvia,aguacero	Kav	lluvia	nei,neʔi			
+2912	305	*na1-	*na(ʔ)i	*lluvia,aguacero	Kav	aguacero	nei ebari			
+2913	305	*na1-	*na(ʔ)i	*lluvia,aguacero	Kav	llovar	nei-ho-			
+2914	305	*na1-	*naka-	*húmedo,mojado	ProTa	húmedo,mojado	naka-			
+2915	305	*na1-	*naka-	*húmedo,mojado	Rey	damp	naha-me			
+2916	305	*na1-	*naka-	*húmedo,mojado	Kav	húmedo,mojado	naka-da			
+2917	305	*na1-	*naka-	*húmedo,mojado	Kav	húmedo	naka-naka			
+2918	305	*na1-	*naka-	*húmedo,mojado	Kav	mojar	naka-ta-			
+2919	305	*na1-	*naka-	*húmedo,mojado	Ese	húmedo	kea-naha-xi			
+2920	305	*na1-	*naka-	*húmedo,mojado	Čam	wash	/Nahá-kwi/			
+2921	305	*na1-	*naki	*aguado	ProTa	aguado	naki			
+2922	305	*na1-	*naki	*aguado	Tak	aguado,con agua	nahi			
+2923	305	*na1-	*naki	*aguado	Kav	aguado	naki			
+2924	305	*na1-	*naki	*aguado	Ese	menstruar	naxi poa-			
+2925	305	*na1-	*nawi	*bañar	ProTa	bañar	nawi			
+2926	305	*na1-	*nawi	*bañar	Tak	beñar	navi-			
+2927	305	*na1-	*nawi	*bañar	Kav	bañar	nawi-			
+2928	305	*na1-	*nawi	*bañar	Kav	baño	e-nawi-tiki		Armentia	
+2829	305	*na1-	*na+...	*agua,lluvia,río	ProTa	agua,lluvia,río	na+...			
+2830	305	*na1-	*na+...	*agua,lluvia,río	Tak	río	e-na			
+2831	305	*na1-	*na+...	*agua,lluvia,río	Tak	arroyo	e-na-baki			
+2832	305	*na1-	*na+...	*agua,lluvia,río	Tak	pozo en el río,remanso del río	e-na-bue			
+2833	305	*na1-	*na+...	*agua,lluvia,río	Tak	marbella,ave come pato	e-na-sua-pa			
+2834	305	*na1-	*na+...	*agua,lluvia,río	Tak	exprimar	na-pudu-			
+2835	305	*na1-	*na+...	*agua,lluvia,río	Tak	exprimar (por torciendo)	na-wacu-			
+2836	305	*na1-	*na+...	*agua,lluvia,río	Tak	leche	acu-na			
+2837	305	*na1-	*na+...	*agua,lluvia,río	Tak	desemboque,junta de río	e-na-kwaca		Armentia	
+2838	305	*na1-	*na+...	*agua,lluvia,río	Tak	en la orilla del río	e-na-mahe		Armentia	
+2839	305	*na1-	*na+...	*agua,lluvia,río	Tak	aguanoso	na-da		Armentia	
+2840	305	*na1-	*na+...	*agua,lluvia,río	Tak	agua turbida	na-pada-na-pada		Armentia	
+2841	305	*na1-	*na+...	*agua,lluvia,río	Tak	húmedo	napa-napa		Armentia	
+2842	305	*na1-	*na+...	*agua,lluvia,río	Tak	medio húmedo	napa-pata		Armentia	
+2843	305	*na1-	*na+...	*agua,lluvia,río	Tak	humedecer	ha-na-pa-ti		Armentia	
+2844	305	*na1-	*na+...	*agua,lluvia,río	Rey	stream	e-na-mbakwi			
+2845	305	*na1-	*na+...	*agua,lluvia,río	Kav	agua	e-na			
+2846	305	*na1-	*na+...	*agua,lluvia,río	Kav	mojado	e-na-kata			
+2847	305	*na1-	*na+...	*agua,lluvia,río	Kav	llanto	e-na-paya			
+2848	305	*na1-	*na+...	*agua,lluvia,río	Kav	están llorando los dos	ka-e-na-pa-ti-			
+2849	305	*na1-	*na+...	*agua,lluvia,río	Kav	leche	aco-na			
+2850	305	*na1-	*na+...	*agua,lluvia,río	Kav	jugo,zumo	e-na-kaka		Armentia	
+2851	305	*na1-	*na+...	*agua,lluvia,río	Kav	supurar	e-na-kaka-eti		Armentia	
+2852	305	*na1-	*na+...	*agua,lluvia,río	Kav	ebrio	e-na-hi		Armentia	
+2853	305	*na1-	*na+...	*agua,lluvia,río	Kav	borrachera	na-hi		Armentia	
+2854	305	*na1-	*na+...	*agua,lluvia,río	Kav	caldo	e-na-me		Armentia	
+2855	305	*na1-	*na+...	*agua,lluvia,río	Ese	agua,lluvio,río	e-na			
+2856	305	*na1-	*na+...	*agua,lluvia,río	Ese	llover	e-na poa-			
+2857	305	*na1-	*na+...	*agua,lluvia,río	Ese	sangre	e-ná			
+2858	305	*na1-	*na+...	*agua,lluvia,río	Ese	gaviota (ave)	e-ná-kwaxi			
+2859	305	*na1-	*na+...	*agua,lluvia,río	Ese	rana	e-na-wio			
+2860	305	*na1-	*na+...	*agua,lluvia,río	Ese	río	e-na-oxo			
+2861	305	*na1-	*na+...	*agua,lluvia,río	Ese	orilla del río	e-na-oxo-sawa			
+2862	305	*na1-	*na+...	*agua,lluvia,río	Ese	desaguar (la canoa)	na-šoheaka-			
+2863	305	*na1-	*na+...	*agua,lluvia,río	Ese	oleaje	e-na-šaho			
+2864	305	*na1-	*na+...	*agua,lluvia,río	Ese	bilis	e-na-tawa			
+2865	305	*na1-	*na+...	*agua,lluvia,río	Ese	sangrar	na-kwaya-			
+2866	305	*na1-	*na+...	*agua,lluvia,río	Čam	blood or liquid	éna			
+2867	305	*na1-	*na+...	*agua,lluvia,río	Ara	water	éna			
+2868	306	*na2-	*nabai	*ala	ProTa	ala	nabai	*na2+ba3+i		
+2869	306	*na2-	*nabai	*ala	Tak	ala,manga de vestido o camisa	e-nabai			
+2870	306	*na2-	*nabai	*ala	Tak	mangas cortadas,camisa sin mangas	nabai-rihi		Armentia	
+2871	306	*na2-	*nabai	*ala	Rey	wing	e-nambai			
+2872	306	*na2-	*nabai	*ala	Mar	wing	ennambai		Heath	
+2873	306	*na2-	*nakwiji	*sobaco	ProTa	sobaco	nakwiji			
+2874	306	*na2-	*nakwiji	*sobaco	Tak	sobaco	e-nukiři		different root?	
+2875	306	*na2-	*nakwiji	*sobaco	Ese	sobaco	e-nakwiši			
+2876	307	*na3-	*naka	*cuello,pescuezo	ProTa	cuello,pescuezo	naka			
+2877	307	*na3-	*naka	*cuello,pescuezo	Tak	cuello,pescuezo	e-naha			
+2878	307	*na3-	*naka	*cuello,pescuezo	Tak	ahorcarse	naha-ribia		Armentia	
+2879	307	*na3-	*naka	*cuello,pescuezo	Kav	bostezar	ka-aca-naka-ti-		cognate?	
+2880	307	*na3-	*nařa	*garganta	ProTa	garganta	nařa			
+2881	307	*na3-	*nařa	*garganta	Tak	coto,bocio,garganta	nara		Concept 'garganta' taken from Armentia	
+2882	307	*na3-	*nařa	*garganta	Tak	ahorcarse	nara-ribia		Armentia	
+2883	307	*na3-	*nařa	*garganta	Kav	angina	nara-sehe		Armentia	
+2884	307	*na3-	*nařa	*garganta	Mab	neck	inara			
+2885	307	*na3-	*nařa	*garganta	Ese	goiter	e-naa			
+2886	307	*na3-	*nařa	*garganta	Ese	manzana (nuez de la garganta)	e-naa-sa			
+2887	307	*na3-	*nařa	*garganta	Ara	throat	ena			
+2888	308	*na4-	*na-	*madre	ProTa	madre	na-			
+2889	308	*na4-	*na-	*madre	Kav	hermana	e-na-hi-ke			
+2890	308	*na4-	*na-	*madre	Kav	hermana (mayor)	e-na-si			
+2891	308	*na4-	*na-	*madre	Ese	madre	nae			
+2892	308	*na4-	*na-	*madre	War	madre	nai			
+2893	308	*na4-	*na-	*madre	Čam	mother	nái			
+2894	309	*-na5	*-na	*completive suffix	ProTa	completive suffix	-na			
+2895	309	*-na5	*-na	*completive suffix	Tak	completive suffix	-na			
+2896	309	*-na5	*-na	*completive suffix	Kav	completive suffix	-na			
+2897	310	*nana	*nana	*tierno,chico	ProTa	tierno,chico	nana			
+2898	310	*nana	*nana	*tierno,chico	Tak	tierno	e-nana			
+2899	310	*nana	*nana	*tierno,chico	Tak	niña/o	ya-nana			
+2900	310	*nana	*nana	*tierno,chico	Tak	criatura	ka-nana			
+2901	310	*nana	*nana	*tierno,chico	Kav	chico,tierno	nana-da			
+2902	310	*nana	*nana	*tierno,chico	Kav	novilunio	badi-nana		Armentia	
+2903	310	*nana	*nana	*tierno,chico	Kav	criatura,muchacho	e-bakwa-nana			
+2904	311	*nasa	*nasa	*plátano,pacay	ProTa	plátano,pacay	nasa			
+2905	311	*nasa	*nasa	*plátano,pacay	Tak	plátano	nasa			
+2906	311	*nasa	*nasa	*plátano,pacay	Tak	pacay (árbol)	nasa-turu			
+2907	311	*nasa	*nasa	*plátano,pacay	Tak	banana	nadha			
+2908	311	*nasa	*nasa	*plátano,pacay	Mab	pantain	naha			
+2909	311	*nasa	*nasa	*plátano,pacay	Kav	pacay	naha			
+2910	311	*nasa	*nasa	*plátano,pacay	War	pacae,pacay	naha			
+2911	312	*nawama	*nawama	*turiro	ProTa	turiro	nawama			
+2912	312	*nawama	*nawama	*turiro	Tak	turiro,comején	nawama			
+2913	312	*nawama	*nawama	*turiro	Tak	abejo turiro	nawama-wasa			
+2914	312	*nawama	*nawama	*turiro	Rey	termine	nawama			
+2915	313	*nawe	*nawe	*defender,tener mezquindad	ProTa	defender,tener mezquindad	nawe			
+2916	313	*nawe	*nawe	*defender,tener mezquindad	Tak	mesquino,miserable	me-nave-da			
+2917	313	*nawe	*nawe	*defender,tener mezquindad	Ese	defender,tener mezquindad	nawe-			
+2918	314	*nene	*nene	*tía	ProTa	tía	nene			
+2919	314	*nene	*nene	*tía	Tak	tía por madre (hermana de padre)	nene			
+2920	314	*nene	*nene	*tía	Tak	tío (marido de la tía)	nene-save			
+2921	314	*nene	*nene	*tía	Aro	tía	nene			
+2922	314	*nene	*nene	*tía	Ese	tía	nene			
+2923	315	*nere	*nere	*enfermedad	ProTa	enfermedad	nere			
+2924	315	*nere	*nere	*enfermedad	Tak	enfermedad	ne-da			
+2925	315	*nere	*nere	*enfermedad	Tak	estás triste	e-ne-batitani		Armentia	
+2926	315	*nere	*nere	*enfermedad	Tak	enfermo	ne-da-hi		Armentia	
+2927	315	*nere	*nere	*enfermedad	Tak	hacer sentir, causar pena	ne-bame		Armentia	
+2928	315	*nere	*nere	*enfermedad	Tak	sentir	ne-ba		Armentia	
+2929	315	*nere	*nere	*enfermedad	Tak	pena,tristeza,aflicción	ha-ne-ba-ti		Armentia	
+2930	315	*nere	*nere	*enfermedad	Kav	pobre	nere-ka-da			
+2931	315	*nere	*nere	*enfermedad	Kav	pobrecito	nere-ka-da-pihi			
+2932	315	*nere	*nere	*enfermedad	Kav	limosnero,misericordioso	nere-ka-ba aki		Armentia	
+2933	315	*nere	*nere	*enfermedad	Kav	emancipar	nere-ka-buta		Armentia	
+2934	315	*nere	*nere	*enfermedad	Kav	rico	nere-ka-da-ma		Armentia	
+2935	315	*nere	*nere	*enfermedad	Kav	caridad	nere-ka-ma		Armentia	
+2936	315	*nere	*nere	*enfermedad	Kav	intimar	nere-kwa-disia		Armentia	
+2937	315	*nere	*nere	*enfermedad	Kav	histérico	nere-re		Armentia	
+2938	315	*nere	*nere	*enfermedad	Kav	ronquear	nere-da		Armentia	
+2939	315	*nere	*nere	*enfermedad	Ese	duele	kea-nee			
+2940	315	*nere	*nere	*enfermedad	Ese	doler	nee-			
