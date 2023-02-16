@@ -3051,3 +3051,165 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 2938	315	*nere	*nere	*enfermedad	Kav	ronquear	nere-da		Armentia	
 2939	315	*nere	*nere	*enfermedad	Ese	duele	kea-nee			
 2940	315	*nere	*nere	*enfermedad	Ese	doler	nee-			
+2941	316	*(e)ne(i)ri	*(e)ne(i)ri	*correcto,verdadero	ProTa	correcto,verdadero	(e)ne(i)ri			
+2942	316	*(e)ne(i)ri	*(e)ne(i)ri	*correcto,verdadero	Tak	correcto,la verdad	enebucepi			
+2943	316	*(e)ne(i)ri	*(e)ne(i)ri	*correcto,verdadero	Tak	verdad	enekita			
+2944	316	*(e)ne(i)ri	*(e)ne(i)ri	*correcto,verdadero	Tak	ciertamente	eneikita		Armentia	
+2945	316	*(e)ne(i)ri	*(e)ne(i)ri	*correcto,verdadero	Tak	es cierto, a la verdad	eneive			
+2946	316	*(e)ne(i)ri	*(e)ne(i)ri	*correcto,verdadero	Tak	bien (verbal suffix)	-eni			
+2947	316	*(e)ne(i)ri	*(e)ne(i)ri	*correcto,verdadero	Tak	a la direcha	bai ene bene		cognate?	
+2948	316	*(e)ne(i)ri	*(e)ne(i)ri	*correcto,verdadero	Kav	verdadero	neri		Armentia	
+2949	316	*(e)ne(i)ri	*(e)ne(i)ri	*correcto,verdadero	Kav	enmendación,enmiendar	yenina		Armentia	
+2950	317	*neti-	*neti-	*parar,pararse	ProTa	parar,pararse	neti-			
+2951	317	*neti-	*neti-	*parar,pararse	Tak	pararse	neti-			
+2952	317	*neti-	*neti-	*parar,pararse	Tak	levantarse	neti-ana			
+2953	317	*neti-	*neti-	*parar,pararse	Tak	apartar (cosas paradas)	neti-adera-			
+2954	317	*neti-	*neti-	*parar,pararse	Tak	apartarse (cuando está parado)	neti-dera			
+2955	317	*neti-	*neti-	*parar,pararse	Rey	walk	adhe-neti-			
+2956	317	*neti-	*neti-	*parar,pararse	Mar	get up	néti		Heath	
+2957	317	*neti-	*neti-	*parar,pararse	Kav	parar	neti-			
+2958	317	*neti-	*neti-	*parar,pararse	Kav	levantarse	neti-cora-			
+2959	317	*neti-	*neti-	*parar,pararse	Kav	desamparar	neti-akeni		Armentia	
+2960	317	*neti-	*neti-	*parar,pararse	Ese	stand	neki-			
+2961	317	*neti-	*neti-	*parar,pararse	Ese	pararse	neke-sowa-			
+2962	317	*neti-	*neti-	*parar,pararse	Ese	estuvo	neke-nahe			
+2963	317	*neti-	*neti-	*parar,pararse	Ese	estuvo (parado)	e-neke-nake			
+2964	317	*neti-	*neti-	*parar,pararse	Ese	estar compuesto	neke-a-			
+2965	317	*neti-	*neti-	*parar,pararse	Ese	barjarlo	neke-oke-a-			
+2966	317	*neti-	*neti-	*parar,pararse	Ese	estar ya recto	xa-neke-piki-yo-			
+2967	317	*neti-	*neti-	*parar,pararse	War	levantarse (al pié)	neki-soa-			
+2968	318	*ni-	*niju	*anima,espíritu,corazón	ProTa	anima,espíritu,corazón	niju		Regarding the ID_in_Source: or *ini-?	
+2969	318	*ni-	*niju	*anima,espíritu,corazón	Tak	anima de uno,sombra,espíritu	e-niřu			
+2970	318	*ni-	*niju	*anima,espíritu,corazón	Tak	asustar	nidu kwad'de		Armentia	
+2971	318	*ni-	*niju	*anima,espíritu,corazón	Tak	ultrajar	nidu-taitia		Armentia	
+2972	318	*ni-	*niju	*anima,espíritu,corazón	Sap	anima	einisu			
+2973	318	*ni-	*niju	*anima,espíritu,corazón	Kav	corazón,pulsación	e-niho		Concept 'pulsación' taken from Armentia	
+2974	318	*ni-	*niju	*anima,espíritu,corazón	Kav	machuhuasu (abeja come turiro, pero hace miel)	niho-kwa		cognate?	
+2975	318	*ni-	*niju	*anima,espíritu,corazón	Kav	vena	e-niho-dihi			
+2976	318	*ni-	*niju	*anima,espíritu,corazón	Kav	borracho	niho-ki			
+2977	318	*ni-	*niju	*anima,espíritu,corazón	Kav	emborracharse	niho-ki-ho			
+2978	318	*ni-	*niju	*anima,espíritu,corazón	Kav	furor	nihu-amiku		Armentia	
+2979	318	*ni-	*niju	*anima,espíritu,corazón	Kav	rabia	nihu-kamaiti		Armentia	
+2980	318	*ni-	*niju	*anima,espíritu,corazón	Kav	denuedo	nihu-kasa-da		Armentia	
+2981	318	*ni-	*niju	*anima,espíritu,corazón	Kav	deplorar,gemir,etc	nihu-pa		Armentia	
+2982	318	*ni-	*nime,inime	*genio,carácter,conciencia	ProTa	genio,carácter,conciencia	nime,inime			
+2983	318	*ni-	*nime,inime	*genio,carácter,conciencia	Tak	genio,carácter,conciencia	e-nime			
+2984	318	*ni-	*nime,inime	*genio,carácter,conciencia	Tak	desmayar	nime-taitana-			
+2985	318	*ni-	*nime,inime	*genio,carácter,conciencia	Tak	como,costumbre	nime		Armentia	
+2986	318	*ni-	*nime,inime	*genio,carácter,conciencia	Tak	estúpido,que no entiende	nime atihimave		Armentia	
+2987	318	*ni-	*nime,inime	*genio,carácter,conciencia	Tak	genio fogoso, ligero	nime becuda		Armentia	
+2988	318	*ni-	*nime,inime	*genio,carácter,conciencia	Tak	busca vida,agencioso	nime čaku		Armentia	
+2989	318	*ni-	*nime,inime	*genio,carácter,conciencia	Tak	inconstante	nime diri		Armentia	
+2990	318	*ni-	*nime,inime	*genio,carácter,conciencia	Tak	da miedo,tengo miedo,etc	nime eyoati		Armentia	
+2991	318	*ni-	*nime,inime	*genio,carácter,conciencia	Tak	remedar,imitar	inimi-a-			
+2992	318	*ni-	*nime,inime	*genio,carácter,conciencia	Kav	olvidar	nime-apota-			
+2993	318	*ni-	*nime,inime	*genio,carácter,conciencia	Kav	vivo,bien de salud	nime-kasa-da			
+2994	318	*ni-	*nime,inime	*genio,carácter,conciencia	Kav	para	nime		Armentia	
+2995	318	*ni-	*nime,inime	*genio,carácter,conciencia	Kav	contumacia	nime anikarama		Armentia	
+2996	318	*ni-	*nime,inime	*genio,carácter,conciencia	Kav	embobecer	nime apupudaʔa		Armentia	
+2997	318	*ni-	*nime,inime	*genio,carácter,conciencia	Kav	memoria	nime arakida		Armentia	
+2998	318	*ni-	*nime,inime	*genio,carácter,conciencia	Kav	informar,información,etc	nime baka		Armentia	
+2999	318	*ni-	*nime,inime	*genio,carácter,conciencia	Kav	manera,costumbre,asunto,orden,culpa,carácter	nime baka		Armentia	
+3000	318	*ni-	*nime,inime	*genio,carácter,conciencia	Kav	tener	inime-ba-			
+3001	318	*ni-	*nime,inime	*genio,carácter,conciencia	Kav	despacio	inime-eke			
+3002	318	*ni-	*nime,inime	*genio,carácter,conciencia	Kav	zonzo	inime-ma			
+3003	318	*ni-	*nime,inime	*genio,carácter,conciencia	Kav	voluntad	inime-taka			
+3004	318	*ni-	*nime,inime	*genio,carácter,conciencia	Kav	pensar,podecer,estar con pena,etc	inime-topo			
+3005	319	*nu1-	*nu-	*andar	ProTa	doblar	nu-			
+3006	319	*nu1-	*nu-	*andar	Tak	andar y regreser	nu-a-ti-			
+3007	319	*nu1-	*nu-	*andar	Tak	vez	nu-a-ti			
+3008	319	*nu1-	*nu-	*andar	Kav	doblar	no-ka-			
+3009	319	*nu1-	*nu-	*andar	Kav	corva,plegar	nuka		Armentia	
+3010	319	*nu1-	*nu-	*andar	Kav	genuflexión	nu-yu		Armentia	
+3011	319	*nu1-	*nu-	*andar	Kav	pliego	ka-nu-kato		Armentia	
+3012	319	*nu1-	*nu-	*andar	Kav	enredadera	nuka-nuka		Armentia	
+3013	319	*nu1-	*nu-	*andar	Ese	doblarse (el plátano)	xa-no-či-ki-			
+3014	320	*nu2-	*nu-	*hermano	ProTa	hermano	nu-			
+3015	320	*nu2-	*nu-	*hermano	Tak	cuñada (esposa de hermano)	nu-sane			
+3016	320	*nu2-	*nu-	*hermano	Kav	hermana	e-no-oke			
+3017	320	*nu2-	*nu-	*hermano	Kav	bisabuelo	e-tata-haea-no-ke			
+3018	320	*nu2-	*nu-	*hermano	Ese	brother	e-nono			
+3019	320	*nu2-	*nu-	*hermano	War	hermano de hermana	nono			
+3020	321	*nu3-	*nu-	*empujar	ProTa	empujar	nu-			
+3021	321	*nu3-	*nu-	*empujar	Tak	empujar	nu-nu		Armentia	
+3022	321	*nu3-	*nu-	*empujar	Tak	amasar	nu-si-			
+3023	321	*nu3-	*nu-	*empujar	Kav	comprimir	nu-nu		Armentia	
+3024	321	*nu3-	*nubi	*meter,entrar	ProTa	meter,entrar	nubi		cf. *du2,*dubi	
+3025	321	*nu3-	*nubi	*meter,entrar	Tak	meter	nubi-a-			
+3026	321	*nu3-	*nubi	*meter,entrar	Tak	meter adentro	iča-nubi-a-			
+3027	321	*nu3-	*nubi	*meter,entrar	Tak	meter,introducir	nubi-a-me		Armentia	
+3028	321	*nu3-	*nubi	*meter,entrar	Tak	entrarse	nubi-			
+3029	321	*nu3-	*nubi	*meter,entrar	Kav	entrar,hincar	nobi-		Concept 'hincar' taken from Armentia	
+3030	321	*nu3-	*nubi	*meter,entrar	Kav	hincadura	e-nubi		Armentia	
+3031	321	*nu3-	*nubi	*meter,entrar	Kav	entrada	nube		Armentia	
+3032	321	*nu3-	*nubi	*meter,entrar	Ese	agacharse	xa-kwea-nobi-ki			
+3033	321	*nu3-	*nubi	*meter,entrar	War	nido	e-nobibi etí			
+3034	321	*nu3-	*nubi	*meter,entrar	War	entrar	nobi-			
+3035	321	*nu3-	*nubi	*meter,entrar	War	guardar (e.g., en una caja)	ha-nobi-ti-			
+3036	322	*nuc̣a	*nuc̣a	*pasto,paja	ProTa	pasto,paja	nuc̣a			
+3037	322	*nuc̣a	*nuc̣a	*pasto,paja	Tak	pasto,paja	nuca			
+3038	322	*nuc̣a	*nuc̣a	*pasto,paja	Tak	suave	nuca-da			
+3039	322	*nuc̣a	*nuc̣a	*pasto,paja	Kav	paja,pasto	noca			
+3040	322	*nuc̣a	*nuc̣a	*pasto,paja	Kav	pajonal	noca-kini			
+3041	323	*nui	*nui	*árbol con fruto que se comen	ProTa	árbol con fruto que se comen	nui			
+3042	323	*nui	*nui	*árbol con fruto que se comen	Tak	árbol con fruto que se comen	nui			
+3043	323	*nui	*nui	*árbol con fruto que se comen	Kav	fruta roja del monte	noi			
+3044	323	*nui	*nui	*árbol con fruto que se comen	Ese	red berry	noi			
+3045	323	*nui	*nui	*árbol con fruto que se comen	War	pama (fruta, como cereza)	noi			
+3046	324	*nuřiři	*nuřiři	*ciempiés	ProTa	nuřiři			
+3047	324	*nuřiři	*nuřiři	*ciempiés	Tak	cientopiés	nuriri		Armentia	
+3048	324	*nuřiři	*nuřiři	*ciempiés	Kav	escolopendra	nuriri		Armentia	
+3049	325	*n...	*n...	*with	ProTa	with	n...			
+3050	325	*n...	*n...	*with	Tak	with	-nehe			
+3051	325	*n...	*n...	*with	Aro	with	-ñae			
+3052	325	*n...	*n...	*with	Ese	with	-nixe			
+3053	326	*pa1-	*pa-	*medio	ProTa	medio	pa-			
+3054	326	*pa1-	*pa-	*medio	Tak	un poco,medio	pa-ři			
+3055	326	*pa1-	*patia	*medio	ProTa	medio	patia			
+3056	326	*pa1-	*patia	*medio	Tak	mitad	bue-patia			
+3057	326	*pa1-	*patia	*medio	Kav	medio	patya			
+3058	326	*pa1-	*patia	*medio	Kav	mitad	patya-hake			
+3059	326	*pa1-	*patia	*medio	Kav	medio	patya-patya			
+3060	326	*pa1-	*patia	*medio	Kav	noon	bare-patya			
+3061	326	*pa1-	*patia	*medio	Kav	medianoche	meta-patya			
+3062	327	*pa2-	*pa-	*enterrar	ProTa	enterrar	pa-			
+3063	327	*pa2-	*pa-	*enterrar	Tak	enterrar	pa-pa-			
+3064	327	*pa2-	*pa-	*enterrar	Tak	sacar	pa-ha-			
+3065	327	*pa2-	*pa-	*enterrar	Tak	enterrado	pa-pa-hi		Armentia	
+3066	327	*pa2-	*pa-	*enterrar	Tak	desenterrar,exhumar	pa-dayu		Armentia	
+3067	327	*pa2-	*pa-	*enterrar	Tak	agobiado	pa-čača-neti		Armentia	
+3068	327	*pa2-	*pa-	*enterrar	Tak	aplastado	pa-ča-pa-ča			
+3069	327	*pa2-	*pa-	*enterrar	Kav	sepultar,enterrar	pa-pa			
+3070	327	*pa2-	*pa-	*enterrar	Kav	abrir,reventar	pa-kaša-			
+3071	327	*pa2-	*pa-	*enterrar	Kav	caer (de ariba),despeñar,abrir	pa-ka-ka-		Concepts 'despeñar,abrir' taken from Armentia	
+3072	327	*pa2-	*pa-	*enterrar	Kav	abierto	e-pa-kaša-ke			
+3073	327	*pa2-	*pa-	*enterrar	Kav	calzada	e-pa-pa		Armentia	
+3074	327	*pa2-	*pa-	*enterrar	Kav	enterrador	e-pa-pa-ki		Armentia	
+3075	327	*pa2-	*pa-	*enterrar	Kav	desembocar	e-pa-ka		Armentia	
+3076	327	*pa2-	*pa-	*enterrar	Kav	desaguar	pa-ka		Armentia	
+3077	327	*pa2-	*pa-	*enterrar	Kav	desarrebosar	ka-pa-kaisa		Armentia	
+3078	327	*pa2-	*pa-	*enterrar	Ese	destapar,abrir	pa-a-he-			
+3079	327	*pa2-	*pa-	*enterrar	Ese	tapar	pa-a-ka-			
+3080	327	*pa2-	*pa-	*enterrar	Ese	taparse	xa-pa-a-ki-			
+3081	327	*pa2-	*pa-	*enterrar	Ese	olvidar	pa-he-a		cognate?	
+3082	328	*pa3-	*pa-	*llorar	ProTa	llorar	pa-			
+3083	328	*pa3-	*pa-	*llorar	Tak	llorar	pa-			
+3084	328	*pa3-	*pa-	*llorar	Tak	no puede llorar	pa-tai-mave		Armentia	
+3085	328	*pa3-	*pa-	*llorar	Tak	está llorando	e-pa-ni		Armentia	
+3086	328	*pa3-	*pa-	*llorar	Tak	lamento	pa-dari		Armentia	
+3087	328	*pa3-	*pa-	*llorar	Kav	llorar	pa-			
+3088	328	*pa3-	*pa-	*llorar	Kav	lágrimas	pa-ana-kaka			
+3089	328	*pa3-	*pa-	*llorar	Kav	están llorando los dos	ka-ena-pa-ti-			
+3090	328	*pa3-	*pa-	*llorar	Kav	llanto	ena-pa-ya			
+3091	328	*pa3-	*pa-	*llorar	Kav	tristes,pensando	peya inime			
+3092	328	*pa3-	*pa-	*llorar	Kav	color	peya-peya			
+3093	328	*pa3-	*pa-	*llorar	Kav	lo va a hacer llorar	peya-ya			
+3094	328	*pa3-	*pa-	*llorar	Kav	lacrimoso	pa-na-kana		Armentia	
+3095	329	*pa4-	*pa-	*se dice	ProTa	se dice	pa-			
+3096	329	*pa4-	*pa-	*se dice	Kav	se dice	pa			
+3097	329	*pa4-	*pa-	*se dice	Ese	así dice	pa			
+3098	330	*-pa5	*-pa	*augmentative suffix	ProTa	augmentative suffix	-pa			
+3099	330	*-pa5	*-pa	*augmentative suffix	Tak	augmentative suffix	-pa			
+3100	330	*-pa5	*-pa	*augmentative suffix	Tak	todo,todos	pa-ma-pa			
+3101	330	*-pa5	*-pa	*augmentative suffix	Tak	ancho	pa-ʔai-da		cognate?	
+3102	330	*-pa5	*-pa	*augmentative suffix	Kav	augmentative suffix	-pa			
