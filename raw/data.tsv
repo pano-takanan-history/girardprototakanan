@@ -3326,3 +3326,141 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 3213	345	*pi-	*pi-	*extender	Ese	recto	e-pi-nee			
 3214	345	*pi-	*pi-	*extender	Ese	estar ya recto	xa-neke-pi-ki-yo-			
 3215	346	*pica	*pica	*tucán	ProTa	tucánn	pica		or *pija | loan?	
+3216	346	*pica	*pica	*tucán	Tak	tucán pequeño	pica		piřa?	
+3217	346	*pica	*pica	*tucán	Rey	toucan	pila			
+3218	346	*pica	*pica	*tucán	Ese	tucán	piša			
+3219	347	*pidi	*pidi	*ligoso	ProTa	ligoso	pidi			
+3220	347	*pidi	*pidi	*ligoso	Tak	ligoso,hablando de cosas de comer	pidi-da		Armentia	
+3221	347	*pidi	*pidi	*ligoso	Kav	ligoso	pidi-da-ke			
+3222	348	*pisa	*pisa	*flecha	ProTa	flecha	pisa			
+3223	348	*pisa	*pisa	*flecha	Tak	flechar	pisa			
+3224	348	*pisa	*pisa	*flecha	Tak	flechar	pisa-			
+3225	348	*pisa	*pisa	*flecha	Tak	arco	pisa-cue			
+3226	348	*pisa	*pisa	*flecha	Tak	hormiga flechador	pisa-pia-hi		Armentia	
+3227	348	*pisa	*pisa	*flecha	Rey	arrow	pidha			
+3228	348	*pisa	*pisa	*flecha	Rey	bow	pidha-coe			
+3229	348	*pisa	*pisa	*flecha	Mar	arrow	piθa		Heath	
+3230	348	*pisa	*pisa	*flecha	Mar	bow	piθa-trúe		Heath	
+3231	348	*pisa	*pisa	*flecha	Kav	flecha,lanza	piya			
+3232	348	*pisa	*pisa	*flecha	Kav	flechar	piya-cewe-a-			
+3233	348	*pisa	*pisa	*flecha	Kav	flechador	pia-ki		*pisa > piha > pi(y)a? | Armentia	
+3234	348	*pisa	*pisa	*flecha	Ara	flèche à pointe de bois de palmier	pia		Robuchon	
+3235	349	*piti	*piti	*pescuezo,cuello	ProTa	pescuezo,cuello	piti		or *tipi	
+3236	349	*piti	*piti	*pescuezo,cuello	Tak	pescuezo	e-tipi			
+3237	349	*piti	*piti	*pescuezo,cuello	Mar	neck	etípi		Heath	
+3238	349	*piti	*piti	*pescuezo,cuello	Sap	collo,gorgia	etippi			
+3239	349	*piti	*piti	*pescuezo,cuello	Kav	pescuezo	e-piti			
+3240	349	*piti	*piti	*pescuezo,cuello	Kav	cuello (de camisa)	e-piti-kani			
+3241	349	*piti	*piti	*pescuezo,cuello	Kav	decapitar	piti-tibu		Armentia	
+3242	349	*piti	*piti	*pescuezo,cuello	Ese	pescuezo,cuello	e-piki			
+3243	349	*piti	*piti	*pescuezo,cuello	War	cuello,garganga,pescuezo	e-piti			
+3244	350	*pizu	*pizu	*desatar	ProTa	desatar	pizu			
+3245	350	*pizu	*pizu	*desatar	Tak	se desata,hay que desatar	pidu-tahi		Armentia	
+3246	350	*pizu	*pizu	*desatar	Tak	demostrar	pidhe-			
+3247	350	*pizu	*pizu	*desatar	Kav	desatar,desligar	piso-		Armentia	
+3248	350	*pizu	*pizu	*desatar	Ese	desatar	pišo-			
+3249	351	*pizuzu	*pizuzu	*iguana	ProTa	iguana	pizuzu			
+3250	351	*pizuzu	*pizuzu	*iguana	Tak	iguana,pení	pidhudhu			
+3251	351	*pizuzu	*pizuzu	*iguana	Kav	peni	pisoso			
+3252	351	*pizuzu	*pizuzu	*iguana	Kav	clase de víbora	pisoso-bakwa			
+3253	352	*pu1-	*pu-	*puño	ProTa	puño	pu-			
+3254	352	*pu1-	*pu-	*puño	Tak	hacer bollo (e.g., de papal)	pu-či-pu-či-a-			
+3255	352	*pu1-	*pu-	*puño	Tak	puño	ha-me-pu-či-ti			
+3256	352	*pu1-	*pu-	*puño	Kav	puño,puñete	e-bi-po-kaka			
+3257	352	*pu1-	*pu-	*puño	Kav	dar puñete	e-bi-po-kaka-ti-a-			
+3258	352	*pu1-	*pu-	*puño	Kav	bala,bola	pu-kaka-da		Armentia	
+3259	353	*pu2-	*pu-	*pelar	ProTa	pelar	pu-			
+3260	353	*pu2-	*pu-	*pelar	Tak	descarar,pelar	pu-si			
+3261	353	*pu2-	*pu-	*pelar	Tak	lavar (ropa)	pu-pu-			1
+3262	353	*pu2-	*pu-	*pelar	Kav	pelar,deschalar	po-hi-			
+3263	353	*pu2-	*pu-	*pelar	Kav	pelada	e-po-hi			
+3264	353	*pu2-	*pu-	*pelar	Kav	pelado	po-pi			
+3265	353	*pu2-	*pu-	*pelar	Kav	pelado,lustrado	e-po-pi			
+3266	353	*pu2-	*pu-	*pelar	Kav	limpiar,lustrar,aceitar,escopeta	po-pi-			
+3267	353	*pu2-	*pu-	*pelar	Kav	relampaguer	po-pi-po-pi			
+3268	353	*pu2-	*pu-	*pelar	Kav	pulido,lucido,liso	pu-pi-da		Armentia	
+3269	353	*pu2-	*pu-	*pelar	Kav	descascarar	pu-ku		Armentia	
+3270	353	*pu2-	*pu-	*pelar	Ese	raspar	kwea-po-hi-			
+3271	353	*pu2-	*pu-	*pelar	Ese	mancharse (blanco)	po-ka-ka-			
+3272	353	*pu2-	*pu-	*pelar	Ese	relámpago	po-xexi			
+3273	353	*pu2-	*pu-	*pelar	Ese	relampaguer	po-xexi po-a-			
+3274	354	*pu3-	*pu-	*decir,hacer	ProTa	decir,hacer	pu-			
+3275	354	*pu3-	*pu-	*decir,hacer	Tak	decir,hacer	pu		Armentia	
+3276	354	*pu3-	*pu-	*decir,hacer	Ese	hacer,decir	po-a-			
+3277	354	*pu3-	*pue	*venir,llegar	ProTa	venir,llegar	pue			
+3278	354	*pu3-	*pue	*venir,llegar	Tak	venir	pue-			
+3279	354	*pu3-	*pue	*venir,llegar	Tak	llegados,viajeros	pue-hihi		Armentia	
+3280	354	*pu3-	*pue	*venir,llegar	Rey	come	poe-yohe			
+3281	354	*pu3-	*pue	*venir,llegar	Mar	come here	páyhuhe		Nordenskiöld	
+3282	354	*pu3-	*pue	*venir,llegar	Mar	come	apueya		Heath	
+3283	354	*pu3-	*pue	*venir,llegar	Ese	venir,llegar	pos-			
+3284	354	*pu3-	*pue	*venir,llegar	Ese	venir rápido	poe-kwahi-			
+3285	354	*pu3-	*puti	*andar	ProTa	andar	puti			
+3286	354	*pu3-	*puti	*andar	Tak	andar	puti-			
+3287	354	*pu3-	*puti	*andar	Tak	cuando vaya	e-puti-su		Armentia	
+3288	354	*pu3-	*puti	*andar	Tak	ha ido	puti-a		Armentia	
+3289	354	*pu3-	*puti	*andar	Tak	si fuese	puti-kwasu		Armentia	
+3290	354	*pu3-	*puti	*andar	Tak	fué,remoto	pitu-dha		Armentia	
+3291	354	*pu3-	*puti	*andar	Tak	yendo	puti-pucu		Armentia	
+3292	354	*pu3-	*puti	*andar	Rey	go	puti-he			
+3293	354	*pu3-	*puti	*andar	Mar	go	púti		Heath	
+3294	354	*pu3-	*puti	*andar	Aro	ir	putibu			
+3295	354	*pu3-	*puti	*andar	Kav	saltar,brincar	poti-tana			
+3296	354	*pu3-	*puti	*andar	Kav	dejar,abandonar	poti-a-ti-			
+3297	354	*pu3-	*puti	*andar	Kav	brinco,corcovo,exigencia,fogosidad	puti		Armentia	
+3298	354	*pu3-	*puti	*andar	Kav	concomerse,desalmarse,exigir	puti-hu		Armentia	
+3299	354	*pu3-	*puti	*andar	Kav	brincar	puti-puti-u		Armentia	
+3300	354	*pu3-	*puti	*andar	Kav	fuga,fugar	puti-sa		Armentia	
+3301	354	*pu3-	*puti	*andar	Kav	invadir	puti tananubi		Armentia	
+3302	354	*pu3-	*puti	*andar	Ese	fuirse rápido	poki-kwahi-			
+3303	354	*pu3-	*puti	*andar	Ese	fuirse	poki-			
+3304	354	*pu3-	*puti	*andar	Ese	escapir	poki-kewaki-			
+3305	354	*pu3-	*puti	*andar	Čam	going	pókiani			
+3306	354	*pu3-	*pu+...	*ir	ProTa	ir	pu+...			
+3307	354	*pu3-	*pu+...	*ir	Tak	rodear,dar vueltas	pu-barere		Armentia	
+3308	354	*pu3-	*pu+...	*ir	Tak	digo,fué,ha sido	puidha		Armentia	
+3309	354	*pu3-	*pu+...	*ir	Tak	ir	pu-na		Armentia	
+3310	354	*pu3-	*pu+...	*ir	Tak	si fuera	pu-kwasu		Armentia	
+3311	354	*pu3-	*pu+...	*ir	Tak	pronto	pu-da		Armentia	
+3312	354	*pu3-	*pu+...	*ir	Tak	acabar	pu-pe		Armentia	
+3313	354	*pu3-	*pu+...	*ir	Tak	dejar de ver ó hacer,etc	pu-rihi		Armentia	
+3314	355	*pu4-	*pu-	*reventar	ProTa	reventar	pu-		*pu2 or *pu3?	
+3315	355	*pu4-	*pu-	*reventar	Tak	reventar	pu-hu-			
+3316	355	*pu4-	*pu-	*reventar	Kav	reventar	po-totaša		pututaisa in Armentia	
+3317	355	*pu4-	*pu-	*reventar	Kav	quebrar	pu-kuku		Armentia	
+3118	355	*pu4-	*pu-	*reventar	Kav	frágil	e-pu-ku		Armentia	
+3119	355	*pu4-	*pu-	*reventar	Kav	romper	pu-eu		Armentia	
+3120	355	*pu4-	*pu-	*reventar	Ese	partir	po-ho-			
+3121	355	*pu4-	*pu-	*reventar	Ese	rajarse	xa-po-ho-ki-			
+3122	356	*pu5-	*pu-	*blando	ProTa	blando	pu-			
+3123	356	*pu5-	*pu-	*blando	Tak	insípido,chapa	pu-re-da			
+3134	356	*pu5-	*pu-	*blando	Ese	blando	kea-po			
+3135	357	*-puki1	*-puki	*nominalizing agentive suffix	ProTa	nominalizing agentive suffix	-puki		N.B. The Kav. form, with irregular reflex, may be a loan.	
+3136	357	*-puki1	*-puki	*nominalizing agentive suffix	Tak	nominalizing agentive suffix	-pu(h)i			
+3137	357	*-puki1	*-puki	*nominalizing agentive suffix	Kav	nominalizing agentive suffix	-pohi			
+3138	357	*-puki1	*-puki	*nominalizing agentive suffix	Ese	nominalizing agentive suffix	-poxi,-pioxi			
+3139	358	*puki2	*puki	*hormiga	ProTa	hormiga	puki			
+3140	358	*puki2	*puki	*hormiga	Tak	jorebaré (hormiga chica que pica fuerte)	pui-sasai			
+3141	358	*puki2	*puki	*hormiga	Kav	hormiga blanca (chica)	poki			
+3142	358	*puki2	*puki	*hormiga	Kav	casa de hormiga	poki mari			
+3143	358	*puki2	*puki	*hormiga	Kav	hormiga cazadora	poki nere			
+3144	358	*puki2	*puki	*hormiga	Kav	hormiga colorada	poki pode			
+3145	358	*puki2	*puki	*hormiga	Kav	hormiguero	puki-kini		Armentia	
+3146	358	*puki2	*puki	*hormiga	Ese	clase de homirga	poxi-haha			
+3147	358	*puki2	*puki	*hormiga	Ese	hormiga	pohi-sewi			
+3148	359	*puna	*puna	*mujer,hembra	ProTa	mujer,hembra	puna			
+3149	359	*puna	*puna	*mujer,hembra	Tak	mujer	e-puna			
+3150	359	*puna	*puna	*mujer,hembra	Tak	jovencita (14-18 años)	e-puné			
+3151	359	*puna	*puna	*mujer,hembra	Tak	niña (6-14 años)	e-puné-čidi			
+3152	359	*puna	*puna	*mujer,hembra	Tak	afeminado	puna-hi		Armentia	
+3153	359	*puna	*puna	*mujer,hembra	Tak	casto	puna-hi-mave		Armentia	
+3154	359	*puna	*puna	*mujer,hembra	Tak	muchacha	e-puna-ve		Armentia	
+3155	359	*puna	*puna	*mujer,hembra	Tak	vieja,anciana	puna-tia			
+3156	359	*puna	*puna	*mujer,hembra	Mar	girl	punáve		Heath	
+3157	359	*puna	*puna	*mujer,hembra	Aro	mujer	epuna			
+3158	359	*puna	*puna	*mujer,hembra	Aro	girl	ebaku-e-puna			
+3159	359	*puna	*puna	*mujer,hembra	Mab	daughter	ipona			
+3160	359	*puna	*puna	*mujer,hembra	Kav	mujer,hembra	e-pona			
+3161	359	*puna	*puna	*mujer,hembra	Ese	hembra,mujer	e-pona			
+3162	359	*puna	*puna	*mujer,hembra	Čam	female	epóna			
+3163	359	*puna	*puna	*mujer,hembra	War	woman	iponga		Hart/Fast	
