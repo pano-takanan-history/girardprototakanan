@@ -3464,3 +3464,317 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 3161	359	*puna	*puna	*mujer,hembra	Ese	hembra,mujer	e-pona			
 3162	359	*puna	*puna	*mujer,hembra	Čam	female	epóna			
 3163	359	*puna	*puna	*mujer,hembra	War	woman	iponga		Hart/Fast	
+3164	360	*purari	*purari	*curucusí,luciérnaga	ProTa	curucusí,luciérnaga	purari		*pu2?	
+3165	360	*purari	*purari	*curucusí,luciérnaga	Tak	luciérnaga,curucusí	puhai			
+3166	360	*purari	*purari	*curucusí,luciérnaga	Kav	curucusí,luciérnago,estrella	porari			
+3167	360	*purari	*purari	*curucusí,luciérnaga	Kav	lucero	porari ebari			
+3168	361	*-ra	*-ra	*transivitizing (and instrumental) suffix, mainly pronominal	ProTa	transivitizing (and instrumental) suffix, mainly pronominal	-ra			
+3169	361	*-ra	*-ra	*transivitizing (and instrumental) suffix, mainly pronominal	Tak	transivitizing (and instrumental) suffix, mainly pronominal	-a			
+3170	361	*-ra	*-ra	*transivitizing (and instrumental) suffix, mainly pronominal	Kav	transivitizing (and instrumental) suffix, mainly pronominal -ra			
+3171	361	*-ra	*-ra	*transivitizing (and instrumental) suffix, mainly pronominal	Ese	transivitizing (and instrumental) suffix, mainly pronominal -(y)a			
+3172	361	*-ra	*-ra	*transivitizing (and instrumental) suffix, mainly pronominal	War	transivitizing (and instrumental) suffix, mainly pronominal	-a			
+3173	362	*rami	*rami	*carne,cuerpo	ProTa	carne,cuerpo	rami			
+3174	362	*rami	*rami	*carne,cuerpo	Tak	carne	yami	< *e-rami		
+3175	362	*rami	*rami	*carne,cuerpo	Rey	meat,flesh	yami			
+3176	362	*rami	*rami	*carne,cuerpo	Mar	body,meat	eámi		Heath	
+3177	362	*rami	*rami	*carne,cuerpo	Aro	carne	yami			
+3178	362	*rami	*rami	*carne,cuerpo	Kav	carne	e-rami			
+3179	362	*rami	*rami	*carne,cuerpo	Kav	desengrosar	rami-tere		Armentia	
+3180	362	*rami	*rami	*carne,cuerpo	Kav	carnívoro	e-rami-bi		Armentia	
+3181	362	*rami	*rami	*carne,cuerpo	Kav	carnosidad	e-rami-kwinana		Armentia	
+3182	362	*rami	*rami	*carne,cuerpo	Ese	cuerpo	eyami			
+3183	362	*rami	*rami	*carne,cuerpo	Ese	vello del cuerpo	eyamiña	< *e-rami-ina		
+3184	362	*rami	*rami	*carne,cuerpo	Ese	curandero	eyami-kekwa-xi			
+3185	362	*rami	*rami	*carne,cuerpo	War	carne	eyami			
+3186	362	*rami	*rami	*carne,cuerpo	War	sin cuerpo	yámina		this form would indicate that *r > War. y and not Ø	
+3187	362	*rami	*rami	*carne,cuerpo	Ara	meat	éami			
+3188	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	ProTa	este,aquí	ree- ~ rei-		N.B. A single protoform, which would satisfy all languages, is difficult to set up. Van Wynen's Tak. and Armentia's Tak. are not at all in agreement. There is no evidence that *r would give Ese. h. All sets of demonstratives in Takanan present extreme difficulty in reconstruction, and we must assume either that Takanan demonstratives evolved in highly erratic and individual ways or that a number of protomorphemes may be involved, some of which at least superficially resembled each other.	
+3189	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Tak	este	ye			
+3190	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Tak	recién	yeču			
+3191	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Tak	este otro	yepia		Armentia's forms: <ihe> 'este', <ihesa> 'de este', <ihesinecua> 'esta tarde', <iheve> 'este no más', all of which point to a <iʔe->, but also <ieichu> 'recién'	
+3192	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Kav	por aquí	reeke			
+3193	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Kav	aquí	rewa			
+3194	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Kav	de aquí	rewaho			
+3195	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Kav	hasta aquí	rewatopo			
+3196	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Kav	ayer	riabarepa			
+3197	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Kav	anteayer	riabarepatibene			
+3198	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Kav	aquí	riada			
+3199	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Kav	no había	riaihamahowa			
+3200	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Kav	como ahora	riahotidia			
+3201	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Kav	siempre,hasta ahora	riakama			
+3202	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Kav	menos,un poco	riapihi			
+3203	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Kav	este	rike			
+3204	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Kav	este	riyake		Armentia's forms: <riebarepa> 'ayer', <reue> 'acá', <rie> 'este', <riquievaca> 'hoy', <riaddio> 'hoy, <riavecacajuqui> 'de hoy'	
+3205	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Ese	aquí,este	hikio			
+3206	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Ese	aquí en este lugar	hikioho			
+3207	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Ese	por acá	hikiakwa		cognate?	
+3208	364	*řa-	*řa-	*cortar,quebrar	ProTa	cortar,quebrar	řa-			
+2309	364	*řa-	*řa-	*cortar,quebrar	Tak	cortar,consechar	ra-ha-			
+3210	364	*řa-	*řa-	*cortar,quebrar	Tak	quebrar (de un árbol o planta)	ra-ri-			
+3211	364	*řa-	*řa-	*cortar,quebrar	Kav	quebrar	ra-			
+3212	364	*řa-	*řa-	*cortar,quebrar	Kav	quebrada	e-ra-ke-tana			
+3213	364	*řa-	*řa-	*cortar,quebrar	Kav	cortar	ra-ro-			
+3214	365	*řada	*řada	*juntar,amontonar,acarrear	ProTa	juntar,amontonar,acarrear	řada			
+3215	365	*řada	*řada	*juntar,amontonar,acarrear	Tak	división de casa,ropa interior de mujer	e-rada-i			
+3216	365	*řada	*řada	*juntar,amontonar,acarrear	Tak	en la dormita,en el interior	e-rada-i-su		Armentia	
+3217	365	*řada	*řada	*juntar,amontonar,acarrear	Tak	abultado	rada aida		Armentia	
+3218	365	*řada	*řada	*juntar,amontonar,acarrear	Tak	amontonar	rada iča		Armentia	
+3219	365	*řada	*řada	*juntar,amontonar,acarrear	Tak	monton	rada-neti		Armentia	
+3220	365	*řada	*řada	*juntar,amontonar,acarrear	Tak	es preciso amontonar	rada-tahi		Armentia	
+3221	365	*řada	*řada	*juntar,amontonar,acarrear	Tak	monton	e-rada-ni		Armentia	
+3222	365	*řada	*řada	*juntar,amontonar,acarrear	Kav	juntar,amontonar,acarrear	rada-			
+3223	365	*řada	*řada	*juntar,amontonar,acarrear	Kav	ramillete,junta	e-rada		Armentia	
+3224	365	*řada	*řada	*juntar,amontonar,acarrear	Kav	balumba	e-rada-ki		Armentia	
+3225	366	*řař{e/i}	*řař{e/i}	*chapapear,abochornar	ProTa	řař{e/i}			
+3226	366	*řař{e/i}	*řař{e/i}	*chapapear,abochornar	Tak	chapapear,asar	rare-			
+3227	366	*řař{e/i}	*řař{e/i}	*chapapear,abochornar	Kav	abochornar,bochorno	rari		Armentia	
+3228	367	*řa(ʔ)u	*řa(ʔ)u	*garza	ProTa	garza	řa(ʔ)u			
+3229	367	*řa(ʔ)u	*řa(ʔ)u	*garza	Tak	garza	rau			
+3230	367	*řa(ʔ)u	*řa(ʔ)u	*garza	Kav	garza	rao ~ raʔo			
+3231	368	*ře-	*ře-	*traer	ProTa	traer	ře-			
+3232	368	*ře-	*ře-	*traer	Kav	arrastrar,jalar	re-pe-			
+3233	368	*ře-	*ře-	*traer	Ese	traer	ye-		cognate?	
+3234	369	*řekwe	*řekwe	*rallar,raspar	ProTa	rallar,raspar	řekwe			
+3235	369	*řekwe	*řekwe	*rallar,raspar	Tak	rallar	reke-			
+3236	369	*řekwe	*řekwe	*rallar,raspar	Tak	bejuco con espinas	reke-reke-i			
+3237	369	*řekwe	*řekwe	*rallar,raspar	Tak	rallador,serrucho	e-reke-hi			
+3238	369	*řekwe	*řekwe	*rallar,raspar	Kav	fino,finura	rekwe-takina		Armentia	
+3239	369	*řekwe	*řekwe	*rallar,raspar	Ese	raspar	yekwe-			
+3240	370	*řeře	*řeře	*pascana	ProTa	pascana	řeře			
+3241	370	*řeře	*řeře	*pascana	Tak	pascana,campamento	e-rere			
+3242	370	*řeře	*řeře	*pascana	Kav	tambo,pascana,chosa	e-rere			
+3243	370	*řeře	*řeře	*pascana	Kav	enramar	e-rere-ʔa		Armentia	
+3244	371	*ře(řu)	*ře(řu)	*gatear	ProTa	gatear	ře(řu)			
+3245	371	*ře(řu)	*ře(řu)	*gatear	Tak	gatear	reru-			
+3246	371	*ře(řu)	*ře(řu)	*gatear	Tak	está gateando (una criatura)	e-reru-ani		Armentia	
+3247	371	*ře(řu)	*ře(řu)	*gatear	Kav	gatear	reme-		cognate?	
+3248	371	*ře(řu)	*ře(řu)	*gatear	Ese	gatear	yeyo-a-			
+3249	372	*ři-	*řibi	*apretar	ProTa	apretar	řibi			
+3250	372	*ři-	*řibi	*apretar	Tak	trampa con cordel para animales	ribi			
+3251	372	*ři-	*řibi	*apretar	Tak	ajustado,apretado	ribi-da			
+3252	372	*ři-	*řibi	*apretar	Tak	apretar con cordel	ribi-a		Armentia	
+3253	372	*ři-	*řibi	*apretar	Kav	arrugado	ribi-ribi		cognate?	
+3254	372	*ři-	*řibi	*apretar	Kav	abolsado	ribu		Armentia	
+3255	372	*ři-	*řic̣...	*zurcir,frunzar	ProTa	zurcir,frunzar	řic̣...			
+3256	372	*ři-	*řic̣...	*zurcir,frunzar	Tak	zurcir	rica			
+3257	372	*ři-	*řic̣...	*zurcir,frunzar	Kav	fruncido,arrugado	riči-riči			
+3258	372	*ři-	*řic̣...	*zurcir,frunzar	Kav	frunzar	riči-a-			
+3259	372	*ři-	*řiře	*tirar,jalar	ProTa	tirar,jalar	řiře			
+3260	372	*ři-	*řiře	*tirar,jalar	Tak	jalar (llevar de tiro),tirar con cordel	rire-		Concept 'tirar con cordel' taken from Armentia	
+3261	372	*ři-	*řiře	*tirar,jalar	Tak	tiren	rire-ke		Armentia	
+3262	372	*ři-	*řiře	*tirar,jalar	Tak	suspender con cordel	rire-cu		Armentia	
+3263	372	*ři-	*řiře	*tirar,jalar	Ese	jalar	xeki-yiye-			
+3264	372	*ři-	*řiře	*tirar,jalar	Ese	empujar	yiye-hea-		cognate?	
+3265	372	*ři-	*řisi	*amarrar,atar	ProTa	amarrar,atar	řisi			1
+3266	372	*ři-	*řisi	*amarrar,atar	Tak	cosa para amarrar	e-risi-hi			
+3267	372	*ři-	*řisi	*amarrar,atar	Tak	amarrado	risi-hihi			
+3268	372	*ři-	*řisi	*amarrar,atar	Tak	amarrar	risi-			
+3269	372	*ři-	*řisi	*amarrar,atar	Tak	anudar	risi-tia-da		Armentia	
+3270	372	*ři-	*řisi	*amarrar,atar	Kav	atada	e-risi			
+3271	372	*ři-	*řisi	*amarrar,atar	Kav	amarrado	risi-wa-ke			
+3272	372	*ři-	*řisi	*amarrar,atar	Kav	nudo	e-risi-ke			
+3273	372	*ři-	*řisi	*amarrar,atar	Kav	techar	risi-risi-			
+3274	372	*ři-	*řisi	*amarrar,atar	Kav	amarrar todo	risi-tana-tere			
+3275	372	*ři-	*řisi	*amarrar,atar	Kav	atar	risi-			
+3276	373	*řiři	*řiři	*podrir	ProTa	podrir	řiři			
+3277	373	*řiři	*řiři	*podrir	Tak	se ha de acabar,esterminar	e-riri		Armentia	
+3278	373	*řiři	*řiři	*podrir	Kav	podrido	e-riri			
+3279	373	*řiři	*řiři	*podrir	Kav	yoperojobobo (víbora venenosa)	riri-bakwa			
+3280	373	*řiři	*řiři	*podrir	Kav	podrir,corromper	riri-		Concept 'corromper' taken from Armentia	
+3281	374	*sa1-	*sa-	*acostar,echarse	ProTa	acostar,echarse	sa-			
+3282	374	*sa1-	*sa-	*acostar,echarse	Tak	acostar,echarse	sa-ti-			
+3283	374	*sa1-	*sa-	*acostar,echarse	Tak	agacharse	sa-ʔute-			
+3284	374	*sa1-	*sa-	*acostar,echarse	Tak	echarse	sa-na-			
+3285	374	*sa1-	*sa-	*acostar,echarse	Tak	cama tendida	sa-ude			
+3286	374	*sa1-	*sa-	*acostar,echarse	Tak	apartar (cuando está echado)	sa-dera-			
+3287	374	*sa1-	*sa-	*acostar,echarse	Tak	nido	e-sa-hi			
+3288	374	*sa1-	*sa-	*acostar,echarse	Tak	estar echado	e-sa		Armentia	
+3289	374	*sa1-	*sa-	*acostar,echarse	Tak	estar flotando	e-sa-nubi-neti		Armentia	
+3290	374	*sa1-	*sa-	*acostar,echarse	Tak	gallina clueca	e-sa-nubi		Armentia	
+3291	374	*sa1-	*sa-	*acostar,echarse	Tak	recostarse	sa-na-sa-na		Armentia	
+3292	374	*sa1-	*sa-	*acostar,echarse	Tak	campo	e-sa-na		Armentia	
+3293	374	*sa1-	*sa-	*acostar,echarse	Kav	nido,pañal	e-ha			
+3294	374	*sa1-	*sa-	*acostar,echarse	Kav	desanidar	ha-ka		Armentia	
+3295	374	*sa1-	*sa-	*acostar,echarse	Kav	echarse,acostar,dejar	ha-ra-			
+3296	374	*sa1-	*sa-	*acostar,echarse	Ese	acostar,echarse	haa-			
+3297	374	*sa1-	*sa-	*acostar,echarse	Ese	calmar	haa-mee-			
+3298	374	*sa1-	*sa-	*acostar,echarse	Ese	agacharse	haa-oke-			
+3299	374	*sa1-	*sa-	*acostar,echarse	Ese	cuidar,guardar	haa-wa-			
+3300	374	*sa1-	*sa-	*acostar,echarse	Ese	cuidante	e-haa-wa-naxi			
+3301	374	*sa1-	*sa-	*acostar,echarse	Ese	encallar	haa-ña-ki-			
+3302	374	*sa1-	*sa-	*acostar,echarse	Ese	almohada	e-sapa-haa-xi		N.B. All the Ese. forms would appear to come from *sara-, cf. Kav. form above.	
+3303	375	*-sa2	*-sa	*possessive suffix	ProTa	possessive suffix	-sa			
+3304	375	*-sa2	*-sa	*possessive suffix	Tak	possessive suffix	-sa			
+3305	375	*-sa2	*-sa	*possessive suffix	Kav	possessive suffix	-ha			
+3306	375	*-sa2	*-sa	*possessive suffix	Ese	possessive suffix	-ha,-hea			
+3307	376	*sababa,-pipi,-puřa	*sababa,-pipi,-puřa	*mariposa	ProTa	mariposa	sababa,-pipi,-puřa			
+3308	376	*sababa,-pipi,-puřa	*sababa,-pipi,-puřa	*mariposa	Tak	mariposa	sababa			
+3309	376	*sababa,-pipi,-puřa	*sababa,-pipi,-puřa	*mariposa	Tak	mariposa de noche	sapura			
+3310	376	*sababa,-pipi,-puřa	*sababa,-pipi,-puřa	*mariposa	Kav	mariposa	hababa			
+3311	376	*sababa,-pipi,-puřa	*sababa,-pipi,-puřa	*mariposa	Kav	mariposa	hapipi			
+3312	376	*sababa,-pipi,-puřa	*sababa,-pipi,-puřa	*mariposa	Ese	mariposa	xapipi			
+3313	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	ProTa	pez,pescado	sa(ʔ)e			
+3314	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Tak	pez	se			
+3315	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Tak	pescar	sai-na		Armentia	
+3316	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Tak	anzuelo	e-siahi			
+3317	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Tak	andar a pescar	e-sia puti-			
+3318	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Aro	pescado	jae			
+3319	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Mar	fish	sisi		cognate?	
+3320	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Sap	fish	sisi		cognate?	
+3321	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Kav	pez	hae ~ haʔe			
+3322	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Kav	bufeo	hae acukike			
+3323	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Kav	pez blanca	hae paha			
+3324	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Kav	pescador	hae-aki		Armentia	
+3325	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Kav	pescar	hae-ati		Armentia	
+3326	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Ese	pez,pescado	hai			
+3327	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Ese	blanquillo (pez)	hai-oše			
+3328	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Ese	bufeo	hai-saoxe			
+3329	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Ese	azulejo (pez)	hai-soʔexa			
+3330	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Ese	chanana (pez)	hai-tewe			
+3331	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Čam	fish	xái			
+3332	378	*sai-	*sai-	*bueno	ProTa	bueno	sai-			
+3333	378	*sai-	*sai-	*bueno	Tak	bueno	sai-da			
+3334	378	*sai-	*sai-	*bueno	Tak	sanar	sai-si-			
+3335	378	*sai-	*sai-	*bueno	Tak	bueno	sai-piave		Armentia	
+3336	378	*sai-	*sai-	*bueno	Tak	comprar bien	sai-da-baha		Armentia	
+3337	378	*sai-	*sai-	*bueno	Tak	muy bueno	sai-da eni-eni		Armentia	
+3338	378	*sai-	*sai-	*bueno	Tak	guardar	iča-sai-ta-			
+3339	378	*sai-	*sai-	*bueno	Tak	ser,poner	sai-ba-			
+3340	378	*sai-	*sai-	*bueno	Tak	ropa	e-sai-ba-hi			
+3341	378	*sai-	*sai-	*bueno	Rey	good	dhai-me			
+3342	378	*sai-	*sai-	*bueno	Mar	bien	zaipibe		Cardús	
+3343	378	*sai-	*sai-	*bueno	Was	good,blessed	sayme			
+3344	378	*sai-	*sai-	*bueno	Aro	bien	xaipiave			
+3345	378	*sai-	*sai-	*bueno	Kav	bueno,contento,feliz,sano,bien	hi-da			
+3346	378	*sai-	*sai-	*bueno	Kav	tiempo bueno	hi-da-barepa			
+3347	378	*sai-	*sai-	*bueno	Kav	bonito,agradable	hi-da-kwita			
+3348	378	*sai-	*sai-	*bueno	Kav	bonito,hermoso	hi-da-pihi			
+3349	378	*sai-	*sai-	*bueno	Kav	bueno,contento	hi-da-pore-ama			
+3350	378	*sai-	*sai-	*bueno	Kav	honrar,hacerlo buen	hida-a-			
+3351	378	*sai-	*sai-	*bueno	Kav	amar,hallar bueno	hi-da-ba-			
+3352	378	*sai-	*sai-	*bueno	Kav	bien educado,etc	hi-da-eka-bawi-tia-ti			
+3353	378	*sai-	*sai-	*bueno	Ese	le gusta,agradable	kea-hai			
+3354	378	*sai-	*sai-	*bueno	Ese	bueno	hayaya			
+3355	379	*saka	*saka	*cortar	ProTa	cortar	saka			
+3356	379	*saka	*saka	*cortar	Tak	partir,cortar	saha-saha		Armentia	
+3357	379	*saka	*saka	*cortar	Kav	divorciar	haka-kati		Armentia	
+3358	380	*saku	*saku	*fuerte,ácido,agrio	ProTa	fuerte,ácido,agrio	saku			
+3359	380	*saku	*saku	*fuerte,ácido,agrio	Tak	fuerte (al palador),ácido	sahu-da			
+3360	380	*saku	*saku	*fuerte,ácido,agrio	Tak	fermentar	sahu-na-			
+3361	380	*saku	*saku	*fuerte,ácido,agrio	Tak	fermentado,agrio	e-sahu-na		Concept 'agrio' taken from Armentia	
+3362	380	*saku	*saku	*fuerte,ácido,agrio	Kav	fuerte,agria,ácido,agrio	hako-da		Concept 'agrio' taken from Armentia	
+3363	381	*samani	*samani	*gallinazo,sucha	ProTa	gallinazo,sucha	samani			
+3364	381	*samani	*samani	*gallinazo,sucha	Tak	sucha gallinazo	samani			
+3365	381	*samani	*samani	*gallinazo,sucha	Kav	gallinazo,sucha	hamani			
+3366	382	*sa(ʔ)runa	*sa(ʔ)runa	*vena,nervio,tendón	ProTa	vena,nervio,tendón	sa(ʔ)runa			
+3367	382	*sa(ʔ)runa	*sa(ʔ)runa	*vena,nervio,tendón	Tak	vena,nervio,tendón	e-sauna			
+3368	382	*sa(ʔ)runa	*sa(ʔ)runa	*vena,nervio,tendón	Kav	vena,tendón	e-harona		Concept 'tendón' taken from Armentia	
+3369	382	*sa(ʔ)runa	*sa(ʔ)runa	*vena,nervio,tendón	Ese	vena	e-haʔiona			
+3370 	382	*sa(ʔ)runa	*sa(ʔ)runa	*vena,nervio,tendón	War	nevio	e-ʔahaʔona,e-mahaʔona			
+3371	383	*sařiři	*sařiři	*sarna	ProTa	sarna	sařiři			
+3372	383	*sařiři	*sařiři	*sarna	Tak	cosquilloso,dentera	sariri-da			
+3373	383	*sařiři	*sařiři	*sarna	Ese	sarna	e-hai			
+3374	384	*sawa	*sawa	*madurar,amarillo	ProTa	madurar,amarillo	sawa			
+3375	384	*sawa	*sawa	*madurar,amarillo	Tak	(medio) amarillo	sawa-sawa			
+3376	384	*sawa	*sawa	*madurar,amarillo	Tak	crudo	e-sawa		Armentia	
+3377	384	*sawa	*sawa	*madurar,amarillo	Mar	yellow	θahuamí		Heath	
+3378	384	*sawa	*sawa	*madurar,amarillo	Kav	amarillo,bayo	hawa-da			
+3379	384	*sawa	*sawa	*madurar,amarillo	Kav	cuando está maduro	hawa-wayaho			
+3380	384	*sawa	*sawa	*madurar,amarillo	Kav	madurar	hawa-nesa			
+3381	384	*sawa	*sawa	*madurar,amarillo	Kav	maduro	e-hawa-ne			
+3382	384	*sawa	*sawa	*madurar,amarillo	Kav	bien maduro	e-hawa-ne-hi-da			
+3383	384	*sawa	*sawa	*madurar,amarillo	Kav	encanecer	hawa-ne-			
+3384	384	*sawa	*sawa	*madurar,amarillo	Kav	que maduro!	pa-hawa-ne			
+3385	384	*sawa	*sawa	*madurar,amarillo	Ese	madurar	hawa-			
+3386	384	*sawa	*sawa	*madurar,amarillo	Ese	amarillo,madura	kea-hawa			
+3387	385	*sawi	*sawi	*chichilo	ProTa	chicilo	sawi			
+3388	385	*sawi	*sawi	*chichilo	Tak	chichilo,mono amarillo	sawi			
+3389	385	*sawi	*sawi	*chichilo	Kav	chichilo	hawi			
+3390	386	*se-	*se-	*venir,andar,tirar	ProTa	venir,andar,tirar	se-		see also *a-se-	
+3391	386	*se-	*se-	*venir,andar,tirar	Tak	tirar (piedra)	si-a			
+3392	386	*se-	*se-	*venir,andar,tirar	Tak	volver,regresarse	ha-si-a-pa-ti-			
+3393	386	*se-	*se-	*venir,andar,tirar	Tak	devolver	si-a-pa-ti-yu-			
+3394	386	*se-	*se-	*venir,andar,tirar	Tak	andar a quedarse	ani-se-heu-			
+3395	386	*se-	*se-	*venir,andar,tirar	Mab	come	thiathia			
+3396	386	*se-	*se-	*venir,andar,tirar	Kav	venir	he-			
+3397	386	*se-	*se-	*venir,andar,tirar	Ese	andar	he-o-			
+3398	386	*se-	*se-	*venir,andar,tirar	Ese	andar cojo	he-o-mihi-mihi-			
+3399	386	*se-	*se-	*venir,andar,tirar	Ese	abandonar,botar	he-a-			
+3400	386	*se-	*se-	*venir,andar,tirar	Ese	desparrarse	xa-he-a-haya-ki-			
+3401	386	*se-	*se-	*venir,andar,tirar	Ese	perderse	xa-he-a-ki-			
+3402	387	*seke	*seke	*llenar,llenarse	ProTa	llenar,llenarse	seke			
+3403	387	*seke	*seke	*llenar,llenarse	Tak	llenarse	sehe-			
+3404	387	*seke	*seke	*llenar,llenarse	Tak	llenar	sehe-a-			
+3405	387	*seke	*seke	*llenar,llenarse	Tak	lleno	e-sehe			
+3406	387	*seke	*seke	*llenar,llenarse	Tak	hinchazón	sehe		Armentia	
+3407	387	*seke	*seke	*llenar,llenarse	Tak	lleno,hincado,colmado	sehe-hihi ~ sehe-ahihi		Armentia	
+3408	387	*seke	*seke	*llenar,llenarse	Was	full of grace	gracia c̹egeagigi			
+3409	387	*seke	*seke	*llenar,llenarse	Kav	llenar	heke-			
+3410	387	*seke	*seke	*llenar,llenarse	Kav	llenar	heke-ša-			
+3411	387	*seke	*seke	*llenar,llenarse	Kav	refill	yekienuka		Armentia | e-heke-nuka?	
+3412	388	*seme	*seme	*yacamí (ave)	ProTa	yacamí (ave)	seme			
+3413	388	*seme	*seme	*yacamí (ave)	Tak	yacamí (ave)	seme			
+3414	388	*seme	*seme	*yacamí (ave)	Tak	abeja	seme-wasa			
+3415	388	*seme	*seme	*yacamí (ave)	Kav	yacamí	heme			
+3416	389	*seri-	*seri-	*resbaloso,resbalar	ProTa	resbaloso,resbalar	seri-			
+3417	389	*seri-	*seri-	*resbaloso,resbalar	Tak	resbaloso	sevida			
+3418	389	*seri-	*seri-	*resbaloso,resbalar	Tak	resbalar,encima de palo	sevita-		Tav. [v] has been interpreted as an allophone of /w/. *r > Ø, but on occasion intervocalic glides have developed.	
+3419	389	*seri-	*seri-	*resbaloso,resbalar	Kav	resbaloso	heri-da			
+3420	390	*siʔi	*siʔi	*hongo	ProTa	hongo	siʔi			
+3421	390	*siʔi	*siʔi	*hongo	Tak	hongo	si			
+3422	390	*siʔi	*siʔi	*hongo	Kav	hongo,orejo de palo	hiʔi			
+3423	390	*siʔi	*siʔi	*hongo	War	hongo comestible	he			
+3424	391	*sikwi	*sikwi	*cortar,serruchar	ProTa	cortar,serruchar	sikwi			
+3425	391	*sikwi	*sikwi	*cortar,serruchar	Tak	cortar (princ. carne)	siki-			
+3426	391	*sikwi	*sikwi	*cortar,serruchar	Tak	picado (ave)	siki-siki-ahihi			
+3427	391	*sikwi	*sikwi	*cortar,serruchar	Tak	un tajo	siki-eci		Armentia	
+3428	391	*sikwi	*sikwi	*cortar,serruchar	Tak	cortadura	siki-hihi		Armentia	
+3429	391	*sikwi	*sikwi	*cortar,serruchar	Tak	descuartizar	siki-siki-a		Armentia	
+3430	391	*sikwi	*sikwi	*cortar,serruchar	Kav	cortar,rayar (goma),aserrar,cosechar (arroz)	hikwi-hikwi-			
+3431	391	*sikwi	*sikwi	*cortar,serruchar	Kav	cortar,aserrar	hikwi-			
+3432	391	*sikwi	*sikwi	*cortar,serruchar	War	cortar	hikwi-			
+3433	391	*sikwi	*sikwi	*cortar,serruchar	War	cortable	hikwi-tahi			
+3434	391	*sikwi	*sikwi	*cortar,serruchar	War	no cortable	hikwi-ta-aha			
+3435	392	*sina	*sina	*caliente,cocinar	ProTa	caliente,cocinar	sina		or *si+...	
+3436	392	*sina	*sina	*caliente,cocinar	Tak	caliente,hace color	sina-da			
+3437	392	*sina	*sina	*caliente,cocinar	Tak	olla de barra para cocer chicha	e-sina-hi			
+3438	392	*sina	*sina	*caliente,cocinar	Tak	cocer	sina-			
+3439	392	*sina	*sina	*caliente,cocinar	Tak	ardor	sina-sina-ni		Armentia	
+3440	392	*sina	*sina	*caliente,cocinar	Rey	hot	dhindzindzi-me			
+3441	392	*sina	*sina	*caliente,cocinar	Mar	hot	θintritríme	*si-didi-me	Heath	
+3442	392	*sina	*sina	*caliente,cocinar	Kav	cocido	e-hina			
+3443	392	*sina	*sina	*caliente,cocinar	Kav	crudo (sin cocer)	hina-ma			
+3444	392	*sina	*sina	*caliente,cocinar	Kav	cocer,cocinar	hina-			
+3445	392	*sina	*sina	*caliente,cocinar	Ese	cocinar	hiña-			
+3446	392	*sina	*sina	*caliente,cocinar	Ese	arder	hi-hi-			
+3447	393	*site	*site	*rata,ratón	ProTa	rata,ratón	site			
+3448	393	*site	*site	*rata,ratón	Tak	ratón,matapalo	site			
+3449	393	*site	*site	*rata,ratón	Rey	rat	dhite			
+3450	393	*site	*site	*rata,ratón	Kav	rata,ratón	hite			
+3451	394	*siroma	*siroma	*mono silbador	ProTa	mono silbador	siroma			
+3452	394	*siroma	*siroma	*mono silbador	Rey	mono silbador	dhiowa			
+3453	394	*siroma	*siroma	*mono silbador	Kav	mono silbador	hirowa			
+3454	395	*-su1	*-su	*locative suffix	ProTa	locative suffix	-su			
+3455	395	*-su1	*-su	*locative suffix	Tak	locative suffix	-so			
+3456	395	*-su1	*-su	*locative suffix	Rey	locative suffix	-dho			
+3457	395	*-su1	*-su	*locative suffix	Was	locative suffix	<-zu>			
+3458	395	*-su1	*-su	*locative suffix	Kav	locative suffix	-ho			
+3459	395	*-su1	*-su	*locative suffix	Ese	locative suffix	-ho			
+3460	396	*su2-	*su-	*después	ProTa	después	su-		*su1?	
+3461	396	*su2-	*su-	*después	Tak	después	su-ču			
+3462	396	*su2-	*su-	*después	Kav	después,cuando	ho-waco			
+3463	396	*su2-	*su-	*después	Kav	cuando ya terminado	ho-waho			
+3464	396	*su2-	*su-	*después	Kav	llegar	ho-e-ti-			
+3465	396	*su2-	*su-	*después	Kav	llegar,venir	ho-na-			
+3466	396	*su2-	*su-	*después	Kav	andar	ho-neni-			
+3467	396	*su2-	*su-	*después	Kav	no poder	ho-taki-ama			
+3468	396	*su2-	*su-	*después	Kav	entonces,por eso	ho-taki-ho			
+3469	396	*su2-	*su-	*después	Kav	terminar	ho-tere-			
+3470	396	*su2-	*su-	*después	Kav	así como está	ho-yaboča			
+3471	396	*su2-	*su-	*después	Kav	además	hu-acu		Armentia	
+3472	396	*su2-	*su-	*después	Ese	por él	e-ho			
+3473	396	*su2-	*su-	*después	Ese	él	ho-ya			
+3474	396	*su2-	*su-	*después	Ese	por allá	ho-kwama			
+3475	396	*su2-	*su-	*después	Ese	aquello,he allí	ho-maya			
+3476	396	*su2-	*su-	*después	War	allí	ho-ma-ho			
+3477	396	*su2-	*su-	*después	War	lejos	hó-kwama		All perhaps cognate if *su2- can be glossed 'there, then'.	
