@@ -4137,4 +4137,509 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 3834	431	*tu1-	*tu-	*3ra persona	Kav	él solo	tota			
 3835	431	*tu1-	*tu-	*3ra persona	Kav	él solito	totataka			
 3836	431	*tu1-	*tu-	*3ra persona	Ese	ese	koya			
-3837
+3837	432	*tu2-	*tu-	*barriga	ProTa	barriga	tu-			
+3838	432	*tu2-	*tu-	*barriga	Tak	barriga	e-tu			
+3839	432	*tu2-	*tu-	*barriga	Tak	barrigón	tu-ʔaida			
+3840	432	*tu2-	*tu-	*barriga	Tak	torcido	tu-ri			
+3841	432	*tu2-	*tu-	*barriga	Tak	arrodillarse	tu-ru-neti-			
+3842	432	*tu2-	*tu-	*barriga	Tak	agachado,jorobado	tu-ři			
+3843	432	*tu2-	*tu-	*barriga	Kav	arco	e-to-nono			
+3844	432	*tu2-	*tu-	*barriga	Kav	fruncido,medio torcido	e-ka-to-nono-ti-			
+3845	432	*tu2-	*tu-	*barriga	Kav	doblegar	tu-nunu-sa		Armentia	
+3846	432	*tu2-	*tu-	*barriga	Kav	corbo	tu-nunu-tana		Armentia	
+3847	432	*tu2-	*tu-	*barriga	Kav	abdomen,empeine	e-tu-ba		Armentia	
+3848	432	*tu2-	*tu-	*barriga	Kav	bala	tu-ba-ki		Armentia	
+3849	432	*tu2-	*tu-	*barriga	Kav	bala	to-bo			
+3850	432	*tu2-	*tu-	*barriga	Ese	arco,escopeta	e-ko-wixi			
+3851	432	*tu2-	*tu-	*barriga	Ese	torcido	keá-ko-wiwi			
+3852	432	*tu2-	*tu-	*barriga	Ese	redondo	ko-po-ko-po			
+3853	432	*tu2-	*tu-	*barriga	War	redondo	kia-tó-po-ne			
+3854	432	*tu2-	*tu-	*barriga	War	arco	e-to-wihi			
+3855	432	*tu2-	*tu-	*barriga	Ara	bow	etuwiši			
+3856	433	*tu3-	*tu-	*encender	ProTa	encender	tu-			
+3857	433	*tu3-	*tu-	*encender	Tak	encender	tu-ru-			
+3858	433	*tu3-	*tu-	*encender	Kav	arder,encender	tu-ča-			
+3859	433	*tu3-	*tu-	*encender	Ese	atizar	ko-ša-			
+3860	434	*tubu	*tubu	*cortar,trozar	ProTa	cortar,trozar	tubu			
+3861	434	*tubu	*tubu	*cortar,trozar	Kav	cortar,arear	tobo-			
+3862	434	*tubu	*tubu	*cortar,trozar	Kav	corto	tyobo	< *e-tobo	/y/ as superscript	
+3863	434	*tubu	*tubu	*cortar,trozar	Ese	trozar	kobo-			
+3864	435	*tu(ʔ)i	*tu(ʔ)i	*loro (chico)	ProTa	loro (chico)	tu(ʔ)i			
+3865	435	*tu(ʔ)i	*tu(ʔ)i	*loro (chico)	Tak	especie de loro chico	tui			
+3866	435	*tu(ʔ)i	*tu(ʔ)i	*loro (chico)	Kav	loro (chico)	tyoʔi		/y/ as superscript	
+3867	435	*tu(ʔ)i	*tu(ʔ)i	*loro (chico)	Kav	clase de pájaro negro con pico colorado	tyowikoro		/y/ as superscript | < *e-tu(ʔ)i?	
+3868	436	*(a)tuka	*(a)tuka	*ojo	ProTa	ojo	(a)tuka			
+3869	436	*(a)tuka	*(a)tuka	*ojo	Tak	ojo	e-tua			
+3870	436	*(a)tuka	*(a)tuka	*ojo	Tak	lágrima	tua-na			
+3871	436	*(a)tuka	*(a)tuka	*ojo	Tak	brillante,claro	tua-we-da			
+3872	436	*(a)tuka	*(a)tuka	*ojo	Tak	párpado	e-tua-behi		Armentia	
+3873	436	*(a)tuka	*(a)tuka	*ojo	Tak	soñoliente,ojero por el desvelo	(e)-tua-čani		Armentia	
+3874	436	*(a)tuka	*(a)tuka	*ojo	Tak	escarmentar	tua-ba		Armentia	
+3875	436	*(a)tuka	*(a)tuka	*ojo	Tak	vender los ojos	tua-dunu		Armentia	
+3876	436	*(a)tuka	*(a)tuka	*ojo	Tak	experimentar,escarmentar	ha-tua-ba-ti		Armentia	
+3877	436	*(a)tuka	*(a)tuka	*ojo	Mar	eye	etatchúru		Nordenskiöld	
+3878	436	*(a)tuka	*(a)tuka	*ojo	Mar	eye	etachundru		Heath	
+3879	436	*(a)tuka	*(a)tuka	*ojo	Sap	occhio	etuachûru			
+3880	436	*(a)tuka	*(a)tuka	*ojo	Mab	eye	ithoa			
+3881	436	*(a)tuka	*(a)tuka	*ojo	Mab	eyebrow	iboathuna			
+3882	436	*(a)tuka	*(a)tuka	*ojo	Mab	eyelash	ithokeguiña			
+3883	436	*(a)tuka	*(a)tuka	*ojo	Kav	ojo	y-atoka			
+3884	436	*(a)tuka	*(a)tuka	*ojo	Kav	lágrima	y-atuka-kame		Armentia	
+3885	436	*(a)tuka	*(a)tuka	*ojo	Kav	pestaña	y-atuka-saru		Armentia	
+3886	436	*(a)tuka	*(a)tuka	*ojo	Kav	orzuelo	y-atuka-pivi		Armentia	
+3887	436	*(a)tuka	*(a)tuka	*ojo	Kav	eclipse	atuka-mahu		Armentia | 'dead eye'	
+3888	436	*(a)tuka	*(a)tuka	*ojo	Ese	ojo	e-koxa			
+3889	436	*(a)tuka	*(a)tuka	*ojo	Ese	espejo	e-xa-boxa-bakisi			
+3890	436	*(a)tuka	*(a)tuka	*ojo	War	ojo	e-toha			
+3891	436	*(a)tuka	*(a)tuka	*ojo	War	sin ojos	tóhama			
+3892	436	*(a)tuka	*(a)tuka	*ojo	Ara	eye	étoša			
+3893	437	*tumi	*tumi	*motacú	ProTa	motacú	tumi			
+3894	437	*tumi	*tumi	*motacú	Tak	motacú (palmera)	tumi			
+3895	437	*tumi	*tumi	*motacú	Kav	motacú	tomi			
+3896	437	*tumi	*tumi	*motacú	Kav	caluche	tomi-kaka			
+3897	438	*tumu	*tumu	*piedra	ProTa	piedra	tumu			
+3898	438	*tumu	*tumu	*piedra	Tak	piedra	tumu			
+3899	438	*tumu	*tumu	*piedra	Tak	pedregoso	tumu-hi			
+3900	438	*tumu	*tumu	*piedra	Tak	corvina (pez)	tumu-hi se			
+3901	438	*tumu	*tumu	*piedra	Tak	cascajo	tumu-ruru		Armentia	
+3902	438	*tumu	*tumu	*piedra	Tak	agujero en la piedra	tumu-surara		Armentia	
+3903	438	*tumu	*tumu	*piedra	Rey	rock	tomo			
+3904	438	*tumu	*tumu	*piedra	Mar	stone	tuma		Heath	
+3905	438	*tumu	*tumu	*piedra	Sap	stone	tumu			
+3906	438	*tumu	*tumu	*piedra	Aro	piedra	tumu			
+3907	438	*tumu	*tumu	*piedra	Kav	piedra	tomo			
+3908	438	*tumu	*tumu	*piedra	Kav	roca	tomo ebari			
+3909	438	*tumu	*tumu	*piedra	Kav	pedregoso	tomo-ki			
+3910	438	*tumu	*tumu	*piedra	Kav	empedrado	tumu e-piri		Armentia	
+3911	438	*tumu	*tumu	*piedra	Kav	apedrear	tumu kamare		Armentia	
+3912	438	*tumu	*tumu	*piedra	Kav	tapón	e-tumu-ki		Armentia	
+3913	438	*tumu	*tumu	*piedra	Kav	encorralar	tumu-na		Armentia	
+3914	439	*tunu	*tunu	*lombriz	ProTa	lombriz	tunu			
+3915	439	*tunu	*tunu	*lombriz	Tak	lombriz	tunu			
+3916	439	*tunu	*tunu	*lombriz	Rey	worm	se-tono			
+3917	439	*tunu	*tunu	*lombriz	Kav	lombriz,gusano	tyono		/y/ as superscript	
+3918	439	*tunu	*tunu	*lombriz	Kav	cutuchi (víbora)	tyono-pa	< *e-tono	/y/as superscript	
+3919	439	*tunu	*tunu	*lombriz	Ese	lombrices	kono			
+3920	440	*tupu	*tupu	*pesar	ProTa	pesar	tupu			
+3921	440	*tupu	*tupu	*pesar	Tak	vejiga (de animales),alcanza,igual,basta	tupu		Concepts 'igual,basta' taken from Armentia	
+3922	440	*tupu	*tupu	*pesar	Tak	pesar,medir,igualar,nivelar	tupu-a-		Concepts 'medir,igualar,nivelar' taken from Armentia	
+3923	440	*tupu	*tupu	*pesar	Tak	igualar,igual	tupu-pai		Armentia	
+3924	440	*tupu	*tupu	*pesar	Tak	cabal	tupu-ki-tana		Armentia	
+3925	440	*tupu	*tupu	*pesar	Tak	todos juntos	tupu-paive		Armentia	
+3926	440	*tupu	*tupu	*pesar	Kav	pesar,seguir,pensar,acompañar	topo-			
+3927	440	*tupu	*tupu	*pesar	Kav	haste,bastante,cabal,caso,medido	topo		Concepts 'bastante,cabal,caso,medido' taken from Armentia	
+3928	440	*tupu	*tupu	*pesar	Kav	bastante,alcanza	topo-kema-dya			
+3929	440	*tupu	*tupu	*pesar	Kav	medidor	tupu-aekikie		Armentia	
+3930	440	*tupu	*tupu	*pesar	Kav	limitar	tupu-hu		Armentia	
+3931	440	*tupu	*tupu	*pesar	Kav	último	tupu-huhu		Armentia	
+3932	440	*tupu	*tupu	*pesar	Kav	limite,etc	e-tupu		Armentia	
+3933	441	*u1-	*ucekwa	*nieta,nieto	ProTa	nieta,nieto	ucekwa			
+3934	441	*u1-	*ucekwa	*nieta,nieto	Tak	nieta	ucekwa			
+3935	441	*u1-	*ucekwa	*nieta,nieto	Aro	brother	uitsekua			
+3936	441	*u1-	*ucekwa	*nieta,nieto	Kav	nieto	y-ocekwa-ke			
+3937	441	*u1-	*ucekwa	*nieta,nieto	Ese	nieto	osekwa			
+3938	441	*u1-	*ukwa	*sobrino,sobrina	ProTa	sobrino,sobrina	ukwa			
+3939	441	*u1-	*ukwa	*sobrino,sobrina	Tak	sobrino (hijo de hermana de padre)	ukwa			
+3940	441	*u1-	*ukwa	*sobrino,sobrina	Kav	sobrina (la mujer dice)	okwa			
+3941	441	*u1-	*usi	*hermano mayor	ProTa	hermano mayor	usi			
+3942	441	*u1-	*usi	*hermano mayor	Tak	hermano mayor (entre hermanos)	usi			
+3943	441	*u1-	*usi	*hermano mayor	Tak	cuñada (esposa de hermano)	usei-sane			
+3944	441	*u1-	*usi	*hermano mayor	Kav	hermano mayor	e-ʔohi-ki			
+3945	441	*u1-	*usi	*hermano mayor	Kav	cuñada	e-ʔohi-ke-hawane			
+3946	441	*u1-	*u+...	*hermano	ProTa	hermano	u+...			
+3947	441	*u1-	*u+...	*hermano	Tak	sobrina (hija de hermano de padre)	u-nekwa			
+3948	441	*u1-	*u+...	*hermano	Ese	hermano mayor	e-osi		if from *usi, then a borrowing	
+3949	441	*u1-	*u+...	*hermano	Ese	cuñado	e-wapi		< *e-u-api?	
+3950	442	*u2-	*u-	*así	ProTa	así	u-			
+3951	442	*u2-	*u-	*así	Tak	así	u-ha			
+3952	442	*u2-	*u-	*así	Tak	por aquí	u-he			
+3953	442	*u2-	*u-	*así	Tak	este tanto,poco	u-hukwa-čidi			
+3954	442	*u2-	*u-	*así	Tak	esta banda	u-maheme		Is not clear if /u/ has a high pitch diacritic.	
+3955	442	*u2-	*u-	*así	Tak	aquí	u-ia			
+3956	442	*u2-	*u-	*así	Tak	aquí	we			
+3957	442	*u2-	*u-	*así	Tak	mas aquí	we-kwata			
+3958	442	*u2-	*u-	*así	Tak	aquicito no más	we-kitawe		all from *u-e...	
+3959	442	*u2-	*u-	*así	Tak	este tamaño	u-bau			
+3960	442	*u2-	*u-	*así	Tak	corto (en tiempo),etc	u-bu-čidi			
+3961	442	*u2-	*u-	*así	Kav	quizás,tal vez	o-ho			
+3962	442	*u2-	*u-	*así	Kav	quizás,tal vez	ehoʔoho			
+3963	442	*u2-	*u-	*así	Kav	vuelta,otra vez	y-odihidya			
+3964	442	*u2-	*u-	*así	Ese	su	o-haya			
+3965	442	*u2-	*u-	*así	Ese	suyo	o-naha			
+3966	442	*u2-	*u-	*así	Ese	otra vez	o-ʔoya			
+3967	442	*u2-	*u-	*así	Ese	él	o-waya			
+3968	442	*u2-	*u-	*así	Ese	todos,ellos	o-xaña			
+3969	442	*u2-	*u-	*así	Ese	él	o-ya			
+3970	442	*u2-	*u-	*así	Ese	ellos,etc	o-ya-kwana			
+3971	443	*uba	*uba	*espuma	ProTa	espuma	uba			
+3972	443	*uba	*uba	*espuma	Tak	espuma	e-uba			
+3973	443	*uba	*uba	*espuma	Tak	e-ʔuba		Tumupasa dialect	
+3974	443	*uba	*uba	*espuma	Kav	espuma	oba			
+3975	443	*uba	*uba	*espuma	Kav	babear,baba	uba-asa		Armentia	
+3976	443	*uba	*uba	*espuma	Kav	baboso	uba-ʔa-ki		Armentia	
+3977	443	*uba	*uba	*espuma	Kav	espumadera	uba-kemi-ki		Armentia	
+3978	443	*uba	*uba	*espuma	Kav	espumar	uba-suru		Armentia	
+3979	444	*ue-	*ue-	*luz	ProTa	luz	ue-			
+3980	444	*ue-	*ue-	*luz	Tak	luz	weda			
+3981	444	*ue-	*ue-	*luz	Tak	madrugada	we-nawa			
+3982	444	*ue-	*ue-	*luz	Tak	reflejar,relucir	we-we		Armentia	
+3983	444	*ue-	*ue-	*luz	Tak	amanecer,aclarar el día	e-we-da		Armentia	
+3984	444	*ue-	*ue-	*luz	Tak	jovencito	e-we-dakwa		Armentia	
+3985	444	*ue-	*ue-	*luz	Tak	reflejando	e-we-neni		Armentia	
+3986	444	*ue-	*ue-	*luz	Aro	today	uetseñe			
+3987	444	*ue-	*ue-	*luz	Aro	tomorrow	uenau			
+3988	444	*ue-	*ue-	*luz	Kav	alumbrar	o-da-			
+3989	444	*ue-	*ue-	*luz	Kav	luz,vela candela	o-de		Concept 'vela candela' takem fron Armentia	
+3990	444	*ue-	*ue-	*luz	Kav	alba	u-da-u-da		Armentia	
+3991	444	*ue-	*ue-	*luz	Kav	cirio	u-di ebari		Armentia	
+3992	444	*ue-	*ue-	*luz	Kav	día	we-kaka			
+3993	444	*ue-	*ue-	*luz	Kav	aclarar,amanecer	we-kaka-			
+3994	444	*ue-	*ue-	*luz	Kav	brillante	we-ka-da			
+3995	444	*ue-	*ue-	*luz	Kav	de día,con luz	we-ka-da-ke			
+3996	444	*ue-	*ue-	*luz	Kav	hoy día	iyakwa-we-kaka			
+3997	444	*ue-	*ue-	*luz	Kav	fulgor,iluminar	ve-ka		Armentia	
+3998	444	*ue-	*ue-	*luz	Kav	farol	ve-kabaro		Armentia	
+3999	444	*ue-	*ue-	*luz	Kav	reflejar,ilustrar	ve-kaisa		Armentia	
+4000	444	*ue-	*ue-	*luz	Kav	aclarar,esclarecer,fantasía	ve-satana		Armentia	
+4001	444	*ue-	*ue-	*luz	Ese	limpiar	we-ha-			
+4002	444	*ue-	*ue-	*luz	Ese	limpiar (el chaco),carpir	kwea-we-ha-			
+4003	444	*ue-	*ue-	*luz	Ese	asolear	wia-ka-			
+4004	444	*ue-	*ue-	*luz	Ese	limpiar	kea-wio-			
+4005	444	*ue-	*ue-	*luz	Ese	clara (el cielo)	kea-wa			
+4006	445	*ui-	*ui-	*silbar	ProTa	silbar	ui-			
+4007	445	*ui-	*ui-	*silbar	Tak	silbar	we			
+4008	445	*ui-	*ui-	*silbar	Kav	silbar	owi			
+4009	445	*ui-	*ui-	*silbar	War	silbar	uoi-			
+4010	445	*ui-	*ui-	*silbar	War	silbador	uoi-hinei			
+4011	446	*umasa	*umasa	*tabaco	ProTa	tabaco	umasa			
+4012	446	*umasa	*umasa	*tabaco	Tak	tabaco	umasa			
+4013	446	*umasa	*umasa	*tabaco	Tak	fumar	umasa-pu		Armentia	
+4014	446	*umasa	*umasa	*tabaco	Rey	tobacco	madha			
+4015	446	*umasa	*umasa	*tabaco	Mar	tobacco	umaθa		Heath	
+4016	446	*umasa	*umasa	*tabaco	Kav	tabaco	omaha			
+4017	446	*umasa	*umasa	*tabaco	Kav	fumar	omaha-ho-			
+4018	446	*umasa	*umasa	*tabaco	Kav	luciérnaga	omaha porari			
+4019	447	*umeře	*umeře	*marfil (palmera)	ProTa	marfil (palmera)	umeře			
+4020	447	*umeře	*umeře	*marfil (palmera)	Tak	marfil (palmera)	umere			
+4021	447	*umeře	*umeře	*marfil (palmera)	Ese	marfil	ome			
+4022	448	*u(te)	*u(te)	*caerse	ProTa	caerse	u(te)			
+4023	448	*u(te)	*u(te)	*caerse	Tak	caerse	-ute,-u		cf. tia-ute-ke 'démelo de arriba', ani-ute- 'sentar, ani-u-da 'asiento' | cf. *bute, for root	
+4024	448	*u(te)	*u(te)	*caerse	Ese	caerse	oke-			
+4025	448	*u(te)	*u(te)	*caerse	Ese	lo bajar	hea-oke-			
+4026	448	*u(te)	*u(te)	*caerse	Ese	sentar	ani-oke-			
+4027	448	*u(te)	*u(te)	*caerse	Ese	bajarlo	neke-oke-a-			
+4028	448	*u(te)	*u(te)	*caerse	War	caer	ote-ti-			
+4029	448	*u(te)	*u(te)	*caerse	War	bajar	oté-yo-			
+4030	448	*u(te)	*u(te)	*caerse	Ara	fall	otekiani			
+4031	449	*umija	*umija	*sardina	ProTa	sardina	umija			
+4032	449	*umija	*umija	*sardina	Tak	mamoré (pez)	umiřa-pa			
+4033	449	*umija	*umija	*sardina	Kav	sardina	omiha			
+4034	450	*uwa	*uwa	*tierra	ProTa	tierra	uwa		cf. *awa, *wuyu	
+4035	450	*uwa	*uwa	*tierra	Rey	earth	e-owa			
+4036	450	*uwa	*uwa	*tierra	Mar	tierra	eugua		Cardús	
+4037	450	*uwa	*uwa	*tierra	Aro	tierra	eua			
+4038	450	*uwa	*uwa	*tierra	Kav	terreno	owa			
+4039	450	*uwa	*uwa	*tierra	Kav	ampisi (boa) de tierra	owa-bakwa			
+4040	450	*uwa	*uwa	*tierra	Kav	loma,cerro	owa-kwemoso			
+4041	450	*uwa	*uwa	*tierra	Kav	cueva	uwa-kani		Armentia	
+4042	450	*uwa	*uwa	*tierra	Kav	sembrar	owa-			
+4043	450	*uwa	*uwa	*tierra	Kav	sembrador	owa-owa-pohi			
+4044	450	*uwa	*uwa	*tierra	Kav	sembrar	kowati	< *ka-owa-ti-		
+4045	450	*uwa	*uwa	*tierra	Ese	enterrar	owa-hea-			
+4046	450	*uwa	*uwa	*tierra	Ese	barro	wa-šapa			
+4047	450	*uwa	*uwa	*tierra	Ese	fangoso	kea-wa-wa			
+4048	451	*uwi	*uwi	*agua	ProTa	agua	uwi		cf. *awi	
+4049	451	*uwi	*uwi	*agua	Tak	agua	y-awi			
+4050	451	*uwi	*uwi	*agua	Tak	ralo,como agua	y-awi-y-awi			
+4051	451	*uwi	*uwi	*agua	Mar	water	yúvi		Heath/Nordenskiöld	
+4052	451	*uwi	*uwi	*agua	Sap	acqua	eubi			
+4053	451	*uwi	*uwi	*agua	Sap	lago	eubi-hûre			
+4054	451	*uwi	*uwi	*agua	Aro	agua	euvi			
+4055	451	*uwi	*uwi	*agua	Rey	water	y-obhi			
+4056	451	*uwi	*uwi	*agua	Mab	water	eowi			
+4057	452	*wa-	*wa-	*mezclar	ProTa	mezclar	wa-			
+4058	452	*wa-	*wa-	*mezclar	Tak	mezclado	wa-ru-wa-ru			
+4059	452	*wa-	*wa-	*mezclar	Tak	batar,removar	wa-ru-			
+4060	452	*wa-	*wa-	*mezclar	Tak	remover	wa-ru-ura-			
+4061	452	*wa-	*wa-	*mezclar	Ese	mezclar	wa-			
+4062	453	*wabu(ru)	*wabu(ru)	*chanco de tropa	ProTa	chanco de tropa	wabu(ru)			
+4063	453	*wabu(ru)	*wabu(ru)	*chanco de tropa	Tak	chanco de tropa	wabu			
+4064	453	*wabu(ru)	*wabu(ru)	*chanco de tropa	Tak	taitetú	wabu-kere			
+4065	453	*wabu(ru)	*wabu(ru)	*chanco de tropa	Mar	cobaye	huambušápi			
+4066	453	*wabu(ru)	*wabu(ru)	*chanco de tropa	Mab	wangana	wabu			
+4067	453	*wabu(ru)	*wabu(ru)	*chanco de tropa	Mab	peccary	wabathama			
+4068	453	*wabu(ru)	*wabu(ru)	*chanco de tropa	Kav	chanco de tropa	waboro			
+4069	453	*wabu(ru)	*wabu(ru)	*chanco de tropa	Kav	taitetú	waborasa			
+4070	453	*wabu(ru)	*wabu(ru)	*chanco de tropa	Ese	white-lipped peccary	waxa		cognate?	
+4071	453	*wabu(ru)	*wabu(ru)	*chanco de tropa	Ese	chancho	wo		cognate?	
+4072	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	ProTa	pié	wac̣i ~ wazi			
+4073	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Tak	pié,rastro,pisada	e-waci		Concepts 'rastro,pisada' taken from Armentia	
+4074	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Tak	talon	e-waci tiadi		Armentia	
+4075	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Tak	uña del pié	e-waci metidi		Armentia	
+4076	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Rey	foot	e-waci			
+4077	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Mar	foot	éhuotsi		Nordenskiöld	
+4078	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Mar	foot	evatri		Heath	
+4079	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Sap	foot	ebbachi			
+4080	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Aro	pié	euatsi			
+4081	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Mab	foot	iwatsi			
+4082	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Kav	pié,pata (de animal)	e-wači			
+4083	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Kav	cienpiés	wači-wači-ke			
+4084	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Kav	pata (de mueblos)	e-wasi		Latter forms apparently from *e-wazi	
+4085	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Kav	espinilla	e-wasi-mere		Latter forms apparently from *e-wazi	
+4086	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Ese	pié	e-wasi			
+4087	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Ese	dedo gran del pié	e-wasi-ai-ai			
+4088	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Ese	uña (del pié?)	e-wa-kiši			
+4089	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	War	uña	e-wa-tisi			
+4090	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Ara	toenail	e-huatise			
+4091	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Ara	toe	ehäuši-sisi			
+4092	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Ara	foot	ehäuši			
+4093	455	*wac̣i	*wac̣i	*sabañon	ProTa	sabañon	wac̣i			
+4094	455	*wac̣i	*wac̣i	*sabañon	Tak	sabañon	waci-hařa			
+4095	455	*wac̣i	*wac̣i	*sabañon	Kav	sabañon	wači-bihi			
+4096	456	*wai	*wai	*chico	ProTa	chico	wai			
+4097	456	*wai	*wai	*chico	Tak	chico,pequeño	wai-čidi			
+4098	456	*wai	*wai	*chico	Kav	joven,maltón,mocedad	e-wee-bari		Concept 'mocedad' taken from Armentia	
+4099	456	*wai	*wai	*chico	Kav	cachorro	e-ve		Armentia	
+4100	457	*wa(ʔ)i	*wa(ʔ)i	*paloma	ProTa	paloma	wa(ʔ)i			
+4101	457	*wa(ʔ)i	*wa(ʔ)i	*paloma	Tak	especie de paloma	wai-tuku			
+4102	457	*wa(ʔ)i	*wa(ʔ)i	*paloma	Kav	paloma	wei ~ weʔi			
+4103	457	*wa(ʔ)i	*wa(ʔ)i	*paloma	Ese	paloma	waʔy-oxo			
+4104	457	*wa(ʔ)i	*wa(ʔ)i	*paloma	Ese	paloma	weá			
+4105	457	*wa(ʔ)i	*wa(ʔ)i	*paloma	War	paloma	kwei-beʔi			
+4106	458	*wakuru	*wakuru	*conejo	ProTa	conejo	wakuru			
+4107	458	*wakuru	*wakuru	*conejo	Tak	conejo	wahu			
+4108	458	*wakuru	*wakuru	*conejo	Kav	conejo	wakuro		Armentia	
+4109	459	*wana	*wana	*poner	ProTa	poner	wana			
+4110	459	*wana	*wana	*poner	Tak	tender,poner,dejer	wana-			
+4111	459	*wana	*wana	*poner	Tak	matar (pegando)	iče-wana-			
+4112	459	*wana	*wana	*poner	Kav	poner,huir	wana-			
+4113	459	*wana	*wana	*poner	Ese	guardar	wwana-			
+4114	459	*wana	*wana	*poner	Ese	guardar adentro	wana-dobe-a-			
+4115	459	*wana	*wana	*poner	Ese	echar abajo	wana-oke-a-			
+4116	459	*wana	*wana	*poner	Ese	guardar arriba	wana-sowa-			
+4117	459	*wana	*wana	*poner	Ese	colgar	baʔe-wana-sowa-			
+4118	459	*wana	*wana	*poner	War	poner	wana-			
+4119	460	*wane	*wane	*mujer	ProTa	mujer	wane		cf. *awe	
+4120	460	*wane	*wane	*mujer	Tak	esposa	e-wane			
+4121	460	*wane	*wane	*mujer	Tak	suegra	e-wane-sa kwara			
+4122	460	*wane	*wane	*mujer	Tak	suegro	e-wane-sa tata			
+4123	460	*wane	*wane	*mujer	Tak	soltero	wane-mawe			
+4124	460	*wane	*wane	*mujer	Tak	concuñado	wane-pai			
+4125	460	*wane	*wane	*mujer	Tak	casar (hombres)	ha-wane-ti-			
+4126	460	*wane	*wane	*mujer	Tak	nuera	e-bakwasane	< *e-bakwa-sa-wane		
+4127	460	*wane	*wane	*mujer	Rey	wife	-wane			
+4128	460	*wane	*wane	*mujer	Mar	my wife	ki-evane		Heath	
+4129	460	*wane	*wane	*mujer	Kav	esposa	e-wane-ke			
+4130	460	*wane	*wane	*mujer	Kav	viudo	e-wane-maho-ke			
+4131	460	*wane	*wane	*mujer	Kav	suegra	e-wane-ke ekwake			
+4132	460	*wane	*wane	*mujer	Kav	suegro	e-wane-ke			
+4133	460	*wane	*wane	*mujer	Kav	novia	e-wane-ke hoyake			
+4134	460	*wane	*wane	*mujer	Kav	nuera	e-bakwa-ke-ha-wane			
+4135	460	*wane	*wane	*mujer	Kav	mujer	wane			
+4136	460	*wane	*wane	*mujer	Kav	soltero	wane-ma			
+4137	460	*wane	*wane	*mujer	Kav	concuñada	wane-peya			
+4138	460	*wane	*wane	*mujer	Ese	wife	e-wanase			
+4139	460	*wane	*wane	*mujer	Ese	casar (hombres)	xa-wana-ki-			
+4140	460	*wane	*wane	*mujer	War	soltero	wanásema			
+4141	460	*wane	*wane	*mujer	War	casarse	wana-(ti-)			
+4142	460	*wane	*wane	*mujer	Čam	woman	e-gwanási			
+4143	461	*wani	*wani	*humo	ProTa	humo	wani			
+4144	461	*wani	*wani	*humo	Tak	oler	wani-ba-ke			
+4145	461	*wani	*wani	*humo	Tak	hediondo,mal odor	wani-da			
+4146	461	*wani	*wani	*humo	Sap	odoroso	guanipuime			
+4147	461	*wani	*wani	*humo	Kav	humo,nube	wani-			
+4148	461	*wani	*wani	*humo	Kav	olor	wani-da			
+4149	461	*wani	*wani	*humo	Kav	desahumar	wani-kwina-nasa		Armentia	
+4150	461	*wani	*wani	*humo	Kav	humear	wani-iru		Armentia	
+4151	461	*wani	*wani	*humo	Kav	hollin	wani-hi-didi		Armentia	
+4152	461	*wani	*wani	*humo	Kav	entiznar	wani-sididia		Armentia	
+4153	461	*wani	*wani	*humo	Ara	dirty	kihevene		cognate?	
+4154	462	*wanu	*wanu	*abejo	ProTa	abejo	wanu			
+4155	462	*wanu	*wanu	*abejo	Tak	erereú (abeja)	wanu-wanu			
+4156	462	*wanu	*wanu	*abejo	Kav	abejo	wano-wano			
+4157	463	*wap{a/e}	*wap{a/e}	*algodón	ProTa	algodón	wap{a/e}			
+4158	463	*wap{a/e}	*wap{a/e}	*algodón	Tak	blando,esponjado	wapa-wapa			
+4159	463	*wap{a/e}	*wap{a/e}	*algodón	Tak	algodón	wape-se			
+4160	463	*wap{a/e}	*wap{a/e}	*algodón	Rey	cotton	wapedhe			
+4161	463	*wap{a/e}	*wap{a/e}	*algodón	Kav	algodón	wape-he			
+4162	463	*wap{a/e}	*wap{a/e}	*algodón	Ese	espuma,otro	wapa			
+4163	463	*wap{a/e}	*wap{a/e}	*algodón	Ese	algodón	wape-he			
+4164	463	*wap{a/e}	*wap{a/e}	*algodón	Ese	espumar	wapa-			
+4165	463	*wap{a/e}	*wap{a/e}	*algodón	Ara	cotton	wapéhe			
+4166	464	*w{a/e}pe(e)	*w{a/e}pe(e)	*palizado	ProTa	palizado	w{a/e}pe(e)			
+4167	464	*w{a/e}pe(e)	*w{a/e}pe(e)	*palizado	Tak	palizado (palos montados en río)	wape			
+4168	464	*w{a/e}pe(e)	*w{a/e}pe(e)	*palizado	Ese	palizado	wepee			
+4169	464	*w{a/e}pe(e)	*w{a/e}pe(e)	*palizado	War	palizado	wepé			
+4170	465	*waraka	*waraka	*huaracachi (ave)	ProTa	huaracachi (ave)	waraka			
+4171	465	*waraka	*waraka	*huaracachi (ave)	Kav	huaracachi (ave)	waraka			
+4172	465	*waraka	*waraka	*huaracachi (ave)	Ese	huaracachi	waʔaxa			
+4173	466	*wari	*wari	*toco	ProTa	toco	wari			
+4174	466	*wari	*wari	*toco	Tak	asiento,toco	wai			
+4175	466	*wari	*wari	*toco	Kav	toco,banco	wari			
+4176	467	*wařa...	*wařa...	*autoridad	ProTa	autoridad	wařa...		loan?	
+4177	467	*wařa...	*wařa...	*autoridad	Tak	autoridad	wara(h)i			
+4178	467	*wařa...	*wařa...	*autoridad	Kav	cacique,jefe	warahi			
+4179	467	*wařa...	*wařa...	*autoridad	Kav	autoridad	warahi-kwana			
+4180	467	*wařa...	*wařa...	*autoridad	Ara	chief	huayri			
+4181	468	*wasa	*wasa	*abeja,miel	ProTa	abeja,miel	wasa			
+4182	468	*wasa	*wasa	*abeja,miel	Tak	abeja
+4183	468	*wasa	*wasa	*abeja,miel	Tak	abeja de la tierra	y-awa-wasa			
+4184	468	*wasa	*wasa	*abeja,miel	Tak	miel	wasa ena			
+4185	468	*wasa	*wasa	*abeja,miel	Rey	bee,honey	wadha			
+4186	468	*wasa	*wasa	*abeja,miel	Sap	miele	uvazaena			
+4187	468	*wasa	*wasa	*abeja,miel	Kav	miel de abeja	waha			
+4188	468	*wasa	*wasa	*abeja,miel	Kav	chamayro (bejuco)	waha-kono			
+4189	468	*wasa	*wasa	*abeja,miel	Kav	dulce	waha-da			
+4190	468	*wasa	*wasa	*abeja,miel	Kav	dulce,jane (pulpa)	waha-da-ke			
+4191	468	*wasa	*wasa	*abeja,miel	Kav	clase de abeja	atata-waha			
+4192	468	*wasa	*wasa	*abeja,miel	Kav	enjambre	waha-tare		Armentia	
+4193	469	*wawa	*wawa	*rana	ProTa	rana	wawa			
+4194	469	*wawa	*wawa	*rana	Tak	especie de rana	wawa			
+4195	469	*wawa	*wawa	*rana	Kav	rana	wawa			
+4196	469	*wawa	*wawa	*rana	Kav	clase de víbora, salamanqueja	wawa-bakwa		Concept 'salamanqueja' taken from Armentia	
+4197	470	*weruru	*weruru	*sudor,sudar	ProTa	sudor,sudar	weruru			
+4198	470	*weruru	*weruru	*sudor,sudar	Tak	sudor	weu			
+4199	470	*weruru	*weruru	*sudor,sudar	Tak	sudar	weu-			
+4200	470	*weruru	*weruru	*sudor,sudar	Kav	sudar	weroro-			
+4201	471	*we(ře)weře	*we(ře)weře	*mosca	ProTa	mosca	we(ře)weře			
+4202	471	*we(ře)weře	*we(ře)weře	*mosca	Tak	mosca	vere-vere			
+4203	471	*we(ře)weře	*we(ře)weře	*mosca	Mar	fly	bebi		Heath	
+4204	471	*we(ře)weře	*we(ře)weře	*mosca	Kav	mosca	he-wewero			
+4205	471	*we(ře)weře	*we(ře)weře	*mosca	Kav	queresa	he-wewero-ka			
+4206	472	*wi	*wi	*nariz	ProTa	nariz	wi			
+4207	472	*wi	*wi	*nariz	Tak	nariz	e-wi			
+4208	472	*wi	*wi	*nariz	Tak	ventana de nariz	e-wi-ana rara			
+4209	472	*wi	*wi	*nariz	Tak	águila	wi-pa			
+4210	472	*wi	*wi	*nariz	Tak	punta	e-wi-ce-ki			
+4211	472	*wi	*wi	*nariz	Tak	puntiagudo	wi-ce-ki-hi			
+4212	472	*wi	*wi	*nariz	Tak	bien delgado	wi-ri-wi-ri			
+4213	472	*wi	*wi	*nariz	Tak	adelante	e-wi-su			
+4214	472	*wi	*wi	*nariz	Tak	ñato	wi-pača			
+4215	472	*wi	*wi	*nariz	Tak	lorito con pico blanco	wi-pasa			
+4216	472	*wi	*wi	*nariz	Tak	huiñapu (una chicha fuerte hecho de maíz)	e-wi-rata		cognate?	
+4217	472	*wi	*wi	*nariz	Rey	nose	e-bhi			
+4218	472	*wi	*wi	*nariz	Mar	nose	evi		Heath	
+4219	472	*wi	*wi	*nariz	Sap	nose	evi			
+4220	472	*wi	*wi	*nariz	Mab	nose	awi			
+4221	472	*wi	*wi	*nariz	Kav	nariz	e-wi			
+4222	472	*wi	*wi	*nariz	Kav	ventana de nariz	e-wi-kani			
+4223	472	*wi	*wi	*nariz	Kav	punta (de flecha)	e-wi-kwabo			
+4224	472	*wi	*wi	*nariz	Kav	mutún (ave)	wi-tisi			
+4225	472	*wi	*wi	*nariz	Kav	chuhubí,gavilón (ave de rapina)	wi-wi-pa			
+4226	472	*wi	*wi	*nariz	Kav	punta de lengua	y-ano-wi-to			
+4227	472	*wi	*wi	*nariz	Kav	punta	wi-to			
+4228	472	*wi	*wi	*nariz	Kav	puntiagudo	wi-to-kwero-da			
+4229	472	*wi	*wi	*nariz	Kav	anzuelo	wi-ko			
+4230	472	*wi	*wi	*nariz	Kav	pescar	wi-ka-motya-ho-			
+4231	472	*wi	*wi	*nariz	Kav	pita,cordel	wi-ka-oho			
+4232	472	*wi	*wi	*nariz	Kav	crecer,nacer (planta),retoñar	wi-ha-		cognate?	
+4233	472	*wi	*wi	*nariz	Ese	nariz,mutún	e-wi			
+4234	472	*wi	*wi	*nariz	Ese	águila	i-wi-wi-pa			
+4235	472	*wi	*wi	*nariz	Ese	cavar (la punta)	wi-pexa			
+4236	472	*wi	*wi	*nariz	Ese	hachear (la punta)	wi-haha-			
+4237	472	*wi	*wi	*nariz	Ese	cresta	e-wí-biase			
+4238	472	*wi	*wi	*nariz	Ese	bigote	e-wi-ha-makoña			
+4239	472	*wi	*wi	*nariz	Ese	zambullearse	wiina-			
+4240	472	*wi	*wi	*nariz	Ese	anguila	wio-ai			
+4241	472	*wi	*wi	*nariz	Ese	tojo	wi-pokwa			
+4242	472	*wi	*wi	*nariz	Ese	clase de palometa	wi-mohe			
+4243	472	*wi	*wi	*nariz	Ese	pez: pintado	wi-pisi			
+4244	472	*wi	*wi	*nariz	Ese	clase de palometa	wi-saʔao			
+4245	472	*wi	*wi	*nariz	Ese	jochi colorado	wi-sene			
+4246	472	*wi	*wi	*nariz	Ese	tejón	wi-soso			
+4247	472	*wi	*wi	*nariz	Ese	mono silbador	wi-soxe			
+4248	472	*wi	*wi	*nariz	Ese	pataju	wi-šaha			
+4249	472	*wi	*wi	*nariz	Ese	tachacá (pez)	wi-xaxixi			
+4250	472	*wi	*wi	*nariz	Ara	nose	ähui			
+4251	472	*wi	*wi	*nariz	Ara	pauxi	éwui			
+4252	473	*widi-	*widi-	*ahogar	ProTa	ahogar	widi-			
+4253	473	*widi-	*widi-	*ahogar	Tak	ahogar	widi-			
+4254	473	*widi-	*widi-	*ahogar	Kav	ahogar	widi-			
+4255	473	*widi-	*widi-	*ahogar	Ese	ahogar	wii-			
+4256	474	*wika	*wika	*desnudar,sacar,destejar	ProTa	desnudar,sacar,destejar	wika			
+4257	474	*wika	*wika	*desnudar,sacar,destejar	Tak	desnudar,sacar	wiha-			
+4258	474	*wika	*wika	*desnudar,sacar,destejar	Tak	desnudo	ha-wiha-ti			
+4259	474	*wika	*wika	*desnudar,sacar,destejar	Tak	sacarse (ropa),desnudarse	ha-wiha-ti-			
+4260	474	*wika	*wika	*desnudar,sacar,destejar	Kav	destejar,destramer,desdorar,despojar	wika		Armentia	
+4261	474	*wika	*wika	*desnudar,sacar,destejar	Kav	verga	vika-dada		Armentia	
+4262	475	*wina	*wina	*frío	ProTa	frío	wina			
+4263	475	*wina	*wina	*frío	Tak	frío,fresco	wina-da			
+4264	475	*wina	*wina	*frío	Tak	refrescar	wina-na-			
+4265	475	*wina	*wina	*frío	Tak	helado	vina-da-hi		Armentia	
+4266	475	*wina	*wina	*frío	Rey	cold	bhina-me			
+4267	475	*wina	*wina	*frío	Mar	cold	vinnáma		Heath	
+4268	475	*wina	*wina	*frío	War	cold	kia-webe			
+4269	475	*wina	*wina	*frío	War	not cold	wé-ama			
+4270	475	*wina	*wina	*frío	War	cold	kia-wewe			
+4271	475	*wina	*wina	*frío	Ara	cold	kiwuene		cognates?	
+4272	476	*wini	*wini	*cera	ProTa	cera	wini			
+4273	476	*wini	*wini	*cera	Tak	cera	wini			
+4274	476	*wini	*wini	*cera	Kav	cera	wini			
+4275	476	*wini	*wini	*cera	Kav	descerar	vini-peta		Armentia	
+4276	476	*wini	*wini	*cera	Ese	abeja,miel de abeja	wini			
+4277	476	*wini	*wini	*cera	Čam	bee	wíni			
+4278	476	*wini	*wini	*cera	Ara	wax	huenita			
+4279	477	*wira	*wira	*orina	ProTa	orina	wira			
+4280	477	*wira	*wira	*orina	Tak	orina	wia			
+4281	477	*wira	*wira	*orina	Tak	orinar	wia-			
+4282	477	*wira	*wira	*orina	Mar	urinate	biya			
+4283	477	*wira	*wira	*orina	Kav	desbeber,orinar,orina	vira		Armentia	
+4284	477	*wira	*wira	*orina	Ese	orinar	wía-			
+4285	477	*wira	*wira	*orina	War	orinar,mear	wia-			
+4286	478	*wiřiři	*wiřiři	*perdiz chica	ProTa	perdiz chica	wiřiři			
+4287	478	*wiřiři	*wiřiři	*perdiz chica	Tak	perdiz chica	viriri			
+4288	478	*wiřiři	*wiřiři	*perdiz chica	Kav	perdecito	wiriri			
+4289	479	*wu1-	*wu-	*soplar	ProTa	soplar	wu-			
+4290	479	*wu1-	*wu-	*soplar	Tak	soplar	hu-			
+4291	479	*wu1-	*wu-	*soplar	Tak	fuerte (río,vento)	hu-bi-da			
+4292	479	*wu1-	*wu-	*soplar	Tak	abocar	hu-bu-			
+4293	479	*wu1-	*wu-	*soplar	Tak	mejilla	e-hu-bu-mei			
+4294	479	*wu1-	*wu-	*soplar	Tak	humo	hu-du			
+4295	479	*wu1-	*wu-	*soplar	Tak	neblina	hu-du padha			
+4296	479	*wu1-	*wu-	*soplar	Tak	niebla,nublado	hu-du-hi		Armentia	
+4297	479	*wu1-	*wu-	*soplar	Tak	vapor	hu-saca		Armentia	
+4298	479	*wu1-	*wu-	*soplar	Rey	smoke	wo-ndzo			
+4299	479	*wu1-	*wu-	*soplar	Kav	soplar	ho-ha-			
+4300	479	*wu1-	*wu-	*soplar	Ese	neblina	wo-habo			
+4301	479	*wu1-	*wu-	*soplar	Ese	soplar	wo-ha-			
+4302	480	*wu2-	*wu-	*vestir	ProTa	vestir	wu-			
+4303	480	*wu2-	*wu-	*vestir	Tak	vestido,ropa,tela	e-hu-řui			
+4304	480	*wu2-	*wu-	*vestir	Tak	vestelo a ese	hu-du-ke-hi-da		Armentia	
+4305	480	*wu2-	*wu-	*vestir	Tak	vestida	e-hu-du-hi		Armentia	
+4306	480	*wu2-	*wu-	*vestir	Kav	ropa,tela	e-ho-to-ki			
+4307	480	*wu2-	*wu-	*vestir	Kav	vestir	ka-ho-to-ti-			
+4308	480	*wu2-	*wu-	*vestir	Kav	enlazar,vestir o arreglar a otro	ho-to-			
+4309	480	*wu2-	*wu-	*vestir	Ese	vestirse	woʔišo-			
+4310	480	*wu2-	*wu-	*vestir	War	vístete	yoshokue			
+4311	480	*wu2-	*wu-	*vestir	War	no se ha vestido	yoshójima			
+4312	481	*wu3-	*wu-	*espiga,cogollo	ProTa	espiga,cogollo	wu-			
+4313	481	*wu3-	*wu-	*espiga,cogollo	Tak	espiga	e-hu			
+4314	481	*wu3-	*wu-	*espiga,cogollo	Tak	tola de palmeras,papa de plátano,cogollo	e-hu-bu		Concept 'cogollo' taken from Armentia	
+4315	481	*wu3-	*wu-	*espiga,cogollo	Ese	cogollo	e-yo-bo			
+4316	482	*wuř{a/u}	*wuř{a/u}	*colorear	ProTa	colorear	wuř{a/u}			
+4317	482	*wuř{a/u}	*wuř{a/u}	*colorear	Tak	pintado de colorado y blanmco	hura-hura		Armentia	
+4318	482	*wuř{a/u}	*wuř{a/u}	*colorear	Kav	pintado,rayado	horo-horo			
+4319	482	*wuř{a/u}	*wuř{a/u}	*colorear	Ese	colorear	woʔo-			
+4320	482	*wuř{a/u}	*wuř{a/u}	*colorear	Ese	colorado	kea-woʔo			
+4321	483	*wuyu	*wuyu	*plantar,clavar	ProTa	plantar,clavar	wuyu		cf. *uwa	
+4322	483	*wuyu	*wuyu	*plantar,clavar	Tak	plantar,clavar	huču-			
+4323	483	*wuyu	*wuyu	*plantar,clavar	Tak	fangoso	huču-huču			
+4324	483	*wuyu	*wuyu	*plantar,clavar	Rey	dirt	wočo-wočo			
+4325	483	*wuyu	*wuyu	*plantar,clavar	Kav	fangoso	oyo-da			
+4326	483	*wuyu	*wuyu	*plantar,clavar	Kav	barro,lodo	oyo-oyo			
+4327	484	*yaʔa	*yaʔa	*rama,gajo	ProTa	rama,gajo	yaʔa			
+4328	484	*yaʔa	*yaʔa	*rama,gajo	Tak	rama,gajo	e-ča			
+4329	484	*yaʔa	*yaʔa	*rama,gajo	Tak	con rama y todo	e-ča-na		Armentia	
+4330	484	*yaʔa	*yaʔa	*rama,gajo	Kav	gajo,rama	yaʔa			
+4331	484	*yaʔa	*yaʔa	*rama,gajo	Kav	pucarara (víbora)	yaʔa-bakwa			
+4332	484	*yaʔa	*yaʔa	*rama,gajo	Kav	lagarto	yaʔa-matoha			
+4333	484	*yaʔa	*yaʔa	*rama,gajo	Kav	ala	yaha-pára		yaʔa?	
+4334	484	*yaʔa	*yaʔa	*rama,gajo	Ese	brazo,gajo	e-yaa			
+4335	484	*yaʔa	*yaʔa	*rama,gajo	Ese	vello del brazo	yaña	< *yaʔa+ina		
+4336	484	*yaʔa	*yaʔa	*rama,gajo	Ese	muslo del brazo	ya-xaxa-wa			
+4337	484	*yaʔa	*yaʔa	*rama,gajo	Ese	avión	e-ya-xi-poxi			
+4338	484	*yaʔa	*yaʔa	*rama,gajo	War	rama	eʔá			
+4339	484	*yaʔa	*yaʔa	*rama,gajo	Čam	arm	iá			
+4340	484	*yaʔa	*yaʔa	*rama,gajo	Čam	human arm	eyá			
+4341	484	*yaʔa	*yaʔa	*rama,gajo	Ara	arm	éa			
+4342
