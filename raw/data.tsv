@@ -560,7 +560,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 567	37	*badi	*badi	*luna	Čam	moon	/mái/			
 568	38	*badu-1	*badu-	*desidia	ProTa	desidia	badu-			
 569	38	*badu-1	*badu-	*desidia	Tak	impertinente,molesto	badu-ha-da		Armentia	
-570	38	*badu-1	*badu-	*desidia	Tak	aburrirse	ha-badu-ha-ti	Armentia	
+570	38	*badu-1	*badu-	*desidia	Tak	aburrirse	ha-badu-ha-ti		Armentia	
 571	38	*badu-1	*badu-	*desidia	Kav	desidia	badu-da		Armentia	
 572	38	*badu-1	*badu-	*desidia	Kav	desidioso	badu-da aki		Armentia	
 573	38	*badu-1	*badu-	*desidia	Kav	gorronazo	hua-ki		Armentia	
@@ -702,7 +702,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 678	54	*be3-	*beca	*nadar	Tak	a nado	beca-hi		Armentia	
 679	54	*be3-	*beca	*nadar	Kav	nadar	beca-			
 680	54	*be3-	*beca	*nadar	Ese	bañarse	besa-			
-681	54	*be3-	*beca	*nadar	Ese	cruzar (el río)		besa-poki-			
+681	54	*be3-	*beca	*nadar	Ese	cruzar (el río)	besa-poki-			
 682	54	*be3-	*beca	*nadar	War	bañarse	besa-			
 683	55	*bea-	*beake	*encima	ProTa	encima	beake			
 684	55	*bea-	*beake	*encima	Tak	por encima,montado	e-bia-he			
@@ -986,7 +986,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 963	86	*busu	*busu	*pus,materia	Kav	disentería	ami-boho			
 964	86	*busu	*busu	*pus,materia	Kav	apostema	buhu-cu		Armentia	
 965	86	*busu	*busu	*pus,materia	War	pus	boho			
-966	87	*bu(w)e(i)	*bu(w)e(i)	*chuchio,charo,caña brava	ProTa	chuchio,charo,caña brava	bu(w)e(i)		There is uncertainty regarding the protoform on the ID in the source		
+966	87	*bu(w)e(i)	*bu(w)e(i)	*chuchio,charo,caña brava	ProTa	chuchio,charo,caña brava	bu(w)e(i)		There is uncertainty regarding the protoform on the ID in the source	
 967	87	*bu(w)e(i)	*bu(w)e(i)	*chuchio,charo,caña brava	Tak	chuchio,charo,caña brava	bue			
 968	87	*bu(w)e(i)	*bu(w)e(i)	*chuchio,charo,caña brava	Rey	cane	bobhe			
 969	87	*bu(w)e(i)	*bu(w)e(i)	*chuchio,charo,caña brava	Kav	caña	bue		Armentia	
@@ -2089,7 +2089,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 2076	205	*kana1	*kana	*descansar	Tak	agitado	hana-tahi-hi		Armentia	
 2077	205	*kana1	*kana	*descansar	Kav	descansar,reposar	kana-hara-		Concept 'reposar' taken from Armentia	
 2078	205	*kana1	*kana	*descansar	Kav	palpitar,aspirar	kana-kana-			
-2079	205	*kana1	*kana	*descansar	Kav	aire,vapor,cansado,hálito,regüeldo	kana	Concepts 'cansado,hálito,regüeldo' taken from Armentia	
+2079	205	*kana1	*kana	*descansar	Kav	aire,vapor,cansado,hálito,regüeldo	kana		Concepts 'cansado,hálito,regüeldo' taken from Armentia	
 2080	205	*kana1	*kana	*descansar	Kav	agitación,boquear,jadear,respiración,vida,vivir,vivo	kana-he-ti		Armentia	
 2081	205	*kana1	*kana	*descansar	Kav	infatigable	kana-ma		Armentia	
 2082	205	*kana1	*kana	*descansar	Kav	fatiga,fatigar	kana-tere		Armentia	
@@ -2193,7 +2193,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 2180	220	*ku-	*ku-	*tío	Tak	tía (esposa de tío)	hu-sane			
 2181	220	*ku-	*ku-	*tío	Aro	tío	juju			
 2182	220	*ku-	*ku-	*tío	Kav	tío	e-ko-ko			
-2183	220	*ku-	*ku-	*tío	Kav	esposa del tío	e-koko-kehawane	*e-koko-ke-sa-wane	
+2183	220	*ku-	*ku-	*tío	Kav	esposa del tío	e-koko-kehawane	*e-koko-ke-sa-wane		
 2184	220	*ku-	*ku-	*tío	Ese	hermana mayor	xoʔi			
 2185	221	*kucu	*kucu	*campanillo (wild turkey)	ProTa	campanillo (wild turkey)	kucu			
 2186	221	*kucu	*kucu	*campanillo (wild turkey)	Rey	campanillo	hoco			
@@ -2249,7 +2249,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 2236	228	*kwa2-	*kwa-	*madre	Tak	madre	kwa-ra			
 2237	228	*kwa2-	*kwa-	*madre	Tak	madrastra,madrina,patrona	kwa-ra-pu(h)i		Concept 'patrona' taken from Armentia	
 2238	228	*kwa2-	*kwa-	*madre	Tak	tía por madre (hermana de madre)	kwa-ibe			
-2239	228	*kwa2-	*kwa-	*madre	Rey	madre	-koʔa		?kẃaʔa			
+2239	228	*kwa2-	*kwa-	*madre	Rey	madre	-koʔa		?kẃaʔa	
 2240	228	*kwa2-	*kwa-	*madre	Mar	my mother	kikua		Heath	
 2241	228	*kwa2-	*kwa-	*madre	Mar	mother	kúá		Nordenskiöld	
 2242	228	*kwa2-	*kwa-	*madre	Was	mother	equay,cua			
@@ -2339,7 +2339,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 2326	232	*kwac̣a	*kwac̣a	*boca	Kav	orillar	kwaca-hu		Armentia	
 2327	232	*kwac̣a	*kwac̣a	*boca	Kav	embozar	kwaca-tumu		Armentia	
 2328	232	*kwac̣a	*kwac̣a	*boca	Ese	labios	e-kwasa			
-2329	232	*kwac̣a	*kwac̣a	*boca	Ese	crecer la barba	kwaša-		š < ?
+2329	232	*kwac̣a	*kwac̣a	*boca	Ese	crecer la barba	kwaša-		š < ?	
 2330	232	*kwac̣a	*kwac̣a	*boca	War	labio	e-kwasa			
 2331	233	*kwadidi	*kwadidi	*picaflor	ProTa	picaflor	kwadidi			
 2332	233	*kwadidi	*kwadidi	*picaflor	Tak	picaflor (ave),colibrí	kwadidi			
@@ -2743,7 +2743,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 2730	282	*me2-	*me-	*mano	Aro	mano	eme			
 2731	282	*me2-	*me-	*mano	Kav	mano	e-me-toko			
 2732	282	*me2-	*me-	*mano	Kav	pulgar	e-me-yoka			
-2733	282	*me2-	*me-	*mano	Kav	uña	e-me-šoro
+2733	282	*me2-	*me-	*mano	Kav	uña	e-me-šoro			
 2734	282	*me2-	*me-	*mano	Kav	palma de mano	e-me-toko-akwa			
 2735	282	*me2-	*me-	*mano	Kav	dedo de mano	e-me-toko sapara			
 2736	282	*me2-	*me-	*mano	Kav	anillo,sortija	me-tara			
@@ -3474,7 +3474,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 3361	361	*-ra	*-ra	*transivitizing (and instrumental) suffix, mainly pronominal	Ese	transivitizing (and instrumental) suffix, mainly pronominal	-(y)a			
 3362	361	*-ra	*-ra	*transivitizing (and instrumental) suffix, mainly pronominal	War	transivitizing (and instrumental) suffix, mainly pronominal	-a			
 3363	362	*rami	*rami	*carne,cuerpo	ProTa	carne,cuerpo	rami			
-3364	362	*rami	*rami	*carne,cuerpo	Tak	carne	yami	< *e-rami			
+3364	362	*rami	*rami	*carne,cuerpo	Tak	carne	yami	< *e-rami		
 3365	362	*rami	*rami	*carne,cuerpo	Rey	meat,flesh	yami			
 3366	362	*rami	*rami	*carne,cuerpo	Mar	body,meat	eámi		Heath	
 3367	362	*rami	*rami	*carne,cuerpo	Aro	carne	yami			
@@ -3525,7 +3525,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 3412	365	*řada	*řada	*juntar,amontonar,acarrear	Kav	juntar,amontonar,acarrear	rada-			
 3413	365	*řada	*řada	*juntar,amontonar,acarrear	Kav	ramillete,junta	e-rada		Armentia	
 3414	365	*řada	*řada	*juntar,amontonar,acarrear	Kav	balumba	e-rada-ki		Armentia	
-3415	366	*řař{e/i}	*řař{e/i}	*chapapear,abochornar	ProTa	chapapear,abochornar	řař{e/i}				
+3415	366	*řař{e/i}	*řař{e/i}	*chapapear,abochornar	ProTa	chapapear,abochornar	řař{e/i}			
 3416	366	*řař{e/i}	*řař{e/i}	*chapapear,abochornar	Tak	chapapear,asar	rare-			
 3417	366	*řař{e/i}	*řař{e/i}	*chapapear,abochornar	Kav	abochornar,bochorno	rari		Armentia	
 3418	367	*řa(ʔ)u	*řa(ʔ)u	*garza	ProTa	garza	řa(ʔ)u			
@@ -4273,7 +4273,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 4160	442	*u2-	*u-	*así	Ese	ellos,etc	o-ya-kwana			
 4161	443	*uba	*uba	*espuma	ProTa	espuma	uba			
 4162	443	*uba	*uba	*espuma	Tak	espuma	e-uba			
-4163	443	*uba	*uba	*espuma	Tak	espuma	e-ʔuba		Tumupasa dialect		
+4163	443	*uba	*uba	*espuma	Tak	espuma	e-ʔuba		Tumupasa dialect	
 4164	443	*uba	*uba	*espuma	Kav	espuma	oba			
 4165	443	*uba	*uba	*espuma	Kav	babear,baba	uba-asa		Armentia	
 4166	443	*uba	*uba	*espuma	Kav	baboso	uba-ʔa-ki		Armentia	
@@ -4750,7 +4750,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 4637	494	*zawa	*zawa	*azul,verde	War	no limpio	tawáʔama			
 4638	495	*ze	*ze	*defecar	ProTa	defecar	ze			
 4639	495	*ze	*ze	*defecar	Tak	diarrea	dhe-ne			
-4640	495	*ze	*ze	*defecar	Tak	disentería	ami-dhe-ne	
+4640	495	*ze	*ze	*defecar	Tak	disentería	ami-dhe-ne			
 4641	495	*ze	*ze	*defecar	Ese	defecar	see-			
 4642	495	*ze	*ze	*defecar	Ese	tener diarrea	sesei-			
 4643	495	*ze	*ze	*defecar	War	cagar	sekwe,setikwe			
