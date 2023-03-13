@@ -1,4 +1,4 @@
-ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	Value	Morph_Infor	Note	Uncertainty
+ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_Infor	Note	Uncertainty
 1	1	*a1-	*a-	*hacer	ProTa	hacer	a-			
 2	1	*a1-	*a-	*hacer	Tak	hacer	a-			
 3	1	*a1-	*a-	*hacer	Tak	quiero hacer	a-ha		Armentia	
@@ -1474,7 +1474,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept_In_Source	
 1473	139	*du1-	*du-	*pariente	War	vecino,paisano	doe			
 1474	139	*du1-	*du-	*pariente	War	compañero	e-doe			
 1475	139	*du1-	*du-	*pariente	Čam	my brother	ekwia-dói		*du+re?	
-1476	140	*du2-	*du-	*hondo	ProTa	hondo	du-		cf- *nu3 and *nubi	
+1476	140	*du2-	*du-	*hondo,profundo	ProTa	hondo	du-		cf- *nu3 and *nubi	
 1477	140	*du2-	*du-	*hondo,profundo	Tak	adentro	e-du-me-su			
 1478	140	*du2-	*du-	*hondo,profundo	Tak	hondo	du-e-da			
 1479	140	*du2-	*du-	*hondo,profundo	Tak	por adentro	e-du-me-he			
