@@ -28,14 +28,11 @@ concept_ids = defaultdict()
 for i in wl:
     concept = re.sub("  ", " ", wl[i, "concept"])
 
-    if wl[i, "proto_concept"] not in concept_ids:
-        concept_count += 1
-        concept_ids[wl[i, "proto_concept"]] = concept_count
-
-    ID = concept_ids[wl[i, "proto_concept"]]
+    ID = wl[i, "id_in_source"]
+    p_concept = wl[i, "proto_concept"]
     # Proto-Concepts
     if wl[i, "doculect"] == "ProTa":
-        PP = 1
+        # print(wl[i])
         mapped = to_concepticon([{"gloss": concept}], language="es")
 
         if mapped[concept]:
@@ -44,14 +41,13 @@ for i in wl:
             cid, cgl = "", ""
 
         proto_concepts.append([
-            concept, cid, cgl, ID, PP
+            concept, cid, cgl, ID, p_concept
         ])
 
     # Other concepts
     elif (concept, ID) not in concept_exists:
-        PP = 0
         other_concepts.append([
-            concept, ID, PP
+            concept, ID, p_concept
         ])
 
     concept_exists.append((concept, ID))

@@ -64,7 +64,7 @@ class Dataset(BaseDataset):
             idx = slug(concept["GLOSS"])
             args.writer.add_concept(
                 ID=idx,
-                #Name=concept["ENGLISH"],
+                Name=concept["PROTO_CONCEPT"],
                 Original_Concept=concept["GLOSS"],
                 Concepticon_ID=concept["CONCEPTICON_ID"],
                 Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
@@ -72,7 +72,6 @@ class Dataset(BaseDataset):
                 )
 
             concepts[concept["GLOSS"]] = idx
-            proto_concepts[concept["PROTO_ID"]] = concept["GLOSS"]
 
         # Other Concepts
         other_concepts = self.etc_dir.read_csv(
@@ -85,10 +84,9 @@ class Dataset(BaseDataset):
             idx = slug(concept["GLOSS"])
             args.writer.add_concept(
                 ID=idx,
+                Name=concept["PROTO_CONCEPT"],
                 Original_Concept=concept["GLOSS"],
-                Name=proto_concepts[concept["PROTO_ID"]],
                 Proto_ID=concept["PROTO_ID"],
-                Proto_Concept=concept["PROTO_CONCEPT"]
                 )
             concepts[concept["GLOSS"]] = idx
 
