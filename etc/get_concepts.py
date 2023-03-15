@@ -28,7 +28,7 @@ concept_ids = defaultdict()
 for i in wl:
     concept = re.sub("  ", " ", wl[i, "concept"])
 
-    ID = wl[i, "id_in_source"]
+    ID = wl[i, "proto_set"]
     p_concept = wl[i, "proto_concept"]
     # Proto-Concepts
     if wl[i, "doculect"] == "ProTa":

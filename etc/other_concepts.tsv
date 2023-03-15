@@ -113,7 +113,6 @@ pampa,pajonal	5	*pampa
 grass	5	*pampa
 grassland	5	*pampa
 pampa,paja	5	*pampa
-teta	6	*teta
 tetilla	6	*teta
 testes	6	*teta
 leche	6	*teta
@@ -753,7 +752,6 @@ cerrar	103	*puerta,afuera
 cerrable	103	*puerta,afuera
 worm	104	*gusano
 desapolillar	104	*gusano
-grasa,gordura	105	*grasa,gordura
 gordura	105	*grasa,gordura
 gordo	105	*grasa,gordura
 engordar	105	*grasa,gordura
@@ -1275,7 +1273,6 @@ coquino	200	*fruta
 árbol para hacer limón, limón (de carretín)	200	*chaquillo (árbol)
 piñón (árbol)	200	*maní
 pitón (planta)	200	*maní
-zumaqui (árbol)	200	*zumaqui (árbol)
 sumuqué (palmera)	200	*zumaqui (árbol)
 costillo de casa (donde amarran las hojas)	201	*costillo de casa
 los dos, costilla (de casa)	201	*costillo de casa
@@ -1286,9 +1283,7 @@ moler (la caña)	201	*costillo de casa
 moler	201	*costillo de casa
 azotarse	201	*costillo de casa
 costillares (palos)	201	*costillo de casa
-roll up	202	*roll up
 rollado	202	*roll up
-techo	203	*techo
 techo,cabellete	203	*techo
 encima	203	*techo
 nada más,ya bastante	204	*nada más
@@ -2616,7 +2611,6 @@ terminar,acabar	427	*terminar
 fines del año	427	*terminar
 terminar secando	427	*terminar
 terminar (en)	427	*terminar
-tronar	428	*tronar
 bailar	428	*tronar
 tronado	428	*tronar
 trueno	428	*tronar

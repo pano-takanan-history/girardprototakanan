@@ -1,0 +1,37 @@
+{
+    "title": "CLDF dataset derived from Girard's \"Proto-Takanan Phonology\" from 1971",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Victor Girard"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Frederic Blum",
+            "type": "Other"
+        },
+        {
+            "name": "Carlos M. B. Ugarte",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Girard, Victor (1971): Proto-Takanan Phonology.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

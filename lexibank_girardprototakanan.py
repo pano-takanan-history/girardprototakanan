@@ -61,7 +61,7 @@ class Dataset(BaseDataset):
             )
 
         for concept in proto_list:
-            idx = slug(concept["GLOSS"])
+            idx = slug(concept["PROTO_CONCEPT"])
             args.writer.add_concept(
                 ID=idx,
                 Name=concept["PROTO_CONCEPT"],
@@ -71,7 +71,7 @@ class Dataset(BaseDataset):
                 Proto_ID=concept["PROTO_ID"]
                 )
 
-            concepts[concept["GLOSS"]] = idx
+            concepts[concept["PROTO_CONCEPT"]] = idx
 
         # Other Concepts
         other_concepts = self.etc_dir.read_csv(
@@ -81,14 +81,14 @@ class Dataset(BaseDataset):
             )
 
         for concept in other_concepts:
-            idx = slug(concept["GLOSS"])
+            idx = slug(concept["PROTO_CONCEPT"])
             args.writer.add_concept(
                 ID=idx,
                 Name=concept["PROTO_CONCEPT"],
                 Original_Concept=concept["GLOSS"],
                 Proto_ID=concept["PROTO_ID"],
                 )
-            concepts[concept["GLOSS"]] = idx
+            concepts[concept["PROTO_CONCEPT"]] = idx
 
         args.log.info("added concepts")
 
@@ -139,7 +139,7 @@ class Dataset(BaseDataset):
 
             for lexeme in args.writer.add_forms_from_value(
                     Language_ID=languages[doculect],
-                    Parameter_ID=concepts[(concept)],
+                    Parameter_ID=concepts[(proto_concept)],
                     Value=value,
                     #Entry_From_Proto=proto_entry,
                     #Form_From_Proto=proto_form,

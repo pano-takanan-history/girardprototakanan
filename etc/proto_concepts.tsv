@@ -3,7 +3,7 @@ hacer	813	DO	1	*hacer
 cargar	700	CARRY	1	*cargar
 muela	1049	MOLAR TOOTH	1	*muela
 persuadir	3645	PERSUADE	1	*persuadir
-quedarse,tener,estar	773	HAVE	1	*quedarse,*tener,*estar
+quedarse,tener,estar	1442	STAND	1	*quedarse,*tener,*estar
 terminar,acabar	1766	FINISH	1	*terminar,*acabar
 andar	1443	WALK	1	*andar
 transitivizing suffix			2	*transitivizing suffix
@@ -18,6 +18,7 @@ quién	1235	WHO	3	*quién
 interrogación			3	*interrogación
 barbasco			4	*barbasco
 pampa			5	*pampa
+teta	1402	BREAST	6	*teta
 chontaloro			7	*chontaloro
 árbol	906	TREE	8	*árbol
 negative suffix			9	*negative suffix
@@ -113,7 +114,7 @@ tucandera			81	*tucandera
 perdiz	3681	PARTRIDGE	82	*perdiz
 guayaba (árbol)			83	*guayaba (árbol)
 risueño			84	*risueño
-rana,sapo	894	TOAD	85	*rana,sapo
+rana,sapo	503	FROG	85	*rana,sapo
 materia			86	*pus,materia
 chuchio,charo,caña brava	659	REED	87	*chuchio,charo,caña brava
 floración			88	*floración
@@ -134,6 +135,7 @@ fuerte,agrio	785	STRONG	101	*fuerte,agrio
 pecho	1592	CHEST	102	*pecho
 puerta,afuera	1567	DOOR	103	*puerta,afuera
 gusano	1219	WORM	104	*gusano
+grasa,gordura	323	FAT (ORGANIC SUBSTANCE)	105	*grasa,gordura
 lamer	319	LICK	106	*lamer
 gancho	1071	HOOK	107	*gancho
 atorar			108	*atorar
@@ -143,7 +145,7 @@ robar	713	STEAL	111	*robar
 palmera	1181	PALM TREE	112	*palmera
 marihuí			113	*marihuí
 excusar			114	*excusar
-grano	1809	PIMPLE	115	*grano
+grano	605	GRAIN	115	*grano
 esquina	192	CORNER	115	*esquina
 boro,gusano	1219	WORM	116	*boro,gusano
 tatú			117	*tatú
@@ -197,8 +199,8 @@ tomar,beber	1401	DRINK	161	*tomar,beber
 esperar	1590	WAIT (FOR)	162	*esperar
 hormiga	587	ANT	163	*hormiga
 consumir			164	*consumir
-hoja,pelo,pluma	1201	FEATHER	165	*hoja,pelo,pluma
-agarrar	2021	GRASP	166	*agarrar
+hoja,pelo,pluma	628	LEAF	165	*hoja,pelo,pluma
+agarrar	855	SEIZE	166	*agarrar
 japutamu			167	*japutamu
 collar	1961	NECKLACE	168	*collar
 urupé (cedazo)			169	*urupé (cedazo)
@@ -223,7 +225,10 @@ planta de plátano			200	*planta de plátano
 fruta	1507	FRUIT	200	*fruta
 chaquillo (árbol)			200	*chaquillo (árbol)
 maní			200	*maní
+zumaqui (árbol)			200	*zumaqui (árbol)
 costillo de casa			201	*costillo de casa
+roll up			202	*roll up
+techo	769	ROOF	203	*techo
 nada más			204	*nada más
 descansar	168	REST	205	*descansar
 comida	256	FOOD	206	*comida
@@ -251,7 +256,7 @@ ir	695	GO	227	*ir
 madre	1216	MOTHER	228	*madre
 hot			229	*hot
 caliente	1286	HOT	229	*caliente
-claro	250	LIGHT (COLOR)	229	*claro
+claro	989	CLEAR	229	*claro
 freir	991	FRY	229	*freir
 leña	10	FIREWOOD	229	*leña
 asar	1962	ROAST (SOMETHING)	229	*asar
@@ -265,7 +270,7 @@ chocolate	3873	CHOCOLATE	236	*chocolate
 yuca	925	CASSAVA	237	*yuca
 asomar			238	*asomar
 afilado	1396	SHARP	239	*afilado
-delgado	2249	THIN (OF SHAPE OF OBJECT)	239	*delgado
+delgado	1400	THIN (SLIM)	239	*delgado
 imperative suffix			240	*imperative suffix
 possessive affix			241	*possessive affix
 nutria	15	OTTER	242	*nutria
@@ -303,7 +308,7 @@ madre,mamá	1216	MOTHER	269	*madre,mamá
 alligator			270	*alligator
 árbol de siringa			271	*árbol de siringa
 morir	1494	DIE	272	*morir
-llevar,cargar,abrazar	928	EMBRACE	273	*llevar,cargar,abrazar
+llevar,cargar,abrazar	700	CARRY	273	*llevar,cargar,abrazar
 paujil			274	*paujil
 chonta	440	CHONTA PALM	275	*chonta
 bruja,hechicero			276	*bruja,hechicero
@@ -320,7 +325,7 @@ arma	951	WEAPONS	284	*arma
 dueño	1036	OWNER	285	*dueño
 vaciar			286	*vaciar
 vacío	1624	EMPTY	287	*vacío
-recoger	2148	PICK	288	*recoger
+recoger	371	PICK UP	288	*recoger
 causative suffix			289	*causative suffix
 mañana,ayer	1329	TOMORROW	290	*mañana,ayer
 celar			291	*celar
@@ -409,7 +414,7 @@ transivitizing (and instrumental) suffix, mainly pronominal			361	*transivitizin
 carne,cuerpo	2615	FLESH OR MEAT	362	*carne,cuerpo
 este,aquí	1214	THIS	363	*este,aquí
 cortar,quebrar	1432	CUT	364	*cortar,quebrar
-juntar,amontonar,acarrear	1743	JOIN	365	*juntar,amontonar,acarrear
+juntar,amontonar,acarrear	1576	PILE UP	365	*juntar,amontonar,acarrear
 chapapear,abochornar			366	*chapapear,abochornar
 garza	758	HERON	367	*garza
 traer	692	BRING	368	*traer
@@ -440,7 +445,7 @@ resbaloso,resbalar	1324	SLIP	389	*resbaloso,resbalar
 hongo			390	*hongo
 cortar,serruchar	1432	CUT	391	*cortar,serruchar
 caliente,cocinar	1286	HOT	392	*caliente,cocinar
-rata,ratón	1491	MOUSE	393	*rata,ratón
+rata,ratón	1490	RAT	393	*rata,ratón
 mono silbador			394	*mono silbador
 locative suffix			395	*locative suffix
 después	1685	AFTER	396	*después
@@ -483,6 +488,7 @@ cintura	1681	WAIST	424	*cintura
 centro			425	*centro
 raíz	670	ROOT	426	*raíz
 terminar	1766	FINISH	427	*terminar
+tronar			428	*tronar
 quejido			429	*quejido
 pisar,arañar	575	TREAD	430	*pisar,arañar
 3ra person			431	*3ra persona
