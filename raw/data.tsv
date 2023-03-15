@@ -1,4 +1,4 @@
-ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_Infor	Note	Uncertainty
+IDx	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_Infor	Note	Uncertainty
 1	1	*a1-	*a-	*hacer	ProTa	hacer	a-			
 2	1	*a1-	*a-	*hacer	Tak	hacer	a-			
 3	1	*a1-	*a-	*hacer	Tak	quiero hacer	a-ha		Armentia	
@@ -168,7 +168,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 167	5	*ac̣i	*ac̣i	*pampa	Mar	grass	eáxi		cognate?	
 168	5	*ac̣i	*ac̣i	*pampa	Rey	grassland	y-aci			
 169	5	*ac̣i	*ac̣i	*pampa	Kav	pampa,paja	y-ači		Concept 'paja' taken from Armentia	
-170	6	*ac̣u	*ac̣u	*teta	Prota	teta	ac̣u			
+170	6	*ac̣u	*ac̣u	*teta	ProTa	teta	ac̣u			
 171	6	*ac̣u	*ac̣u	*teta	Tak	teta	acu			
 172	6	*ac̣u	*ac̣u	*teta	Tak	tetilla	acu-pa			
 173	6	*ac̣u	*ac̣u	*teta	Tak	testes	e-acu-du		Armentia	
@@ -262,7 +262,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 261	14	*anu	*anu	*mujer	Sap	woman	ánu			
 262	14	*anu	*anu	*mujer	Kav	abuela	ano			
 263	14	*anu	*anu	*mujer	Ese	abuela,suegra	ano			
-264	14	*anu	*anu	*mujer	Čam	old woman	áno			
+264	14	*anu	*anu	*mujer	Cam	old woman	áno			
 265	15	*anuʔai	*anuʔai	*gualusa	ProTa	gualusa	anuʔai			
 266	15	*anuʔai	*anuʔai	*gualusa	Tak	gualusa	anuʔai			
 267	15	*anuʔai	*anuʔai	*gualusa	Kav	gualusa	anoʔai			
@@ -527,7 +527,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 526	33	*baba	*baba	*abuelo	Kav	abuelos	e-baba-ekana			
 527	33	*baba	*baba	*abuelo	Ese	abuelo,suegro	baba			
 528	33	*baba	*baba	*abuelo	Ese	sucha colorada (pez)	babaʔai			
-529	33	*baba	*baba	*abuelo	Čam	grandfather	bába			
+529	33	*baba	*baba	*abuelo	Cam	grandfather	bába			
 530	33	*baba	*baba	*abuelo	Tia	uncle	bapba		Faust	
 531	34	*bac̣a	*bac̣a	*cedro	ProTa	cedro	bac̣a			
 532	34	*bac̣a	*bac̣a	*cedro	Tak	paquío (arbol grande)	baca-ha			
@@ -557,7 +557,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 556	37	*badi	*badi	*luna	Kav	luna,mes	badi			
 557	37	*badi	*badi	*luna	Kav	novilunio	badi-nana		Armentia	
 558	37	*badi	*badi	*luna	Ese	luna,mes	baʔi			
-559	37	*badi	*badi	*luna	Čam	moon	/mái/			
+559	37	*badi	*badi	*luna	Cam	moon	/mái/			
 560	38	*badu-1	*badu-	*desidia	ProTa	desidia	badu-			
 561	38	*badu-1	*badu-	*desidia	Tak	impertinente,molesto	badu-ha-da		Armentia	
 562	38	*badu-1	*badu-	*desidia	Tak	aburrirse	ha-badu-ha-ti		Armentia	
@@ -682,7 +682,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 681	52	*be1-	*beni	*viento	Kav	ventarron	beni-hubi-da		Armentia	
 682	52	*be1-	*beni	*viento	Ese	viento	beni			
 683	52	*be1-	*beni	*viento	War	viento	beni			
-684	52	*be1-	*beni	*viento	Čam	wind	béni			
+684	52	*be1-	*beni	*viento	Cam	wind	béni			
 685	53	*be2-	*be-	*traer	ProTa	traer	be-			
 686	53	*be2-	*be-	*traer	Tak	mandar,despachar	be-itu-		Concept 'despachar' taken from Armentia	
 687	53	*be2-	*be-	*traer	Kav	traer	be-			
@@ -794,7 +794,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 793	61	*beta	*beta	*dos	Ese	algunos	e-beka-kwana			
 794	61	*beta	*beta	*dos	Ese	jugar	xa-beka-iki-			
 795	61	*beta	*beta	*dos	War	dos	beabué		cognate?	
-796	61	*beta	*beta	*dos	Čam	2	béka			
+796	61	*beta	*beta	*dos	Cam	2	béka			
 797	61	*beta	*beta	*dos	Tia	2	bikapiai		or '4'?	
 798	62	*be(ʔ)i(wi)	*be(ʔ)i(wi)	*oso hormiguero,oso perezoso	ProTa	oso hormiguero,oso perezoso	be(ʔ)i(wi)		There is uncertainty regarding the protoform on the ID in the source	
 799	62	*be(ʔ)i(wi)	*be(ʔ)i(wi)	*oso hormiguero,oso perezoso	Kav	perezoso	bei			
@@ -1103,7 +1103,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 1102	98	*c̣e1	*c̣e	*diente	War	diente	e-sé			
 1103	98	*c̣e1	*c̣e	*diente	War	sin dientes	e-se-ma			
 1104	98	*c̣e1	*c̣e	*diente	War	encias	e-se-kew-kwionehi			
-1105	98	*c̣e1	*c̣e	*diente	Čam	tooth	e-sé			
+1105	98	*c̣e1	*c̣e	*diente	Cam	tooth	e-sé			
 1106	98	*c̣e1	*c̣e	*diente	Ara	tooth	ese		Nordenskiöld	
 1107	98	*c̣e1	*c̣e	*diente	Tia	teeth	ese		Faust	
 1108	99	*-c̣e2	*-c̣e	*dual suffix	ProTa	dual suffix	-c̣e			
@@ -1173,7 +1173,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 1172	104	*c̣ena	*c̣ena	*gusano	Rey	worm	cena			
 1173	104	*c̣ena	*c̣ena	*gusano	Kav	gusano	e-cena			
 1174	104	*c̣ena	*c̣ena	*gusano	Kav	desapolillar	e-cena-mike		Armentia	
-1175	105	*c̣eri	*c̣eri	*grasa,gordura	Prota	grasa,gordura	c̣eri			
+1175	105	*c̣eri	*c̣eri	*grasa,gordura	ProTa	grasa,gordura	c̣eri			
 1176	105	*c̣eri	*c̣eri	*grasa,gordura	Tak	gordura	e-cei			
 1177	105	*c̣eri	*c̣eri	*grasa,gordura	Tak	gordo	cei-da			
 1178	105	*c̣eri	*c̣eri	*grasa,gordura	Tak	engordar	ha-cei-ti-			
@@ -1222,7 +1222,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 1221	109	*c̣ine	*c̣ine	*día,fiesta	Ese	la tarde	siñá		*c̣ina or *c̣ine+a?	
 1222	109	*c̣ine	*c̣ine	*día,fiesta	War	oscuro	sine-nahi			
 1223	109	*c̣ine	*c̣ine	*día,fiesta	War	oscurecer	siné-ani-			
-1224	109	*c̣ine	*c̣ine	*día,fiesta	Čam	afternoon	sinékwa			
+1224	109	*c̣ine	*c̣ine	*día,fiesta	Cam	afternoon	sinékwa			
 1225	110	*c̣ipi-	*c̣ipi-	*tejer	ProTa	tejer	c̣ipi-			
 1226	110	*c̣ipi-	*c̣ipi-	*tejer	Tak	techar	cipi-			
 1227	110	*c̣ipi-	*c̣ipi-	*tejer	Ese	tejer	sipi-			
@@ -1429,7 +1429,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 1428	135	*deka	*deka	hombre	War	hombre	deha			
 1429	135	*deka	*deka	hombre	War	hombrón	deha-ai-ai			
 1430	135	*deka	*deka	hombre	War	people	lexa		Hart/Fast	
-1431	135	*deka	*deka	hombre	Čam	man	déxa			
+1431	135	*deka	*deka	hombre	Cam	man	déxa			
 1432	135	*deka	*deka	hombre	Tia	man	deha		Faust	
 1433	135	*deka	*deka	hombre	Ara	man	deya			
 1434	136	*di...	*di...	*mono nocturno	ProTa	mono nocturno	di...			
@@ -1473,7 +1473,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 1472	139	*du1-	*du-	*pariente	Ese	brother	e-doe			
 1473	139	*du1-	*du-	*pariente	War	vecino,paisano	doe			
 1474	139	*du1-	*du-	*pariente	War	compañero	e-doe			
-1475	139	*du1-	*du-	*pariente	Čam	my brother	ekwia-dói		*du+re?	
+1475	139	*du1-	*du-	*pariente	Cam	my brother	ekwia-dói		*du+re?	
 1476	140	*du2-	*du-	*hondo,profundo	ProTa	hondo	du-		cf- *nu3 and *nubi	
 1477	140	*du2-	*du-	*hondo,profundo	Tak	adentro	e-du-me-su			
 1478	140	*du2-	*du-	*hondo,profundo	Tak	hondo	du-e-da			
@@ -1496,7 +1496,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 1495	140	*du2-	*du-	*hondo,profundo	Ese	apartir	do-ho-tepe-ka-			
 1496	140	*du2-	*du-	*hondo,profundo	Ese	tapar	do-ko-ka-		all from *du2?	
 1497	140	*du2-	*du-	*hondo,profundo	War	hondo	kia-doi,kia-done			
-1498	140	*du2-	*du-	*hondo,profundo	Čam	toadstoll	Nóo		cognate?	
+1498	140	*du2-	*du-	*hondo,profundo	Cam	toadstoll	Nóo		cognate?	
 1499	140	*du2-	*dubi	*entrar,centro	ProTa	entrar,centro	dubi	*du2+di		
 1500	140	*du2-	*dubi	*entrar,centro	Tak	medula,entrañas,centro	e-dubi-ři		Concepts 'entrañas,centro' taken from Armentia	
 1501	140	*du2-	*dubi	*entrar,centro	Tak	embudo,echador	e-dubi-uhi		Armentia	
@@ -1661,7 +1661,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 1660	155	*ija1	*ija	*puerco espín	Ese	espina	akwiša			
 1661	155	*ija1	*ija	*puerco espín	War	puerco espín	hiša			
 1662	155	*ija1	*ija	*puerco espín	Ara	scratch oneself	ešeuviseuvi			
-1663	156	*ija2-	*ija-	*oreja	ProTa	oreja	ija-		All the Čamik forms appear to be based on *jaka	
+1663	156	*ija2-	*ija-	*oreja	ProTa	oreja	ija-		All the Camik forms appear to be based on *jaka	
 1664	156	*ija2-	*ija-	*oreja	Tak	escuchar,oír	iřa-ba-			
 1665	156	*ija2-	*ija-	*oreja	Tak	sordo	iřa-ha-mawe			
 1666	156	*ija2-	*ija-	*oreja	Tak	oreja	e-iřa-ha			
@@ -1928,7 +1928,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 1927	182	*jani	*jani	*izquierdo,zurdo	Ese	izquierdo	šani			
 1928	182	*jani	*jani	*izquierdo,zurdo	Ese	mano izquierda	emé šani			
 1929	182	*jani	*jani	*izquierdo,zurdo	War	izquierdo	šani			
-1930	182	*jani	*jani	*izquierdo,zurdo	Čam	right side	šani			1
+1930	182	*jani	*jani	*izquierdo,zurdo	Cam	right side	šani			1
 1931	183	*jata(ra)	*jata(ra)	*barbasco	ProTa	barbasco	jata(ra)			
 1932	183	*jata(ra)	*jata(ra)	*barbasco	Tak	barbasquillo sembrado,barbasco	řata		Concept 'barbasco' taken from  Armentia	
 1933	183	*jata(ra)	*jata(ra)	*barbasco	Kav	pez como la palometa	hatara		that which is caught by means of barbasco\ or not cognate?	
@@ -2008,7 +2008,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 1985	197	*ka1-	*ka-	*desiderative	Kav	desiderative	ka-		There is no concept in the source.	
 1986	197	*ka1-	*ka-	*desiderative	Ese	reflexive (interés del sujeto) preffix	xa-			
 1987	197	*ka1-	*ka-	*desiderative	Tak	desiderative suffix	-ha			
-1988	198	*-ka2	*-ka	*derivative suffix with reference to body parts	ProTa
+1988	198	*-ka2	*-ka	*derivative suffix with reference to body parts	ProTa	derivative suffix with reference to body parts	-ka			
 1934	198	*-ka2	*-ka	*derivative suffix with reference to body parts	Tak	derivative suffix with reference to body parts	-ha		There is no concept in the source.	
 1935	198	*-ka2	*-ka	*derivative suffix with reference to body parts	Kav	derivative suffix with reference to body parts	-ka		There is no concept in the source.	
 1936	198	*-ka2	*-ka	*derivative suffix with reference to body parts	Ese	derivative suffix with reference to body parts	-xa			
@@ -2026,7 +2026,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 1948	199	*ka3-	*ka-	*huevo	Ese	poner huevo	xa-yo			
 1949	199	*ka3-	*ka-	*huevo	War	huevo	e-ha			
 1950	199	*ka3-	*ka-	*huevo	War	clara de huevo	e-ha kia-óše			
-1951	199	*ka3-	*ka-	*huevo	Čam	egg	e-xá			
+1951	199	*ka3-	*ka-	*huevo	Cam	egg	e-xá			
 1952	200	*ka4-	*ka-	*planta de plátano	ProTa	planta de plátano	ka-		*ka3?	
 1953	200	*ka4-	*ka-	*planta de plátano	Tak	camote	ha-riri			
 1954	200	*ka4-	*ka-	*planta de plátano	Tak	patujú (planta con hoja como de plátano)	ha-pa-ina			
@@ -2056,7 +2056,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 1978	200	*ka4-	*kanize	*maní	Tak	piñón (árbol)	waka-hanidhe		loan?	
 1979	200	*ka4-	*kanize	*maní	Kav	maní	kanise			
 1980	200	*ka4-	*kanize	*maní	Kav	pitón (planta)	waka-kanise			
-1981	200	*ka4-	*kape	*zumaqui (árbol)	Prota	zumaqui (árbol)	kape			
+1981	200	*ka4-	*kape	*zumaqui (árbol)	ProTa	zumaqui (árbol)	kape			
 1982	200	*ka4-	*kape	*zumaqui (árbol)	Tak	zumaqui (árbol)	hape			
 1983	200	*ka4-	*kape	*zumaqui (árbol)	Kav	sumuqué (palmera)	kape-kwi			
 1984	201	*kac̣a	*kac̣a	*costillo de casa	ProTa	costillo de casa	kac̣a			
@@ -2069,11 +2069,11 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 1991	201	*kac̣a	*kac̣a	*costillo de casa	Ese	moler	xa-hea-xasa-ki-			
 1992	201	*kac̣a	*kac̣a	*costillo de casa	Ese	azotarse	ka-xasa-ki-			
 1993	201	*kac̣a	*kac̣a	*costillo de casa	War	costillares (palos)	e-hasa			
-1994	202	*kaka2-	*kaka-	*roll up	Prota	roll up	kaka-			
+1994	202	*kaka2-	*kaka-	*roll up	ProTa	roll up	kaka-			
 1995	202	*kaka2-	*kaka-	*roll up	Kav	roll up	kaka-			
 1996	202	*kaka2-	*kaka-	*roll up	Kav	rollado	e-kaka-ke			
 1997	202	*kaka2-	*kaka-	*roll up	Ese	roll up	xaxa-yo-			
-1998	203	*kama2-	*kama-	*techo	Prota	techo	kama-			
+1998	203	*kama2-	*kama-	*techo	ProTa	techo	kama-			
 1999	203	*kama2-	*kama-	*techo	Kav	techo,cabellete	e-kama-wa			
 2000	203	*kama2-	*kama-	*techo	Ese	techo	e-hama-ko			
 2001	203	*kama2-	*kama-	*techo	Ese	encima	e-hama-koʔoho		N.B. Ese. x is expected here.	
@@ -2120,7 +2120,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 2042	208	*kara	*kara	*paraba	Kav	tarechi (loro)	kaekae			
 2043	208	*kara	*kara	*paraba	Ese	paraba (ave)	xa			
 2044	208	*kara	*kara	*paraba	Ese	paraba (colorado)	xa-we			
-2045	208	*kara	*kara	*paraba	Čam	parrot	xá			
+2045	208	*kara	*kara	*paraba	Cam	parrot	xá			
 2046	209	*-ke	*-ke	*agent nominalizer suffix	ProTa	agent nominalizer suffix	-ke			
 2047	209	*-ke	*-ke	*agent nominalizer suffix	Tak	agent nominalizer suffix	-he			
 2048	209	*-ke	*-ke	*agent nominalizer suffix	Kav	nominalizing suffix \lo que _\	-ke			
@@ -2296,7 +2296,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 2218	229	*kwa3-	*kwati	*leña	Ese	ceniza	kwaki-powi			
 2219	229	*kwa3-	*kwati	*leña	War	fuego,tizón,leña	kwati			
 2220	229	*kwa3-	*kwati	*leña	War	ceniza	kwati-poi			
-2221	229	*kwa3-	*kwati	*leña	Čam	kindling wood	kwáki			
+2221	229	*kwa3-	*kwati	*leña	Cam	kindling wood	kwáki			
 2222	229	*kwa3-	*kwati	*leña	Ara	fire	kuáti			
 2223	229	*kwa3-	*kwati	*leña	Ara	bois (chonta) de la flèche	kuato		Robuchon	
 2224	229	*kwa3-	*kwawi	*asar	ProTa	asar	kwawi			
@@ -2361,7 +2361,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 2283	236	*kwase	*kwase	*chocolate	Ese	chocolate	kwahe			
 2284	236	*kwase	*kwase	*chocolate	Ese	chocolatal	kwahe ʔiye			
 2285	236	*kwase	*kwase	*chocolate	War	cacao	kuahe			
-2286	236	*kwase	*kwase	*chocolate	Čam	chocolate	/gwáxi/			
+2286	236	*kwase	*kwase	*chocolate	Cam	chocolate	/gwáxi/			
 2287	237	*kwawe	*kwawe	*yuca	ProTa	yuca	kwawe			
 2288	237	*kwawe	*kwawe	*yuca	Tak	yuca	kwawe			
 2289	237	*kwawe	*kwawe	*yuca	Tak	rama de yuca	kwawe eča			
@@ -2864,7 +2864,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 2786	293	*mimi	*mimi	*palabra,hablar,cantar	Ese	hablar,cantar,bramar	mimi-			
 2787	293	*mimi	*mimi	*palabra,hablar,cantar	Ese	chismoso	mimi-hahixi			
 2788	293	*mimi	*mimi	*palabra,hablar,cantar	Ese	bullicioso	kea-mimi-na			
-2789	293	*mimi	*mimi	*palabra,hablar,cantar	Čam	talking	mímiani			
+2789	293	*mimi	*mimi	*palabra,hablar,cantar	Cam	talking	mímiani			
 2790	294	*miwa	*miwa	*dar de comer	ProTa	dar de comer	miwa			
 2791	294	*miwa	*miwa	*dar de comer	Tak	dar de comer	miwa-			
 2792	294	*miwa	*miwa	*dar de comer	Kav	carnaza	e-miwa-ki			
@@ -2930,7 +2930,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 2852	305	*na1-	*naka-	*húmedo,mojado	Kav	húmedo	naka-naka			
 2853	305	*na1-	*naka-	*húmedo,mojado	Kav	mojar	naka-ta-			
 2854	305	*na1-	*naka-	*húmedo,mojado	Ese	húmedo	kea-naha-xi			
-2855	305	*na1-	*naka-	*húmedo,mojado	Čam	wash	/Nahá-kwi/			
+2855	305	*na1-	*naka-	*húmedo,mojado	Cam	wash	/Nahá-kwi/			
 2856	305	*na1-	*naki	*aguado	ProTa	aguado	naki			
 2857	305	*na1-	*naki	*aguado	Tak	aguado,con agua	nahi			
 2858	305	*na1-	*naki	*aguado	Kav	aguado	naki			
@@ -2976,7 +2976,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 2898	305	*na1-	*na+...	*agua,lluvia,río	Ese	oleaje	e-na-šaho			
 2899	305	*na1-	*na+...	*agua,lluvia,río	Ese	bilis	e-na-tawa			
 2900	305	*na1-	*na+...	*agua,lluvia,río	Ese	sangrar	na-kwaya-			
-2901	305	*na1-	*na+...	*agua,lluvia,río	Čam	blood or liquid	éna			
+2901	305	*na1-	*na+...	*agua,lluvia,río	Cam	blood or liquid	éna			
 2902	305	*na1-	*na+...	*agua,lluvia,río	Ara	water	éna			
 2903	306	*na2-	*nabai	*ala	ProTa	ala	nabai	*na2+ba3+i		
 2904	306	*na2-	*nabai	*ala	Tak	ala,manga de vestido o camisa	e-nabai			
@@ -3003,7 +3003,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 2925	308	*na4-	*na-	*madre	Kav	hermana (mayor)	e-na-si			
 2926	308	*na4-	*na-	*madre	Ese	madre	nae			
 2927	308	*na4-	*na-	*madre	War	madre	nai			
-2928	308	*na4-	*na-	*madre	Čam	mother	nái			
+2928	308	*na4-	*na-	*madre	Cam	mother	nái			
 2929	309	*-na5	*-na	*completive suffix	ProTa	completive suffix	-na			
 2930	309	*-na5	*-na	*completive suffix	Tak	completive suffix	-na			
 2931	309	*-na5	*-na	*completive suffix	Kav	completive suffix	-na			
@@ -3283,7 +3283,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 3205	338	*peia-	*peia-	*uno	Ese	también	pea-ai			
 3206	338	*peia-	*peia-	*uno	Ese	three	pea-beka-peexima			
 3207	338	*peia-	*peia-	*uno	Ese	adúltero	pea-koxoxi			
-3208	338	*peia-	*peia-	*uno	Čam	another	péa			
+3208	338	*peia-	*peia-	*uno	Cam	another	péa			
 3209	339	*peke	*peke	*un lado,junto,ante,adelante	ProTa	un lado,junto,ante,adelante	peke			
 3210	339	*peke	*peke	*un lado,junto,ante,adelante	Tak	side,de un solo lado	bo-pehe		Concept 'de un solo lado' taken from Armentia	
 3211	339	*peke	*peke	*un lado,junto,ante,adelante	Tak	junto,ante,en frente	pehe-su		Armentia	
@@ -3415,7 +3415,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 3337	354	*pu3-	*puti	*andar	Ese	fuirse rápido	poki-kwahi-			
 3338	354	*pu3-	*puti	*andar	Ese	fuirse	poki-			
 3339	354	*pu3-	*puti	*andar	Ese	escapir	poki-kewaki-			
-3340	354	*pu3-	*puti	*andar	Čam	going	pókiani			
+3340	354	*pu3-	*puti	*andar	Cam	going	pókiani			
 3341	354	*pu3-	*pu+...	*ir	ProTa	ir	pu+...			
 3342	354	*pu3-	*pu+...	*ir	Tak	rodear,dar vueltas	pu-barere		Armentia	
 3343	354	*pu3-	*pu+...	*ir	Tak	digo,fué,ha sido	puidha		Armentia	
@@ -3462,7 +3462,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 3384	359	*puna	*puna	*mujer,hembra	Mab	daughter	ipona			
 3385	359	*puna	*puna	*mujer,hembra	Kav	mujer,hembra	e-pona			
 3386	359	*puna	*puna	*mujer,hembra	Ese	hembra,mujer	e-pona			
-3387	359	*puna	*puna	*mujer,hembra	Čam	female	epóna			
+3387	359	*puna	*puna	*mujer,hembra	Cam	female	epóna			
 3388	359	*puna	*puna	*mujer,hembra	War	woman	iponga		Hart/Fast	
 3389	360	*purari	*purari	*curucusí,luciérnaga	ProTa	curucusí,luciérnaga	purari		*pu2?	
 3390	360	*purari	*purari	*curucusí,luciérnaga	Tak	luciérnaga,curucusí	puhai			
@@ -3631,7 +3631,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 3553	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Ese	bufeo	hai-saoxe			
 3554	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Ese	azulejo (pez)	hai-soʔexa			
 3555	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Ese	chanana (pez)	hai-tewe			
-3556	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Čam	fish	xái			
+3556	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Cam	fish	xái			
 3557	378	*sai-	*sai-	*bueno	ProTa	bueno	sai-			
 3558	378	*sai-	*sai-	*bueno	Tak	bueno	sai-da			
 3559	378	*sai-	*sai-	*bueno	Tak	sanar	sai-si-			
@@ -3787,7 +3787,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 3709	397	*suse	*suse	*pato	Kav	pato bichichií	hohe kata-sawa			
 3710	397	*suse	*suse	*pato	Kav	pato roncador	epo-hohe			
 3711	397	*suse	*suse	*pato	Ese	pato	xoxi			
-3712	397	*suse	*suse	*pato	Čam	duck	xóxe		irregular reflexes	
+3712	397	*suse	*suse	*pato	Cam	duck	xóxe		irregular reflexes	
 3713	398	*ta-	*ta-	*pierna	ProTa	pierna	ta-			
 3714	398	*ta-	*ta-	*pierna	Tak	 canilla	e-ta-buce			
 3715	398	*ta-	*ta-	*pierna	Tak	pantorilla	e-ta-hasi			
@@ -3852,8 +3852,8 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 3774	404	*tare	*tare	*casa	Ese	popa de la canoa	biše-kii			
 3775	404	*tare	*tare	*casa	War	casa	e-ti			
 3776	404	*tare	*tare	*casa	War	cabaña	e-ti-sisi			
-3777	404	*tare	*tare	*casa	Čam	house	e-kíi			
-3778	404	*tare	*tare	*casa	Čam	to the house	e-kíyase			
+3777	404	*tare	*tare	*casa	Cam	house	e-kíi			
+3778	404	*tare	*tare	*casa	Cam	to the house	e-kíyase			
 3779	405	*tapi	*tapi	*hormiga cazadora	ProTa	hormiga cazadora	tapi			
 3780	405	*tapi	*tapi	*hormiga cazadora	Tak	hormiga cazadora	tapi-tapi			
 3781	405	*tapi	*tapi	*hormiga cazadora	Kav	hormiga cazadora	tapi-tapi			
@@ -4084,7 +4084,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 4006	427	*tiri2	*tiri	*terminar	Kav	fines del año	mara-tere-ya-ho			
 4007	427	*tiri2	*tiri	*terminar	Kav	terminar secando	rara-tere-			
 4008	427	*tiri2	*tiri	*terminar	Kav	terminar (en)	ho-tere-			
-4009	428	*tiři	*tiři	*tronar	Prota	tronar	tiři			
+4009	428	*tiři	*tiři	*tronar	ProTa	tronar	tiři			
 4010	428	*tiři	*tiři	*tronar	Tak	bailar	tiri-tiri-			
 4011	428	*tiři	*tiři	*tronar	Tak	tronar	tiri-ti-			
 4012	428	*tiři	*tiři	*tronar	Tak	tronado	e-tiri-ani		Armentia	
@@ -4442,7 +4442,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 4364	460	*wane	*wane	*mujer	Ese	casar (hombres)	xa-wana-ki-			
 4365	460	*wane	*wane	*mujer	War	soltero	wanásema			
 4366	460	*wane	*wane	*mujer	War	casarse	wana-(ti-)			
-4367	460	*wane	*wane	*mujer	Čam	woman	e-gwanási			
+4367	460	*wane	*wane	*mujer	Cam	woman	e-gwanási			
 4368	461	*wani	*wani	*humo	ProTa	humo	wani			
 4369	461	*wani	*wani	*humo	Tak	oler	wani-ba-ke			
 4370	461	*wani	*wani	*humo	Tak	hediondo,mal odor	wani-da			
@@ -4577,7 +4577,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 4499	476	*wini	*wini	*cera	Kav	cera	wini			
 4500	476	*wini	*wini	*cera	Kav	descerar	vini-peta		Armentia	
 4501	476	*wini	*wini	*cera	Ese	abeja,miel de abeja	wini			
-4502	476	*wini	*wini	*cera	Čam	bee	wíni			
+4502	476	*wini	*wini	*cera	Cam	bee	wíni			
 4503	476	*wini	*wini	*cera	Ara	wax	huenita			
 4504	477	*wira	*wira	*orina	ProTa	orina	wira			
 4505	477	*wira	*wira	*orina	Tak	orina	wia			
@@ -4639,8 +4639,8 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 4561	484	*yaʔa	*yaʔa	*rama,gajo	Ese	muslo del brazo	ya-xaxa-wa			
 4562	484	*yaʔa	*yaʔa	*rama,gajo	Ese	avión	e-ya-xi-poxi			
 4563	484	*yaʔa	*yaʔa	*rama,gajo	War	rama	eʔá			
-4564	484	*yaʔa	*yaʔa	*rama,gajo	Čam	arm	iá			
-4565	484	*yaʔa	*yaʔa	*rama,gajo	Čam	human arm	eyá			
+4564	484	*yaʔa	*yaʔa	*rama,gajo	Cam	arm	iá			
+4565	484	*yaʔa	*yaʔa	*rama,gajo	Cam	human arm	eyá			
 4566	484	*yaʔa	*yaʔa	*rama,gajo	Ara	arm	éa			
 4567	485	*yu-	*yu-	*banda	ProTa	banda	yu-			
 4568	485	*yu-	*yu-	*banda	Tak	banda	ču-make			
@@ -4769,7 +4769,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 4691	497	*zere	*zere	*barriga,intestinos	Ese	tripa	see			
 4692	497	*zere	*zere	*barriga,intestinos	Ese	intestinos	e-tee-xani			
 4693	497	*zere	*zere	*barriga,intestinos	War	intestinos,tripas	sesisi			
-4694	497	*zere	*zere	*barriga,intestinos	Čam	abdomen	tée			
+4694	497	*zere	*zere	*barriga,intestinos	Cam	abdomen	tée			
 4695	498	*zeřu	*zeřu	*cangrejo	ProTa	cangrejo	zeřu			
 4696	498	*zeřu	*zeřu	*cangrejo	Tak	cangrejo	dheru			
 4697	498	*zeřu	*zeřu	*cangrejo	Kav	cangrejo	sero		Armentia : teru 'cangrejo'	
@@ -4792,7 +4792,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 4714	499	*zewe	*zewe	*negro	War	muy negro	ki-tewe-nei-nei			
 4715	499	*zewe	*zewe	*negro	War	no es negro	tewé-ama			
 4716	499	*zewe	*zewe	*negro	War	tinta	e-na tewe			
-4717	499	*zewe	*zewe	*negro	Čam	black	kia-tewi			
+4717	499	*zewe	*zewe	*negro	Cam	black	kia-tewi			
 4718	500	*ziri	*ziri	*viejo	ProTa	viejo	ziri			
 4719	500	*ziri	*ziri	*viejo	Tak	viejo	e-dhi			
 4720	500	*ziri	*ziri	*viejo	Rey	old	e-si			
@@ -4810,7 +4810,7 @@ ID	ID_in_Source	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morp
 4732	500	*ziri	*ziri	*viejo	War	viejo/a	ečí			
 4733	500	*ziri	*ziri	*viejo	War	muy viejo	ečíneinei			
 4734	500	*ziri	*ziri	*viejo	War	padre	tatači		cognates?	
-4735	500	*ziri	*ziri	*viejo	Čam	captain,old man	e-tíi			
+4735	500	*ziri	*ziri	*viejo	Cam	captain,old man	e-tíi			
 4736	501	*zita	*zita	*unir,juntar	ProTa	unir,juntar	zita			
 4737	501	*zita	*zita	*unir,juntar	Tak	juntar,amontonar	dhita-			
 4738	501	*zita	*zita	*unir,juntar	Tak	reunirse	ha-dhita-ti-			

@@ -1,1 +1,1378 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss,Proto_Concept,Proto_ID,Original_Concept
+hacer,*hacer,813,DO,,1,hacer
+cargar,*cargar,700,CARRY,,1,cargar
+muela,*muela,1049,MOLAR TOOTH,,1,muela
+persuadir,*persuadir,3645,PERSUADE,,1,persuadir
+quedarsetenerestar,"*quedarse,*tener,*estar",773,HAVE,,1,"quedarse,tener,estar"
+terminaracabar,"*terminar,*acabar",1766,FINISH,,1,"terminar,acabar"
+andar,*andar,1443,WALK,,1,andar
+transitivizingsuffix,*transitivizing suffix,,,,2,transitivizing suffix
+simpleinterrogante,*simple interrogante,,,,3,simple interrogante
+que,*qué?,1236,WHAT,,3,qué?
+cosa,*cosa,738,THING,,3,cosa
+quien,*quién,1235,WHO,,3,quién
+conque,*con qué?,,,,3,con qué?
+paraque,*para qué?,,,,3,para qué?
+dequien,*de quién,,,,3,de quién
+interrogacion,*interrogación,,,,3,interrogación
+barbasco,*barbasco,,,,4,barbasco
+pampa,*pampa,,,,5,pampa
+chontaloro,*chontaloro,,,,7,chontaloro
+arbol,*árbol,906,TREE,,8,árbol
+negativesuffix,*negative suffix,,,,9,negative suffix
+motacucillo,*motacucillo,,,,10,motacucillo
+sangre,*sangre,946,BLOOD,,11,sangre
+lengua,*lengua,1205,TONGUE,,12,lengua
+palosanto,*palo santo,,,,13,palo santo
+mujer,*mujer,962,WOMAN,,14,mujer
+gualusa,*gualusa,,,,15,gualusa
+obscuro,*obscuro,1764,OBSCURE,,16,obscuro
+creceragrandar,"*crecer,agrandar",479,GROW,,17,"crecer,agrandar"
+hombro,*hombro,1482,SHOULDER,,18,hombro
+grillo,*grillo,2354,CRICKET,,19,grillo
+alacran,*alacrán,1538,SCORPION,,20,alacrán
+amigo,*amigo,1325,FRIEND,,21,amigo
+abeja,*abeja,665,BEE,,22,abeja
+mundo,*mundo,965,WORLD,,23,mundo
+tapir,*tapir,,,,24,tapir
+marido,*marido,1200,HUSBAND,,25,marido
+sucio,*sucio,1230,DIRTY,,26,sucio
+mirarver,"*mirar,ver",1409,SEE,,27,"mirar,ver"
+mostrar,*mostrar,1039,SHOW,,27,mostrar
+parecido,*parecido,,,,27,parecido
+saber,*saber,1410,KNOW (SOMETHING),,27,saber
+lago,*lago,624,LAKE,,28,lago
+rociosereno,"*rocío,sereno",1977,DEW,,28,"rocío,sereno"
+codo,*codo,981,ELBOW,,29,codo
+brazo,*brazo,1673,ARM,,29,brazo
+espalda,*espalda,1291,BACK,,29,espalda
+frio,*frío,1287,COLD,,30,frío
+cielo,*cielo,1732,SKY,,31,cielo
+largo,*largo,1203,LONG,,31,largo
+ajoajo,*ajoajo,,,,32,ajoajo
+abuelo,*abuelo,1383,GRANDFATHER,,33,abuelo
+cedro,*cedro,,,,34,cedro
+colgar,*colgar,357,HANG UP,,36,colgar
+luna,*luna,1313,MOON,,37,luna
+desidia,*desidia,,,,38,desidia
+hilar,*hilar,121,SPIN,,39,hilar
+pedir,*pedir,1828,ASK (REQUEST),,40,pedir
+nombre,*nombre,1405,NAME,,41,nombre
+jochipintado,*jochi pintado,,,,42,jochi pintado
+vibora,*víbora,730,SNAKE,,43,víbora
+hijo,*hijo,1620,SON,,44,hijo
+sembrar,*sembrar,,,,45,sembrar
+caricari,*caricari,,,,46,caricari
+jausilagartija,"*jausi,lagartija",632,LIZARD,,47,"jausi,lagartija"
+sal,*sal,1274,SALT,,48,sal
+acomodar,*acomodar,,,,49,acomodar
+arrojar,*arrojar,,,,50,arrojar
+tostar,*tostar,,,,51,tostar
+ventear,*ventear,,,,52,ventear
+viento,*viento,960,WIND,,52,viento
+traer,*traer,692,BRING,,53,traer
+nadar,*nadar,1439,SWIM,,54,nadar
+encima,*encima,,,,55,encima
+tambien,*también,,,,55,también
+rioarriba,*río arriba,,,,55,río arriba
+buitrenegro,*buitre negro,,,,56,buitre negro
+felizalegre,"*feliz,alegre,contento",1495,HAPPY,,57,"feliz,alegre"
+querer,*querer,923,LOVE,,57,querer
+garrapata,*garrapata,,,,58,garrapata
+escarbar,*escarbar,,,,59,escarbar
+viejo,*viejo,1229,OLD,,60,viejo
+dos,*dos,1498,TWO,,61,dos
+osohormigueroosoperezoso,"*oso hormiguero,oso perezoso",181,ANTEATER,,62,"oso hormiguero,oso perezoso"
+piojo,*piojo,1392,LOUSE,,63,piojo
+palmareal,*palma real,,,,64,palma real
+balsa,*balsa,1664,RAFT,,65,balsa
+bijiji,*cuquisa,,,,66,bijiji
+aji,*ají,919,CHILI PEPPER,,67,ají
+pesado,*pesado,1210,HEAVY,,68,pesado
+murcielago,*murciélago,1793,BAT,,69,murciélago
+avispopeto,"*avispo,peto",,,,70,"avispo,peto"
+dulce,*dulce,717,SWEET,,71,dulce
+piel,*piel,763,SKIN,,72,piel
+meter,*meter,998,PUT,,73,meter
+marimono,*marimono,,,,74,marimono
+verguenza,*vergüenza,1776,SHAME,,75,vergüenza
+basura,*basura,909,GARBAGE,,76,basura
+par,*par,1888,PAIR,,77,par
+cara,*cara,1560,FACE,,77,cara
+abajo,*abajo,1326,DOWN,,78,abajo
+bajar,*bajar,2014,GO DOWN (DESCEND),,78,bajar
+sobrinoa,*sobrino/a,1063,NEPHEW,,79,sobrino/a
+melero,*melero,,,,80,melero
+tucandera,*tucandera,,,,81,tucandera
+perdiz,*perdiz,3681,PARTRIDGE,,82,perdiz
+guayabaarbol,*guayaba (árbol),,,,83,guayaba (árbol)
+risueno,*risueño,,,,84,risueño
+ranasapo,"*rana,sapo",894,TOAD,,85,"rana,sapo"
+materia,"*pus,materia",,,,86,materia
+chuchiocharocanabrava,"*chuchio,charo,caña brava",659,REED,,87,"chuchio,charo,caña brava"
+floracion,*floración,,,,88,floración
+cabello,*cabello,2648,HAIR (HEAD),,88,cabello
+mojar,*mojar,,,,89,mojar
+reir,*reír,1355,LAUGH,,90,reír
+orilla,*orilla,,,,91,orilla
+necesito,*necesito,,,,92,necesito
+piepierna,"*pie,pierna",1301,FOOT,,93,"pie,pierna"
+cabeza,*cabeza,1256,HEAD,,94,cabeza
+puntadeflechahechadetacuararaspada,*punta de flecha hecha de tacuara raspada,,,,95,punta de flecha hecha de tacuara raspada
+hueso,*hueso,1394,BONE,,96,hueso
+ayudar,*ayudar,1897,HELP,,97,ayudar
+diente,*diente,1380,TOOTH,,98,diente
+dualsuffix,*dual suffix,,,,99,dual suffix
+gritar,*gritar,715,SHOUT,,100,gritar
+fuerteagrio,"*fuerte,agrio",785,STRONG,,101,"fuerte,agrio"
+pecho,*pecho,1592,CHEST,,102,pecho
+puertaafuera,"*puerta,afuera",1567,DOOR,,103,"puerta,afuera"
+gusano,*gusano,1219,WORM,,104,gusano
+lamer,*lamer,319,LICK,,106,lamer
+gancho,*gancho,1071,HOOK,,107,gancho
+atorar,*atorar,,,,108,atorar
+diafiesta,"*día,fiesta",1225,DAY (NOT NIGHT),,109,"día,fiesta"
+tejer,*tejer,133,WEAVE,,110,tejer
+robar,*robar,713,STEAL,,111,robar
+palmera,*palmera,1181,PALM TREE,,112,palmera
+marihui,*marihuí,,,,113,marihuí
+excusar,*excusar,,,,114,excusar
+grano,*grano,1809,PIMPLE,,115,grano
+esquina,*esquina,192,CORNER,,115,esquina
+borogusano,"*boro,gusano",1219,WORM,,116,"boro,gusano"
+tatu,*tatú,,,,117,tatú
+hipo,*hipo,,,,118,hipo
+morder,*morder,1403,BITE,,119,morder
+tucan,*tucán,308,TOUCAN,,120,tucán
+cuandoharto,"*cuando,harto",1238,WHEN,,121,"cuando,harto"
+subir,*subir,1102,CLIMB,,122,subir
+aro,*aro,,,,123,aro
+voz,*voz,1363,VOICE,,124,voz
+encontrar,*encontrar,719,FIND,,125,encontrar
+ombligo,*ombligo,1838,NAVEL,,126,ombligo
+adjectivizingsuffix,*adjectivizing suffix,,,,127,adjectivizing suffix
+palo,*palo,1295,STICK,,128,palo
+caer,*caer,1280,FALL,,129,caer
+tabano,*tábano,,,,130,tábano
+cuerno,*cuerno,1393,HORN (ANATOMY),,131,cuerno
+tortugapeta,"*tortuga,peta",895,TORTOISE,,132,"tortuga,peta"
+ardilla,*ardilla,1628,SQUIRREL,,133,ardilla
+raspar,*raspar,,,,134,raspar
+hombre,hombre,1554,MAN,,135,hombre
+mononocturno,*mono nocturno,,,,136,mono nocturno
+mosquito,*mosquito,1509,MOSQUITO,,137,mosquito
+camino,*camino,2252,PATH,,138,camino
+pariente,*pariente,,,,139,pariente
+hondo,"*hondo,profundo",,,,140,hondo
+entrarcentro,"*entrar,centro",749,ENTER,,140,"entrar,centro"
+adentroen,"*adentro,en",1460,IN,,140,"adentro,en"
+envolver,*envolver,,,,140,envolver
+cascabel,*cascabel,871,RATTLESNAKE,,141,cascabel
+racimo,*racimo,1966,BUNCH,,142,racimo
+brujodios,"*brujo,dios",1944,GOD,,143,"brujo,dios"
+molertocar,"*moler,tocar",1892,TOUCH,,144,"moler,tocar"
+venado,*venado,1936,DEER,,145,venado
+excremento,*excremento,,,,146,excremento
+llevar,*llevar,700,CARRY,,147,llevar
+monomanechi,*mono manechi,,,,148,mono manechi
+absolutiveprefix,*absolutive prefix,,,,149,absolutive prefix
+si,*sí,,,,150,sí
+1p,*1P,,,,151,1P
+tigre,*tigre,1250,JAGUAR,,152,tigre
+raya,*raya,,,,153,raya
+remedio,*remedio,,,,154,remedio
+puercoespin,*puerco espín,,,,155,puerco espín
+oreja,*oreja,1247,EAR,,156,oreja
+carino,*cariño,,,,157,cariño
+diablozorro,"*diablo,zorro",1312,FOX,,158,"diablo,zorro"
+vivo,*vivo,1422,BE ALIVE,,159,vivo
+sol,*sol,1343,SUN,,160,sol
+tomarbeber,"*tomar,beber",1401,DRINK,,161,"tomar,beber"
+esperar,*esperar,1590,WAIT (FOR),,162,esperar
+hormiga,*hormiga,587,ANT,,163,hormiga
+consumir,*consumir,,,,164,consumir
+hojapelopluma,"*hoja,pelo,pluma",1201,FEATHER,,165,"hoja,pelo,pluma"
+agarrar,*agarrar,2021,GRASP,,166,agarrar
+japutamu,*japutamu,,,,167,japutamu
+collar,*collar,1961,NECKLACE,,168,collar
+urupecedazo,*urupé (cedazo),,,,169,urupé (cedazo)
+vender,*vender,1571,SELL,,170,vender
+desgranar,*desgranar,,,,171,desgranar
+cola,*cola,1220,TAIL,,172,cola
+llamar,*llamar,1084,CALL,,173,llamar
+pudrirse,*pudrirse,,,,174,pudrirse
+dejarponer,"*dejar,poner",998,PUT,,175,"dejar,poner"
+nuevoahora,"*nuevo,ahora",1231,NEW,,176,"nuevo,ahora"
+pegar,*pegar,1069,GLUE,,177,pegar
+cunado,*cuñado,,,,178,cuñado
+hermanamenor,*hermana menor,1761,YOUNGER SISTER,,178,hermana menor
+hermanomenor,*hermano menor,1760,YOUNGER BROTHER,,178,hermano menor
+bofe,*bofe,,,,179,bofe
+abrir,*abrir,1156,OPEN,,186,abrir
+comida,*comida,256,FOOD,,206,comida
+tigrecillo,*tigrecillo,,,,225,tigrecillo
+delgado,*delgado,2249,THIN (OF SHAPE OF OBJECT),,239,delgado
+arma,*arma,951,WEAPONS,,284,arma
+vaciar,*vaciar,,,,286,vaciar
+crecer,*crecer,479,GROW,,300,crecer
+garganta,*garganta,1346,THROAT,,307,garganta
+hermano,*hermano,1262,BROTHER,,320,hermano
+empujar,*empujar,1452,PUSH,,321,empujar
+acompanar,*acompañar,,,,342,acompañar
+decirhacer,"*decir,hacer",1458,SAY,,354,"decir,hacer"
+apretar,*apretar,,,,372,apretar
+hongo,*hongo,,,,390,hongo
+pierna,*pierna,1297,LEG,,398,pierna
+silencio,*silencio,,,,402,silencio
+cana,*caña,146,SUGAR CANE,,411,caña
+cerrar,*cerrar,1046,SHUT,,416,cerrar
+raiz,*raíz,670,ROOT,,426,raíz
+conejo,*conejo,1136,RABBIT,,458,conejo
+quierohacer,*hacer,,,,1,quiero hacer
+make,*hacer,,,,1,make!
+decirhacerpegaratacarpicar,*hacer,,,,1,"decir,hacer,pegar,atacar,picar"
+loquehace,*hacer,,,,1,lo que hace
+venirahacer,*hacer,,,,1,venir a hacer
+aconsejarensenar,*hacer,,,,1,"aconsejar,enseñar"
+noestahechosino,*hacer,,,,1,"no está hecho,si no"
+toparchocarunacosaconotra,*cargar,,,,1,"topar,chocar una cosa con otra"
+cargate,*cargar,,,,1,cárgate
+jasehaz,*cargar,,,,1,jase (haz)
+cargarescobartocar,*cargar,,,,1,"cargar,escobar,tocar"
+quijadacachetemandibula,*muela,,,,1,"quijada,cachete,mandíbula"
+desquijarrar,*muela,,,,1,desquijarrar
+mandarhacer,*persuadir,,,,1,mandar hacer
+quedarseestartener,"*quedarse,*tener,*estar",,,,1,"quedarse,estar,tener"
+apartarretirarmudardelugar,"*quedarse,*tener,*estar",,,,1,"apartar,retirar,mudar de lugar"
+andaraquedarse,"*quedarse,*tener,*estar",,,,1,andar a quedarse
+viviendalugarparteolugar,"*quedarse,*tener,*estar",,,,1,"vivienda,lugar,parte ó lugar"
+sentar,"*quedarse,*tener,*estar",,,,1,sentar
+asiento,"*quedarse,*tener,*estar",,,,1,asiento
+lindobonitohermoso,"*quedarse,*tener,*estar",,,,1,"lindo,bonito,hermoso"
+muylindo,"*quedarse,*tener,*estar",,,,1,muy lindo
+lindohermoso,"*quedarse,*tener,*estar",,,,1,"lindo, hermoso"
+seated,"*quedarse,*tener,*estar",,,,1,seated
+sientate,"*quedarse,*tener,*estar",,,,1,siéntate
+sits,"*quedarse,*tener,*estar",,,,1,sits
+ilya,"*quedarse,*tener,*estar",,,,1,il y a
+tenerhayvivirsentirquedar,"*quedarse,*tener,*estar",,,,1,"tener,hay,vivir,sentir,quedar"
+vivebienserio,"*quedarse,*tener,*estar",,,,1,vive bien serio
+sentaraterrizar,"*quedarse,*tener,*estar",,,,1,"sentar,aterrizar"
+pascanacampamento,"*quedarse,*tener,*estar",,,,1,"pascana,campamento"
+condicioncomplexionzurdo,"*quedarse,*tener,*estar",,,,1,"condición,complexión,zurdo"
+errante,"*quedarse,*tener,*estar",,,,1,errante
+guarida,"*quedarse,*tener,*estar",,,,1,guarida
+matriz,"*quedarse,*tener,*estar",,,,1,matriz
+estar,"*quedarse,*tener,*estar",,,,1,estar
+subirlevantar,"*quedarse,*tener,*estar",,,,1,"subir,levantar"
+depaseo,"*quedarse,*tener,*estar",,,,1,de paseo
+sentarse,"*quedarse,*tener,*estar",,,,1,sentarse
+sentado,"*quedarse,*tener,*estar",,,,1,sentado
+vivirestar,"*quedarse,*tener,*estar",,,,1,"vivir,estar"
+estoyterminando,"*terminar,*acabar",,,,1,estoy terminando
+acabado,"*terminar,*acabar",,,,1,acabado
+acabandocuandoseacaba,"*terminar,*acabar",,,,1,"acabando,cuando se acaba"
+contradiccion,"*terminar,*acabar",,,,1,contradicción
+contradictor,"*terminar,*acabar",,,,1,contradictor
+contradecir,"*terminar,*acabar",,,,1,Contradecir
+iracazar,*andar,,,,1,ir a cazar
+caminandopaseando,*andar,,,,1,"caminando,paseando"
+estanandando,*andar,,,,1,están andando
+walk,*andar,,,,1,walk
+cojo,*andar,,,,1,cojo
+casihacer,*andar,,,,1,casi hacer
+errar,*andar,,,,1,errar
+talvezasiseracasilomismoquea,*simple interrogante,,,,3,"tal vez,así será,casi lo mismo que a"
+seraasiasisera,*simple interrogante,,,,3,"será así,así será"
+lasenadeunainterrogacion,*simple interrogante,,,,3,la seña de una interrogación
+loquequequicosaalgun,*qué?,,,,3,"lo que,qué?,qui cosa?,algun"
+quesera,*qué?,,,,3,qué será?
+quecomo,*qué?,,,,3,"qué?,como?"
+quequiennada,*qué?,,,,3,"qué?,quién?,nada!"
+cosas,*cosa,,,,3,cosas
+cualquiercosa,*cosa,,,,3,cualquier cosa
+quientrans,*quién,,,,3,quién (trans.)
+quequien,*quién,,,,3,"qué?,quién?"
+conquien,*con qué?,,,,3,con quién?
+porque,*para qué?,,,,3,por qué?
+cuyo,*de quién,,,,3,cuyo
+quiensera,*quién,,,,3,quién será?
+quienes,*quién,,,,3,quienes
+algo,*quién,,,,3,algo
+who,*quién,,,,3,who?
+cual,*quién,,,,3,cual
+dequetamano,*quién,,,,3,de qué tamaño?
+cuantosdias,*quién,,,,3,cuantos días?
+cuantos,*quién,,,,3,cuantos?
+dondeesta,*quién,,,,3,donde está?
+dedonde,*quién,,,,3,de donde?
+cuando,*quién,,,,3,cuándo?
+pordonde,*quién,,,,3,por donde
+no,*interrogación,,,,3,no
+nonohay,*interrogación,,,,3,"no,no hay"
+avecqui,*interrogación,,,,3,avec qui?
+donde,*interrogación,,,,3,donde
+comosedice,*interrogación,,,,3,como se dice
+queesesto,*interrogación,,,,3,qué es esto
+queeseso,*interrogación,,,,3,qué es eso
+nohay,*interrogación,,,,3,no hay
+impossible,*interrogación,,,,3,impossible
+asilohace,*interrogación,,,,3,así lo hace
+parahacer,*interrogación,,,,3,para hacer
+abundancia,*interrogación,,,,3,abundancia
+abundar,*interrogación,,,,3,abundar
+adonde,*interrogación,,,,3,a donde?
+como,*interrogación,,,,3,cómo?
+comosehace,*interrogación,,,,3,cómo se hace?
+comoestausted,*interrogación,,,,3,cómo está Usted?
+espera,*interrogación,,,,3,espera!
+barbascobejuco,*barbasco,,,,4,barbasco (bejuco)
+resinadepaquio,*barbasco,,,,4,resina de paquió
+pampapajonal,*pampa,,,,5,"pampa,pajonal"
+grass,*pampa,,,,5,grass
+grassland,*pampa,,,,5,grassland
+pampapaja,*pampa,,,,5,"pampa,paja"
+teta,*teta,,,,6,teta
+tetilla,*teta,,,,6,tetilla
+testes,*teta,,,,6,testes
+leche,*teta,,,,6,leche
+breast,*teta,,,,6,breast
+breasts,*teta,,,,6,breasts
+lecheubre,*teta,,,,6,"leche,ubre"
+chontaloropalmera,*chontaloro,,,,7,chontaloro (palmera)
+arbolpalo,*árbol,,,,8,"árbol,palo"
+espina,*árbol,,,,8,espina
+suchipez,*árbol,,,,8,suchi (pez)
+manzanasilvestrearbol,*árbol,,,,8,manzana silvestre (árbol)
+gavetilloarbol,*árbol,,,,8,gavetillo (árbol)
+arboldecacao,*árbol,,,,8,árbol de cacao
+tree,*árbol,,,,8,tree
+leaf,*árbol,,,,8,leaf
+biarbolyfruta,*árbol,,,,8,bi (árbol y fruta)
+clasedearbol,*árbol,,,,8,clase de árbol
+ramadeyuca,*árbol,,,,8,rama de yuca
+bagrepez,*árbol,,,,8,bagre (pez)
+naranjo,*árbol,,,,8,naranjo
+garrotear,*árbol,,,,8,garrotear
+callapo,*árbol,,,,8,callapo
+coquino,*árbol,,,,8,coquino
+quemaquema,*árbol,,,,8,quemaquema
+gaveta,*árbol,,,,8,gaveta
+arbolpalanca,*árbol,,,,8,"árbol,palanca"
+spine,*árbol,,,,8,spine
+hemorragiaflujo,*sangre,,,,11,"hemorragia,flujo"
+disenteria,*sangre,,,,11,disentería
+salirsangre,*sangre,,,,11,salir sangre
+acusarse,*sangre,,,,11,acusarse
+blood,*sangre,,,,11,blood
+vena,*sangre,,,,11,vena
+hemorragia,*sangre,,,,11,hemorragia
+ensangrentar,*sangre,,,,11,ensangrentar
+exangueincruento,*sangre,,,,11,"exangüe,incruento"
+hemorragio,*sangre,,,,11,hemorragio
+desangrar,*sangre,,,,11,desangrar
+lenguamala,*lengua,,,,12,lengua mala
+tongue,*lengua,,,,12,tongue
+lingua,*lengua,,,,12,lingua
+lengualeyordencostumbreidioma,*lengua,,,,12,"lengua,ley,orden,costumbre,idioma"
+obedecercomplirhacercaso,*lengua,,,,12,"obedecer,complir,hacer caso"
+palador,*lengua,,,,12,palador
+zonzoopamudo,*lengua,,,,12,"zonzo,opa,mudo"
+mentirafalsodebalde,*lengua,,,,12,"mentira,falso,de balde"
+regalar,*lengua,,,,12,regalar
+puntodelengua,*lengua,,,,12,punto de lengua
+lenguachuta,*lengua,,,,12,lengua chuta
+zunge,*lengua,,,,12,Zunge
+palosantoarbol,*palo santo,,,,13,palo santo (árbol)
+palosantohormigadepalosanto,*palo santo,,,,13,"palo santo,hormiga de palo santo"
+palosantoyhormiga,*palo santo,,,,13,palo santo (y hormiga)
+mujervieja,*mujer,,,,14,mujer vieja
+woman,*mujer,,,,14,woman
+abuela,*mujer,,,,14,abuela
+abuelasuegra,*mujer,,,,14,"abuela,suegra"
+oldwoman,*mujer,,,,14,old woman
+obscurar,*obscuro,,,,16,obscurar
+denocheenlanoche,*obscuro,,,,16,"de noche,en la noche"
+demanana,*obscuro,,,,16,de mañana
+demadrugada,*obscuro,,,,16,de madrugada
+night,*obscuro,,,,16,night
+oscuro,*obscuro,,,,16,oscuro
+nubladoobscuromadrugada,*obscuro,,,,16,"nublado,obscuro,madrugada"
+obscurodenoche,*obscuro,,,,16,"obscuro,de noche"
+anocheceroscurecer,*obscuro,,,,16,"anochecer,oscurecer"
+sombra,*obscuro,,,,16,sombra
+perderdesaparecer,*obscuro,,,,16,"perder,desaparecer"
+perdersucolor,*obscuro,,,,16,perder su color
+eclipsedelsol,*obscuro,,,,16,eclipse del sol
+entenebrear,*obscuro,,,,16,entenebrear
+descolorar,*obscuro,,,,16,descolorar
+anublar,*obscuro,,,,16,anublar
+encapotar,*obscuro,,,,16,encapotar
+oscurecer,*obscuro,,,,16,oscurecer
+nube,*obscuro,,,,16,nube
+asombro,*obscuro,,,,16,asombro
+lobregueztinieblas,*obscuro,,,,16,"lobreguez,tinieblas"
+creciragrandar,"*crecer,agrandar",,,,17,"crecir,agrandar"
+grande,"*crecer,agrandar",,,,17,grande
+large,"*crecer,agrandar",,,,17,large
+storthus,"*crecer,agrandar",,,,17,stort hus
+stort,"*crecer,agrandar",,,,17,stort
+great,"*crecer,agrandar",,,,17,great
+grandegrueso,"*crecer,agrandar",,,,17,"grande,grueso"
+suchapez,"*crecer,agrandar",,,,17,sucha (pez)
+shoulder,*hombro,,,,18,shoulder
+paleta,*hombro,,,,18,paleta
+urinavenado,*hombro,,,,18,urina (venado)
+despaldillar,*hombro,,,,18,despaldillar
+barrioparcialidad,*amigo,,,,21,"barrio,parcialidad"
+amigoparientevecinopaisano,*amigo,,,,21,"amigo,pariente,vecino,paisano"
+enemigo,*amigo,,,,21,enemigo
+almaespiritu,*amigo,,,,21,"alma,espíritu"
+desalmado,*amigo,,,,21,desalmado
+consanguineo,*amigo,,,,21,consanguíneo
+barbonabejachica,*abeja,,,,22,barbón (abeja chica)
+clasedeabeja,*abeja,,,,22,clase de abeja
+tierramundosuelo,*mundo,,,,23,"tierra,mundo,suelo"
+llanura,*mundo,,,,23,llanura
+mundosuelopisoterreno,*mundo,,,,23,"mundo,suelo,piso,terreno"
+anta,*tapir,,,,24,anta
+antatapir,*tapir,,,,24,"anta,tapir"
+tapirfootplantsp,*tapir,,,,24,tapir foot (plant sp.)
+cunadohermanodemarido,*marido,,,,25,cuñado (hermano de marido)
+cunadahermanademarido,*marido,,,,25,cuñada (hermana de marido)
+suegramadredemarido,*marido,,,,25,suegra (madre de marido)
+suegropadredemarido,*marido,,,,25,suegro (padre de marido)
+soltera,*marido,,,,25,soltera
+concunada,*marido,,,,25,concuñada
+yerno,*marido,,,,25,yerno
+casarrefiereamujeres,*marido,,,,25,casar (refiere a mujeres)
+casamientobode,*marido,,,,25,"casamiento,bode"
+husband,*marido,,,,25,husband
+myhusband,*marido,,,,25,my husband
+viuda,*marido,,,,25,viuda
+enviudar,*marido,,,,25,enviudar
+cunada,*marido,,,,25,cuñada
+concunado,*marido,,,,25,concuñado
+novio,*marido,,,,25,novio
+machomarido,*marido,,,,25,"macho,marido"
+casada,*marido,,,,25,casada
+casarselamujer,*marido,,,,25,casarse (la mujer)
+sinmarido,*marido,,,,25,sin marido
+casarmujer,*marido,,,,25,casar (mujer)
+man,*marido,,,,25,man
+tenerasco,*sucio,,,,26,tener asco
+feo,*sucio,,,,26,feo
+feosucio,*sucio,,,,26,"feo,sucio"
+limpio,*sucio,,,,26,limpio
+contaminacion,*sucio,,,,26,contaminación
+depravacionembrutecerescombro,*sucio,,,,26,"depravación,embrutecer,escombro"
+depravadamente,*sucio,,,,26,depravadamente
+huella,"*mirar,ver",,,,27,huella
+ver,"*mirar,ver",,,,27,ver
+mirar,"*mirar,ver",,,,27,mirar
+mirarhaciaarriba,"*mirar,ver",,,,27,mirar hacia arriba
+escucharoir,"*mirar,ver",,,,27,"escuchar,oir"
+see,"*mirar,ver",,,,27,see
+venirvisitar,"*mirar,ver",,,,27,"venir,visitar"
+loqueve,"*mirar,ver",,,,27,lo que ve
+despertarencontrar,"*mirar,ver",,,,27,"despertar,encontrar"
+mirarencontrarconocer,"*mirar,ver",,,,27,"mirar,encontrar,conocer"
+guia,*mostrar,,,,27,guia
+colorparecido,*parecido,,,,27,"color,parecido"
+parecidoigual,*parecido,,,,27,"parecido,igual"
+nadafalta,*parecido,,,,27,"nada,falta"
+seve,*parecido,,,,27,se ve
+espreciso,*parecido,,,,27,es preciso
+ensenar,*saber,,,,27,enseñar
+aprender,*saber,,,,27,aprender
+sabe,*saber,,,,27,sabe
+prudentesabe,*saber,,,,27,"prudente,sabe"
+profesor,*saber,,,,27,profesor
+acordarse,*saber,,,,27,acordarse
+know,*saber,,,,27,know
+poza,*lago,,,,28,poza
+lake,*lago,,,,28,lake
+encuentroderio,"*rocío,sereno",,,,28,encuentro de río
+calmadoconpaz,"*rocío,sereno",,,,28,"calmado,con paz"
+codoesquina,*codo,,,,29,"codo,esquina"
+elbow,*codo,,,,29,elbow
+brazobrazoderio,*brazo,,,,29,"brazo,brazo de río"
+manco,*brazo,,,,29,manco
+aladerechabrazoderecho,*brazo,,,,29,"a la derecha,brazo derecho"
+alamangadevestida,*brazo,,,,29,"ala,manga de vestida"
+wing,*brazo,,,,29,wing
+arm,*brazo,,,,29,arm
+braccio,*brazo,,,,29,braccio
+pelodelbrazovello,*brazo,,,,29,"pelo del brazo,vello"
+pulso,*brazo,,,,29,pulso
+manga,*brazo,,,,29,manga
+punopunete,*brazo,,,,29,"puño,puñete"
+darpunete,*brazo,,,,29,dar puñete
+mana,*brazo,,,,29,maña
+manoso,*brazo,,,,29,mañoso
+alcanzar,*brazo,,,,29,alcanzar
+codobrazo,*brazo,,,,29,"codo,brazo"
+espaldasuperiorpulmones,*espalda,,,,29,"espalda superior,pulmones"
+backofbody,*espalda,,,,29,back of body
+friofresco,*frío,,,,30,"frío,fresco"
+hacerfrio,*frío,,,,30,hacer frío
+enfriarrefrescar,*frío,,,,30,"enfriar,refrescar"
+refrescar,*frío,,,,30,refrescar
+friolento,*frío,,,,30,friolento
+frescura,*frío,,,,30,frescura
+resfriar,*frío,,,,30,resfriar
+enfriar,*frío,,,,30,enfriar
+calofrio,*frío,,,,30,calofrío
+fiebrechills,*frío,,,,30,fiebre (chills?)
+cold,*frío,,,,30,cold
+nohacefrio,*frío,,,,30,no hace frío
+cielodondemoradios,*cielo,,,,31,cielo (donde mora Dios)
+arriba,*cielo,,,,31,arriba
+bienarribaalto,*cielo,,,,31,"bien arriba,alto"
+dearriba,*cielo,,,,31,de arriba
+sky,*cielo,,,,31,sky
+su,*cielo,,,,31,sù
+giu,*cielo,,,,31,giù
+heaven,*cielo,,,,31,heaven
+alzadora,*cielo,,,,31,alzadora
+noon,*cielo,,,,31,noon
+mediodia,*cielo,,,,31,medio día
+alcanzarconseguir,*cielo,,,,31,"alcanzar,conseguir"
+skyheavens,*cielo,,,,31,"sky,heavens"
+pasarganaralargar,*cielo,,,,31,"pasar,ganar,alargar"
+coronacelebro,*cielo,,,,31,"corona,celebro"
+encopetar,*cielo,,,,31,encopetar
+tall,*largo,,,,31,tall
+altolargo,*largo,,,,31,"alto,largo"
+cortojuatoco,*largo,,,,31,"corto,juatoco"
+estatura,*largo,,,,31,estatura
+cieloarriba,*largo,,,,31,"cielo,arriba"
+ajoajoarbol,*ajoajo,,,,32,ajoajo (árbol)
+hombreviejo,*abuelo,,,,33,hombre viejo
+suabuelo,*abuelo,,,,33,su abuelo
+chefduvillage,*abuelo,,,,33,chef du village
+dieucreateur,*abuelo,,,,33,dieu créateur
+antiguosantecesores,*abuelo,,,,33,"antiguos,antecesores"
+abuelos,*abuelo,,,,33,abuelos
+abuelosuegro,*abuelo,,,,33,"abuelo,suegro"
+suchacoloradapez,*abuelo,,,,33,sucha colorada (pez)
+grandfather,*abuelo,,,,33,grandfather
+uncle,*abuelo,,,,33,uncle
+paquioarbolgrande,*cedro,,,,34,paquío (arbol grande)
+unbejucoconpapasquesecomen,*gualusa,,,,35,un bejuco con papas que se comen
+gualusatuberculo,*gualusa,,,,35,gualusa (tubérculo)
+hamaca,*colgar,,,,36,hamaca
+viver,*colgar,,,,36,viver
+quedar,*colgar,,,,36,quedar
+encostar,*colgar,,,,36,encostar
+colgable,*colgar,,,,36,colgable
+lunanueva,*luna,,,,37,luna nueva
+moon,*luna,,,,37,moon
+mese,*luna,,,,37,mese
+lunames,*luna,,,,37,"luna,mes"
+novilunio,*luna,,,,37,novilunio
+impertinentemolesto,*desidia,,,,38,"impertinente,molesto"
+aburrirse,*desidia,,,,38,aburrirse
+desidioso,*desidia,,,,38,desidioso
+gorronazo,*desidia,,,,38,gorronazo
+gorrista,*desidia,,,,38,gorrista
+hilado,*hilar,,,,39,hilado
+comprarpedir,*pedir,,,,40,"comprar,pedir"
+estoypidiendo,*pedir,,,,40,estoy pidiendo
+voyapedir,*pedir,,,,40,voy a pedir
+preguntar,*pedir,,,,40,preguntar
+pedirreclamar,*pedir,,,,40,"pedir,reclamar"
+pedirsuplicarsuplica,*pedir,,,,40,"pedir,suplicar,súplica"
+peticion,*pedir,,,,40,petición
+ruego,*pedir,,,,40,ruego
+indagar,*pedir,,,,40,indagar
+decir,*pedir,,,,40,decir
+concederdevocion,*pedir,,,,40,"conceder,devoción"
+name,*nombre,,,,41,name
+nom,*nombre,,,,41,nom
+innominado,*nombre,,,,41,innominado
+nombrar,*nombre,,,,41,nombrar
+jochipintadoaguti,*jochi pintado,,,,42,jochi pintado (aguti)
+viboro,*víbora,,,,43,víboro
+hojadevibora,*víbora,,,,43,hoja de víbora
+snake,*víbora,,,,43,snake
+waterboa,*víbora,,,,43,water boa
+rattlesnake,*víbora,,,,43,rattlesnake
+culebraserpientevibora,*víbora,,,,43,"culebra,serpiente,víbora"
+cheperequiarbol,*víbora,,,,43,cheperequi (árbol)
+laflormoradodeunarbol,*víbora,,,,43,la flor morado de un árbol
+groscahidra,*víbora,,,,43,"grosca,hidra"
+coral,*víbora,,,,43,coral
+nuera,*hijo,,,,44,nuera
+sobrinaohijaodehermanademadreodehermanodepadre,*hijo,,,,44,sobrina/o (hija/o de hermana de madre o de hermano de padre)
+hija,*hijo,,,,44,hija
+mydaughterson,*hijo,,,,44,my daughter/son
+son,*hijo,,,,44,son
+daufhter,*hijo,,,,44,daufhter
+muchachachica,*hijo,,,,44,muchacha (chica)
+criaturamuchacho,*hijo,,,,44,"criatura,muchacho"
+muchacho,*hijo,,,,44,muchacho
+ahijado,*hijo,,,,44,ahijado
+filial,*hijo,,,,44,filial
+sobrino,*hijo,,,,44,sobrino
+hijastro,*hijo,,,,44,hijastro
+paria,*hijo,,,,44,paria
+boy,*hijo,,,,44,boy
+punzonpaloparasembrar,*sembrar,,,,45,"punzón,palo para sembrar"
+caricariarbolconespina,*caricari,,,,46,caricari (árbol con espina)
+jausi,"*jausi,lagartija",,,,47,jausi
+peniclasedelagarto,"*jausi,lagartija",,,,47,peni (clase de lagarto)
+lagartija,"*jausi,lagartija",,,,47,lagartija
+salado,*sal,,,,48,salado
+salt,*sal,,,,48,salt
+sinsal,*sal,,,,48,sin sal
+estaconsal,*sal,,,,48,está con sal
+acomodararreglar,*acomodar,,,,49,"acomodar,arreglar"
+adornadocompuesto,*acomodar,,,,49,"adornado,compuesto"
+componer,*acomodar,,,,49,componer
+entretener,*acomodar,,,,49,entretener
+acomodarlimpiarcomponer,*acomodar,,,,49,"acomodar,limpiar,componer"
+acomodado,*acomodar,,,,49,acomodado
+arrojarvomitar,*arrojar,,,,50,"arrojar,vomitar"
+volcar,*arrojar,,,,50,volcar
+tiestodebarrotostador,*tostar,,,,51,"tiesto de barro,tostador"
+tostarfreir,*tostar,,,,51,"tostar,freir"
+turbioaguaturbia,*ventear,,,,52,"turbio,agua turbia"
+flato,*ventear,,,,52,flato
+huelgoeructar,*ventear,,,,52,"huelgo,eructar"
+mecelo,*ventear,,,,52,mécelo
+wind,*viento,,,,52,wind
+vento,*viento,,,,52,vento
+sur,*viento,,,,52,sur
+ventarron,*viento,,,,52,ventarron
+mandardespachar,*traer,,,,53,"mandar,despachar"
+aparejar,*traer,,,,53,aparejar
+espinaza,*espalda,,,,54,espinaza
+venadelahojadelmotacu,*espalda,,,,54,vena de la hoja del motacú
+mangoegcuchillo,*espalda,,,,54,"mango,e.g.,cuchillo"
+back,*espalda,,,,54,back
+rinones,*espalda,,,,54,riñones
+clavicula,*espalda,,,,54,clavícula
+nadarbracear,*nadar,,,,54,"nadar,bracear"
+anado,*nadar,,,,54,a nado
+banarse,*nadar,,,,54,bañarse
+cruzarelrio,*nadar,,,,54,cruzar (el río)
+porencimamontado,*encima,,,,55,"por encima,montado"
+encimasobremuy,*encima,,,,55,"encima,sobre,muy"
+demasiadopordemas,*encima,,,,55,"demasiado,por de más"
+peorpordemas,*encima,,,,55,"peor,por de más"
+engradecer,*encima,,,,55,engradecer
+enteramente,*encima,,,,55,enteramente
+externo,*encima,,,,55,externo
+creciente,*encima,,,,55,creciente
+enorme,*encima,,,,55,enorme
+extraordinario,*encima,,,,55,extraordinario
+intemporie,*encima,,,,55,intemporie
+tapar,*también,,,,55,tapar
+demasiadomuchoencima,*también,,,,55,"demasiado,mucho,encima"
+antes,*también,,,,55,antes
+tambiennadaauntodaviaaunqueencuanto,*también,,,,55,"tambien,nada,aún todavía,aunque,en cuanto"
+velar,*también,,,,55,velar
+encomendar,*también,,,,55,encomendar
+enjugar,*también,,,,55,enjugar
+apurarse,*también,,,,55,apurarse
+defenderseresistirse,*también,,,,55,"defenderse,resistirse"
+fardo,*también,,,,55,fardo
+seguido,*también,,,,55,seguido
+enfermercontagiar,*también,,,,55,"enfermer,contagiar"
+arribarioarriba,*río arriba,,,,55,arriba (río arriba)
+arribadelrio,*río arriba,,,,55,arriba del río
+enhaut,*río arriba,,,,55,en haut
+above,*río arriba,,,,55,above
+buzzard,*buitre negro,,,,56,buzzard
+sucha,*buitre negro,,,,56,sucha
+gallinazo,*buitre negro,,,,56,gallinazo
+alegria,"*feliz,alegre,contento",,,,57,alegría
+alegrecontento,"*feliz,alegre,contento",,,,57,"alegre,contento"
+carinohalago,"*feliz,alegre,contento",,,,57,"cariño,halago"
+halagocarinohalagar,"*feliz,alegre,contento",,,,57,"halago,cariño,halagar"
+acaricialo,"*feliz,alegre,contento",,,,57,acarícialo
+afortunado,"*feliz,alegre,contento",,,,57,afortunado
+contento,"*feliz,alegre,contento",,,,57,contento
+estacontento,"*feliz,alegre,contento",,,,57,está contento
+adorar,"*feliz,alegre,contento",,,,57,adorar
+alegrarse,"*feliz,alegre,contento",,,,57,alegrarse
+chistoso,*querer,,,,57,chistoso
+conseguirandaratenersuerte,*querer,,,,57,"conseguir,andar atener suerte"
+quererdesearagradartenerganasgustar,*querer,,,,57,"querer,desear,agradar,tener ganas,gustar"
+prohibirnoquerer,*querer,,,,57,"prohibir,no querer"
+determinar,*querer,,,,57,determinar
+indeterminado,*querer,,,,57,indeterminado
+cosquilloso,*querer,,,,57,cosquilloso
+tick,*garrapata,,,,58,tick
+afinarconazuela,*escarbar,,,,59,afinar (con azuela)
+ya,*viejo,,,,60,ya
+viejoantiguoantes,*viejo,,,,60,"viejo,antiguo,antes"
+two,*dos,,,,61,two
+gemelo,*dos,,,,61,gemelo
+3,*dos,,,,61,3
+4,*dos,,,,61,4
+algunos,*dos,,,,61,algunos
+jugar,*dos,,,,61,jugar
+2,*dos,,,,61,2
+perezoso,"*oso hormiguero,oso perezoso",,,,62,perezoso
+osohormiguero,"*oso hormiguero,oso perezoso",,,,62,oso hormiguero
+oso,"*oso hormiguero,oso perezoso",,,,62,oso
+liendre,*piojo,,,,63,liendre
+lice,*piojo,,,,63,lice
+louse,*piojo,,,,63,louse
+despiojar,*piojo,,,,63,despiojar
+expulgar,*piojo,,,,63,expulgar
+piojera,*piojo,,,,63,piojera
+canoacedro,*balsa,,,,65,"canoa,cedro"
+espaldadelacanoa,*balsa,,,,65,espalda de la canoa
+cascaradelcedro,*balsa,,,,65,cáscara del cedro
+popadelacanoa,*balsa,,,,65,popa de la canoa
+canoajuguete,*balsa,,,,65,canoa (juguete)
+palomacuquisa,*cuquisa,,,,66,paloma cuquisa
+cuquisa,*cuquisa,,,,66,cuquisa
+chilechilipepper,*ají,,,,67,"chile,chili pepper"
+triste,*pesado,,,,68,triste
+muypesado,*pesado,,,,68,muy pesado
+nopesado,*pesado,,,,68,no pesado
+bat,*murciélago,,,,69,bat
+grandemurcielago,*murciélago,,,,69,grande murciélago
+pequenomurcielago,*murciélago,,,,69,pequeño murciélago
+peto,"*avispo,peto",,,,70,peto
+clasedevibora,"*avispo,peto",,,,70,clase de víbora
+avispa,"*avispo,peto",,,,70,avispa
+endulcer,*dulce,,,,71,endulcer
+dolce,*dulce,,,,71,dolce
+endulzer,*dulce,,,,71,endulzer
+cueropielcascaracorteza,*piel,,,,72,"cuero,piel,cáscara,corteza"
+skin,*piel,,,,72,skin
+bark,*piel,,,,72,bark
+pielcutiscuero,*piel,,,,72,"piel,cutis,cuero"
+descascarar,*piel,,,,72,descascarar
+spidermonkey,*marimono,,,,74,spider monkey
+monomaquisapa,*marimono,,,,74,mono maquisapa
+mentira,*vergüenza,,,,75,mentira
+mentir,*vergüenza,,,,75,mentir
+mentiroso,*vergüenza,,,,75,mentiroso
+tenerverguenza,*vergüenza,,,,75,tener vergüenza
+avergonzado,*vergüenza,,,,75,avergonzado
+vergonzoso,*vergüenza,,,,75,vergonzoso
+estaenfadado,*vergüenza,,,,75,está enfadado
+suciedadnubo,*sucio,,,,76,"suciedad,nubo"
+nubladosucio,*sucio,,,,76,"nublado,sucio"
+mancha,*sucio,,,,76,mancha
+manchar,*sucio,,,,76,manchar
+limpiada,*sucio,,,,76,limpiada
+limpialimpieza,*sucio,,,,76,"limpia,limpieza"
+pureza,*sucio,,,,76,pureza
+limpiar,*sucio,,,,76,limpiar
+escoba,*basura,,,,76,escoba
+delantedealfrente,*par,,,,77,"delante de,al frente"
+sinpar,*par,,,,77,sin par
+recto,*par,,,,77,recto
+paralelo,*par,,,,77,paralelo
+correctolaverdad,*par,,,,77,"correcto,la verdad"
+canilla,*par,,,,77,canilla
+recienprimeravez,*par,,,,77,"recién,primera vez"
+asicomoparece,*par,,,,77,"así como,parece"
+carilucio,*par,,,,77,carilucio
+carinegro,*par,,,,77,carinegro
+falso,*cara,,,,77,falso
+amboslados,*cara,,,,77,ambos lados
+seriocarabrava,*cara,,,,77,"serio,cara brava"
+sien,*cara,,,,77,sien
+aunlado,*cara,,,,77,a un lado
+unladootrolado,*cara,,,,77,"un lado,otro lado"
+companero,*cara,,,,77,compañero
+tuerto,*cara,,,,77,tuerto
+face,*cara,,,,77,face
+faccia,*cara,,,,77,faccia
+eyebrow,*cara,,,,77,eyebrow
+pluma,*cara,,,,77,pluma
+pozoenelrioremanso,*abajo,,,,78,"pozo en el río,remanso"
+tropezar,*abajo,,,,78,tropezar
+bajadapuerto,*bajar,,,,78,"bajada,puerto"
+inclinateencurbate,*bajar,,,,78,"inclínate,encúrbate"
+sitdown,*bajar,,,,78,sit down
+puerto,*bajar,,,,78,puerto
+sobrinoahijoadehermanodemadre,*sobrino/a,,,,79,sobrino/a (hijo/a de hermano de madre)
+sobrina,*sobrino/a,,,,79,sobrina
+meleroanimal,*melero,,,,80,melero (animal)
+tucanderahormigagrandequipicafuerte,*tucandera,,,,81,tucandera (hormiga grande qui pica fuerte)
+perdizdelmonte,*perdiz,,,,82,perdiz del monte
+perdizazulgrande,*perdiz,,,,82,perdiz azul (grande)
+bird,*perdiz,,,,82,bird
+uccello,*perdiz,,,,82,uccello
+perdizgrande,*perdiz,,,,82,perdiz grande
+perotoarbol,*guayaba (árbol),,,,83,perotó (árbol)
+bienrisueno,*risueño,,,,84,bien risueño
+partirreventar,*risueño,,,,84,"partir,reventar"
+gozogozoso,*risueño,,,,84,"gozo,gozoso"
+gozar,*risueño,,,,84,gozar
+ansiaansiar,*risueño,,,,84,"ansia,ansiar"
+especiedesapo,"*rana,sapo",,,,85,especie de sapo
+viborasapo,"*rana,sapo",,,,85,víbora sapo
+frog,"*rana,sapo",,,,85,frog
+viborayoperojobobo,"*rana,sapo",,,,85,víbora (yoperojobobo)
+pusmateria,"*pus,materia",,,,86,"pus,materia"
+materiapus,"*pus,materia",,,,86,"materia,pus"
+apostema,"*pus,materia",,,,86,apostema
+pus,"*pus,materia",,,,86,pus
+cane,"*chuchio,charo,caña brava",,,,87,cane
+chuchiocharo,"*chuchio,charo,caña brava",,,,87,"chuchio,charo"
+canabrava,"*chuchio,charo,caña brava",,,,87,caña brava
+pumadeflechafloracion,*floración,,,,88,"puma (de flecha),floración"
+urupecedazohechodehojasdepalmatorcidas,*floración,,,,88,"urupé,cedazo hecho de hojas de palma torcidas"
+intestinostodalatripa,*floración,,,,88,intestinos (toda la tripa)
+mapajualgodonsilvestrearbolconsedavegetal,*floración,,,,88,"mapaju,algodon silvestre (árbol con seda vegetal)"
+pina,*floración,,,,88,piña
+afrechachalajachi,*floración,,,,88,"afrecha,chala,jachi"
+florecer,*floración,,,,88,florecer
+hair,*floración,,,,88,hair
+darguascaflorecer,*floración,,,,88,"dar guasca,florecer"
+atoakakaunafrutadelmonte,*floración,,,,88,atoakaka (una fruta del monte)
+guayaba,*floración,,,,88,guayaba
+mapajoarbol,*floración,,,,88,mapajo (árbol)
+jachi,*floración,,,,88,jachi
+unafruta,*floración,,,,88,una fruta
+tutumamate,*floración,,,,88,"tutumá,mate"
+surco,*cabello,,,,88,surco
+cappelli,*cabello,,,,88,cappelli
+peludovelludo,*cabello,,,,88,"peludo,velludo"
+cabellopello,*cabello,,,,88,"cabello,pello"
+empelar,*cabello,,,,88,empelar
+quedeja,*cabello,,,,88,quedeja
+crencha,*cabello,,,,88,crencha
+cabellocorto,*cabello,,,,88,cabello corto
+mojer,*mojar,,,,89,mojer
+mojado,*mojar,,,,89,mojado
+rozarchaquear,*mojar,,,,89,"rozar,chaquear"
+chilchiarlloviznar,*mojar,,,,89,chilchiar (lloviznar)
+reirsonreir,*reír,,,,90,"reír,sonreír"
+estanenamorados,*reír,,,,90,están enamorados
+sonrisa,*reír,,,,90,sonrisa
+reirse,*reír,,,,90,reirse
+asustarse,*reír,,,,90,asustarse
+feliz,*reír,,,,90,feliz
+rire,*reír,,,,90,rire
+orillabordecanto,*orilla,,,,91,"orilla,borde,canto"
+albordedelrio,*orilla,,,,91,alborde del río
+yonecesito,*necesito,,,,92,yo necesito
+nonecesito,*necesito,,,,92,no necesito
+quereryonecesito,*necesito,,,,92,"querer,yo necesito"
+estabuscandounacosaquenecesita,*necesito,,,,92,está buscando una cosa que necesita
+necesidad,*necesito,,,,92,necesidad
+buscar,*necesito,,,,92,buscar
+pieytobillocanillapieotroncodeunarbolpatadeunanimal,"*pie,pierna",,,,93,"pié y tobillo,canilla,pié o tronco de un árbol,pata de un animal"
+vuelcalo,"*pie,pierna",,,,93,vuélcalo
+alras,"*pie,pierna",,,,93,al ras
+root,"*pie,pierna",,,,93,root
+entrepiernas,"*pie,pierna",,,,93,entrepiernas
+raizofatree,"*pie,pierna",,,,93,raíz (of a tree)
+sesomedula,*cabeza,,,,94,"seso,médula"
+seso,*cabeza,,,,94,seso
+almohada,*cabeza,,,,94,almohada
+calavera,*cabeza,,,,94,calavera
+calvo,*cabeza,,,,94,calvo
+rubio,*cabeza,,,,94,rubio
+dandruff,*cabeza,,,,94,dandruff
+untadetacuaradeflecha,*punta de flecha hecha de tacuara raspada,,,,95,unta de tacuara de flecha
+flecheapointedecanabrava,*punta de flecha hecha de tacuara raspada,,,,95,flèche à pointe de caña brava
+tuetano,*hueso,,,,96,tuétano
+bone,*hueso,,,,96,bone
+huesojipurinervioprincipaldelahojadelapalmeratotai,*hueso,,,,96,"hueso,jipurí (nervio principal de la hoja de la palmera totai)"
+encia,*diente,,,,98,encía
+colmillo,*diente,,,,98,colmillo
+ganchohorqueta,*diente,,,,98,"gancho,horqueta"
+condientes,*diente,,,,98,con dientes
+punta,*diente,,,,98,punta
+tooth,*diente,,,,98,tooth
+teeth,*diente,,,,98,teeth
+dente,*diente,,,,98,dente
+sindiente,*diente,,,,98,sin diente
+dentellar,*diente,,,,98,dentellar
+denton,*diente,,,,98,dentón
+dentera,*diente,,,,98,dentera
+dentado,*diente,,,,98,dentado
+endentecer,*diente,,,,98,endentecer
+sindientes,*diente,,,,98,sin dientes
+encias,*diente,,,,98,encias
+udsdualintrans,*dual suffix,,,,99,Uds. (dual/intrans.)
+ellosdualintrans,*dual suffix,,,,99,ellos (dual/intrans.)
+nosotrosdualinclintrans,*dual suffix,,,,99,nosotros (dual/incl./intrans.)
+nosotrosdualexclintrans,*dual suffix,,,,99,nosotros (dual/excl./intrans.)
+dualsuffixfornouns,*dual suffix,,,,99,dual suffix for nouns
+nosotrosdos,*dual suffix,,,,99,nosotros dos
+ambosellosdos,*dual suffix,,,,99,"ambos,ellos dos"
+dentrambos,*dual suffix,,,,99,dentrambos
+gritargrunirchillar,*gritar,,,,100,"gritar,gruñir,chillar"
+griton,*gritar,,,,100,gritón
+gritoahuillidograznido,*gritar,,,,100,"grito,ahuillido,graznido"
+vivosanochacotagritogriterio,*gritar,,,,100,"vivo,sano,chacota,grito,griterio"
+insaludable,*gritar,,,,100,insaludable
+rojo,*gritar,,,,100,rojo
+contender,*gritar,,,,100,contender
+chacotearsanar,*gritar,,,,100,"chacotear,sanar"
+curar,*gritar,,,,100,curar
+curarsalvar,*gritar,,,,100,"curar,salvar"
+curanderosalvador,*gritar,,,,100,"curandero,salvador"
+zorro,*gritar,,,,100,zorro
+disfavor,*gritar,,,,100,disfavor
+fermentarlachicha,"*fuerte,agrio",,,,101,fermentar la chicha
+borracho,"*fuerte,agrio",,,,101,borracho
+emborracher,"*fuerte,agrio",,,,101,emborracher
+avinegrado,"*fuerte,agrio",,,,101,avinegrado
+strong,"*fuerte,agrio",,,,101,strong
+agrio,"*fuerte,agrio",,,,101,agrio
+noagrio,"*fuerte,agrio",,,,101,no agrio
+galapago,*pecho,,,,102,galápago
+chest,*pecho,,,,102,chest
+petto,*pecho,,,,102,petto
+vellodelpecho,*pecho,,,,102,vello del pecho
+poitrine,*pecho,,,,102,poitrine
+patio,"*puerta,afuera",,,,103,patio
+doorwayoutside,"*puerta,afuera",,,,103,"doorway,outside"
+afuera,"*puerta,afuera",,,,103,a fuera
+puertaentrada,"*puerta,afuera",,,,103,"puerta,entrada"
+abierto,"*puerta,afuera",,,,103,abierto
+porafuera,"*puerta,afuera",,,,103,por afuera
+puertaabertura,"*puerta,afuera",,,,103,"puerta,abertura"
+estaafuera,"*puerta,afuera",,,,103,está afuera
+salirafuera,"*puerta,afuera",,,,103,salir afuera
+puerta,"*puerta,afuera",,,,103,puerta
+cerrable,"*puerta,afuera",,,,103,cerrable
+worm,*gusano,,,,104,worm
+desapolillar,*gusano,,,,104,desapolillar
+grasagordura,"*grasa,gordura",,,,105,"grasa,gordura"
+gordura,"*grasa,gordura",,,,105,gordura
+gordo,"*grasa,gordura",,,,105,gordo
+engordar,"*grasa,gordura",,,,105,engordar
+grasagordubaaceite,"*grasa,gordura",,,,105,"grasa,gorduba,aceite"
+disfrazar,"*grasa,gordura",,,,105,disfrazar
+desengrasar,"*grasa,gordura",,,,105,desengrasar
+aceiteseto,"*grasa,gordura",,,,105,"aceite,seto"
+engordarse,"*grasa,gordura",,,,105,engordarse
+engordargordo,"*grasa,gordura",,,,105,"engordar,gordo"
+fat,"*grasa,gordura",,,,105,fat
+probar,*lamer,,,,106,probar
+jadearlamergustar,*lamer,,,,106,"jadear,lamer,gustar"
+disgusto,*lamer,,,,106,disgusto
+planchar,*lamer,,,,106,planchar
+enganchar,*gancho,,,,107,enganchar
+ganchopalcaparatejer,*gancho,,,,107,"gancho,palca (para tejer)"
+hacha,*gancho,,,,107,hacha
+atravesar,*gancho,,,,107,atravesar
+desgujardeszumar,*atorar,,,,108,"desgujar,deszumar"
+estrangularahorcar,*atorar,,,,108,"estrangular,ahorcar"
+tarde,"*día,fiesta",,,,109,tarde
+day,"*día,fiesta",,,,109,day
+evening,"*día,fiesta",,,,109,evening
+inthisday,"*día,fiesta",,,,109,in (this) day
+fiestagrande,"*día,fiesta",,,,109,fiesta grande
+diafestividad,"*día,fiesta",,,,109,"día,festividad"
+fiesta,"*día,fiesta",,,,109,fiesta
+tempranoenlatarde,"*día,fiesta",,,,109,temprano en la tarde
+sehizotarde,"*día,fiesta",,,,109,se hizo tarde
+latarde,"*día,fiesta",,,,109,la tarde
+afternoon,"*día,fiesta",,,,109,afternoon
+techar,*tejer,,,,110,techar
+bientejido,*tejer,,,,110,bien tejido
+ladron,*robar,,,,111,ladrón
+robadolisiadoherido,*robar,,,,111,"robado,lisiado,herido"
+steak,*robar,,,,111,steak
+defraudar,*robar,,,,111,defraudar
+hurtable,*robar,,,,111,hurtable
+rob,*robar,,,,111,rob
+thief,*robar,,,,111,thief
+marayaupalmera,*palmera,,,,112,marayaú (palmera)
+clasedepalmera,*palmera,,,,112,clase de palmera
+palmiche,*palmera,,,,112,palmiche
+jejenemarihui,*marihuí,,,,113,"jejene,marihuí"
+nigua,*marihuí,,,,113,nigua
+secretamentecallado,*excusar,,,,114,"secretamente,callado"
+cuidarespiar,*excusar,,,,114,"cuidar,espiar"
+excusaexcusarfingir,*excusar,,,,114,"excusa,excusar,fingir"
+fingido,*excusar,,,,114,fingido
+excusable,*excusar,,,,114,excusable
+fingidamente,*excusar,,,,114,fingidamente
+rincondecases,*grano,,,,115,rincon (de cases)
+escamas,*grano,,,,115,escamas
+ingle,*esquina,,,,115,ingle
+aguja,*esquina,,,,115,aguja
+esquinarinconmuslo,*esquina,,,,115,"esquina,rincón,muslo"
+cuadro,*esquina,,,,115,cuadro
+semilla,*esquina,,,,115,semilla
+mordidosporgusanos,"*boro,gusano",,,,116,mordidos por gusanos
+engusanarse,"*boro,gusano",,,,116,engusanarse
+gusanera,"*boro,gusano",,,,116,gusanera
+boro,"*boro,gusano",,,,116,boro
+carachupa,"*boro,gusano",,,,116,carachupa
+viboratatu,*tatú,,,,117,víbora tatú
+pejichi,*tatú,,,,117,pejichi
+armadillo,*tatú,,,,117,armadillo
+quincekilosclasedetatu,*tatú,,,,117,quince kilos (clase de tatú)
+vejiganatatoriohipo,*hipo,,,,118,"vejiga,natatorio,hipo"
+tenerhijo,*hipo,,,,118,tener hijo
+senobajovientre,*hipo,,,,118,"seno,bajo vientre"
+tenerhipo,*hipo,,,,118,tener hipo
+hiccough,*hipo,,,,118,hiccough
+mordidomordedura,*morder,,,,119,"mordido,mordedura"
+vinegrera,*morder,,,,119,vinegrera
+ensartarenunpalo,*morder,,,,119,ensartar en un palo
+hayqueensartar,*morder,,,,119,hay que ensartar
+tengovinegrera,*morder,,,,119,tengo vinegrera
+hacemuchotiempo,"*cuando,harto",,,,121,hace mucho tiempo
+tardarse,"*cuando,harto",,,,121,tardarse
+tardarmucho,"*cuando,harto",,,,121,tardar mucho
+harto,"*cuando,harto",,,,121,harto
+estada,"*cuando,harto",,,,121,estada
+mirarparaarriba,*subir,,,,122,mirar para arriba
+subida,*subir,,,,122,subida
+alzar,*subir,,,,122,alzar
+resurrected,*subir,,,,122,resurrected
+subirarribar,*subir,,,,122,"subir,arribar"
+levantarse,*subir,,,,122,levantarse
+arribarsubir,*subir,,,,122,"arribar,subir"
+levantar,*subir,,,,122,levantar
+levantarsedepie,*subir,,,,122,levantarse (de pié)
+mangocabo,*aro,,,,123,"mango,cabo"
+vozgrito,*voz,,,,124,"voz,grito"
+palabraidioma,*voz,,,,124,"palabra,idioma"
+cantar,*voz,,,,124,cantar
+conversaron,*voz,,,,124,conversaron
+lenguaidioma,*voz,,,,124,"lengua,idioma"
+andarencontrar,*encontrar,,,,125,andar encontrar
+loencontro,*encontrar,,,,125,lo encontró
+encuentro,*encontrar,,,,125,encuentro
+encuentrodeunrio,*encontrar,,,,125,encuentro de un río
+ombligoespeciedeozomuychico,*ombligo,,,,126,"ombligo,especie de ozo muy chico"
+clasedeanimal,*ombligo,,,,126,clase de animal
+assertiveparticle,*adjectivizing suffix,,,,127,assertive particle
+palitocomopatademesaosillapalcaparatejarcabomango,*palo,,,,128,"palito (como pata de mesa o silla),palca para tejar,cabo,mango"
+escaleradebalsa,*palo,,,,128,escalera de balsa
+ganchogarfiomuesca,*palo,,,,128,"gancho,garfio,muesca"
+dardo,*palo,,,,128,dardo
+rodilla,*palo,,,,128,rodilla
+sacarpaloparapescar,*palo,,,,128,sacar palo para pescar
+ensalmarhunadahuso,*palo,,,,128,"ensalmar,hunada,huso"
+cadera,*palo,,,,128,cadera
+espaldadelacanoe,*palo,,,,128,espalda de la canoe
+ralonotupido,*caer,,,,129,"ralo,no tupido"
+hacercaer,*caer,,,,129,hacer caer
+destechar,*caer,,,,129,destechar
+calvaencalvecer,*caer,,,,129,"calva,encalvecer"
+vomitararrojarempachar,*caer,,,,129,"vomitar,arrojar,empachar"
+tabanonegro,*tábano,,,,130,tábano negro
+tabanogrande,*tábano,,,,130,tábano grande
+cuernoastaespolongarron,*cuerno,,,,131,"cuerno,asta,espolón,garrón"
+cornetavaca,*cuerno,,,,131,corneta (vaca)
+grisopez,*cuerno,,,,131,griso (pez)
+espolon,*cuerno,,,,131,espolón
+petadeagua,"*tortuga,peta",,,,132,peta (de agua)
+peta,"*tortuga,peta",,,,132,peta
+petaseca,"*tortuga,peta",,,,132,peta seca
+tortugagrande,"*tortuga,peta",,,,132,tortuga grande
+turtle,"*tortuga,peta",,,,132,turtle
+tortoise,"*tortuga,peta",,,,132,tortoise
+petadelmonte,"*tortuga,peta",,,,132,peta del monte
+anotimeofturtles,"*tortuga,peta",,,,132,año (time of turtles)
+tortugadetierra,"*tortuga,peta",,,,132,tortuga de tierra)
+ardillamasi,*ardilla,,,,133,"ardilla,masi"
+rasparconcualquierinstrumentosinfilopelar,*raspar,,,,134,"raspar (con cualquier instrumento sin filo),pelar"
+peluquear,*raspar,,,,134,peluquear
+hombrecito,hombre,,,,135,hombrecito
+young,hombre,,,,135,young
+people,hombre,,,,135,people
+bodypeople,hombre,,,,135,"body,people"
+hombrevaronmacho,hombre,,,,135,"hombre,varón,macho"
+marimacho,hombre,,,,135,marimacho
+hombron,hombre,,,,135,hombrón
+mosquitozancudo,*mosquito,,,,137,"mosquito,zancudo"
+muchosmosquitos,*mosquito,,,,137,muchos mosquitos
+zancudo,*mosquito,,,,137,zancudo
+trail,*camino,,,,138,trail
+strada,*camino,,,,138,strada
+calle,*camino,,,,138,calle
+enelcamino,*camino,,,,138,en el camino
+hostigar,*camino,,,,138,hostigar
+rayar,*camino,,,,138,rayar
+parientehermano,*pariente,,,,139,"pariente,hermano"
+muchohartotienehermanosbandada,*pariente,,,,139,"mucho,harto,tiene hermanos,bandada"
+hermanamayorentremujeres,*pariente,,,,139,hermana mayor (entre mujeres)
+cunadomaridodehermana,*pariente,,,,139,cuñado (marido de hermana)
+much,*pariente,,,,139,much
+oldersister,*pariente,,,,139,older sister
+parents,*pariente,,,,139,parents
+brother,*pariente,,,,139,brother
+sister,*pariente,,,,139,sister
+campanero,*pariente,,,,139,campañero
+todocompleto,*pariente,,,,139,"todo,completo"
+noestodo,*pariente,,,,139,no es todo
+todaspartestodoelmundo,*pariente,,,,139,"todas partes,todo el mundo"
+igual,*pariente,,,,139,igual
+vecinopaisano,*pariente,,,,139,"vecino,paisano"
+mybrother,*pariente,,,,139,my brother
+adentro,"*hondo,profundo",,,,140,adentro
+poradentro,"*hondo,profundo",,,,140,por adentro
+mitad,"*hondo,profundo",,,,140,mitad
+enelmedio,"*hondo,profundo",,,,140,en el medio
+medirlaprofundidad,"*hondo,profundo",,,,140,medir la profundidad
+irsealoprofundo,"*hondo,profundo",,,,140,irse a lo profundo
+profundohondo,"*hondo,profundo",,,,140,"profundo,hondo"
+pandopocoprofundo,"*hondo,profundo",,,,140,"pando,poco profundo"
+fondear,"*hondo,profundo",,,,140,fondear
+fondeohondura,"*hondo,profundo",,,,140,"fondeo,hondura"
+panza,"*hondo,profundo",,,,140,panza
+bajarporelrio,"*hondo,profundo",,,,140,bajar (por el río)
+desbarrancar,"*hondo,profundo",,,,140,desbarrancar
+enviar,"*hondo,profundo",,,,140,enviar
+apartir,"*hondo,profundo",,,,140,apartir
+toadstoll,"*hondo,profundo",,,,140,toadstoll
+medulaentranascentro,"*entrar,centro",,,,140,"medula,entrañas,centro"
+embudoechador,"*entrar,centro",,,,140,"embudo,echador"
+hueco,"*entrar,centro",,,,140,hueco
+entresacar,"*entrar,centro",,,,140,entresacar
+entrar,"*entrar,centro",,,,140,entrar
+hundirse,"*entrar,centro",,,,140,hundirse
+entremedio,"*adentro,en",,,,140,entre medio
+empunar,"*adentro,en",,,,140,empuñar
+entre,"*adentro,en",,,,140,entre
+adentrodeentreenelcentro,"*adentro,en",,,,140,"adentro de entre,en el centro"
+ofthywomb,"*adentro,en",,,,140,of thy womb
+adentrodelagua,"*adentro,en",,,,140,adentro del agua
+interno,"*adentro,en",,,,140,interno
+enlacasa,"*adentro,en",,,,140,en la casa
+espiritu,"*adentro,en",,,,140,espíritu
+costillas,"*adentro,en",,,,140,costillas
+llenar,"*adentro,en",,,,140,llenar
+taparencima,*envolver,,,,140,tapar (encima)
+cosacomotrapoparaenvolver,*envolver,,,,140,cosa (como trapo) para envolver
+retobo,*envolver,,,,140,retobo
+envolverliar,*envolver,,,,140,"envolver,liar"
+liarparaasar,*envolver,,,,140,liar para asar
+paquete,*envolver,,,,140,paquete
+serpentear,*cascabel,,,,141,serpentear
+reves,*cascabel,,,,141,revés
+yema,*racimo,,,,142,yema
+cocinarprepararespesar,*racimo,,,,142,"cocinar,preparar,espesar"
+caldocomido,*racimo,,,,142,"caldo,comido"
+turbioespeso,*racimo,,,,142,"turbio,espeso"
+ralo,*racimo,,,,142,ralo
+coagular,*racimo,,,,142,coagular
+piedradebrujopoderdebrujeria,"*brujo,dios",,,,143,"piedra de brujo,poder de brujería"
+dio,"*brujo,dios",,,,143,dio
+dios,"*brujo,dios",,,,143,dios
+brujocurandero,"*brujo,dios",,,,143,"brujo,curandero"
+moler,"*moler,tocar",,,,144,moler
+piedrademoler,"*moler,tocar",,,,144,piedra de moler
+tocarsonarinstrumento,"*moler,tocar",,,,144,"tocar,sonar (instrumento)"
+musicapuntear,"*moler,tocar",,,,144,"música,puntear"
+horconposte,"*moler,tocar",,,,144,"horcón,poste"
+venadohuasa,*venado,,,,145,"venado,huasa"
+venadodepajonal,*venado,,,,145,venado de pajonal
+hormigacoloradalargamuyvenenosa,*venado,,,,145,"hormiga colorada larga, muy venenosa"
+deer,*venado,,,,145,deer
+venadohuasodelmonte,*venado,,,,145,"venado,huaso del monte"
+leonleopardo,*venado,,,,145,león leopardo
+ciervo,*venado,,,,145,ciervo
+leon,*venado,,,,145,león
+venadociervo,*venado,,,,145,"venado,ciervo"
+venadorojo,*venado,,,,145,venado rojo
+venadoblanco,*venado,,,,145,venado blanco
+venadonegro,*venado,,,,145,venado negro
+hormigahedionda,*excremento,,,,146,hormiga hedionda
+hormigaescarabajo,*excremento,,,,146,hormiga escarabajo
+panzabarrigagrande,*excremento,,,,146,"panza,barriga grande"
+excrementoexcretarmierdacoagadacagar,*excremento,,,,146,"excremento,excretar,mierda,coagada,cagar"
+cagadero,*excremento,,,,146,cagadero
+extrenir,*excremento,,,,146,extreñir
+intestino,*excremento,,,,146,intestino
+aparecer,*llevar,,,,147,aparecer
+monolucashi,*mono manechi,,,,148,mono lucashi
+howlermonkey,*mono manechi,,,,148,howler monkey
+manechimonoaullador,*mono manechi,,,,148,manechi (mono aullador)
+monolucashimonoleon,*mono manechi,,,,148,"mono lucashi,mono león"
+erereuabeja,*mono manechi,,,,148,erereú (abeja)
+manechi,*mono manechi,,,,148,manechi
+monocoto,*mono manechi,,,,148,mono coto
+yes,*sí,,,,150,yes
+esta,*sí,,,,150,esta
+siestabien,*sí,,,,150,sí está bien
+deverascierto,*sí,,,,150,"de veras,cierto"
+iintr,*1P,,,,151,I (intr.)
+itr,*1P,,,,151,I (tr.)
+yosolo,*1P,,,,151,yo solo
+conmigo,*1P,,,,151,conmigo
+i,*1P,,,,151,I
+yosoloyomismo,*1P,,,,151,"yo solo,yo mismo"
+haciami,*1P,,,,151,hacía mí
+yo,*1P,,,,151,yo
+jaguar,*tigre,,,,152,jaguar
+tigrejaguar,*tigre,,,,152,tigre (jaguar)
+garduna,*tigre,,,,152,garduña
+tigrepintado,*tigre,,,,152,tigre pintado
+tigrerojo,*tigre,,,,152,tigre rojo
+aguantar,*remedio,,,,154,aguantar
+sufrir,*remedio,,,,154,sufrir
+sufrible,*remedio,,,,154,sufrible
+exasperar,*remedio,,,,154,exasperar
+compuncion,*remedio,,,,154,compunción
+limar,*puerco espín,,,,155,limar
+erizar,*puerco espín,,,,155,erizar
+sacarcueroocascara,*puerco espín,,,,155,sacar (cuero o cáscara)
+rasparse,*puerco espín,,,,155,rasparse
+afilar,*puerco espín,,,,155,afilar
+scratchoneself,*puerco espín,,,,155,scratch oneself
+sordo,*oreja,,,,156,sordo
+bulla,*oreja,,,,156,bulla
+ear,*oreja,,,,156,ear
+oido,*oreja,,,,156,oído
+ensordecer,*oreja,,,,156,ensordecer
+orejasoido,*oreja,,,,156,"orejas,oído"
+oir,*oreja,,,,156,oír
+tohear,*oreja,,,,156,to hear
+abracer,*cariño,,,,157,abracer
+criaturadepechos,*cariño,,,,157,criatura de pechos
+cariciacarino,*cariño,,,,157,"caricia,cariño"
+carinoso,*cariño,,,,157,cariñoso
+encarinar,*cariño,,,,157,encariñar
+diablo,"*diablo,zorro",,,,158,diablo
+demonio,"*diablo,zorro",,,,158,demonio
+infierno,"*diablo,zorro",,,,158,infierno
+mascara,"*diablo,zorro",,,,158,máscara
+condenar,"*diablo,zorro",,,,158,condenar
+adulterar,"*diablo,zorro",,,,158,adulterar
+adivinar,"*diablo,zorro",,,,158,adivinar
+pensar,"*diablo,zorro",,,,158,pensar
+vivosanoremedio,*vivo,,,,159,"vivo,sano,remedio"
+vivioporresucito,*vivo,,,,159,"vivió,por,resucitó"
+resucitar,*vivo,,,,159,resucitar
+salvarescapar,*vivo,,,,159,"salvar,escapar"
+estadespierto,*vivo,,,,159,está despierto
+losbichoslosvivos,*vivo,,,,159,"los bichos,los vivos"
+living,*vivo,,,,159,living
+thelivingasopossedtothedead,*vivo,,,,159,the living (as opossed to the dead)
+botado,*vivo,,,,159,botado
+botarechar,*vivo,,,,159,"botar,echar"
+crudopando,*vivo,,,,159,"crudo,pando"
+crudovivodespierto,*vivo,,,,159,"crudo,vivo despierto"
+resolana,*sol,,,,160,resolana
+oriente,*sol,,,,160,oriente
+poniente,*sol,,,,160,poniente
+asolear,*sol,,,,160,asolear
+buentiempoescampar,*sol,,,,160,"buen tiempo,escampar"
+sun,*sol,,,,160,sun
+sole,*sol,,,,160,sole
+oesteponiente,*sol,,,,160,"oeste,poniente"
+dondesaleelsol,*sol,,,,160,donde sale el sol
+ano,*sol,,,,160,año
+reloj,*sol,,,,160,reloj
+chicha,"*tomar,beber",,,,161,chicha
+tomar,"*tomar,beber",,,,161,tomar
+vasijaparatomar,"*tomar,beber",,,,161,vasija para tomar
+tomadorborrachon,"*tomar,beber",,,,161,"tomador,borrachón"
+dardebeber,"*tomar,beber",,,,161,dar de beber
+probarcosaliquida,"*tomar,beber",,,,161,probar (cosa líquida)
+quierobebertengosed,"*tomar,beber",,,,161,"quiero beber,tengo sed"
+corndrink,"*tomar,beber",,,,161,corn drink
+drink,"*tomar,beber",,,,161,drink
+todrink,"*tomar,beber",,,,161,to drink
+bebida,"*tomar,beber",,,,161,bebida
+tienesedsintomar,"*tomar,beber",,,,161,"tiene sed,sin tomar"
+olorosooloragradable,"*tomar,beber",,,,161,"oloroso,olor agradable"
+tomarchupar,"*tomar,beber",,,,161,"tomar,chupar"
+tomarchuparbeber,"*tomar,beber",,,,161,"tomar,chupar,beber"
+bebedor,"*tomar,beber",,,,161,bebedor
+bebible,"*tomar,beber",,,,161,bebible
+ant,*hormiga,,,,163,ant
+hormiguero,*hormiga,,,,163,hormiguero
+hormiganegra,*hormiga,,,,163,hormiga negra
+cimermorderpicar,*consumir,,,,164,"cimer,morder,picar"
+crujer,*consumir,,,,164,crujer
+fumar,*consumir,,,,164,fumar
+tragar,*consumir,,,,164,tragar
+cepillar,*consumir,,,,164,cepillar
+comilon,*consumir,,,,164,comilón
+aserrar,*consumir,,,,164,aserrar
+hojapluma,"*hoja,pelo,pluma",,,,165,"hoja,pluma"
+chamuscar,"*hoja,pelo,pluma",,,,165,chamuscar
+desplumar,"*hoja,pelo,pluma",,,,165,desplumar
+yerbadesemillacomolademostaza,"*hoja,pelo,pluma",,,,165,yerba de semilla como la de mostaza
+trasquilarcortarelpelo,"*hoja,pelo,pluma",,,,165,"trasquilar,cortar el pelo"
+feathers,"*hoja,pelo,pluma",,,,165,feathers
+largar,"*hoja,pelo,pluma",,,,165,largar
+descolar,"*hoja,pelo,pluma",,,,165,descolar
+pelovellos,"*hoja,pelo,pluma",,,,165,"pelo,vellos"
+doblarlashojas,"*hoja,pelo,pluma",,,,165,doblar (las hojas)
+perro,"*hoja,pelo,pluma",,,,165,perro
+hoja,"*hoja,pelo,pluma",,,,165,hoja
+hojadearbol,"*hoja,pelo,pluma",,,,165,hoja de árbol
+hojadepalmiche,"*hoja,pelo,pluma",,,,165,hoja de palmiche
+hojadellarina,"*hoja,pelo,pluma",,,,165,hoja de llarina
+haceragarrar,*agarrar,,,,166,hacer agarrar
+cuidado,*agarrar,,,,166,cuidado
+agarrado,*agarrar,,,,166,agarrado
+cogersalvarsosteneragarrar,*agarrar,,,,166,"coger,salvar,sostener,agarrar"
+recibiraceptar,*agarrar,,,,166,"recibir,aceptar"
+asa,*agarrar,,,,166,asa
+completarfinalizar,*agarrar,,,,166,"completar,finalizar"
+agarrarrecibir,*agarrar,,,,166,"agarrar,recibir"
+encenderlalanterna,*agarrar,,,,166,encender (la lanterna)
+estrujar,*agarrar,,,,166,estrujar
+arrugar,*agarrar,,,,166,arrugar
+soltar,*agarrar,,,,166,soltar
+atajar,*agarrar,,,,166,atajar
+exprimir,*agarrar,,,,166,exprimir
+recibir,*agarrar,,,,166,recibir
+japutamuinsecto,*japutamu,,,,167,japutamu (insecto)
+collartejidoconchaquiras,*collar,,,,168,collar tejido con chaquiras
+collarchaquiraabalorio,*collar,,,,168,"collar,chaquira,abalorio"
+urupecedazohechadepalma,*urupé (cedazo),,,,169,urupé (cedazo hecha de palma)
+venta,*vender,,,,170,venta
+volveravender,*vender,,,,170,volver a vender
+mujerdesenvueltaquesevende,*vender,,,,170,"mujer desenvuelta, que se vende"
+granoso,*desgranar,,,,171,granoso
+tail,*cola,,,,172,tail
+hediondapodrido,*pudrirse,,,,174,"hedionda,podrido"
+olormalhediondez,*pudrirse,,,,174,"olor mal,hediondez"
+stench,*pudrirse,,,,174,stench
+podrido,*pudrirse,,,,174,podrido
+hediondo,*pudrirse,,,,174,hediondo
+noeshediondo,*pudrirse,,,,174,no es hediondo
+heder,*pudrirse,,,,174,heder
+nosepudre,*pudrirse,,,,174,no se pudre
+sacarafuera,"*dejar,poner",,,,175,sacar afuera
+apartar,"*dejar,poner",,,,175,apartar
+meteradentro,"*dejar,poner",,,,175,meter adentro
+guardar,"*dejar,poner",,,,175,guardar
+dejar,"*dejar,poner",,,,175,dejar
+ponerdejarservir,"*dejar,poner",,,,175,"poner,dejar,servir"
+ponerse,"*dejar,poner",,,,175,ponerse
+bajaloapealo,"*dejar,poner",,,,175,"bájalo,apéalo"
+nuevo,"*nuevo,ahora",,,,176,nuevo
+renovar,"*nuevo,ahora",,,,176,renovar
+ahoranuevo,"*nuevo,ahora",,,,176,"ahora,nuevo"
+hoydia,"*nuevo,ahora",,,,176,hoy día
+ahorita,"*nuevo,ahora",,,,176,ahorita
+desdehoy,"*nuevo,ahora",,,,176,desde hoy
+noesnuevo,"*nuevo,ahora",,,,176,no es nuevo
+pegardarguasco,*pegar,,,,177,"pegar,dar guasco"
+matarpegando,*pegar,,,,177,matar (pegando)
+hadepegargolpearoazotear,*pegar,,,,177,"ha de pegar,golpear ó azotear"
+pelear,*pegar,,,,177,pelear
+pelea,*pegar,,,,177,pelea
+camenazar,*pegar,,,,177,camenazar
+compaderseperdonar,*pegar,,,,177,"compaderse,perdonar"
+impedirpobrepenatrabajomiseria,*pegar,,,,177,"impedir,pobre,pena,trabajo,miseria"
+forgive,*pegar,,,,177,forgive
+matar,*pegar,,,,177,matar
+matador,*pegar,,,,177,matador
+cunadomaridodehermanahombresdicen,*cuñado,,,,178,"cuñado (marido de hermana, hombres dicen)"
+soltero,*cuñado,,,,178,soltero
+viudo,*cuñado,,,,178,viudo
+hermanamenorentremujeres,*hermana menor,,,,178,hermana menor (entre mujeres)
+cunadomaridodehermanamenor,*hermana menor,,,,178,cuñado (marido de hermana menor)
+youngersister,*hermana menor,,,,178,younger sister
+hermana,*hermana menor,,,,178,hermana
+hermanomenorentrehermanos,*hermano menor,,,,178,hermano menor (entre hermanos)
+cunadaesposadehermanomenor,*hermano menor,,,,178,cuñada (esposa de hermano menor)

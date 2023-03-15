@@ -93,16 +93,16 @@ class Dataset(BaseDataset):
         args.log.info("added concepts")
 
         # add language
-        languages = args.writer.add_languages(lookup_factory="NameInSource")
+        languages = args.writer.add_languages(lookup_factory="ID")
         args.log.info("added languages")
 
         data = Wordlist(str(self.raw_dir.joinpath("data.tsv")))
-        data.renumber("ID_in_Source", "cogid")
+        data.renumber("PROTO_SET", "cogid")
 
         # add data
         for (
             idx,
-            id_in_source,
+            proto_set,
             proto_entry,
             proto_form,
             proto_concept,
@@ -115,7 +115,7 @@ class Dataset(BaseDataset):
             cogid
         ) in pb(
             data.iter_rows(
-                "id_in_source",
+                "proto_set",
                 "proto_entry",
                 "proto_form",
                 "proto_concept",
@@ -141,15 +141,15 @@ class Dataset(BaseDataset):
                     Language_ID=languages[doculect],
                     Parameter_ID=concepts[(concept)],
                     Value=value,
-                    Entry_From_Proto=proto_entry,
-                    Form_From_Proto=proto_form,
-                    Morphological_Information=morph_infor,
+                    #Entry_From_Proto=proto_entry,
+                    #Form_From_Proto=proto_form,
+                    #Morphological_Information=morph_infor,
                     Concept_From_Proto=proto_concept,
                     Variants=variants,
                     Comment=note,
-                    Source=source,
+                    #Source=source,
                     UncertainCognacy=uncertainty,
-                    ProtoSet=id_in_source,
+                    ProtoSet=proto_set,
                     Cognacy=cogid,
                     ConceptInSource=concept,
                     ):
