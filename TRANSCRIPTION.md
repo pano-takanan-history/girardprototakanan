@@ -22,20 +22,22 @@
 | s | 669 | ✓ | ✓ |
 | r | 668 | ✓ | ✓ |
 | c | 498 | ✓ | ✓ |
-| y | 321 | ✓ | ✓ |
+| y | 285 | ✓ | ✓ |
 | x | 243 | ✓ | ✓ |
-| č | 198 | ? | ? |
 | <<_>> | 162 | ? | ? |
-| š | 159 | ? | ? |
+| š | 156 | ? | ? |
 | ʔ | 154 | ✓ | ✓ |
-| ř | 115 | ? | ? |
+| č | 114 | ? | ? |
+| tʃ | 84 | ✓ | ✓ |
 | v | 83 | ✓ | ✓ |
 | á | 82 | ✓ | ✓ |
+| j | 79 | ✓ | ✓ |
 | z | 73 | ✓ | ✓ |
 | é | 69 | ✓ | ✓ |
 | ?̣ | 64 | ? | ? |
+| ɽ | 59 | ✓ | ✓ |
+| ř | 56 | ? | ? |
 | ɲ | 52 | ✓ | ✓ |
-| j | 43 | ✓ | ✓ |
 | í | 35 | ✓ | ✓ |
 | ó | 20 | ✓ | ✓ |
 | g | 17 | ✓ | ✓ |
@@ -50,9 +52,10 @@
 | ù | 4 | ✓ | ✓ |
 | ?ˈ | 3 | ? | ? |
 | è | 3 | ✓ | ✓ |
-| ?' | 2 | ? | ? |
+| ʃ | 3 | ✓ | ✓ |
 | ?̹ | 2 | ? | ? |
 | û | 2 | ✓ | ✓ |
+| ˈ | 2 | ? | ? |
 | ?î | 1 | ? | ? |
 | ?ʷ | 1 | ? | ? |
 | f | 1 | ✓ | ✓ |
@@ -61,7 +64,7 @@
 | ā | 1 | ✓ | ✓ |
 | ī | 1 | ✓ | ✓ |
 
-(55 rows)
+(58 rows)
 
 
 
@@ -77,7 +80,7 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:-------------------------|:-----------|:-------------------|:---------------------|:----------------------------------------------------------|
+|:---------------------|:-----------|:---------------|:---------------------|:----------------------------------------------------------|
 | Ara-arbol-2 | Ara | arbol | akuiša | a k u i <s> š </s> a |
 | Ara-brazo-1 | Ara | brazo | ébaša | é b a <s> š </s> a |
 | Aro-abuelo-1 | Aro | abuelo | baba_xiodi | b a b a <s> <<_>> </s> x i o d i |
@@ -90,6 +93,7 @@
 | Ese-balsa-4 | Ese | balsa | biše-kii | b i <s> š </s> e k i i |
 | Ese-balsa-5 | Ese | balsa | biše-dišo | b i <s> š </s> e d i <s> š </s> o |
 | Ese-brazo-1 | Ese | brazo | e-bašo | e b a <s> š </s> o |
+| Ese-cabeza-6 | Ese | cabeza | sapa-oše | s a p a o <s> š </s> e |
 | Ese-colgar-3 | Ese | colgar | baʔe-čiča- | b a ʔ e <s> č </s> i <s> č </s> a |
 | Ese-espalda-3 | Ese | espalda | e-be-yoxo-ša | e b e y o x o <s> š </s> a |
 | Ese-interrogacion-1 | Ese | interrogacion | ačakwa | a <s> č </s> a k w a |
@@ -104,6 +108,7 @@
 | Ese-quien-6 | Ese | quien | ače-ho | a <s> č </s> e h o |
 | Ese-quien-7 | Ese | quien | ače-xe | a <s> č </s> e x e |
 | Ese-quien-8 | Ese | quien | ače-šono | a <s> č </s> e <s> š </s> o n o |
+| Ese-reir-3 | Ese | reir | kea-soa-še | k e a s o a <s> š </s> e |
 | Ese-verguenza-1 | Ese | verguenza | bea-bičo | b e a b i <s> č </s> o |
 | Kav-arbol-5 | Kav | arbol | kwawe_ekwi | k w a w e <s> <<_>> </s> e k w i |
 | Kav-desidia-2 | Kav | desidia | badu-da_aki | b a d u d a <s> <<_>> </s> a k i |
@@ -116,53 +121,51 @@
 | Kav-pampa-1 | Kav | pampa | y-ači | y a <s> č </s> i |
 | Kav-par-2 | Kav | par | boce-šo | b o c e <s> š </s> o |
 | Kav-par-3 | Kav | par | boča | b o <s> č </s> a |
+| Kav-reir-2 | Kav | reir | ca-ye_ekace | c a y e <s> <<_>> </s> e k a c e |
 | Kav-sal-2 | Kav | sal | bano-ma_čapa | b a n o m a <s> <<_>> </s> <s> č </s> a p a |
 | Mar-creceragrandar-1 | Mar | creceragrandar | -aymi_in_etaiaymi | a y m i <s> <<_>> </s> i n <s> <<_>> </s> e t a i a y m i |
 | ProTa-barbasco-1 | ProTa | barbasco | ac̣a | a c <s> ?̣ </s> a |
+| ProTa-cabello-1 | ProTa | cabello | c̣aru | c <s> ?̣ </s> a r u |
+| ProTa-cabeza-1 | ProTa | cabeza | c̣apa | c <s> ?̣ </s> a p a |
 | ProTa-cedro-1 | ProTa | cedro | bac̣a | b a c <s> ?̣ </s> a |
 | ProTa-codo-1 | ProTa | codo | bac̣u | b a c <s> ?̣ </s> u |
 | ProTa-conque-1 | ProTa | conque | aʔin{e | a ʔ i n <s> ?{ </s> e |
 | ProTa-cosa-1 | ProTa | cosa | aʔikʷana | a ʔ i k <s> ?ʷ </s> a n a |
+| ProTa-floracion-1 | ProTa | floracion | c̣a- | c <s> ?̣ </s> a |
 | ProTa-gualusa-2 | ProTa | gualusa | bac̣i | b a c <s> ?̣ </s> i |
 | ProTa-hombro-1 | ProTa | hombro | ařa- | a <s> ř </s> a |
+| ProTa-mojar-1 | ProTa | mojar | c̣a- | c <s> ?̣ </s> a |
 | ProTa-motacucillo-1 | ProTa | motacucillo | amac̣a | a m a c <s> ?̣ </s> a |
+| ProTa-necesito-1 | ProTa | necesito | c̣aʔa | c <s> ?̣ </s> a ʔ a |
+| ProTa-orilla-1 | ProTa | orilla | c̣a- | c <s> ?̣ </s> a |
 | ProTa-pampa-1 | ProTa | pampa | ac̣i | a c <s> ?̣ </s> i |
 | ProTa-par-1 | ProTa | par | buc̣e | b u c <s> ?̣ </s> e |
+| ProTa-piepierna-1 | ProTa | piepierna | c̣aka | c <s> ?̣ </s> a k a |
 | ProTa-ranasapo-1 | ProTa | ranasapo | buřuřu | b u <s> ř </s> u <s> ř </s> u |
+| ProTa-reir-1 | ProTa | reir | c̣a- | c <s> ?̣ </s> a |
 | ProTa-risueno-1 | ProTa | risueno | buři | b u <s> ř </s> i |
 | ProTa-teta-1 | ProTa | teta | ac̣u | a c <s> ?̣ </s> u |
 | Rey-aji-1 | Rey | aji | mbišo | m b i <s> š </s> o |
-| Tak-aji-1 | Tak | aji | biřu | b i <s> ř </s> u |
-| Tak-arbol-2 | Tak | arbol | akiřa | a k i <s> ř </s> a |
-| Tak-arbol-3 | Tak | arbol | akiřai | a k i <s> ř </s> a i |
-| Tak-arbol-4 | Tak | arbol | akiřu | a k i <s> ř </s> u |
 | Tak-arbol-6 | Tak | arbol | kwase_eki | k w a s e <s> <<_>> </s> e k i |
-| Tak-balsa-1 | Tak | balsa | biři | b i <s> ř </s> i |
-| Tak-brazo-2 | Tak | brazo | bai_čuto | b a i <s> <<_>> </s> <s> č </s> u t o |
+| Tak-brazo-2 | Tak | brazo | bai_čuto | b a i <s> <<_>> </s> tʃ u t o |
 | Tak-brazo-3 | Tak | brazo | bai_ene_bene | b a i <s> <<_>> </s> e n e <s> <<_>> </s> b e n e |
 | Tak-cara-10 | Tak | cara | bu-pe_padha | b u p e <s> <<_>> </s> p a d h a |
-| Tak-cielo-1 | Tak | cielo | e-bakwa-pača | e b a k w a p a <s> č </s> a |
-| Tak-cuquisa-1 | Tak | cuquisa | biřidi | b i <s> ř </s> i d i |
 | Tak-espalda-3 | Tak | espalda | tumi_be-dhedhe | t u m i <s> <<_>> </s> b e d h e d h e |
-| Tak-lago-2 | Tak | lago | bai-pača | b a i p a <s> č </s> a |
-| Tak-luna-2 | Tak | luna | bad'di-janana | b a d <s> ?' </s> d i j a n a n a |
-| Tak-marido-2 | Tak | marido | y-awe-sa_due | y a w e s a <s> <<_>> </s> d u e |
-| Tak-marido-3 | Tak | marido | y-awe-sa_dudu | y a w e s a <s> <<_>> </s> d u d u |
-| Tak-marido-4 | Tak | marido | y-awe-sa_kwara | y a w e s a <s> <<_>> </s> k w a r a |
-| Tak-marido-5 | Tak | marido | y-awe-sa_tata | y a w e s a <s> <<_>> </s> t a t a |
-| Tak-mirarver-6 | Tak | mirarver | iša-ba- | i <s> š </s> a b a |
+| Tak-luna-2 | Tak | luna | bad'di-janana | b a d <s> ˈ </s> d i j a n a n a |
+| Tak-marido-2 | Tak | marido | y-awe-sa_due | j a w e s a <s> <<_>> </s> d u e |
+| Tak-marido-3 | Tak | marido | y-awe-sa_dudu | j a w e s a <s> <<_>> </s> d u d u |
+| Tak-marido-4 | Tak | marido | y-awe-sa_kwara | j a w e s a <s> <<_>> </s> k w a r a |
+| Tak-marido-5 | Tak | marido | y-awe-sa_tata | j a w e s a <s> <<_>> </s> t a t a |
+| Tak-necesito-2 | Tak | necesito | caʔa_mave | c a ʔ a <s> <<_>> </s> m a v e |
 | Tak-piojo-2 | Tak | piojo | bia_eha | b i a <s> <<_>> </s> e h a |
 | Tak-que-2 | Tak | que | ai_ni_da | a i <s> <<_>> </s> n i <s> <<_>> </s> d a |
 | Tak-que-3 | Tak | que | ai_hia | a i <s> <<_>> </s> h i a |
-| Tak-quedarsetenerestar-9 | Tak | quedarsetenerestar | ani-a-čidi | a n i a <s> č </s> i d i |
-| Tak-querer-1 | Tak | querer | biři-da_puhi | b i <s> ř </s> i d a <s> <<_>> </s> p u h i |
-| Tak-querer-2 | Tak | querer | biři-na- | b i <s> ř </s> i n a |
+| Tak-querer-1 | Tak | querer | biři-da_puhi | b i ɽ i d a <s> <<_>> </s> p u h i |
 | Tak-quien-3 | Tak | quien | aidhe_ni_da | a i d h e <s> <<_>> </s> n i <s> <<_>> </s> d a |
 | Tak-quien-4 | Tak | quien | aidhe_hia | a i d h e <s> <<_>> </s> h i a |
 | Tak-quien-5 | Tak | quien | aidhe_kwana | a i d h e <s> <<_>> </s> k w a n a |
-| Tak-risueno-3 | Tak | risueno | buri-buri_čidi | b u r i b u r i <s> <<_>> </s> <s> č </s> i d i |
-| Tak-sucio-4 | Tak | sucio | ači | a <s> č </s> i |
-| Tak-tambien-11 | Tak | tambien | bia-tuče | b i a t u <s> č </s> e |
+| Tak-ranasapo-2 | Tak | ranasapo | bururu_bakwa | b u r u r u <s> <<_>> </s> b a k w a |
+| Tak-risueno-3 | Tak | risueno | buri-buri_čidi | b u r i b u r i <s> <<_>> </s> tʃ i d i |
 | Tak-verguenza-3 | Tak | verguenza | bidhu-mimi_a- | b i d h u m i m i <s> <<_>> </s> a |
 | Tak-verguenza-4 | Tak | verguenza | bidhu-mimi_puhi | b i d h u m i m i <s> <<_>> </s> p u h i |
 | Tak-vibora-2 | Tak | vibora | bakwa_ina | b a k w a <s> <<_>> </s> i n a |
