@@ -18,6 +18,8 @@ This dataset is licensed under a CC-BY-4.0 license
 ![Glottolog: 0%](https://img.shields.io/badge/Glottolog-0%25-red.svg "Glottolog: 0%")
 ![Concepticon: 72%](https://img.shields.io/badge/Concepticon-72%25-yellow.svg "Concepticon: 72%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
+![BIPA: 78%](https://img.shields.io/badge/BIPA-78%25-yellow.svg "BIPA: 78%")
+![CLTS SoundClass: 78%](https://img.shields.io/badge/CLTS%20SoundClass-78%25-yellow.svg "CLTS SoundClass: 78%")
 
 - **Varieties:** 14
 - **Concepts:** 540
@@ -26,6 +28,10 @@ This dataset is licensed under a CC-BY-4.0 license
 - **Synonymy:** 1.48
 - **Cognacy:** 4,764 cognates in 491 cognate sets (1 singletons)
 - **Cognate Diversity:** -0.01
+- **Invalid lexemes:** 0
+- **Tokens:** 28,772
+- **Segments:** 55 (12 BIPA errors, 12 CLTS sound class errors, 43 CLTS modified)
+- **Inventory size (avg):** 25.57
 
 ## Possible Improvements:
 
@@ -49,4 +55,4 @@ Johann-Mattis List | @LinguList| CLDF conversion | Other
 
 The following CLDF datasets are available in [cldf](cldf):
 
-- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf\cldf-metadata.json](cldf\cldf-metadata.json)
