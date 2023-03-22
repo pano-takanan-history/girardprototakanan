@@ -6,6 +6,7 @@
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
 | a | 5741 | ✓ | ✓ |
+| + | 4975 | ✓ | ✓ |
 | i | 3541 | ✓ | ✓ |
 | e | 3465 | ✓ | ✓ |
 | k | 1650 | ✓ | ✓ |
@@ -25,26 +26,28 @@
 | j | 364 | ✓ | ✓ |
 | x | 243 | ✓ | ✓ |
 | tʃ | 198 | ✓ | ✓ |
-| <<_>> | 162 | ? | ? |
 | ʃ | 159 | ✓ | ✓ |
 | ʔ | 154 | ✓ | ✓ |
 | ɽ | 115 | ✓ | ✓ |
 | v | 83 | ✓ | ✓ |
-| á | 82 | ✓ | ✓ |
+| á/a | 82 | ✓ | ✓ |
 | z | 73 | ✓ | ✓ |
-| é | 69 | ✓ | ✓ |
+| é/e | 69 | ✓ | ✓ |
 | ɲ | 52 | ✓ | ✓ |
-| í | 35 | ✓ | ✓ |
-| ó | 20 | ✓ | ✓ |
+| í | 20 | ✓ | ✓ |
 | g | 17 | ✓ | ✓ |
+| í/i | 15 | ✓ | ✓ |
 | l | 10 | ✓ | ✓ |
-| ú | 9 | ✓ | ✓ |
+| ó | 10 | ✓ | ✓ |
+| ó/o | 10 | ✓ | ✓ |
+| ú/u | 9 | ✓ | ✓ |
 | θ | 9 | ✓ | ✓ |
 | aː | 7 | ✓ | ✓ |
 | q | 7 | ✓ | ✓ |
-| ù | 4 | ✓ | ✓ |
-| è | 3 | ✓ | ✓ |
+| ù/u | 4 | ✓ | ✓ |
+| è/e | 3 | ✓ | ✓ |
 | <<̹>> | 2 | ? | ? |
+| N | 2 | ? | ? |
 | û | 2 | ✓ | ✓ |
 | f | 1 | ✓ | ✓ |
 | iː | 1 | ✓ | ✓ |
@@ -53,7 +56,7 @@
 | ā | 1 | ✓ | ✓ |
 | ī | 1 | ✓ | ✓ |
 
-(47 rows)
+(50 rows)
 
 
 
@@ -69,107 +72,107 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:-------------------------------|:-----------|:-------------------------|:----------------------|:--------------------------------------------------------------------|
-| Aro-abuelo-1 | Aro | abuelo | baba_xiodi | b a b a <s> <<_>> </s> x i o d i |
-| Aro-abuelo-2 | Aro | abuelo | baba_buada | b a b a <s> <<_>> </s> b u a d a |
-| Aro-lena-1 | Aro | lena | cuati_ibueda | c u a t i <s> <<_>> </s> i b u e d a |
-| Ese-aguado-1 | Ese | aguado | naxi_poa- | n a x i <s> <<_>> </s> p o a |
-| Ese-agualluviario-2 | Ese | agualluviario | e-na_poa- | e n a <s> <<_>> </s> p o a |
-| Ese-chocolate-2 | Ese | chocolate | kwahe_ʔiye | k w a h e <s> <<_>> </s> ʔ i j e |
-| Ese-gredabarrocoloradopiedra-2 | Ese | gredabarrocoloradopiedra | me-i_etaxaxi | m e i <s> <<_>> </s> e t a x a x i |
-| Ese-interrogacion-3 | Ese | interrogacion | ačaxa_akawi | a tʃ a x a <s> <<_>> </s> a k a w i |
-| Ese-interrogacion-4 | Ese | interrogacion | ačaxa_mia | a tʃ a x a <s> <<_>> </s> m i a |
-| Ese-pozo-2 | Ese | pozo | e-xani_eteowexa | e x a n i <s> <<_>> </s> e t e o w e x a |
-| Ese-puertaafuera-2 | Ese | puertaafuera | e-sekwe-ho_eneke | e s e k w e h o <s> <<_>> </s> e n e k e |
-| Ese-si-2 | Ese | si | eʔe_hohinee | e ʔ e <s> <<_>> </s> h o h i n e e |
-| Ese-tierraarena-3 | Ese | tierraarena | meši-ka_poki- | m e ʃ i k a <s> <<_>> </s> p o k i |
-| Ese-tierraarena-4 | Ese | tierraarena | meši_misi | m e ʃ i <s> <<_>> </s> m i s i |
-| Ese-venado-3 | Ese | venado | dokwe_ibia | d o k w e <s> <<_>> </s> i b i a |
-| Kav-abajo-8 | Kav | abajo | e-ma-ho-ke_caʔo | e m a h o k e <s> <<_>> </s> c a ʔ o |
-| Kav-arbol-5 | Kav | arbol | kwawe_ekwi | k w a w e <s> <<_>> </s> e k w i |
-| Kav-camino-2 | Kav | camino | e-dihi_aridake | e d i h i <s> <<_>> </s> a r i d a k e |
-| Kav-canoa-2 | Kav | canoa | kwaba_e-bari | k w a b a <s> <<_>> </s> e b a r i |
-| Kav-desidia-2 | Kav | desidia | badu-da_aki | b a d u d a <s> <<_>> </s> a k i |
-| Kav-diafiesta-1 | Kav | diafiesta | čine_aridake | tʃ i n e <s> <<_>> </s> a r i d a k e |
-| Kav-enfermedad-3 | Kav | enfermedad | nere-ka-ba_aki | n e r e k a b a <s> <<_>> </s> a k i |
-| Kav-geniocaracterconciencia-4 | Kav | geniocaracterconciencia | nime_anikarama | n i m e <s> <<_>> </s> a n i k a r a m a |
-| Kav-lagartocaiman-2 | Kav | lagartocaiman | matoha_hae | m a t o h a <s> <<_>> </s> h a e |
-| Kav-lengua-2 | Kav | lengua | ana_mada-da | a n a <s> <<_>> </s> m a d a d a |
-| Kav-lluviaaguacero-2 | Kav | lluviaaguacero | nei_ebari | n e i <s> <<_>> </s> e b a r i |
-| Kav-mano-5 | Kav | mano | e-me-toko_sapara | e m e t o k o <s> <<_>> </s> s a p a r a |
-| Kav-obscuro-7 | Kav | obscuro | e-apo-tato_apo-deda- | e a p o t a t o <s> <<_>> </s> a p o d e d a |
-| Kav-pariente-3 | Kav | pariente | du-tia_ama | d u t i a <s> <<_>> </s> a m a |
-| Kav-pariente-4 | Kav | pariente | du-tia_keha | d u t i a <s> <<_>> </s> k e h a |
-| Kav-reir-2 | Kav | reir | ca-ye_ekace | c a j e <s> <<_>> </s> e k a c e |
-| Kav-sal-2 | Kav | sal | bano-ma_čapa | b a n o m a <s> <<_>> </s> tʃ a p a |
-| Kav-venado-2 | Kav | venado | dokweri_iba | d o k w e r i <s> <<_>> </s> i b a |
-| Kav-voz-2 | Kav | voz | e-cori_kani | e c o r i <s> <<_>> </s> k a n i |
-| Kav-yuca-2 | Kav | yuca | kwawe_ekwi | k w a w e <s> <<_>> </s> e k w i |
-| Mar-creceragrandar-1 | Mar | creceragrandar | -aymi_in_etaiaymi | a j m i <s> <<_>> </s> i n <s> <<_>> </s> e t a i a j m i |
-| Tak-achiote-2 | Tak | achiote | mace_bakwa | m a c e <s> <<_>> </s> b a k w a |
-| Tak-animaespiritucorazon-2 | Tak | animaespiritucorazon | nidu_kwad'de | n i d u <s> <<_>> </s> k w a d d e |
-| Tak-arbol-6 | Tak | arbol | kwase_eki | k w a s e <s> <<_>> </s> e k i |
-| Tak-boca-6 | Tak | boca | kwaca_peada | k w a c a <s> <<_>> </s> p e a d a |
-| Tak-brazo-2 | Tak | brazo | bai_čuto | b a i <s> <<_>> </s> tʃ u t o |
-| Tak-brazo-3 | Tak | brazo | bai_ene_bene | b a i <s> <<_>> </s> e n e <s> <<_>> </s> b e n e |
-| Tak-cara-10 | Tak | cara | bu-pe_padha | b u p e <s> <<_>> </s> p a d h a |
-| Tak-cerro-2 | Tak | cerro | e-mata_wiceki | e m a t a <s> <<_>> </s> w i c e k i |
-| Tak-chocolate-2 | Tak | chocolate | kwase_eki | k w a s e <s> <<_>> </s> e k i |
-| Tak-correctoverdadero-6 | Tak | correctoverdadero | bai_ene_bene | b a i <s> <<_>> </s> e n e <s> <<_>> </s> b e n e |
-| Tak-diente-2 | Tak | diente | e-ce_y-amaha | e c e <s> <<_>> </s> j a m a h a |
-| Tak-dualsuffix-4 | Tak | dualsuffix | e-ce-a_e-ci-a | e c e a <s> <<_>> </s> e c i a |
-| Tak-espalda-3 | Tak | espalda | tumi_be-dhedhe | t u m i <s> <<_>> </s> b e d h e d h e |
-| Tak-geniocaracterconciencia-4 | Tak | geniocaracterconciencia | nime_atihimave | n i m e <s> <<_>> </s> a t i h i m a v e |
-| Tak-geniocaracterconciencia-5 | Tak | geniocaracterconciencia | nime_becuda | n i m e <s> <<_>> </s> b e c u d a |
-| Tak-geniocaracterconciencia-6 | Tak | geniocaracterconciencia | nime_čaku | n i m e <s> <<_>> </s> tʃ a k u |
-| Tak-geniocaracterconciencia-7 | Tak | geniocaracterconciencia | nime_diri | n i m e <s> <<_>> </s> d i r i |
-| Tak-geniocaracterconciencia-8 | Tak | geniocaracterconciencia | nime_eyoati | n i m e <s> <<_>> </s> e j o a t i |
-| Tak-lena-4 | Tak | lena | kwati_dareʔake | k w a t i <s> <<_>> </s> d a r e ʔ a k e |
-| Tak-lena-5 | Tak | lena | kwati_e-tua | k w a t i <s> <<_>> </s> e t u a |
-| Tak-lena-6 | Tak | lena | kwati_time-ke | k w a t i <s> <<_>> </s> t i m e k e |
-| Tak-lena-7 | Tak | lena | kwati_turu-ke | k w a t i <s> <<_>> </s> t u r u k e |
-| Tak-llevarcargarabrazar-1 | Tak | llevarcargarabrazar | y-anana_mapa-i | j a n a n a <s> <<_>> </s> m a p a i |
-| Tak-mananaayer-3 | Tak | mananaayer | maita_apudayá | m a i t a <s> <<_>> </s> a p u d a j á |
-| Tak-mananaayer-4 | Tak | mananaayer | maita_puiča | m a i t a <s> <<_>> </s> p u i tʃ a |
-| Tak-mano-11 | Tak | mano | e-me_čua_ai | e m e <s> <<_>> </s> tʃ u a <s> <<_>> </s> a i |
-| Tak-marido-2 | Tak | marido | y-awe-sa_due | j a w e s a <s> <<_>> </s> d u e |
-| Tak-marido-3 | Tak | marido | y-awe-sa_dudu | j a w e s a <s> <<_>> </s> d u d u |
-| Tak-marido-4 | Tak | marido | y-awe-sa_kwara | j a w e s a <s> <<_>> </s> k w a r a |
-| Tak-marido-5 | Tak | marido | y-awe-sa_tata | j a w e s a <s> <<_>> </s> t a t a |
-| Tak-molertocar-2 | Tak | molertocar | e-dudu-i_tumu | e d u d u i <s> <<_>> </s> t u m u |
-| Tak-muchomalodificil-2 | Tak | muchomalodificil | ana_madha-da | a n a <s> <<_>> </s> m a d h a d a |
-| Tak-necesito-2 | Tak | necesito | caʔa_mave | c a ʔ a <s> <<_>> </s> m a v e |
-| Tak-nuevoahora-2 | Tak | nuevoahora | ečakwa_ayu | e tʃ a k w a <s> <<_>> </s> a j u |
-| Tak-pancho-2 | Tak | pancho | midha_erei | m i d h a <s> <<_>> </s> e r e i |
-| Tak-piojo-2 | Tak | piojo | bia_eha | b i a <s> <<_>> </s> e h a |
-| Tak-que-2 | Tak | que | ai_ni_da | a i <s> <<_>> </s> n i <s> <<_>> </s> d a |
-| Tak-que-3 | Tak | que | ai_hia | a i <s> <<_>> </s> h i a |
-| Tak-querer-1 | Tak | querer | biři-da_puhi | b i ɽ i d a <s> <<_>> </s> p u h i |
-| Tak-quien-3 | Tak | quien | aidhe_ni_da | a i d h e <s> <<_>> </s> n i <s> <<_>> </s> d a |
-| Tak-quien-4 | Tak | quien | aidhe_hia | a i d h e <s> <<_>> </s> h i a |
-| Tak-quien-5 | Tak | quien | aidhe_kwana | a i d h e <s> <<_>> </s> k w a n a |
-| Tak-ranasapo-2 | Tak | ranasapo | bururu_bakwa | b u r u r u <s> <<_>> </s> b a k w a |
-| Tak-risueno-3 | Tak | risueno | buri-buri_čidi | b u r i b u r i <s> <<_>> </s> tʃ i d i |
-| Tak-sol-3 | Tak | sol | ideti_ekwinanani_bene | i d e t i <s> <<_>> </s> e k w i n a n a n i <s> <<_>> </s> b e n e |
-| Tak-sol-4 | Tak | sol | ideti_enubiani_bene | i d e t i <s> <<_>> </s> e n u b i a n i <s> <<_>> </s> b e n e |
-| Tak-tatu-2 | Tak | tatu | cudi_bakwa | c u d i <s> <<_>> </s> b a k w a |
-| Tak-tierraarena-2 | Tak | tierraarena | meři_tudhi | m e ɽ i <s> <<_>> </s> t u d h i |
-| Tak-tomarbeber-4 | Tak | tomarbeber | ha-iři-ti_aida | h a i ɽ i t i <s> <<_>> </s> a i d a |
-| Tak-tortugapeta-4 | Tak | tortugapeta | muri-da_dati | m u r i d a <s> <<_>> </s> d a t i |
-| Tak-verguenza-3 | Tak | verguenza | bidhu-mimi_a- | b i d h u m i m i <s> <<_>> </s> a |
-| Tak-verguenza-4 | Tak | verguenza | bidhu-mimi_puhi | b i d h u m i m i <s> <<_>> </s> p u h i |
-| Tak-vibora-2 | Tak | vibora | bakwa_ina | b a k w a <s> <<_>> </s> i n a |
-| Tak-vivo-6 | Tak | vivo | e-iře_kwana | e i ɽ e <s> <<_>> </s> k w a n a |
-| Tak-yuca-2 | Tak | yuca | kwawe_eča | k w a w e <s> <<_>> </s> e tʃ a |
-| Tak-yuca-3 | Tak | yuca | kwawe_harina | k w a w e <s> <<_>> </s> h a r i n a |
-| Tak-yuca-4 | Tak | yuca | kwawe_hude | k w a w e <s> <<_>> </s> h u d e |
-| War-huevo-2 | War | huevo | e-ha_kia-óše | e h a <s> <<_>> </s> k i a ó ʃ e |
-| War-mano-2 | War | mano | e-mé_bañenei | e m é <s> <<_>> </s> b a ɲ e n e i |
-| War-mano-3 | War | mano | e-mé_šani | e m é <s> <<_>> </s> ʃ a n i |
-| War-tigre-2 | War | tigre | ibá_oʔo | i b á <s> <<_>> </s> o ʔ o |
-| War-venado-2 | War | venado | dokwei_oʔó | d o k w e i <s> <<_>> </s> o ʔ ó |
-| War-venado-3 | War | venado | dokwei_oši | d o k w e i <s> <<_>> </s> o ʃ i |
-| War-venado-4 | War | venado | dokwei_tewe | d o k w e i <s> <<_>> </s> t e w e |
+|:---------------------------|:-----------|:---------------------|:---------------------|:----------------------------------------|
+| Ese-andar-1 | Ese | andar | aho- | a h o + |
+| Ese-arbol-5 | Ese | arbol | akwi-hea- | a k w i + h e a + |
+| Ese-brazo-2 | Ese | brazo | baña- | b a ɲ a + |
+| Ese-cargar-1 | Ese | cargar | bao- | b a o + |
+| Ese-colgar-1 | Ese | colgar | baʔe-wana-sowa- | b a ʔ e + w a n a + s o w a + |
+| Ese-colgar-2 | Ese | colgar | baʔe- | b a ʔ e + |
+| Ese-colgar-3 | Ese | colgar | baʔe-čiča- | b a ʔ e + tʃ i tʃ a + |
+| Ese-colgar-4 | Ese | colgar | baʔe-ña- | b a ʔ e + ɲ a + |
+| Ese-colgar-5 | Ese | colgar | baʔe-sawaka- | b a ʔ e + s a w a k a + |
+| Ese-hacer-1 | Ese | hacer | a-ka- | a + k a + |
+| Ese-marido-5 | Ese | marido | xaweaki- | x a w e a k i + |
+| Ese-mirarver-1 | Ese | mirarver | ba- | b a + |
+| Ese-mostrar-1 | Ese | mostrar | bamee- | b a m e e + |
+| Ese-negativesuffix-1 | Ese | negativesuffix | -ma | + m a |
+| Ese-quedarsetenerestar-1 | Ese | quedarsetenerestar | ani-oke- | a n i + o k e + |
+| Ese-quedarsetenerestar-2 | Ese | quedarsetenerestar | ani- | a n i + |
+| Ese-quedarsetenerestar-3 | Ese | quedarsetenerestar | ani-sowa-ki- | a n i + s o w a + k i + |
+| Ese-saber-1 | Ese | saber | xa-bawe-xa-ki- | x a + b a w e + x a + k i + |
+| Ese-sembrar-1 | Ese | sembrar | bana- | b a n a + |
+| Ese-transitivizingsuffix-1 | Ese | transitivizingsuffix | -a | + a |
+| Kav-acomodar-1 | Kav | acomodar | bahehe- | b a h e h e + |
+| Kav-andar-1 | Kav | andar | ahe- | a h e + |
+| Kav-andar-3 | Kav | andar | ahe-ri- | a h e + r i + |
+| Kav-brazo-6 | Kav | brazo | e-bi-pokaka-tia- | e + b i + p o k a k a + t i a + |
+| Kav-cielo-10 | Kav | cielo | bare- | b a r e + |
+| Kav-colgar-1 | Kav | colgar | bade- | b a d e + |
+| Kav-creceragrandar-1 | Kav | creceragrandar | ari- | a r i + |
+| Kav-hacer-1 | Kav | hacer | a- | a + |
+| Kav-hacer-3 | Kav | hacer | a-na- | a + n a + |
+| Kav-hacer-5 | Kav | hacer | a-na-ti-a- | a + n a + t i + a + |
+| Kav-lengua-4 | Kav | lengua | y-ana-a- | j + a n a + a + |
+| Kav-lengua-8 | Kav | lengua | y-ana-kana-tia-ya- | j + a n a + k a n a + t i a + j a + |
+| Kav-mirarver-1 | Kav | mirarver | ba- | b a + |
+| Kav-mirarver-2 | Kav | mirarver | ba-na- | b a + n a + |
+| Kav-mostrar-1 | Kav | mostrar | bamere- | b a m e r e + |
+| Kav-negativesuffix-1 | Kav | negativesuffix | -ma | + m a |
+| Kav-obscuro-4 | Kav | obscuro | apo- | a p o + |
+| Kav-obscuro-6 | Kav | obscuro | apo-ta- | a p o + t a + |
+| Kav-obscuro-7 | Kav | obscuro | e-apo-tato_apo-deda- | e + a p o + t a t o + a p o + d e d a + |
+| Kav-pedir-1 | Kav | pedir | baka-dora- | b a k a + d o r a + |
+| Kav-pedir-2 | Kav | pedir | baka-ti- | b a k a + t i + |
+| Kav-quedarsetenerestar-1 | Kav | quedarsetenerestar | ani- | a n i + |
+| Kav-saber-1 | Kav | saber | bawe- | b a w e + |
+| Kav-saber-5 | Kav | saber | bawi-tia- | b a w i + t i a + |
+| Kav-saber-6 | Kav | saber | ka-bawi-tia-ti- | k a + b a w i + t i a + t i + |
+| Kav-terminaracabar-1 | Kav | terminaracabar | ape- | a p e + |
+| Kav-transitivizingsuffix-1 | Kav | transitivizingsuffix | -a | + a |
+| Mar-creceragrandar-1 | Mar | creceragrandar | -aymi_in_etaiaymi | + a j m i + i n + e t a i a j m i |
+| ProTa-acomodar-1 | ProTa | acomodar | basa- | b a s a + |
+| ProTa-cargar-1 | ProTa | cargar | abu- | a b u + |
+| ProTa-cielo-1 | ProTa | cielo | ba- | b a + |
+| ProTa-colgar-1 | ProTa | colgar | bade- | b a d e + |
+| ProTa-creceragrandar-1 | ProTa | creceragrandar | ari- | a r i + |
+| ProTa-desidia-1 | ProTa | desidia | badu- | b a d u + |
+| ProTa-frio-1 | ProTa | frio | ba- | b a + |
+| ProTa-hacer-1 | ProTa | hacer | a- | a + |
+| ProTa-hilar-1 | ProTa | hilar | badu- | b a d u + |
+| ProTa-hombro-1 | ProTa | hombro | ařa- | a ɽ a + |
+| ProTa-mirarver-1 | ProTa | mirarver | ba- | b a + |
+| ProTa-negativesuffix-1 | ProTa | negativesuffix | -ma | + m a |
+| ProTa-pedir-1 | ProTa | pedir | baka- | b a k a + |
+| ProTa-sembrar-1 | ProTa | sembrar | bana- | b a n a + |
+| Rey-marido-1 | Rey | marido | -yadhe | + j a d h e |
+| Rey-transitivizingsuffix-1 | Rey | transitivizingsuffix | -a | + a |
+| Tak-acomodar-1 | Tak | acomodar | basa-ita- | b a s a + i t a + |
+| Tak-andar-1 | Tak | andar | ase- | a s e + |
+| Tak-andar-2 | Tak | andar | ase-ase-ti- | a s e + a s e + t i + |
+| Tak-cargar-1 | Tak | cargar | abu- | a b u + |
+| Tak-colgar-1 | Tak | colgar | badi-a-na- | b a d i + a + n a + |
+| Tak-creceragrandar-1 | Tak | creceragrandar | ai- | a i + |
+| Tak-frio-2 | Tak | frio | ba-da-ho- | b a + d a + h o + |
+| Tak-frio-3 | Tak | frio | ba-ne- | b a + n e + |
+| Tak-hacer-1 | Tak | hacer | a- | a + |
+| Tak-hilar-1 | Tak | hilar | badu- | b a d u + |
+| Tak-largo-2 | Tak | largo | bau-na- | b a u + n a + |
+| Tak-mirarver-1 | Tak | mirarver | ba- | b a + |
+| Tak-mirarver-6 | Tak | mirarver | iša-ba- | i ʃ a + b a + |
+| Tak-mostrar-1 | Tak | mostrar | bame- | b a m e + |
+| Tak-negativesuffix-1 | Tak | negativesuffix | -ma | + m a |
+| Tak-obscuro-1 | Tak | obscuro | apu- | a p u + |
+| Tak-pedir-1 | Tak | pedir | baha- | b a h a + |
+| Tak-quedarsetenerestar-1 | Tak | quedarsetenerestar | ani- | a n i + |
+| Tak-quedarsetenerestar-2 | Tak | quedarsetenerestar | ani-dera- | a n i + d e r a + |
+| Tak-quedarsetenerestar-3 | Tak | quedarsetenerestar | ani-seheu- | a n i + s e h e u + |
+| Tak-quedarsetenerestar-5 | Tak | quedarsetenerestar | ani-ute- | a n i + u t e + |
+| Tak-saber-1 | Tak | saber | bawe-cua- | b a w e + c u a + |
+| Tak-saber-2 | Tak | saber | ha-bue-cua-ti- | h a + b u e + c u a + t i + |
+| Tak-sembrar-1 | Tak | sembrar | bana- | b a n a + |
+| Tak-terminaracabar-1 | Tak | terminaracabar | ape- | a p e + |
+| Tak-transitivizingsuffix-1 | Tak | transitivizingsuffix | -a | + a |
+| War-cargar-1 | War | cargar | baʔo- | b a ʔ o + |
+| War-hilar-1 | War | hilar | baʔo- | b a ʔ o + |
+| War-mirarver-1 | War | mirarver | ba- | b a + |
+| War-nombre-2 | War | nombre | bahani- | b a h a n i + |
+| War-quedarsetenerestar-1 | War | quedarsetenerestar | ani- | a n i + |
+| War-quedarsetenerestar-2 | War | quedarsetenerestar | ani-ke- | a n i + k e + |
+| War-quedarsetenerestar-4 | War | quedarsetenerestar | ani- | a n i + |
+| War-sembrar-1 | War | sembrar | bana- | b a n a + |
+| War-transitivizingsuffix-1 | War | transitivizingsuffix | -a | + a |
+| Was-creceragrandar-1 | Was | creceragrandar | ai- | a i + |
 
 (100 rows)
 

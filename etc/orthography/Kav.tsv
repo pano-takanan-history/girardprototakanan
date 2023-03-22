@@ -1,6 +1,6 @@
 Grapheme	IPA	Frequency
 a	a	2001
--	NULL	1700
+-	+	1700
 y	j	148
 k	k	787
 e	e	1057
@@ -12,7 +12,7 @@ m	m	298
 b	b	297
 o	o	515
 u	u	257
-á	á	2
+á	á/a	2
 w	w	386
 r	r	358
 d	d	279
@@ -21,7 +21,7 @@ p	p	243
 h	h	398
 (	NULL	8
 )	NULL	8
- 	NULL	61
+ 	+	61
 ~	NULL	8
 š	ʃ	16
 c	c	143
@@ -38,3 +38,4 @@ l	l	2
 {	NULL	1
 /	NULL	1
 }	NULL	1
+_	+

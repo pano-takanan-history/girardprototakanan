@@ -5,13 +5,13 @@ n	n	11
 i	i	34
 y	j	4
 d	d	14
--	NULL	8
+-	+	8
 ñ	ɲ	3
 c	c	9
 u	u	34
 s	s	8
 b	b	14
- 	NULL	3
+ 	+	3
 x	x	2
 o	o	6
 (	NULL	1
@@ -28,3 +28,4 @@ v	v	3
 k	k	3
 p	p	6
 l	l	2
+_	+

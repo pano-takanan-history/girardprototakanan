@@ -1,5 +1,5 @@
 Grapheme	IPA	Frequency
-á	á	13
+á	á/a	13
 n	n	10
 o	o	2
 b	b	4
@@ -7,19 +7,20 @@ a	a	14
 /	NULL	6
 m	m	3
 i	i	21
-é	é	8
+é	é/e	8
 k	k	10
 e	e	13
--	NULL	9
+-	+	9
 s	s	4
 w	w	8
 d	d	2
 x	x	7
-ó	ó	5
-N	NULL	2
+ó	ó/o	5
+N	N	2
 g	g	2
 í	í	5
 h	h	1
 p	p	3
 y	j	2
 t	t	3
+_	+

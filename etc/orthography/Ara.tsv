@@ -5,9 +5,9 @@ u	u	24
 i	i	38
 š	ʃ	18
 e	e	43
-á	á	4
+á	á/a	4
 n	n	8
-é	é	17
+é	é/e	17
 b	b	2
 s	s	18
 ā	ā	1
@@ -20,7 +20,7 @@ d	d	1
 h	h	14
 ,	NULL	1
 v	v	3
--	NULL	4
+-	+	4
 m	m	14
 {	NULL	2
 /	NULL	2
@@ -30,3 +30,4 @@ r	r	2
 ä	aː	7
 l	l	1
 w	w	4
+_	+
