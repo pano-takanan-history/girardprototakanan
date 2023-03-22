@@ -4,7 +4,7 @@ n	n	10
 o	o	2
 b	b	4
 a	a	14
-/	/	6
+/	NULL	6
 m	m	3
 i	i	21
 é	é	8
@@ -16,7 +16,7 @@ w	w	8
 d	d	2
 x	x	7
 ó	ó	5
-N	<?>	2
+N	NULL	2
 g	g	2
 í	í	5
 h	h	1

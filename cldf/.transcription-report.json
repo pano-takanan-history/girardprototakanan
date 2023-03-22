@@ -1,14 +1,9 @@
 {
     "by_language": {
         "Ara": {
-            "bipa_errors": [
-                "{"
-            ],
-            "general_errors": 2,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
-                "+": [
-                    "+"
-                ],
                 "a": [
                     "a"
                 ],
@@ -145,9 +140,7 @@
                     "\u03b8"
                 ]
             },
-            "sclass_errors": [
-                "{"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "a": 42,
                 "a\u02d0": 6,
@@ -169,7 +162,6 @@
                 "u": 24,
                 "v": 3,
                 "w": 4,
-                "{": 2,
                 "\u00e1": 4,
                 "\u00e9": 17,
                 "\u00ed": 3,
@@ -184,9 +176,6 @@
             ],
             "general_errors": 3,
             "replacements": {
-                "+": [
-                    "+"
-                ],
                 "a": [
                     "a"
                 ],
@@ -354,14 +343,9 @@
             }
         },
         "Cam": {
-            "bipa_errors": [
-                "<?>"
-            ],
-            "general_errors": 2,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
-                "+": [
-                    "+"
-                ],
                 "a": [
                     "a"
                 ],
@@ -498,11 +482,8 @@
                     "\u03b8"
                 ]
             },
-            "sclass_errors": [
-                "<?>"
-            ],
+            "sclass_errors": [],
             "segments": {
-                "<?>": 2,
                 "a": 14,
                 "b": 4,
                 "d": 2,
@@ -532,9 +513,6 @@
             ],
             "general_errors": 16,
             "replacements": {
-                "+": [
-                    "+"
-                ],
                 "a": [
                     "a"
                 ],
@@ -705,16 +683,10 @@
         },
         "Kav": {
             "bipa_errors": [
-                "<",
-                ">",
-                "<<_>>",
-                "?{"
+                "<<_>>"
             ],
-            "general_errors": 49,
+            "general_errors": 45,
             "replacements": {
-                "+": [
-                    "+"
-                ],
                 "a": [
                     "a"
                 ],
@@ -852,16 +824,10 @@
                 ]
             },
             "sclass_errors": [
-                "<",
-                ">",
-                "<<_>>",
-                "?{"
+                "<<_>>"
             ],
             "segments": {
-                "<": 2,
                 "<<_>>": 45,
-                ">": 1,
-                "?{": 1,
                 "a": 1989,
                 "b": 297,
                 "c": 142,
@@ -895,9 +861,6 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
-                "+": [
-                    "+"
-                ],
                 "a": [
                     "a"
                 ],
@@ -1066,9 +1029,6 @@
             ],
             "general_errors": 2,
             "replacements": {
-                "+": [
-                    "+"
-                ],
                 "a": [
                     "a"
                 ],
@@ -1244,16 +1204,9 @@
             }
         },
         "ProTa": {
-            "bipa_errors": [
-                "?{",
-                "*",
-                "?\u0323"
-            ],
-            "general_errors": 74,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
-                "+": [
-                    "+"
-                ],
                 "a": [
                     "a"
                 ],
@@ -1390,16 +1343,8 @@
                     "\u03b8"
                 ]
             },
-            "sclass_errors": [
-                "?{",
-                "*",
-                "?\u0323"
-            ],
+            "sclass_errors": [],
             "segments": {
-                "*": 2,
-                "+": 6,
-                "?{": 8,
-                "?\u0323": 64,
                 "a": 438,
                 "b": 96,
                 "c": 73,
@@ -1424,14 +1369,9 @@
             }
         },
         "Rey": {
-            "bipa_errors": [
-                "J"
-            ],
-            "general_errors": 8,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
-                "+": [
-                    "+"
-                ],
                 "a": [
                     "a"
                 ],
@@ -1568,11 +1508,8 @@
                     "\u03b8"
                 ]
             },
-            "sclass_errors": [
-                "J"
-            ],
+            "sclass_errors": [],
             "segments": {
-                "J": 8,
                 "a": 122,
                 "b": 41,
                 "c": 15,
@@ -1580,6 +1517,7 @@
                 "e": 100,
                 "h": 45,
                 "i": 80,
+                "j": 8,
                 "k": 15,
                 "l": 2,
                 "m": 54,
@@ -1602,9 +1540,6 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
-                "+": [
-                    "+"
-                ],
                 "a": [
                     "a"
                 ],
@@ -1769,14 +1704,10 @@
         },
         "Tak": {
             "bipa_errors": [
-                "<<_>>",
-                "\u02c8"
+                "<<_>>"
             ],
-            "general_errors": 88,
+            "general_errors": 86,
             "replacements": {
-                "+": [
-                    "+"
-                ],
                 "a": [
                     "a"
                 ],
@@ -1914,8 +1845,7 @@
                 ]
             },
             "sclass_errors": [
-                "<<_>>",
-                "\u02c8"
+                "<<_>>"
             ],
             "segments": {
                 "<<_>>": 86,
@@ -1943,17 +1873,13 @@
                 "\u00e9": 5,
                 "\u027d": 59,
                 "\u0283": 3,
-                "\u0294": 17,
-                "\u02c8": 2
+                "\u0294": 17
             }
         },
         "Tia": {
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
-                "+": [
-                    "+"
-                ],
                 "a": [
                     "a"
                 ],
@@ -2118,9 +2044,6 @@
             ],
             "general_errors": 9,
             "replacements": {
-                "+": [
-                    "+"
-                ],
                 "a": [
                     "a"
                 ],
@@ -2294,16 +2217,10 @@
         "Was": {
             "bipa_errors": [
                 "<<_>>",
-                "\u0339",
-                "<",
-                ">",
-                "\u02c8"
+                "<<\u0339>>"
             ],
-            "general_errors": 8,
+            "general_errors": 3,
             "replacements": {
-                "+": [
-                    "+"
-                ],
                 "a": [
                     "a"
                 ],
@@ -2442,15 +2359,11 @@
             },
             "sclass_errors": [
                 "<<_>>",
-                "\u0339",
-                "<",
-                ">",
-                "\u02c8"
+                "<<\u0339>>"
             ],
             "segments": {
-                "<": 1,
                 "<<_>>": 1,
-                ">": 1,
+                "<<\u0339>>": 2,
                 "a": 28,
                 "b": 5,
                 "c": 11,
@@ -2469,9 +2382,7 @@
                 "t\u0283": 1,
                 "u": 16,
                 "v": 2,
-                "z": 5,
-                "\u02c8": 3,
-                "\u0339": 2
+                "z": 5
             }
         }
     },
@@ -2492,6 +2403,41 @@
                 "b a b a <s> <<_>> </s> b u a d a"
             ],
             [
+                "Aro-lena-1",
+                "Aro",
+                "lena",
+                "cuati_ibueda",
+                "c u a t i <s> <<_>> </s> i b u e d a"
+            ],
+            [
+                "Ese-aguado-1",
+                "Ese",
+                "aguado",
+                "naxi_poa-",
+                "n a x i <s> <<_>> </s> p o a"
+            ],
+            [
+                "Ese-agualluviario-2",
+                "Ese",
+                "agualluviario",
+                "e-na_poa-",
+                "e n a <s> <<_>> </s> p o a"
+            ],
+            [
+                "Ese-chocolate-2",
+                "Ese",
+                "chocolate",
+                "kwahe_\u0294iye",
+                "k w a h e <s> <<_>> </s> \u0294 i j e"
+            ],
+            [
+                "Ese-gredabarrocoloradopiedra-2",
+                "Ese",
+                "gredabarrocoloradopiedra",
+                "me-i_etaxaxi",
+                "m e i <s> <<_>> </s> e t a x a x i"
+            ],
+            [
                 "Ese-interrogacion-3",
                 "Ese",
                 "interrogacion",
@@ -2506,11 +2452,53 @@
                 "a t\u0283 a x a <s> <<_>> </s> m i a"
             ],
             [
+                "Ese-pozo-2",
+                "Ese",
+                "pozo",
+                "e-xani_eteowexa",
+                "e x a n i <s> <<_>> </s> e t e o w e x a"
+            ],
+            [
                 "Ese-puertaafuera-2",
                 "Ese",
                 "puertaafuera",
                 "e-sekwe-ho_eneke",
                 "e s e k w e h o <s> <<_>> </s> e n e k e"
+            ],
+            [
+                "Ese-si-2",
+                "Ese",
+                "si",
+                "e\u0294e_hohinee",
+                "e \u0294 e <s> <<_>> </s> h o h i n e e"
+            ],
+            [
+                "Ese-tierraarena-3",
+                "Ese",
+                "tierraarena",
+                "me\u0161i-ka_poki-",
+                "m e \u0283 i k a <s> <<_>> </s> p o k i"
+            ],
+            [
+                "Ese-tierraarena-4",
+                "Ese",
+                "tierraarena",
+                "me\u0161i_misi",
+                "m e \u0283 i <s> <<_>> </s> m i s i"
+            ],
+            [
+                "Ese-venado-3",
+                "Ese",
+                "venado",
+                "dokwe_ibia",
+                "d o k w e <s> <<_>> </s> i b i a"
+            ],
+            [
+                "Kav-abajo-8",
+                "Kav",
+                "abajo",
+                "e-ma-ho-ke_ca\u0294o",
+                "e m a h o k e <s> <<_>> </s> c a \u0294 o"
             ],
             [
                 "Kav-arbol-5",
@@ -2527,6 +2515,13 @@
                 "e d i h i <s> <<_>> </s> a r i d a k e"
             ],
             [
+                "Kav-canoa-2",
+                "Kav",
+                "canoa",
+                "kwaba_e-bari",
+                "k w a b a <s> <<_>> </s> e b a r i"
+            ],
+            [
                 "Kav-desidia-2",
                 "Kav",
                 "desidia",
@@ -2541,11 +2536,46 @@
                 "t\u0283 i n e <s> <<_>> </s> a r i d a k e"
             ],
             [
+                "Kav-enfermedad-3",
+                "Kav",
+                "enfermedad",
+                "nere-ka-ba_aki",
+                "n e r e k a b a <s> <<_>> </s> a k i"
+            ],
+            [
+                "Kav-geniocaracterconciencia-4",
+                "Kav",
+                "geniocaracterconciencia",
+                "nime_anikarama",
+                "n i m e <s> <<_>> </s> a n i k a r a m a"
+            ],
+            [
+                "Kav-lagartocaiman-2",
+                "Kav",
+                "lagartocaiman",
+                "matoha_hae",
+                "m a t o h a <s> <<_>> </s> h a e"
+            ],
+            [
                 "Kav-lengua-2",
                 "Kav",
                 "lengua",
                 "ana_mada-da",
                 "a n a <s> <<_>> </s> m a d a d a"
+            ],
+            [
+                "Kav-lluviaaguacero-2",
+                "Kav",
+                "lluviaaguacero",
+                "nei_ebari",
+                "n e i <s> <<_>> </s> e b a r i"
+            ],
+            [
+                "Kav-mano-5",
+                "Kav",
+                "mano",
+                "e-me-toko_sapara",
+                "e m e t o k o <s> <<_>> </s> s a p a r a"
             ],
             [
                 "Kav-obscuro-7",
@@ -2583,11 +2613,25 @@
                 "b a n o m a <s> <<_>> </s> t\u0283 a p a"
             ],
             [
+                "Kav-venado-2",
+                "Kav",
+                "venado",
+                "dokweri_iba",
+                "d o k w e r i <s> <<_>> </s> i b a"
+            ],
+            [
                 "Kav-voz-2",
                 "Kav",
                 "voz",
                 "e-cori_kani",
                 "e c o r i <s> <<_>> </s> k a n i"
+            ],
+            [
+                "Kav-yuca-2",
+                "Kav",
+                "yuca",
+                "kwawe_ekwi",
+                "k w a w e <s> <<_>> </s> e k w i"
             ],
             [
                 "Mar-creceragrandar-1",
@@ -2597,389 +2641,18 @@
                 "a j m i <s> <<_>> </s> i n <s> <<_>> </s> e t a i a j m i"
             ],
             [
-                "ProTa-aro-1",
-                "ProTa",
-                "aro",
-                "c\u0323ure-",
-                "c <s> ?\u0323 </s> u r e"
+                "Tak-achiote-2",
+                "Tak",
+                "achiote",
+                "mace_bakwa",
+                "m a c e <s> <<_>> </s> b a k w a"
             ],
             [
-                "ProTa-atorar-1",
-                "ProTa",
-                "atorar",
-                "*c\u0323i-",
-                "<s> * </s> c <s> ?\u0323 </s> i"
-            ],
-            [
-                "ProTa-ayudar-1",
-                "ProTa",
-                "ayudar",
-                "c\u0323awa-",
-                "c <s> ?\u0323 </s> a w a"
-            ],
-            [
-                "ProTa-barbasco-1",
-                "ProTa",
-                "barbasco",
-                "ac\u0323a",
-                "a c <s> ?\u0323 </s> a"
-            ],
-            [
-                "ProTa-borogusano-1",
-                "ProTa",
-                "borogusano",
-                "c\u0323u-",
-                "c <s> ?\u0323 </s> u"
-            ],
-            [
-                "ProTa-cabello-1",
-                "ProTa",
-                "cabello",
-                "c\u0323aru",
-                "c <s> ?\u0323 </s> a r u"
-            ],
-            [
-                "ProTa-cabeza-1",
-                "ProTa",
-                "cabeza",
-                "c\u0323apa",
-                "c <s> ?\u0323 </s> a p a"
-            ],
-            [
-                "ProTa-cedro-1",
-                "ProTa",
-                "cedro",
-                "bac\u0323a",
-                "b a c <s> ?\u0323 </s> a"
-            ],
-            [
-                "ProTa-codo-1",
-                "ProTa",
-                "codo",
-                "bac\u0323u",
-                "b a c <s> ?\u0323 </s> u"
-            ],
-            [
-                "ProTa-conque-1",
-                "ProTa",
-                "conque",
-                "a\u0294in{e",
-                "a \u0294 i n <s> ?{ </s> e"
-            ],
-            [
-                "ProTa-cuandoharto-1",
-                "ProTa",
-                "cuandoharto",
-                "c\u0323unu-",
-                "c <s> ?\u0323 </s> u n u"
-            ],
-            [
-                "ProTa-diafiesta-1",
-                "ProTa",
-                "diafiesta",
-                "c\u0323ine",
-                "c <s> ?\u0323 </s> i n e"
-            ],
-            [
-                "ProTa-diente-1",
-                "ProTa",
-                "diente",
-                "c\u0323e",
-                "c <s> ?\u0323 </s> e"
-            ],
-            [
-                "ProTa-dualsuffix-1",
-                "ProTa",
-                "dualsuffix",
-                "-c\u0323e",
-                "c <s> ?\u0323 </s> e"
-            ],
-            [
-                "ProTa-encontrar-1",
-                "ProTa",
-                "encontrar",
-                "c\u0323uru",
-                "c <s> ?\u0323 </s> u r u"
-            ],
-            [
-                "ProTa-esquina-1",
-                "ProTa",
-                "esquina",
-                "c\u0323uku",
-                "c <s> ?\u0323 </s> u k u"
-            ],
-            [
-                "ProTa-excusar-1",
-                "ProTa",
-                "excusar",
-                "c\u0323iwe",
-                "c <s> ?\u0323 </s> i w e"
-            ],
-            [
-                "ProTa-floracion-1",
-                "ProTa",
-                "floracion",
-                "c\u0323a-",
-                "c <s> ?\u0323 </s> a"
-            ],
-            [
-                "ProTa-fuerteagrio-1",
-                "ProTa",
-                "fuerteagrio",
-                "c\u0323ec\u0323e",
-                "c <s> ?\u0323 </s> e c <s> ?\u0323 </s> e"
-            ],
-            [
-                "ProTa-gancho-1",
-                "ProTa",
-                "gancho",
-                "c\u0323ewe",
-                "c <s> ?\u0323 </s> e w e"
-            ],
-            [
-                "ProTa-grano-1",
-                "ProTa",
-                "grano",
-                "c\u0323u-",
-                "c <s> ?\u0323 </s> u"
-            ],
-            [
-                "ProTa-grasagordura-1",
-                "ProTa",
-                "grasagordura",
-                "c\u0323eri",
-                "c <s> ?\u0323 </s> e r i"
-            ],
-            [
-                "ProTa-gritar-1",
-                "ProTa",
-                "gritar",
-                "c\u0323ea-",
-                "c <s> ?\u0323 </s> e a"
-            ],
-            [
-                "ProTa-gualusa-2",
-                "ProTa",
-                "gualusa",
-                "bac\u0323i",
-                "b a c <s> ?\u0323 </s> i"
-            ],
-            [
-                "ProTa-gusano-1",
-                "ProTa",
-                "gusano",
-                "c\u0323ena",
-                "c <s> ?\u0323 </s> e n a"
-            ],
-            [
-                "ProTa-hipo-1",
-                "ProTa",
-                "hipo",
-                "c\u0323udu",
-                "c <s> ?\u0323 </s> u d u"
-            ],
-            [
-                "ProTa-hueso-1",
-                "ProTa",
-                "hueso",
-                "c\u0323au",
-                "c <s> ?\u0323 </s> a u"
-            ],
-            [
-                "ProTa-lamer-1",
-                "ProTa",
-                "lamer",
-                "c\u0323eu",
-                "c <s> ?\u0323 </s> e u"
-            ],
-            [
-                "ProTa-marihui-1",
-                "ProTa",
-                "marihui",
-                "c\u0323iu",
-                "c <s> ?\u0323 </s> i u"
-            ],
-            [
-                "ProTa-mojar-1",
-                "ProTa",
-                "mojar",
-                "c\u0323a-",
-                "c <s> ?\u0323 </s> a"
-            ],
-            [
-                "ProTa-morder-1",
-                "ProTa",
-                "morder",
-                "c\u0323u",
-                "c <s> ?\u0323 </s> u"
-            ],
-            [
-                "ProTa-motacucillo-1",
-                "ProTa",
-                "motacucillo",
-                "amac\u0323a",
-                "a m a c <s> ?\u0323 </s> a"
-            ],
-            [
-                "ProTa-necesito-1",
-                "ProTa",
-                "necesito",
-                "c\u0323a\u0294a",
-                "c <s> ?\u0323 </s> a \u0294 a"
-            ],
-            [
-                "ProTa-ombligo-1",
-                "ProTa",
-                "ombligo",
-                "c\u0323u\u0294u",
-                "c <s> ?\u0323 </s> u \u0294 u"
-            ],
-            [
-                "ProTa-orilla-1",
-                "ProTa",
-                "orilla",
-                "c\u0323a-",
-                "c <s> ?\u0323 </s> a"
-            ],
-            [
-                "ProTa-palmera-1",
-                "ProTa",
-                "palmera",
-                "c\u0323iripa",
-                "c <s> ?\u0323 </s> i r i p a"
-            ],
-            [
-                "ProTa-pampa-1",
-                "ProTa",
-                "pampa",
-                "ac\u0323i",
-                "a c <s> ?\u0323 </s> i"
-            ],
-            [
-                "ProTa-par-1",
-                "ProTa",
-                "par",
-                "buc\u0323e",
-                "b u c <s> ?\u0323 </s> e"
-            ],
-            [
-                "ProTa-pecho-1",
-                "ProTa",
-                "pecho",
-                "c\u0323edu",
-                "c <s> ?\u0323 </s> e d u"
-            ],
-            [
-                "ProTa-piepierna-1",
-                "ProTa",
-                "piepierna",
-                "c\u0323aka",
-                "c <s> ?\u0323 </s> a k a"
-            ],
-            [
-                "ProTa-puertaafuera-1",
-                "ProTa",
-                "puertaafuera",
-                "c\u0323ekwe",
-                "c <s> ?\u0323 </s> e k w e"
-            ],
-            [
-                "ProTa-puntadeflechahechadetacuararaspada-1",
-                "ProTa",
-                "puntadeflechahechadetacuararaspada",
-                "c\u0323ati",
-                "c <s> ?\u0323 </s> a t i"
-            ],
-            [
-                "ProTa-reir-1",
-                "ProTa",
-                "reir",
-                "c\u0323a-",
-                "c <s> ?\u0323 </s> a"
-            ],
-            [
-                "ProTa-robar-1",
-                "ProTa",
-                "robar",
-                "c\u0323iri-",
-                "c <s> ?\u0323 </s> i r i"
-            ],
-            [
-                "ProTa-subir-1",
-                "ProTa",
-                "subir",
-                "c\u0323ura-",
-                "c <s> ?\u0323 </s> u r a"
-            ],
-            [
-                "ProTa-tatu-1",
-                "ProTa",
-                "tatu",
-                "c\u0323udi",
-                "c <s> ?\u0323 </s> u d i"
-            ],
-            [
-                "ProTa-tejer-1",
-                "ProTa",
-                "tejer",
-                "c\u0323ipi-",
-                "c <s> ?\u0323 </s> i p i"
-            ],
-            [
-                "ProTa-teta-1",
-                "ProTa",
-                "teta",
-                "ac\u0323u",
-                "a c <s> ?\u0323 </s> u"
-            ],
-            [
-                "ProTa-tucan-1",
-                "ProTa",
-                "tucan",
-                "c\u0323ukwe",
-                "c <s> ?\u0323 </s> u k w e"
-            ],
-            [
-                "ProTa-voz-1",
-                "ProTa",
-                "voz",
-                "c\u0323uri",
-                "c <s> ?\u0323 </s> u r i"
-            ],
-            [
-                "Rey-hombro-1",
-                "Rey",
-                "hombro",
-                "y-ara",
-                "<s> J </s> a r a"
-            ],
-            [
-                "Rey-lengua-1",
-                "Rey",
-                "lengua",
-                "y-ana",
-                "<s> J </s> a n a"
-            ],
-            [
-                "Rey-marido-1",
-                "Rey",
-                "marido",
-                "-yadhe",
-                "<s> J </s> a d h e"
-            ],
-            [
-                "Rey-pampa-1",
-                "Rey",
-                "pampa",
-                "y-aci",
-                "<s> J </s> a c i"
-            ],
-            [
-                "Rey-piojo-1",
-                "Rey",
-                "piojo",
-                "biya",
-                "b i <s> J </s> a"
+                "Tak-animaespiritucorazon-2",
+                "Tak",
+                "animaespiritucorazon",
+                "nidu_kwad'de",
+                "n i d u <s> <<_>> </s> k w a d d e"
             ],
             [
                 "Tak-arbol-6",
@@ -2987,6 +2660,13 @@
                 "arbol",
                 "kwase_eki",
                 "k w a s e <s> <<_>> </s> e k i"
+            ],
+            [
+                "Tak-boca-6",
+                "Tak",
+                "boca",
+                "kwaca_peada",
+                "k w a c a <s> <<_>> </s> p e a d a"
             ],
             [
                 "Tak-brazo-2",
@@ -3010,6 +2690,27 @@
                 "b u p e <s> <<_>> </s> p a d h a"
             ],
             [
+                "Tak-cerro-2",
+                "Tak",
+                "cerro",
+                "e-mata_wiceki",
+                "e m a t a <s> <<_>> </s> w i c e k i"
+            ],
+            [
+                "Tak-chocolate-2",
+                "Tak",
+                "chocolate",
+                "kwase_eki",
+                "k w a s e <s> <<_>> </s> e k i"
+            ],
+            [
+                "Tak-correctoverdadero-6",
+                "Tak",
+                "correctoverdadero",
+                "bai_ene_bene",
+                "b a i <s> <<_>> </s> e n e <s> <<_>> </s> b e n e"
+            ],
+            [
                 "Tak-diente-2",
                 "Tak",
                 "diente",
@@ -3031,11 +2732,95 @@
                 "t u m i <s> <<_>> </s> b e d h e d h e"
             ],
             [
-                "Tak-luna-2",
+                "Tak-geniocaracterconciencia-4",
                 "Tak",
-                "luna",
-                "bad'di-janana",
-                "b a d <s> \u02c8 </s> d i j a n a n a"
+                "geniocaracterconciencia",
+                "nime_atihimave",
+                "n i m e <s> <<_>> </s> a t i h i m a v e"
+            ],
+            [
+                "Tak-geniocaracterconciencia-5",
+                "Tak",
+                "geniocaracterconciencia",
+                "nime_becuda",
+                "n i m e <s> <<_>> </s> b e c u d a"
+            ],
+            [
+                "Tak-geniocaracterconciencia-6",
+                "Tak",
+                "geniocaracterconciencia",
+                "nime_\u010daku",
+                "n i m e <s> <<_>> </s> t\u0283 a k u"
+            ],
+            [
+                "Tak-geniocaracterconciencia-7",
+                "Tak",
+                "geniocaracterconciencia",
+                "nime_diri",
+                "n i m e <s> <<_>> </s> d i r i"
+            ],
+            [
+                "Tak-geniocaracterconciencia-8",
+                "Tak",
+                "geniocaracterconciencia",
+                "nime_eyoati",
+                "n i m e <s> <<_>> </s> e j o a t i"
+            ],
+            [
+                "Tak-lena-4",
+                "Tak",
+                "lena",
+                "kwati_dare\u0294ake",
+                "k w a t i <s> <<_>> </s> d a r e \u0294 a k e"
+            ],
+            [
+                "Tak-lena-5",
+                "Tak",
+                "lena",
+                "kwati_e-tua",
+                "k w a t i <s> <<_>> </s> e t u a"
+            ],
+            [
+                "Tak-lena-6",
+                "Tak",
+                "lena",
+                "kwati_time-ke",
+                "k w a t i <s> <<_>> </s> t i m e k e"
+            ],
+            [
+                "Tak-lena-7",
+                "Tak",
+                "lena",
+                "kwati_turu-ke",
+                "k w a t i <s> <<_>> </s> t u r u k e"
+            ],
+            [
+                "Tak-llevarcargarabrazar-1",
+                "Tak",
+                "llevarcargarabrazar",
+                "y-anana_mapa-i",
+                "j a n a n a <s> <<_>> </s> m a p a i"
+            ],
+            [
+                "Tak-mananaayer-3",
+                "Tak",
+                "mananaayer",
+                "maita_apuday\u00e1",
+                "m a i t a <s> <<_>> </s> a p u d a j \u00e1"
+            ],
+            [
+                "Tak-mananaayer-4",
+                "Tak",
+                "mananaayer",
+                "maita_pui\u010da",
+                "m a i t a <s> <<_>> </s> p u i t\u0283 a"
+            ],
+            [
+                "Tak-mano-11",
+                "Tak",
+                "mano",
+                "e-me_\u010dua_ai",
+                "e m e <s> <<_>> </s> t\u0283 u a <s> <<_>> </s> a i"
             ],
             [
                 "Tak-marido-2",
@@ -3066,11 +2851,39 @@
                 "j a w e s a <s> <<_>> </s> t a t a"
             ],
             [
+                "Tak-molertocar-2",
+                "Tak",
+                "molertocar",
+                "e-dudu-i_tumu",
+                "e d u d u i <s> <<_>> </s> t u m u"
+            ],
+            [
+                "Tak-muchomalodificil-2",
+                "Tak",
+                "muchomalodificil",
+                "ana_madha-da",
+                "a n a <s> <<_>> </s> m a d h a d a"
+            ],
+            [
                 "Tak-necesito-2",
                 "Tak",
                 "necesito",
                 "ca\u0294a_mave",
                 "c a \u0294 a <s> <<_>> </s> m a v e"
+            ],
+            [
+                "Tak-nuevoahora-2",
+                "Tak",
+                "nuevoahora",
+                "e\u010dakwa_ayu",
+                "e t\u0283 a k w a <s> <<_>> </s> a j u"
+            ],
+            [
+                "Tak-pancho-2",
+                "Tak",
+                "pancho",
+                "midha_erei",
+                "m i d h a <s> <<_>> </s> e r e i"
             ],
             [
                 "Tak-piojo-2",
@@ -3136,11 +2949,39 @@
                 "b u r i b u r i <s> <<_>> </s> t\u0283 i d i"
             ],
             [
+                "Tak-sol-3",
+                "Tak",
+                "sol",
+                "ideti_ekwinanani_bene",
+                "i d e t i <s> <<_>> </s> e k w i n a n a n i <s> <<_>> </s> b e n e"
+            ],
+            [
+                "Tak-sol-4",
+                "Tak",
+                "sol",
+                "ideti_enubiani_bene",
+                "i d e t i <s> <<_>> </s> e n u b i a n i <s> <<_>> </s> b e n e"
+            ],
+            [
                 "Tak-tatu-2",
                 "Tak",
                 "tatu",
                 "cudi_bakwa",
                 "c u d i <s> <<_>> </s> b a k w a"
+            ],
+            [
+                "Tak-tierraarena-2",
+                "Tak",
+                "tierraarena",
+                "me\u0159i_tudhi",
+                "m e \u027d i <s> <<_>> </s> t u d h i"
+            ],
+            [
+                "Tak-tomarbeber-4",
+                "Tak",
+                "tomarbeber",
+                "ha-i\u0159i-ti_aida",
+                "h a i \u027d i t i <s> <<_>> </s> a i d a"
             ],
             [
                 "Tak-tortugapeta-4",
@@ -3171,35 +3012,93 @@
                 "b a k w a <s> <<_>> </s> i n a"
             ],
             [
-                "Was-hombre-1",
-                "Was",
-                "hombre",
-                "r\u02c8ea",
-                "r <s> \u02c8 </s> e a"
+                "Tak-vivo-6",
+                "Tak",
+                "vivo",
+                "e-i\u0159e_kwana",
+                "e i \u027d e <s> <<_>> </s> k w a n a"
+            ],
+            [
+                "Tak-yuca-2",
+                "Tak",
+                "yuca",
+                "kwawe_e\u010da",
+                "k w a w e <s> <<_>> </s> e t\u0283 a"
+            ],
+            [
+                "Tak-yuca-3",
+                "Tak",
+                "yuca",
+                "kwawe_harina",
+                "k w a w e <s> <<_>> </s> h a r i n a"
+            ],
+            [
+                "Tak-yuca-4",
+                "Tak",
+                "yuca",
+                "kwawe_hude",
+                "k w a w e <s> <<_>> </s> h u d e"
+            ],
+            [
+                "War-huevo-2",
+                "War",
+                "huevo",
+                "e-ha_kia-\u00f3\u0161e",
+                "e h a <s> <<_>> </s> k i a \u00f3 \u0283 e"
+            ],
+            [
+                "War-mano-2",
+                "War",
+                "mano",
+                "e-m\u00e9_ba\u00f1enei",
+                "e m \u00e9 <s> <<_>> </s> b a \u0272 e n e i"
+            ],
+            [
+                "War-mano-3",
+                "War",
+                "mano",
+                "e-m\u00e9_\u0161ani",
+                "e m \u00e9 <s> <<_>> </s> \u0283 a n i"
+            ],
+            [
+                "War-tigre-2",
+                "War",
+                "tigre",
+                "ib\u00e1_o\u0294o",
+                "i b \u00e1 <s> <<_>> </s> o \u0294 o"
+            ],
+            [
+                "War-venado-2",
+                "War",
+                "venado",
+                "dokwei_o\u0294\u00f3",
+                "d o k w e i <s> <<_>> </s> o \u0294 \u00f3"
+            ],
+            [
+                "War-venado-3",
+                "War",
+                "venado",
+                "dokwei_o\u0161i",
+                "d o k w e i <s> <<_>> </s> o \u0283 i"
+            ],
+            [
+                "War-venado-4",
+                "War",
+                "venado",
+                "dokwei_tewe",
+                "d o k w e i <s> <<_>> </s> t e w e"
             ]
         ],
-        "bad_words_count": 250,
+        "bad_words_count": 154,
         "bipa_errors": [
             "<<_>>",
-            "<?>",
-            "\u0339",
-            "<",
-            ">",
-            "J",
-            "?\u0323",
-            "{",
-            "?{",
-            "*",
-            "\u02c8"
+            "<<\u0339>>"
         ],
-        "general_errors": 261,
+        "general_errors": 164,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 25.142857142857146,
+        "inventory_size": 24.21428571428572,
         "replacements": {
-            "+": [
-                "+"
-            ],
             "a": [
                 "a"
             ],
@@ -3338,27 +3237,11 @@
         },
         "sclass_errors": [
             "<<_>>",
-            "<?>",
-            "\u0339",
-            "<",
-            ">",
-            "J",
-            "?\u0323",
-            "{",
-            "?{",
-            "*",
-            "\u02c8"
+            "<<\u0339>>"
         ],
         "segments": {
-            "*": 2,
-            "+": 6,
-            "<": 3,
             "<<_>>": 162,
-            "<?>": 2,
-            ">": 2,
-            "?{": 9,
-            "?\u0323": 64,
-            "J": 8,
+            "<<\u0339>>": 2,
             "a": 5741,
             "a\u02d0": 7,
             "b": 1012,
@@ -3370,7 +3253,7 @@
             "h": 1200,
             "i": 3541,
             "i\u02d0": 1,
-            "j": 356,
+            "j": 364,
             "k": 1650,
             "l": 10,
             "m": 965,
@@ -3387,7 +3270,6 @@
             "w": 1182,
             "x": 243,
             "z": 73,
-            "{": 2,
             "\u00e1": 82,
             "\u00e2": 1,
             "\u00e8": 3,
@@ -3404,8 +3286,6 @@
             "\u027d": 115,
             "\u0283": 159,
             "\u0294": 154,
-            "\u02c8": 5,
-            "\u0339": 2,
             "\u03b8": 9
         }
     }

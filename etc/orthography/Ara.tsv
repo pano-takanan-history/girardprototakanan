@@ -18,13 +18,13 @@ y	j	3
 p	p	3
 d	d	1
 h	h	14
-,	,	1
+,	NULL	1
 v	v	3
 -	NULL	4
 m	m	14
-{	{	2
-/	/	2
-}	}	2
+{	NULL	2
+/	NULL	2
+}	NULL	2
 í	í	3
 r	r	2
 ä	aː	7

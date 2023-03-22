@@ -9,9 +9,9 @@ h	h	45
 e	e	102
 d	d	38
 t	t	31
-(	?(	1
-)	?)	1
-y	J	8
+(	NULL	1
+)	NULL	1
+y	j	8
 c	c	15
 k	k	15
 w	w	27
@@ -26,5 +26,5 @@ u	u	4
 x	x	1
 ʔ	ʔ	4
 l	l	2
- 	? 	2
-~	~	1
+ 	NULL 	2
+~	NULL	1
