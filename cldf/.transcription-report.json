@@ -358,10 +358,8 @@
             }
         },
         "Cam": {
-            "bipa_errors": [
-                "N"
-            ],
-            "general_errors": 2,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -508,12 +506,9 @@
                     "\u03b8"
                 ]
             },
-            "sclass_errors": [
-                "N"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "+": 9,
-                "N": 2,
                 "a": 14,
                 "b": 4,
                 "d": 2,
@@ -524,7 +519,7 @@
                 "j": 2,
                 "k": 10,
                 "m": 3,
-                "n": 10,
+                "n": 12,
                 "o": 2,
                 "p": 3,
                 "s": 4,
@@ -3199,15 +3194,14 @@
                 "a i +"
             ]
         ],
-        "bad_words_count": 933,
+        "bad_words_count": 931,
         "bipa_errors": [
-            "N",
             "<<\u0339>>"
         ],
-        "general_errors": 4,
+        "general_errors": 2,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 24.642857142857142,
+        "inventory_size": 24.571428571428573,
         "replacements": {
             "+": [
                 "+"
@@ -3355,13 +3349,11 @@
             ]
         },
         "sclass_errors": [
-            "N",
             "<<\u0339>>"
         ],
         "segments": {
             "+": 4975,
             "<<\u0339>>": 2,
-            "N": 2,
             "a": 5741,
             "a\u02d0": 7,
             "b": 1012,
@@ -3377,7 +3369,7 @@
             "k": 1650,
             "l": 10,
             "m": 965,
-            "n": 1153,
+            "n": 1155,
             "o": 1021,
             "p": 710,
             "q": 7,
