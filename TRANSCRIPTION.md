@@ -12,12 +12,12 @@
 | k | 1650 | ✓ | ✓ |
 | u | 1348 | ✓ | ✓ |
 | h | 1200 | ✓ | ✓ |
-| w | 1182 | ✓ | ✓ |
-| n | 1155 | ✓ | ✓ |
+| n | 1150 | ✓ | ✓ |
 | t | 1094 | ✓ | ✓ |
 | o | 1021 | ✓ | ✓ |
 | b | 1012 | ✓ | ✓ |
 | m | 965 | ✓ | ✓ |
+| w | 917 | ✓ | ✓ |
 | d | 875 | ✓ | ✓ |
 | p | 710 | ✓ | ✓ |
 | s | 669 | ✓ | ✓ |
@@ -26,10 +26,11 @@
 | j | 364 | ✓ | ✓ |
 | x | 243 | ✓ | ✓ |
 | tʃ | 198 | ✓ | ✓ |
+| v | 176 | ✓ | ✓ |
+| β | 172 | ✓ | ✓ |
 | ʃ | 159 | ✓ | ✓ |
 | ʔ | 154 | ✓ | ✓ |
 | ɽ | 115 | ✓ | ✓ |
-| v | 83 | ✓ | ✓ |
 | á/a | 82 | ✓ | ✓ |
 | z | 73 | ✓ | ✓ |
 | é/e | 69 | ✓ | ✓ |
@@ -44,6 +45,7 @@
 | θ | 9 | ✓ | ✓ |
 | aː | 7 | ✓ | ✓ |
 | q | 7 | ✓ | ✓ |
+| nˠ | 5 | ✓ | ✓ |
 | ù/u | 4 | ✓ | ✓ |
 | è/e | 3 | ✓ | ✓ |
 | <<̹>> | 2 | ? | ? |
@@ -55,7 +57,7 @@
 | ā | 1 | ✓ | ✓ |
 | ī | 1 | ✓ | ✓ |
 
-(49 rows)
+(51 rows)
 
 
 
@@ -114,9 +116,9 @@
 | Kav-pedir-1 | Kav | pedir | baka-dora- | b a k a + d o r a + |
 | Kav-pedir-2 | Kav | pedir | baka-ti- | b a k a + t i + |
 | Kav-quedarsetenerestar-1 | Kav | quedarsetenerestar | ani- | a n i + |
-| Kav-saber-1 | Kav | saber | bawe- | b a w e + |
-| Kav-saber-5 | Kav | saber | bawi-tia- | b a w i + t i a + |
-| Kav-saber-6 | Kav | saber | ka-bawi-tia-ti- | k a + b a w i + t i a + t i + |
+| Kav-saber-1 | Kav | saber | bawe- | b a β e + |
+| Kav-saber-5 | Kav | saber | bawi-tia- | b a β i + t i a + |
+| Kav-saber-6 | Kav | saber | ka-bawi-tia-ti- | k a + b a β i + t i a + t i + |
 | Kav-terminaracabar-1 | Kav | terminaracabar | ape- | a p e + |
 | Kav-transitivizingsuffix-1 | Kav | transitivizingsuffix | -a | + a |
 | Mar-creceragrandar-1 | Mar | creceragrandar | -aymi_in_etaiaymi | + a j m i + i n + e t a i a j m i |
@@ -157,7 +159,7 @@
 | Tak-quedarsetenerestar-2 | Tak | quedarsetenerestar | ani-dera- | a n i + d e r a + |
 | Tak-quedarsetenerestar-3 | Tak | quedarsetenerestar | ani-seheu- | a n i + s e h e u + |
 | Tak-quedarsetenerestar-5 | Tak | quedarsetenerestar | ani-ute- | a n i + u t e + |
-| Tak-saber-1 | Tak | saber | bawe-cua- | b a w e + c u a + |
+| Tak-saber-1 | Tak | saber | bawe-cua- | b a v e + c u a + |
 | Tak-saber-2 | Tak | saber | ha-bue-cua-ti- | h a + b u e + c u a + t i + |
 | Tak-sembrar-1 | Tak | sembrar | bana- | b a n a + |
 | Tak-terminaracabar-1 | Tak | terminaracabar | ape- | a p e + |
