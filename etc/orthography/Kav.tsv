@@ -3,8 +3,8 @@ a	a	2001
 -	+	1700
 y	j	148
 k	k	787
+kw	kʷ	
 e	e	1057
-,	NULL	3
 n	n	364
 t	t	409
 i	i	1088
@@ -19,17 +19,11 @@ d	d	279
 p	p	243
 ʔ	ʔ	42
 h	h	398
-(	NULL	8
-)	NULL	8
- 	+	61
-~	NULL	8
 š	ʃ	16
-c	c	143
+c	ts	143
 č	tʃ	62
 s	s	115
-v	v	25
-x	x	1
-j	j	1
+v	β	25
 ñ	ɲ	2
 z	z	3
 l	l	2
@@ -39,5 +33,8 @@ l	l	2
 /	NULL	1
 }	NULL	1
 _	+	
+(	NULL	8
+)	NULL	8
+~	NULL	8
 wi	β i	
 we	β e	

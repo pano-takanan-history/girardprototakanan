@@ -9,30 +9,33 @@
 | + | 4975 | ✓ | ✓ |
 | i | 3541 | ✓ | ✓ |
 | e | 3465 | ✓ | ✓ |
-| k | 1650 | ✓ | ✓ |
+| k | 1461 | ✓ | ✓ |
 | u | 1348 | ✓ | ✓ |
-| h | 1200 | ✓ | ✓ |
 | n | 1150 | ✓ | ✓ |
+| h | 1116 | ✓ | ✓ |
 | t | 1094 | ✓ | ✓ |
 | o | 1021 | ✓ | ✓ |
 | b | 1012 | ✓ | ✓ |
 | m | 965 | ✓ | ✓ |
-| w | 917 | ✓ | ✓ |
-| d | 875 | ✓ | ✓ |
+| w | 811 | ✓ | ✓ |
+| d | 789 | ✓ | ✓ |
 | p | 710 | ✓ | ✓ |
 | s | 669 | ✓ | ✓ |
 | r | 668 | ✓ | ✓ |
-| c | 498 | ✓ | ✓ |
-| j | 364 | ✓ | ✓ |
+| ts | 427 | ✓ | ✓ |
+| j | 363 | ✓ | ✓ |
 | x | 243 | ✓ | ✓ |
 | tʃ | 198 | ✓ | ✓ |
-| v | 176 | ✓ | ✓ |
-| β | 172 | ✓ | ✓ |
+| kʷ | 189 | ✓ | ✓ |
 | ʃ | 159 | ✓ | ✓ |
 | ʔ | 154 | ✓ | ✓ |
+| β | 140 | ✓ | ✓ |
+| v | 125 | ✓ | ✓ |
 | ɽ | 115 | ✓ | ✓ |
+| ð | 84 | ✓ | ✓ |
 | á/a | 82 | ✓ | ✓ |
 | z | 73 | ✓ | ✓ |
+| c | 71 | ✓ | ✓ |
 | é/e | 69 | ✓ | ✓ |
 | ɲ | 52 | ✓ | ✓ |
 | í | 20 | ✓ | ✓ |
@@ -48,6 +51,7 @@
 | nˠ | 5 | ✓ | ✓ |
 | ù/u | 4 | ✓ | ✓ |
 | è/e | 3 | ✓ | ✓ |
+| <<*>> | 2 | ? | ? |
 | <<̹>> | 2 | ? | ? |
 | û | 2 | ✓ | ✓ |
 | f | 1 | ✓ | ✓ |
@@ -57,7 +61,7 @@
 | ā | 1 | ✓ | ✓ |
 | ī | 1 | ✓ | ✓ |
 
-(51 rows)
+(55 rows)
 
 
 
@@ -159,8 +163,8 @@
 | Tak-quedarsetenerestar-2 | Tak | quedarsetenerestar | ani-dera- | a n i + d e r a + |
 | Tak-quedarsetenerestar-3 | Tak | quedarsetenerestar | ani-seheu- | a n i + s e h e u + |
 | Tak-quedarsetenerestar-5 | Tak | quedarsetenerestar | ani-ute- | a n i + u t e + |
-| Tak-saber-1 | Tak | saber | bawe-cua- | b a v e + c u a + |
-| Tak-saber-2 | Tak | saber | ha-bue-cua-ti- | h a + b u e + c u a + t i + |
+| Tak-saber-1 | Tak | saber | bawe-cua- | b a v e + ts u a + |
+| Tak-saber-2 | Tak | saber | ha-bue-cua-ti- | h a + b u e + ts u a + t i + |
 | Tak-sembrar-1 | Tak | sembrar | bana- | b a n a + |
 | Tak-terminaracabar-1 | Tak | terminaracabar | ape- | a p e + |
 | Tak-transitivizingsuffix-1 | Tak | transitivizingsuffix | -a | + a |
