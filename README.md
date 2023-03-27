@@ -30,8 +30,8 @@ This dataset is licensed under a CC-BY-4.0 license
 - **Cognate Diversity:** -0.01
 - **Invalid lexemes:** 0
 - **Tokens:** 33,126
-- **Segments:** 53 (2 BIPA errors, 2 CLTS sound class errors, 51 CLTS modified)
-- **Inventory size (avg):** 25.14
+- **Segments:** 52 (2 BIPA errors, 2 CLTS sound class errors, 50 CLTS modified)
+- **Inventory size (avg):** 25.07
 
 ## Possible Improvements:
 

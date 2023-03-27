@@ -24,15 +24,14 @@
 | r | 668 | ✓ | ✓ |
 | ts | 434 | ✓ | ✓ |
 | j | 363 | ✓ | ✓ |
+| β | 277 | ✓ | ✓ |
 | x | 243 | ✓ | ✓ |
 | tʃ | 198 | ✓ | ✓ |
 | kʷ | 189 | ✓ | ✓ |
-| β | 184 | ✓ | ✓ |
 | ʃ | 159 | ✓ | ✓ |
 | ʔ | 154 | ✓ | ✓ |
 | ɽ | 115 | ✓ | ✓ |
 | ð | 100 | ✓ | ✓ |
-| v | 93 | ✓ | ✓ |
 | á/a | 82 | ✓ | ✓ |
 | z | 73 | ✓ | ✓ |
 | é/e | 69 | ✓ | ✓ |
@@ -59,7 +58,7 @@
 | ā | 1 | ✓ | ✓ |
 | ī | 1 | ✓ | ✓ |
 
-(53 rows)
+(52 rows)
 
 
 
@@ -161,7 +160,7 @@
 | Tak-quedarsetenerestar-2 | Tak | quedarsetenerestar | ani-dera- | a n i + d e r a + |
 | Tak-quedarsetenerestar-3 | Tak | quedarsetenerestar | ani-seheu- | a n i + s e h e u + |
 | Tak-quedarsetenerestar-5 | Tak | quedarsetenerestar | ani-ute- | a n i + u t e + |
-| Tak-saber-1 | Tak | saber | bawe-cua- | b a v e + ts u a + |
+| Tak-saber-1 | Tak | saber | bawe-cua- | b a β e + ts u a + |
 | Tak-saber-2 | Tak | saber | ha-bue-cua-ti- | h a + b u e + ts u a + t i + |
 | Tak-sembrar-1 | Tak | sembrar | bana- | b a n a + |
 | Tak-terminaracabar-1 | Tak | terminaracabar | ape- | a p e + |
