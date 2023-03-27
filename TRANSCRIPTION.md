@@ -16,15 +16,14 @@
 | h | 1088 | ✓ | ✓ |
 | o | 1021 | ✓ | ✓ |
 | b | 1000 | ✓ | ✓ |
+| w | 993 | ✓ | ✓ |
 | m | 965 | ✓ | ✓ |
-| w | 811 | ✓ | ✓ |
 | d | 773 | ✓ | ✓ |
 | p | 710 | ✓ | ✓ |
 | s | 669 | ✓ | ✓ |
 | r | 668 | ✓ | ✓ |
 | ts | 434 | ✓ | ✓ |
 | j | 363 | ✓ | ✓ |
-| β | 277 | ✓ | ✓ |
 | x | 243 | ✓ | ✓ |
 | tʃ | 198 | ✓ | ✓ |
 | kʷ | 189 | ✓ | ✓ |
@@ -32,6 +31,7 @@
 | ʔ | 154 | ✓ | ✓ |
 | ɽ | 115 | ✓ | ✓ |
 | ð | 100 | ✓ | ✓ |
+| β | 95 | ✓ | ✓ |
 | á/a | 82 | ✓ | ✓ |
 | z | 73 | ✓ | ✓ |
 | é/e | 69 | ✓ | ✓ |
@@ -117,9 +117,9 @@
 | Kav-pedir-1 | Kav | pedir | baka-dora- | b a k a + d o r a + |
 | Kav-pedir-2 | Kav | pedir | baka-ti- | b a k a + t i + |
 | Kav-quedarsetenerestar-1 | Kav | quedarsetenerestar | ani- | a n i + |
-| Kav-saber-1 | Kav | saber | bawe- | b a β e + |
-| Kav-saber-5 | Kav | saber | bawi-tia- | b a β i + t i a + |
-| Kav-saber-6 | Kav | saber | ka-bawi-tia-ti- | k a + b a β i + t i a + t i + |
+| Kav-saber-1 | Kav | saber | bawe- | b a w e + |
+| Kav-saber-5 | Kav | saber | bawi-tia- | b a w i + t i a + |
+| Kav-saber-6 | Kav | saber | ka-bawi-tia-ti- | k a + b a w i + t i a + t i + |
 | Kav-terminaracabar-1 | Kav | terminaracabar | ape- | a p e + |
 | Kav-transitivizingsuffix-1 | Kav | transitivizingsuffix | -a | + a |
 | Mar-creceragrandar-1 | Mar | creceragrandar | -aymi_in_etaiaymi | + a j m i + i n + e t a i a j m i |
@@ -160,7 +160,7 @@
 | Tak-quedarsetenerestar-2 | Tak | quedarsetenerestar | ani-dera- | a n i + d e r a + |
 | Tak-quedarsetenerestar-3 | Tak | quedarsetenerestar | ani-seheu- | a n i + s e h e u + |
 | Tak-quedarsetenerestar-5 | Tak | quedarsetenerestar | ani-ute- | a n i + u t e + |
-| Tak-saber-1 | Tak | saber | bawe-cua- | b a β e + ts u a + |
+| Tak-saber-1 | Tak | saber | bawe-cua- | b a w e + ts u a + |
 | Tak-saber-2 | Tak | saber | ha-bue-cua-ti- | h a + b u e + ts u a + t i + |
 | Tak-sembrar-1 | Tak | sembrar | bana- | b a n a + |
 | Tak-terminaracabar-1 | Tak | terminaracabar | ape- | a p e + |
