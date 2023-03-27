@@ -6,44 +6,42 @@
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
 | a | 5741 | ✓ | ✓ |
-| + | 4975 | ✓ | ✓ |
+| + | 4911 | ✓ | ✓ |
 | i | 3541 | ✓ | ✓ |
 | e | 3465 | ✓ | ✓ |
 | k | 1461 | ✓ | ✓ |
 | u | 1348 | ✓ | ✓ |
 | n | 1150 | ✓ | ✓ |
-| h | 1116 | ✓ | ✓ |
 | t | 1094 | ✓ | ✓ |
+| h | 1088 | ✓ | ✓ |
 | o | 1021 | ✓ | ✓ |
-| b | 1012 | ✓ | ✓ |
+| b | 1000 | ✓ | ✓ |
 | m | 965 | ✓ | ✓ |
 | w | 811 | ✓ | ✓ |
-| d | 789 | ✓ | ✓ |
+| d | 773 | ✓ | ✓ |
 | p | 710 | ✓ | ✓ |
 | s | 669 | ✓ | ✓ |
 | r | 668 | ✓ | ✓ |
-| ts | 427 | ✓ | ✓ |
+| ts | 434 | ✓ | ✓ |
 | j | 363 | ✓ | ✓ |
 | x | 243 | ✓ | ✓ |
 | tʃ | 198 | ✓ | ✓ |
 | kʷ | 189 | ✓ | ✓ |
+| β | 184 | ✓ | ✓ |
 | ʃ | 159 | ✓ | ✓ |
 | ʔ | 154 | ✓ | ✓ |
-| β | 140 | ✓ | ✓ |
-| v | 125 | ✓ | ✓ |
 | ɽ | 115 | ✓ | ✓ |
-| ð | 84 | ✓ | ✓ |
+| ð | 100 | ✓ | ✓ |
+| v | 93 | ✓ | ✓ |
 | á/a | 82 | ✓ | ✓ |
 | z | 73 | ✓ | ✓ |
-| c | 71 | ✓ | ✓ |
 | é/e | 69 | ✓ | ✓ |
+| c̥ | 64 | ✓ | ✓ |
 | ɲ | 52 | ✓ | ✓ |
-| í | 20 | ✓ | ✓ |
+| í/i | 35 | ✓ | ✓ |
+| ó/o | 20 | ✓ | ✓ |
 | g | 17 | ✓ | ✓ |
-| í/i | 15 | ✓ | ✓ |
 | l | 10 | ✓ | ✓ |
-| ó | 10 | ✓ | ✓ |
-| ó/o | 10 | ✓ | ✓ |
 | ú/u | 9 | ✓ | ✓ |
 | θ | 9 | ✓ | ✓ |
 | aː | 7 | ✓ | ✓ |
@@ -61,7 +59,7 @@
 | ā | 1 | ✓ | ✓ |
 | ī | 1 | ✓ | ✓ |
 
-(55 rows)
+(53 rows)
 
 
 
@@ -140,7 +138,7 @@
 | ProTa-negativesuffix-1 | ProTa | negativesuffix | -ma | + m a |
 | ProTa-pedir-1 | ProTa | pedir | baka- | b a k a + |
 | ProTa-sembrar-1 | ProTa | sembrar | bana- | b a n a + |
-| Rey-marido-1 | Rey | marido | -yadhe | + j a d h e |
+| Rey-marido-1 | Rey | marido | -yadhe | + j a ð e |
 | Rey-transitivizingsuffix-1 | Rey | transitivizingsuffix | -a | + a |
 | Tak-acomodar-1 | Tak | acomodar | basa-ita- | b a s a + i t a + |
 | Tak-andar-1 | Tak | andar | ase- | a s e + |

@@ -12,7 +12,7 @@ t	t	31
 (	NULL	1
 )	NULL	1
 y	j	8
-c	c	15
+c	ts	15
 k	k	15
 w	w	27
 m	m	54
@@ -28,4 +28,6 @@ x	x	1
 l	l	2
  	+ 	2
 ~	NULL	1
-_	+
+_	+	
+dh	ð	
+bh	β	
