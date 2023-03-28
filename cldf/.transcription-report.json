@@ -1296,10 +1296,8 @@
             }
         },
         "ProTa": {
-            "bipa_errors": [
-                "<<*>>"
-            ],
-            "general_errors": 2,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -1452,12 +1450,9 @@
                     "\u03b8"
                 ]
             },
-            "sclass_errors": [
-                "<<*>>"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "+": 153,
-                "<<*>>": 2,
                 "a": 438,
                 "b": 96,
                 "c\u0325": 64,
@@ -3291,13 +3286,12 @@
         ],
         "bad_words_count": 930,
         "bipa_errors": [
-            "<<\u0339>>",
-            "<<*>>"
+            "<<\u0339>>"
         ],
-        "general_errors": 4,
+        "general_errors": 2,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 25.071428571428573,
+        "inventory_size": 25.0,
         "replacements": {
             "+": [
                 "+"
@@ -3451,12 +3445,10 @@
             ]
         },
         "sclass_errors": [
-            "<<\u0339>>",
-            "<<*>>"
+            "<<\u0339>>"
         ],
         "segments": {
             "+": 4911,
-            "<<*>>": 2,
             "<<\u0339>>": 2,
             "a": 5741,
             "a\u02d0": 7,

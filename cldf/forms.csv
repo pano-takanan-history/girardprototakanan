@@ -92,7 +92,7 @@ ProTa-que-1,,ProTa,que,aʔi,aʔi,a ʔ i,,,210,,^ a ʔ i $,ProTa,,*qué?,3,,,qué
 Tak-que-1,,Tak,que,ai,ai,a i,concept 'algun' taken from Armentia,,210,,^ a i $,Tak,,*qué?,3,,,"lo que,qué?,qui cosa?,algun"
 Tak-que-2,,Tak,que,ai ni da,ai_ni_da,a i + n i + d a,Armentia,,210,,^ a i _ n i _ d a $,Tak,,*qué?,3,,,qué?
 Tak-que-3,,Tak,que,ai hia,ai_hia,a i + h i a,,,210,,^ a i _ h i a $,Tak,,*qué?,3,,,qué será?
-Kav-que-1,,Kav,que,ai ~ aʔi,ai,a i,,,210,,^ a i $,Kav,,*qué?,3,,,"qué?,como?"
+Kav-que-1,,Kav,que,ai~aʔi,ai,a i,,,210,,^ a i $,Kav,,*qué?,3,,,"qué?,como?"
 Ese-que-1,,Ese,que,ae,ae,a e,,,210,,^ a e $,Ese,,*qué?,3,,,"qué?,quién?,nada!"
 ProTa-cosa-1,,ProTa,cosa,aʔikʷana,aʔikʷana,a ʔ i k w a n a,,,210,,^ a ʔ i k ʷ a n a $,ProTa,,*cosa,3,,,cosa
 Tak-cosa-1,,Tak,cosa,aikwana,aikwana,a i k w a n a,,,210,,^ a i k w a n a $,Tak,,*cosa,3,,,cosas
@@ -248,7 +248,7 @@ Kav-lengua-8,,Kav,lengua,y-ana-kana-tia-ya-,y-ana-kana-tia-ya-,j + a n a + k a n
 Kav-lengua-9,,Kav,lengua,y-ana-wito,y-ana-wito,j + a n a + w i t o,,,24,,^ y - a n a - wi t o $,Kav,,*lengua,12,,,punto de lengua
 Kav-lengua-10,,Kav,lengua,y-ana-tobo,y-ana-tobo,j + a n a + t o b o,,,24,,^ y - a n a - t o b o $,Kav,,*lengua,12,,,lengua chuta
 Ese-lengua-1,,Ese,lengua,eyana,eyana,e j a n a,,,24,,^ e y a n a $,Ese,,*lengua,12,,,tongue
-War-lengua-1,,War,lengua,y-ana ~ e-ana,y-ana,j + a n a,,,24,,^ y - a n a $,War,,*lengua,12,,,lengua
+War-lengua-1,,War,lengua,y-ana~e-ana,y-ana,j + a n a,,,24,,^ y - a n a $,War,,*lengua,12,,,lengua
 Tia-lengua-1,,Tia,lengua,yana,yana,j a n a,Fast,,24,,^ y a n a $,Tia,,*lengua,12,,,tongue
 Ara-lengua-1,,Ara,lengua,eána,eána,e á/a n a,Nordenskiöld,,24,,^ e á n a $,Ara,,*lengua,12,,,Zunge
 ProTa-palosanto-1,,ProTa,palosanto,anani,anani,a n a n i,,,35,,^ a n a n i $,ProTa,,*palo santo,13,,,palo santo
@@ -656,7 +656,7 @@ Kav-sal-3,,Kav,sal,bano-ki,bano-ki,b a n o + k i,,,410,,^ b a n o - k i $,Kav,,*
 ProTa-acomodar-1,,ProTa,acomodar,basa-/basai-,basa-,b a s a +,,,421,,^ b a s a - $,ProTa,,*acomodar,49,,,acomodar
 Tak-acomodar-1,,Tak,acomodar,basa-ita-,basa-ita-,b a s a + i t a +,,,421,,^ b a s a - i t a - $,Tak,,*acomodar,49,,,"acomodar,arreglar"
 Tak-acomodar-2,,Tak,acomodar,basa-ita-hi-hi,basa-ita-hi-hi,b a s a + i t a + h i + h i,Armentia,,421,,^ b a s a - i t a - h i - h i $,Tak,,*acomodar,49,,,"adornado,compuesto"
-Tak-acomodar-3,,Tak,acomodar,baseta ~ basaita,baseta,b a s e t a,Armentia,,421,,^ b a s e t a $,Tak,,*acomodar,49,,,componer
+Tak-acomodar-3,,Tak,acomodar,baseta~basaita,baseta,b a s e t a,Armentia,,421,,^ b a s e t a $,Tak,,*acomodar,49,,,componer
 Tak-acomodar-4,,Tak,acomodar,basia,basia,b a s i a,Armentia,,421,,^ b a s i a $,Tak,,*acomodar,49,,,entretener
 Kav-acomodar-1,,Kav,acomodar,bahehe-,bahehe-,b a h e h e +,,,421,,^ b a h e h e - $,Kav,,*acomodar,49,,,"acomodar,limpiar,componer"
 Kav-acomodar-2,,Kav,acomodar,e-bahehe,e-bahehe,e + b a h e h e,*basai+i?,,421,,^ e - b a h e h e $,Kav,,*acomodar,49,,,acomodado
@@ -736,14 +736,14 @@ Kav-tambien-2,,Kav,tambien,diadi,diadi,d i a d i,"Armentia | Kav forms may well 
 Kav-tambien-3,,Kav,tambien,a-dya-,a-dya-,a + d j a +,"cognate? | Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.",,443,,^ a - d y a - $,Kav,1,*también,55,,,"enfermer,contagiar"
 ProTa-rioarriba-1,,ProTa,rioarriba,beakwa,beakwa,b e a k w a,,,443,,^ b e a k w a $,ProTa,,*río arriba,55,,,río arriba
 Tak-rioarriba-1,,Tak,rioarriba,biakwa-wa,biakwa-wa,b i a k w a + w a,,,443,,^ b i a k w a - w a $,Tak,,*río arriba,55,,,arriba (río arriba)
-Ese-rioarriba-1,,Ese,rioarriba,beakwa ~ biakwa,beakwa,b e a k w a,,,443,,^ b e a k w a $,Ese,,*río arriba,55,,,río arriba
+Ese-rioarriba-1,,Ese,rioarriba,beakwa~biakwa,beakwa,b e a k w a,,,443,,^ b e a k w a $,Ese,,*río arriba,55,,,río arriba
 War-rioarriba-1,,War,rioarriba,"beakwa,beakwa-ena",beakwa,b e a k w a,,,443,,^ b e a k w a $,War,,*río arriba,55,,,arriba del río
 Ara-rioarriba-1,,Ara,rioarriba,beákua,beákua,b e á/a k u a,Nordenskiöld,,443,,^ b e á k u a $,Ara,,*río arriba,55,,,en haut
 Tia-rioarriba-1,,Tia,rioarriba,biäkwa,biäkwa,b i aː k w a,Faust,,443,,^ b i ä k w a $,Tia,,*río arriba,55,,,above
 ProTa-buitrenegro-1,,ProTa,buitrenegro,bedu,bedu,b e d u,,,444,,^ b e d u $,ProTa,,*buitre negro,56,,,buitre negro
 Rey-buitrenegro-1,,Rey,buitrenegro,bendzo,bendzo,b e n d z o,,,444,,^ b e n d z o $,Rey,,*buitre negro,56,,,buzzard
 Ese-buitrenegro-1,,Ese,buitrenegro,beʔo,beʔo,b e ʔ o,,,444,,^ b e ʔ o $,Ese,,*buitre negro,56,,,sucha
-War-buitrenegro-1,,War,buitrenegro,beó ~ beʔó,beó,b e ó/o,,,444,,^ b e ó $,War,,*buitre negro,56,,,gallinazo
+War-buitrenegro-1,,War,buitrenegro,beó~beʔó,beó,b e ó/o,,,444,,^ b e ó $,War,,*buitre negro,56,,,gallinazo
 ProTa-felizalegrecontento-1,,ProTa,felizalegrecontento,bei,bei,b e i,,,445,,^ b e i $,ProTa,,"*feliz,alegre,contento",57,,,"feliz,alegre"
 Tak-felizalegrecontento-1,,Tak,felizalegrecontento,bei-da-hi,bei-da-hi,b e i + d a + h i,,,445,,^ b e i - d a - h i $,Tak,,"*feliz,alegre,contento",57,,,"feliz,alegre"
 Tak-felizalegrecontento-2,,Tak,felizalegrecontento,bei-bi,bei-bi,b e i + b i,Armentia,,445,,^ b e i - b i $,Tak,,"*feliz,alegre,contento",57,,,alegría
@@ -1114,7 +1114,7 @@ Tak-dualsuffix-4,,Tak,dualsuffix,e-ce-a e-ci-a,e-ce-a_e-ci-a,e + ts e + a + e + 
 Tak-dualsuffix-5,,Tak,dualsuffix,-de-ce,-de-ce,+ d e + ts e,,,491,,^ - d e - c e $,Tak,,*dual suffix,99,,,dual suffix for nouns
 Kav-dualsuffix-1,,Kav,dualsuffix,ya-ce,ya-ce,j a + ts e,,,491,,^ y a - c e $,Kav,,*dual suffix,99,,,nosotros dos
 Kav-dualsuffix-2,,Kav,dualsuffix,ta-ce,ta-ce,t a + ts e,,,491,,^ t a - c e $,Kav,,*dual suffix,99,,,"ambos,ellos dos"
-Kav-dualsuffix-3,,Kav,dualsuffix,ta-ce ~ e-ka-ce,ta-ce,t a + ts e,Armentia,,491,,^ t a - c e $,Kav,,*dual suffix,99,,,dentrambos
+Kav-dualsuffix-3,,Kav,dualsuffix,ta-ce~e-ka-ce,ta-ce,t a + ts e,Armentia,,491,,^ t a - c e $,Kav,,*dual suffix,99,,,dentrambos
 ProTa-gritar-1,,ProTa,gritar,c̣ea-(c̣ea-),c̣ea-,c̥ e a +,,,3,,^ c̣ e a - $,ProTa,,*gritar,100,,,gritar
 Tak-gritar-1,,Tak,gritar,cia-cia,cia-cia,ts i a + ts i a,Armentia,,3,,^ c i a - c i a $,Tak,,*gritar,100,,,"gritar,gruñir,chillar"
 Tak-gritar-2,,Tak,gritar,cia-cia-cia-cia,cia-cia-cia-cia,ts i a + ts i a + ts i a + ts i a,Armentia,,3,,^ c i a - c i a - c i a - c i a $,Tak,,*gritar,100,,,gritón
@@ -1201,7 +1201,7 @@ Tak-gancho-2,,Tak,gancho,cewe-,cewe-,ts e w e +,,,10,,^ c e we - $,Tak,,*gancho,
 Kav-gancho-1,,Kav,gancho,čewe,čewe,tʃ e w e,from metathesized *e-cewe?,,10,,^ č e we $,Kav,,*gancho,107,,,"gancho,palca (para tejer)"
 Ese-gancho-1,,Ese,gancho,sewe-ša,sewe-ša,s e w e + ʃ a,,,10,,^ s e w e - š a $,Ese,,*gancho,107,,,hacha
 Ese-gancho-2,,Ese,gancho,hea-sweie-,hea-sweie-,h e a + s w e i e +,,,10,,^ h e a - s w e i e - $,Ese,,*gancho,107,,,atravesar
-ProTa-atorar-1,,ProTa,atorar,*c̣i(i)-,*c̣i-,<<*>> c̥ i +,,,11,,^ <*> c̣ i - $,ProTa,,*atorar,108,,,atorar
+ProTa-atorar-1,,ProTa,atorar,c̣i(i)-,c̣i-,c̥ i +,,,11,,^ c̣ i - $,ProTa,,*atorar,108,,,atorar
 Kav-atorar-1,,Kav,atorar,či-ki-,či-ki-,tʃ i + k i +,,,11,,^ č i - k i - $,Kav,,*atorar,108,,,atorar
 Kav-atorar-2,,Kav,atorar,čii,čii,tʃ i i,Armentia,,11,,^ č i i $,Kav,,*atorar,108,,,"desgujar,deszumar"
 Ese-atorar-1,,Ese,atorar,sii-xa-,sii-xa-,s i i + x a +,,,11,,^ s i i - x a - $,Ese,,*atorar,108,,,atorar
@@ -1306,7 +1306,7 @@ Ese-morder-1,,Ese,morder,šowi-ka-,šowi-ka-,ʃ o w i + k a +,cognate?,,23,,^ š
 ProTa-tucan-1,,ProTa,tucan,c̣ukwe,c̣ukwe,c̥ u k w e,,,25,,^ c̣ u k w e $,ProTa,,*tucán,120,,,tucán
 Tak-tucan-1,,Tak,tucan,cukwe,cukwe,ts u k w e,Armentia | <tsucue> | equals/cuke/or loan?,,25,,^ c u k we $,Tak,,*tucán,120,,,tucán
 Kav-tucan-1,,Kav,tucan,cokwe,cokwe,ts o kʷ e,,,25,,^ c o kw e $,Kav,,*tucán,120,,,tucán
-Ese-tucan-1,,Ese,tucan,sokwé ~ sokwe,sokwé,s o k w é/e,,,25,,^ s o k w é $,Ese,,*tucán,120,,,tucán
+Ese-tucan-1,,Ese,tucan,sokwé~sokwe,sokwé,s o k w é/e,,,25,,^ s o k w é $,Ese,,*tucán,120,,,tucán
 ProTa-cuandoharto-1,,ProTa,cuandoharto,c̣unu-,c̣unu-,c̥ u n u +,,,26,,^ c̣ u n u - $,ProTa,,"*cuando,harto",121,,,"cuando,harto"
 Tak-cuandoharto-1,,Tak,cuandoharto,cunu-da,cunu-da,ts u n u + d a,,,26,,^ c u n u - d a $,Tak,,"*cuando,harto",121,,,hace mucho tiempo
 Tak-cuandoharto-2,,Tak,cuandoharto,cunu-ta-,cunu-ta-,ts u n u + t a +,,,26,,^ c u n u - t a - $,Tak,,"*cuando,harto",121,,,tardarse
@@ -1327,7 +1327,7 @@ Kav-subir-2,,Kav,subir,neti-cora-,neti-cora-,n e t i + ts o r a +,,,27,,^ n e t 
 Ese-subir-1,,Ese,subir,sowa-,sowa-,s o w a +,,,27,,^ s o w a - $,Ese,,*subir,122,,,"arribar,subir"
 Ese-subir-2,,Ese,subir,ani-sowa-ki-,ani-sowa-ki-,a n i + s o w a + k i +,,,27,,^ a n i - s o w a - k i - $,Ese,,*subir,122,,,"subir,levantar"
 Ese-subir-3,,Ese,subir,xeki-sowa-ki-,xeki-sowa-ki-,x e k i + s o w a + k i +,,,27,,^ x e k i - s o w a - k i - $,Ese,,*subir,122,,,alzar
-War-subir-1,,War,subir,sua-ti- ~ soa-ti-,sua-ti-,s u a + t i +,,,27,,^ s u a - t i - $,War,,*subir,122,,,subir
+War-subir-1,,War,subir,sua-ti-~soa-ti-,sua-ti-,s u a + t i +,,,27,,^ s u a - t i - $,War,,*subir,122,,,subir
 War-subir-2,,War,subir,heki-soa-,heki-soa-,h e k i + s o a +,,,27,,^ h e k i - s o a - $,War,,*subir,122,,,levantar
 War-subir-3,,War,subir,neki-soa-,neki-soa-,n e k i + s o a +,,,27,,^ n e k i - s o a - $,War,,*subir,122,,,levantarse (de pié)
 ProTa-aro-1,,ProTa,aro,c̣ure-,c̣ure-,c̥ u r e +,,,28,,^ c̣ u r e - $,ProTa,,*aro,123,,,aro
@@ -1343,7 +1343,7 @@ Ese-voz-2,,Ese,voz,sowi-kwaya-,sowi-kwaya-,s o w i + k w a j a +,,,29,,^ s o w i
 Ese-voz-3,,Ese,voz,xa-sowi-wowika-,xa-sowi-wowika-,x a + s o w i + w o w i k a +,,,29,,^ x a - s o w i - w o w i k a - $,Ese,,*voz,124,,,conversaron
 Ese-voz-4,,Ese,voz,e-sowi-wowixi,e-sowi-wowixi,e + s o w i + w o w i x i,,,29,,^ e - s o w i - w o w i x i $,Ese,,*voz,124,,,profesor
 Ese-voz-5,,Ese,voz,sowi-wowi-,sowi-wowi-,s o w i + w o w i +,,,29,,^ s o w i - w o w i - $,Ese,,*voz,124,,,enseñar
-War-voz-1,,War,voz,e-soi ~ e-šoi,e-soi,e + s o i,,,29,,^ e - s o i $,War,,*voz,124,,,"lengua,idioma"
+War-voz-1,,War,voz,e-soi~e-šoi,e-soi,e + s o i,,,29,,^ e - s o i $,War,,*voz,124,,,"lengua,idioma"
 ProTa-encontrar-1,,ProTa,encontrar,c̣uru,c̣uru,c̥ u r u,,,30,,^ c̣ u r u $,ProTa,,*encontrar,125,,,encontrar
 Tak-encontrar-1,,Tak,encontrar,cu-tiya-,cu-tiya-,ts u + t i j a +,,,30,,^ c u - t i y a - $,Tak,,*encontrar,125,,,andar encontrar
 Tak-encontrar-2,,Tak,encontrar,cu-itaitia,cu-itaitia,ts u + i t a i t i a,Armentia,,30,,^ c u - i t a i t i a $,Tak,,*encontrar,125,,,lo encontró
@@ -1620,7 +1620,7 @@ Kav-1p-3,,Kav,1p,i-ta,i-ta,i + t a,,,59,,^ i - t a $,Kav,,*1P,151,,,"yo solo,yo 
 Kav-1p-4,,Kav,1p,iakeha,iakeha,i a k e h a,,,59,,^ i a k e h a $,Kav,,*1P,151,,,hacía mí
 Kav-1p-5,,Kav,1p,iacewe,iacewe,i a ts e w e,Armentia: <eatseve>,,59,,^ i a c e we $,Kav,,*1P,151,,,conmigo
 Kav-1p-6,,Kav,1p,yace,yace,j a ts e,,,59,,^ y a c e $,Kav,,*1P,151,,,nosotros dos
-Ese-1p-1,,Ese,1p,ea ~ eyaya,ea,e a,,,59,,^ e a $,Ese,,*1P,151,,,yo
+Ese-1p-1,,Ese,1p,ea~eyaya,ea,e a,,,59,,^ e a $,Ese,,*1P,151,,,yo
 ProTa-tigre-1,,ProTa,tigre,iba,iba,i b a,,,60,,^ i b a $,ProTa,,*tigre,152,,,tigre
 Tak-tigre-1,,Tak,tigre,iba,iba,i b a,,,60,,^ i b a $,Tak,,*tigre,152,,,tigre
 Rey-tigre-1,,Rey,tigre,imba,imba,i m b a,,,60,,^ i m b a $,Rey,,*tigre,152,,,jaguar
@@ -1850,7 +1850,7 @@ Ese-pudrirse-2,,Ese,pudrirse,kea-iwi,kea-iwi,k e a + i w i,,,84,,^ k e a - i w i
 Ese-pudrirse-3,,Ese,pudrirse,e-ʔiwi,e-ʔiwi,e + ʔ i w i,,,84,,^ e - ʔ i w i $,Ese,,*pudrirse,174,,,podrido
 War-pudrirse-1,,War,pudrirse,kia-íbui,kia-íbui,k i a + í/i b u i,,,84,,^ k i a - í b u i $,War,,*pudrirse,174,,,hediondo
 War-pudrirse-2,,War,pudrirse,ibuí-ama,ibuí-ama,i b u í/i + a m a,,,84,,^ i b u í - a m a $,War,,*pudrirse,174,,,no es hediondo
-War-pudrirse-3,,War,pudrirse,eíbuí ~ eíui,eíbuí,e í/i b u í/i,,,84,,^ e í b u í $,War,,*pudrirse,174,,,heder
+War-pudrirse-3,,War,pudrirse,eíbuí~eíui,eíbuí,e í/i b u í/i,,,84,,^ e í b u í $,War,,*pudrirse,174,,,heder
 War-pudrirse-4,,War,pudrirse,ibi-a-,ibi-a-,i b i + a +,,,84,,^ i b i - a - $,War,,*pudrirse,174,,,pudrirse
 War-pudrirse-5,,War,pudrirse,ibi-yota-aha,ibi-yota-aha,i b i + j o t a + a h a,,,84,,^ i b i - y o t a - a h a $,War,,*pudrirse,174,,,no se pudre
 ProTa-dejarponer-1,,ProTa,dejarponer,iya-,iya-,i j a +,,,85,,^ i y a - $,ProTa,,"*dejar,poner",175,,,"dejar,poner"
@@ -1867,7 +1867,7 @@ Kav-dejarponer-4,,Kav,dejarponer,iča-bute-ke,iča-bute-ke,i tʃ a + b u t e + k
 ProTa-nuevoahora-1,,ProTa,nuevoahora,iyakwa,iyakwa,i j a k w a,,,86,,^ i y a k w a $,ProTa,,"*nuevo,ahora",176,,,"nuevo,ahora"
 Tak-nuevoahora-1,,Tak,nuevoahora,e-ičakwa,e-ičakwa,e + i tʃ a k w a,,,86,,^ e - i č a k w a $,Tak,,"*nuevo,ahora",176,,,nuevo
 Tak-nuevoahora-2,,Tak,nuevoahora,ečakwa ayu,ečakwa_ayu,e tʃ a k w a + a j u,Armentia,,86,,^ e č a k w a _ a y u $,Tak,,"*nuevo,ahora",176,,,renovar
-Tak-nuevoahora-3,,Tak,nuevoahora,ečača ~ eičakwa,ečača,e tʃ a tʃ a,Armentia,,86,,^ e č a č a $,Tak,,"*nuevo,ahora",176,,,nuevo
+Tak-nuevoahora-3,,Tak,nuevoahora,ečača~eičakwa,ečača,e tʃ a tʃ a,Armentia,,86,,^ e č a č a $,Tak,,"*nuevo,ahora",176,,,nuevo
 Kav-nuevoahora-1,,Kav,nuevoahora,i(y)akwa,iakwa,i a kʷ a,,,86,,^ i a kw a $,Kav,,"*nuevo,ahora",176,,,"ahora,nuevo"
 Kav-nuevoahora-2,,Kav,nuevoahora,(i)yakwa-wekaka,yakwa-wekaka,j a kʷ a + w e k a k a,,,86,,^ y a kw a - we k a k a $,Kav,,"*nuevo,ahora",176,,,hoy día
 Kav-nuevoahora-3,,Kav,nuevoahora,iyakwa-ke,iyakwa-ke,i j a kʷ a + k e,,,86,,^ i y a kw a - k e $,Kav,,"*nuevo,ahora",176,,,nuevo
@@ -2061,7 +2061,7 @@ Mar-hoydiaahora-1,,Mar,hoydiaahora,xeáve,xeáve,x e á/a β e,Heath,,113,,^ x e
 Was-hoydiaahora-1,,Was,hoydiaahora,geabe,geabe,g e a b e,,,113,,^ g e a b e $,Was,,"*hoy día,ahora",211,,,this day
 Ese-hoydiaahora-1,,Ese,hoydiaahora,xeya-wa,xeya-wa,x e j a + w a,,,113,,^ x e y a - w a $,Ese,,"*hoy día,ahora",211,,,ahora
 Ese-hoydiaahora-2,,Ese,hoydiaahora,xeya,xeya,x e j a,,,113,,^ x e y a $,Ese,,"*hoy día,ahora",211,,,ahora
-War-hoydiaahora-1,,War,hoydiaahora,heya ~ heyawa,heya,h e j a,,,113,,^ h e y a $,War,,"*hoy día,ahora",211,,,ahora
+War-hoydiaahora-1,,War,hoydiaahora,heya~heyawa,heya,h e j a,,,113,,^ h e y a $,War,,"*hoy día,ahora",211,,,ahora
 War-hoydiaahora-2,,War,hoydiaahora,heya-wa-nei,heya-wa-nei,h e j a + w a + n e i,,,113,,^ h e y a - w a - n e i $,War,,"*hoy día,ahora",211,,,ahora mismo
 ProTa-gritar-2,,ProTa,gritar,keke,keke,k e k e,,,114,,^ k e k e $,ProTa,,*gritar,212,,,gritar
 Tak-gritar-4,,Tak,gritar,hehe-,hehe-,h e h e +,,,114,,^ h e h e - $,Tak,,*gritar,212,,,gritar
@@ -2324,7 +2324,7 @@ ProTa-nutria-1,,ProTa,nutria,kwec̣ara,kwec̣ara,k w e c̥ a r a,,,147,,^ k w e 
 Tak-nutria-1,,Tak,nutria,keca,keca,k e ts a,,,147,,^ k e c a $,Tak,,*nutria,242,,,"londra,lobo"
 Rey-nutria-1,,Rey,nutria,kweca,kweca,k w e ts a,,,147,,^ k w e c a $,Rey,,*nutria,242,,,otter
 Kav-nutria-1,,Kav,nutria,kwecara,kwecara,kʷ e ts a r a,,,147,,^ kw e c a r a $,Kav,,*nutria,242,,,lobo (nutria)
-ProTa-barba-1,,ProTa,barba,*kwei-,*kwei-,<<*>> k w e i +,see also *kwac̣a,,148,,^ <*> k w e i - $,ProTa,,*barba,243,,,berba
+ProTa-barba-1,,ProTa,barba,kwei-,kwei-,k w e i +,see also *kwac̣a,,148,,^ k w e i - $,ProTa,,*barba,243,,,berba
 Tak-barba-1,,Tak,barba,ke-dha,ke-dha,k e + ð a,,,148,,^ k e - dh a $,Tak,,*barba,243,,,"barba,bigote"
 Tak-barba-2,,Tak,barba,e-ke-di,e-ke-di,e + k e + d i,,,148,,^ e - k e - d i $,Tak,,*barba,243,,,saliva
 Tak-barba-3,,Tak,barba,e-ke-ke,e-ke-ke,e + k e + k e,Armentia,,148,,^ e - k e - k e $,Tak,,*barba,243,,,"labio,orilla"
@@ -3194,7 +3194,7 @@ Kav-uno-1,,Kav,uno,pea-masa,pea-masa,p e a + m a s a,Armentia,,253,,^ p e a - m 
 Kav-uno-2,,Kav,uno,pea-pea,pea-pea,p e a + p e a,Armentia,,253,,^ p e a - p e a $,Kav,,*uno,338,,,"discernir,disunión"
 Kav-uno-3,,Kav,uno,pea-ra,pea-ra,p e a + r a,Armentia,,253,,^ p e a - r a $,Kav,,*uno,338,,,otro
 Kav-uno-4,,Kav,uno,pea-sa,pea-sa,p e a + s a,Armentia,,253,,^ p e a - s a $,Kav,,*uno,338,,,otros
-Kav-uno-5,,Kav,uno,pea ~ peya,pea,p e a,,,253,,^ p e a $,Kav,,*uno,338,,,otro
+Kav-uno-5,,Kav,uno,pea~peya,pea,p e a,,,253,,^ p e a $,Kav,,*uno,338,,,otro
 Kav-uno-6,,Kav,uno,pea-dya,pea-dya,p e a + d j a,,,253,,^ p e a - d y a $,Kav,,*uno,338,,,uno
 Kav-uno-7,,Kav,uno,pea-dyaihaka,pea-dyaihaka,p e a + d j a i h a k a,,,253,,^ p e a - d y a i h a k a $,Kav,,*uno,338,,,penga
 Kav-uno-8,,Kav,uno,peeyaho,peeyaho,p e e j a h o,,,253,,^ p e e y a h o $,Kav,,*uno,338,,,"en la otra,aparte"
@@ -3411,7 +3411,7 @@ Ese-carnecuerpo-3,,Ese,carnecuerpo,eyami-kekwa-xi,eyami-kekwa-xi,e j a m i + k e
 War-carnecuerpo-1,,War,carnecuerpo,eyami,eyami,e j a m i,,,280,,^ e y a m i $,War,,"*carne,cuerpo",362,,,carne
 War-carnecuerpo-2,,War,carnecuerpo,yámina,yámina,j á/a m i n a,this form would indicate that *r > War. y and not Ø,,280,,^ y á m i n a $,War,,"*carne,cuerpo",362,,,sin cuerpo
 Ara-carnecuerpo-1,,Ara,carnecuerpo,éami,éami,é/e a m i,,,280,,^ é a m i $,Ara,,"*carne,cuerpo",362,,,meat
-ProTa-esteaqui-1,,ProTa,esteaqui,ree- ~ rei-,ree-,r e e +,"N.B. A single protoform, which would satisfy all languages, is difficult to set up. Van Wynen's Tak. and Armentia's Tak. are not at all in agreement. There is no evidence that *r would give Ese. h. All sets of demonstratives in Takanan present extreme difficulty in reconstruction, and we must assume either that Takanan demonstratives evolved in highly erratic and individual ways or that a number of protomorphemes may be involved, some of which at least superficially resembled each other.",,281,,^ r e e - $,ProTa,,"*este,aquí",363,,,"este,aquí"
+ProTa-esteaqui-1,,ProTa,esteaqui,ree-~rei-,ree-,r e e +,"N.B. A single protoform, which would satisfy all languages, is difficult to set up. Van Wynen's Tak. and Armentia's Tak. are not at all in agreement. There is no evidence that *r would give Ese. h. All sets of demonstratives in Takanan present extreme difficulty in reconstruction, and we must assume either that Takanan demonstratives evolved in highly erratic and individual ways or that a number of protomorphemes may be involved, some of which at least superficially resembled each other.",,281,,^ r e e - $,ProTa,,"*este,aquí",363,,,"este,aquí"
 Tak-esteaqui-1,,Tak,esteaqui,ye,ye,j e,,,281,,^ y e $,Tak,,"*este,aquí",363,,,este
 Tak-esteaqui-2,,Tak,esteaqui,yeču,yeču,j e tʃ u,,,281,,^ y e č u $,Tak,,"*este,aquí",363,,,recién
 Tak-esteaqui-3,,Tak,esteaqui,yepia,yepia,j e p i a,"Armentia's forms: <ihe> 'este', <ihesa> 'de este', <ihesinecua> 'esta tarde', <iheve> 'este no más', all of which point to a <iʔe->, but also <ieichu> 'recién'",,281,,^ y e p i a $,Tak,,"*este,aquí",363,,,este otro
@@ -3453,7 +3453,7 @@ Tak-chapapearabochornar-1,,Tak,chapapearabochornar,rare-,rare-,r a r e +,,,284,,
 Kav-chapapearabochornar-1,,Kav,chapapearabochornar,rari,rari,r a r i,Armentia,,284,,^ r a r i $,Kav,,"*chapapear,abochornar",366,,,"abochornar,bochorno"
 ProTa-garza-1,,ProTa,garza,řa(ʔ)u,řau,ɽ a u,,,285,,^ ř a u $,ProTa,,*garza,367,,,garza
 Tak-garza-1,,Tak,garza,rau,rau,r a u,,,285,,^ r a u $,Tak,,*garza,367,,,garza
-Kav-garza-1,,Kav,garza,rao ~ raʔo,rao,r a o,,,285,,^ r a o $,Kav,,*garza,367,,,garza
+Kav-garza-1,,Kav,garza,rao~raʔo,rao,r a o,,,285,,^ r a o $,Kav,,*garza,367,,,garza
 ProTa-traer-3,,ProTa,traer,ře-,ře-,ɽ e +,,,286,,^ ř e - $,ProTa,,*traer,368,,,traer
 Kav-traer-5,,Kav,traer,re-pe-,re-pe-,r e + p e +,,,286,,^ r e - p e - $,Kav,,*traer,368,,,"arrastrar,jalar"
 Ese-traer-8,,Ese,traer,ye-,ye-,j e +,cognate?,,286,,^ y e - $,Ese,,*traer,368,,,traer
@@ -3544,7 +3544,7 @@ Tak-pezpescado-4,,Tak,pezpescado,e-sia puti-,e-sia_puti-,e + s i a + p u t i +,,
 Aro-pezpescado-1,,Aro,pezpescado,jae,jae,j a e,,,296,,^ j a e $,Aro,,"*pez,pescado",377,,,pescado
 Mar-pezpescado-1,,Mar,pezpescado,sisi,sisi,s i s i,cognate?,,296,,^ s i s i $,Mar,,"*pez,pescado",377,,,fish
 Sap-pezpescado-1,,Sap,pezpescado,sisi,sisi,s i s i,cognate?,,296,,^ s i s i $,Sap,,"*pez,pescado",377,,,fish
-Kav-pezpescado-1,,Kav,pezpescado,hae ~ haʔe,hae,h a e,,,296,,^ h a e $,Kav,,"*pez,pescado",377,,,pez
+Kav-pezpescado-1,,Kav,pezpescado,hae~haʔe,hae,h a e,,,296,,^ h a e $,Kav,,"*pez,pescado",377,,,pez
 Kav-pezpescado-2,,Kav,pezpescado,hae acukike,hae_acukike,h a e + a ts u k i k e,,,296,,^ h a e _ a c u k i k e $,Kav,,"*pez,pescado",377,,,bufeo
 Kav-pezpescado-3,,Kav,pezpescado,hae paha,hae_paha,h a e + p a h a,,,296,,^ h a e _ p a h a $,Kav,,"*pez,pescado",377,,,pez blanca
 Kav-pezpescado-4,,Kav,pezpescado,hae-aki,hae-aki,h a e + a k i,Armentia,,296,,^ h a e - a k i $,Kav,,"*pez,pescado",377,,,pescador
@@ -3630,7 +3630,7 @@ Tak-llenarllenarse-1,,Tak,llenarllenarse,sehe-,sehe-,s e h e +,,,307,,^ s e h e 
 Tak-llenarllenarse-2,,Tak,llenarllenarse,sehe-a-,sehe-a-,s e h e + a +,,,307,,^ s e h e - a - $,Tak,,"*llenar,llenarse",387,,,llenar
 Tak-llenarllenarse-3,,Tak,llenarllenarse,e-sehe,e-sehe,e + s e h e,,,307,,^ e - s e h e $,Tak,,"*llenar,llenarse",387,,,lleno
 Tak-llenarllenarse-4,,Tak,llenarllenarse,sehe,sehe,s e h e,Armentia,,307,,^ s e h e $,Tak,,"*llenar,llenarse",387,,,hinchazón
-Tak-llenarllenarse-5,,Tak,llenarllenarse,sehe-hihi ~ sehe-ahihi,sehe-hihi,s e h e + h i h i,Armentia,,307,,^ s e h e - h i h i $,Tak,,"*llenar,llenarse",387,,,"lleno,hincado,colmado"
+Tak-llenarllenarse-5,,Tak,llenarllenarse,sehe-hihi~sehe-ahihi,sehe-hihi,s e h e + h i h i,Armentia,,307,,^ s e h e - h i h i $,Tak,,"*llenar,llenarse",387,,,"lleno,hincado,colmado"
 Was-llenarllenarse-1,,Was,llenarllenarse,gracia c̹egeagigi,gracia_c̹egeagigi,g r a ts i a + ts <<̹>> e g e a g i g i,,,307,,^ g r a c i a _ c <̹> e g e a g i g i $,Was,,"*llenar,llenarse",387,,,full of grace
 Kav-llenarllenarse-1,,Kav,llenarllenarse,heke-,heke-,h e k e +,,,307,,^ h e k e - $,Kav,,"*llenar,llenarse",387,,,llenar
 Kav-llenarllenarse-2,,Kav,llenarllenarse,heke-ša-,heke-ša-,h e k e + ʃ a +,,,307,,^ h e k e - š a - $,Kav,,"*llenar,llenarse",387,,,llenar
@@ -3859,7 +3859,7 @@ Tak-chaco-1,,Tak,chaco,te,te,t e,,,342,,^ t e $,Tak,,*chaco,418,,,field
 Tak-chaco-2,,Tak,chaco,teini,teini,t e i n i,Armentia,,342,,^ t e i n i $,Tak,,*chaco,418,,,chacra abandonada
 Tak-chaco-3,,Tak,chaco,te-su,te-su,t e + s u,Armentia,,342,,^ t e - s u $,Tak,,*chaco,418,,,a la chacra
 Rey-chaco-1,,Rey,chaco,te,te,t e,,,342,,^ t e $,Rey,,*chaco,418,,,field
-Kav-chaco-1,,Kav,chaco,tee ~ teʔe,tee,t e e,,,342,,^ t e e $,Kav,,*chaco,418,,,chaco
+Kav-chaco-1,,Kav,chaco,tee~teʔe,tee,t e e,,,342,,^ t e e $,Kav,,*chaco,418,,,chaco
 Ese-chaco-1,,Ese,chaco,ke,ke,k e,,,342,,^ k e $,Ese,,*chaco,418,,,chaco
 ProTa-fuego-1,,ProTa,fuego,tiki,tiki,t i k i,The Takana forms here may well be based on *ti- only.,,343,,^ t i k i $,ProTa,,*fuego,419,,,fuego
 Tak-fuego-1,,Tak,fuego,e-ti-ře,e-ti-ře,e + t i + ɽ e,,,343,,^ e - t i - ř e $,Tak,,*fuego,419,,,carbón
@@ -3915,8 +3915,8 @@ Kav-troncopierna-3,,Kav,troncopierna,e-tibo-koro,e-tibo-koro,e + t i b o + k o r
 Kav-troncopierna-4,,Kav,troncopierna,ka-tibo-ti-,ka-tibo-ti-,k a + t i b o + t i +,,,345,,^ k a - t i b o - t i - $,Kav,,"*tronco,pierna",420,,,"empezar,comenzar"
 Kav-troncopierna-5,,Kav,troncopierna,e-tibu-ma-ki,e-tibu-ma-ki,e + t i b u + m a + k i,Armentia,,345,,^ e - t i b u - m a - k i $,Kav,,"*tronco,pierna",420,,,canoero
 Ese-troncopierna-1,,Ese,troncopierna,e-kiʔbo,e-kiʔbo,e + k i ʔ b o,,,345,,^ e - k i ʔ b o $,Ese,,"*tronco,pierna",420,,,tobillo
-War-troncopierna-1,,War,troncopierna,e-tibo ~ e-kibo,e-tibo,e + t i b o,,,345,,^ e - t i b o $,War,,"*tronco,pierna",420,,,pierna
-War-troncopierna-2,,War,troncopierna,e-tibo-šošahi ~ e-kibo-šošahi,e-tibo-šošahi,e + t i b o + ʃ o ʃ a h i,,,345,,^ e - t i b o - š o š a h i $,War,,"*tronco,pierna",420,,,tobillo
+War-troncopierna-1,,War,troncopierna,e-tibo~e-kibo,e-tibo,e + t i b o,,,345,,^ e - t i b o $,War,,"*tronco,pierna",420,,,pierna
+War-troncopierna-2,,War,troncopierna,e-tibo-šošahi~e-kibo-šošahi,e-tibo-šošahi,e + t i b o + ʃ o ʃ a h i,,,345,,^ e - t i b o - š o š a h i $,War,,"*tronco,pierna",420,,,tobillo
 ProTa-piernafalda-1,,ProTa,piernafalda,tic̣e,tic̣e,t i c̥ e,,,345,,^ t i c̣ e $,ProTa,,"*pierna,falda",420,,,"pierna,falda"
 Tak-piernafalda-1,,Tak,piernafalda,e-tice-wi,e-tice-wi,e + t i ts e + w i,,,345,,^ e - t i c e - wi $,Tak,,"*pierna,falda",420,,,cadera
 Ese-piernafalda-1,,Ese,piernafalda,e-kise,e-kise,e + k i s e,,,345,,^ e - k i s e $,Ese,,"*pierna,falda",420,,,"pierna,falda"
@@ -4026,7 +4026,7 @@ ProTa-pisararanar-1,,ProTa,pisararanar,tizi-,tizi-,t i z i +,,,356,,^ t i z i - 
 Tak-pisararanar-1,,Tak,pisararanar,tidhi-,tidhi-,t i ð i +,,,356,,^ t i dh i - $,Tak,,"*pisar,arañar",430,,,pisar
 Ese-pisararanar-1,,Ese,pisararanar,kiši-,kiši-,k i ʃ i +,,,356,,^ k i š i - $,Ese,,"*pisar,arañar",430,,,"pisar,arañar"
 Ese-pisararanar-2,,Ese,pisararanar,kiši-šaba,kiši-šaba,k i ʃ i + ʃ a b a,,,356,,^ k i š i - š a b a $,Ese,,"*pisar,arañar",430,,,escarbar
-War-pisararanar-1,,War,pisararanar,tiši ~ kiši-,tiši,t i ʃ i,,,356,,^ t i š i $,War,,"*pisar,arañar",430,,,pisar
+War-pisararanar-1,,War,pisararanar,tiši~kiši-,tiši,t i ʃ i,,,356,,^ t i š i $,War,,"*pisar,arañar",430,,,pisar
 ProTa-3rapersona-1,,ProTa,3rapersona,tu-,tu-,t u +,,,357,,^ t u - $,ProTa,,*3ra persona,431,,,3ra person
 Tak-3rapersona-1,,Tak,3rapersona,tuaceda,tuaceda,t u a ts e d a,,,357,,^ t u a c e d a $,Tak,,*3ra persona,431,,,ellos (dual)
 Tak-3rapersona-2,,Tak,3rapersona,tuacesa,tuacesa,t u a ts e s a,,,357,,^ t u a c e s a $,Tak,,*3ra persona,431,,,sus (dual)
@@ -4040,7 +4040,7 @@ Tak-3rapersona-9,,Tak,3rapersona,tunehe,tunehe,t u n e h e,,,357,,^ t u n e h e 
 Tak-3rapersona-10,,Tak,3rapersona,tuseda,tuseda,t u s e d a,,,357,,^ t u s e d a $,Tak,,*3ra persona,431,,,"de él,suyo"
 Tak-3rapersona-11,,Tak,3rapersona,tusa,tusa,t u s a,,,357,,^ t u s a $,Tak,,*3ra persona,431,,,su
 Tak-3rapersona-12,,Tak,3rapersona,tuna-mewa,tuna-mewa,t u n a + m e w a,,,357,,^ t u n a - m e w a $,Tak,,*3ra persona,431,,,ellos solos
-Rey-3rapersona-1,,Rey,3rapersona,tetowe ~ tetoe,tetowe,t e t o w e,,,357,,^ t e t o w e $,Rey,,*3ra persona,431,,,he
+Rey-3rapersona-1,,Rey,3rapersona,tetowe~tetoe,tetowe,t e t o w e,,,357,,^ t e t o w e $,Rey,,*3ra persona,431,,,he
 Rey-3rapersona-2,,Rey,3rapersona,tonabhe,tonabhe,t o n a β e,,,357,,^ t o n a bh e $,Rey,,*3ra persona,431,,,they
 Mar-3rapersona-1,,Mar,3rapersona,tuve,tuve,t u β e,Heath,,357,,^ t u v e $,Mar,,*3ra persona,431,,,he
 Mar-3rapersona-2,,Mar,3rapersona,tunave,tunave,t u n a β e,Heath,,357,,^ t u n a v e $,Mar,,*3ra persona,431,,,they
@@ -4295,7 +4295,7 @@ Kav-chancodetropa-1,,Kav,chancodetropa,waboro,waboro,w a b o r o,,,381,,^ w a b 
 Kav-chancodetropa-2,,Kav,chancodetropa,waborasa,waborasa,w a b o r a s a,,,381,,^ w a b o r a s a $,Kav,,*chanco de tropa,453,,,taitetú
 Ese-chancodetropa-1,,Ese,chancodetropa,waxa,waxa,w a x a,cognate?,,381,,^ w a x a $,Ese,,*chanco de tropa,453,,,white-lipped peccary
 Ese-chancodetropa-2,,Ese,chancodetropa,wo,wo,w o,cognate?,,381,,^ w o $,Ese,,*chanco de tropa,453,,,chancho
-ProTa-pie-1,,ProTa,pie,wac̣i ~ wazi,wac̣i,w a c̥ i,,,382,,^ w a c̣ i $,ProTa,,*pié,454,,,pié
+ProTa-pie-1,,ProTa,pie,wac̣i~wazi,wac̣i,w a c̥ i,,,382,,^ w a c̣ i $,ProTa,,*pié,454,,,pié
 Tak-pie-1,,Tak,pie,e-waci,e-waci,e + w a ts i,"Concepts 'rastro,pisada' taken from Armentia",,382,,^ e - w a c i $,Tak,,*pié,454,,,"pié,rastro,pisada"
 Tak-pie-2,,Tak,pie,e-waci tiadi,e-waci_tiadi,e + w a ts i + t i a d i,Armentia,,382,,^ e - w a c i _ t i a d i $,Tak,,*pié,454,,,talon
 Tak-pie-3,,Tak,pie,e-waci metidi,e-waci_metidi,e + w a ts i + m e t i d i,Armentia,,382,,^ e - w a c i _ m e t i d i $,Tak,,*pié,454,,,uña del pié
@@ -4325,7 +4325,7 @@ Kav-chico-1,,Kav,chico,e-wee-bari,e-wee-bari,e + w e e + b a r i,Concept 'moceda
 Kav-chico-2,,Kav,chico,e-ve,e-ve,e + β e,Armentia,,384,,^ e - v e $,Kav,,*chico,456,,,cachorro
 ProTa-paloma-1,,ProTa,paloma,wa(ʔ)i,wai,w a i,,,385,,^ w a i $,ProTa,,*paloma,457,,,paloma
 Tak-paloma-1,,Tak,paloma,wai-tuku,wai-tuku,w a i + t u k u,,,385,,^ w a i - t u k u $,Tak,,*paloma,457,,,especie de paloma
-Kav-paloma-1,,Kav,paloma,wei ~ weʔi,wei,w e i,,,385,,^ we i $,Kav,,*paloma,457,,,paloma
+Kav-paloma-1,,Kav,paloma,wei~weʔi,wei,w e i,,,385,,^ we i $,Kav,,*paloma,457,,,paloma
 Ese-paloma-1,,Ese,paloma,waʔy-oxo,waʔy-oxo,w a ʔ j + o x o,,,385,,^ w a ʔ y - o x o $,Ese,,*paloma,457,,,paloma
 Ese-paloma-2,,Ese,paloma,weá,weá,w e á/a,,,385,,^ w e á $,Ese,,*paloma,457,,,paloma
 War-paloma-1,,War,paloma,kwei-beʔi,kwei-beʔi,k w e i + b e ʔ i,,,385,,^ k w e i - b e ʔ i $,War,,*paloma,457,,,paloma
@@ -4627,7 +4627,7 @@ Sap-pasttense-1,,Sap,pasttense,chuati-ssa,chuati-ssa,ts h u a t i + s s a,,,419,
 ProTa-coca-1,,ProTa,coca,zaʔazi,zaʔazi,z a ʔ a z i,,,420,,^ z a ʔ a z i $,ProTa,,*coca,489,,,coca
 Tak-coca-1,,Tak,coca,dhaʔadhi,dhaʔadhi,ð a ʔ a ð i,,,420,,^ dh a ʔ a dh i $,Tak,,*coca,489,,,coca
 Rey-coca-1,,Rey,coca,saʔasi,saʔasi,s a ʔ a s i,,,420,,^ s a ʔ a s i $,Rey,,*coca,489,,,coca
-Kav-coca-1,,Kav,coca,saasi ~ saʔasi,saasi,s a a s i,,,420,,^ s a a s i $,Kav,,*coca,489,,,"coca,aculli"
+Kav-coca-1,,Kav,coca,saasi~saʔasi,saasi,s a a s i,,,420,,^ s a a s i $,Kav,,*coca,489,,,"coca,aculli"
 ProTa-cernerpunzar-1,,ProTa,cernerpunzar,zakwa,zakwa,z a k w a,,,422,,^ z a k w a $,ProTa,,"*cerner,punzar",490,,,"cerner,punzar"
 Tak-cernerpunzar-1,,Tak,cernerpunzar,dhakwa,dhakwa,ð a k w a,,,422,,^ dh a k w a $,Tak,,"*cerner,punzar",490,,,bentón (pez)
 Tak-cernerpunzar-2,,Tak,cernerpunzar,dakwa-,dakwa-,d a k w a +,/dhakwa-/ in Armentia,,422,,^ d a k w a - $,Tak,,"*cerner,punzar",490,,,"cerner,colar"

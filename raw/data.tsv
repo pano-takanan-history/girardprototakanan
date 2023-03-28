@@ -92,7 +92,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 91	3	*a3	*aʔi	*qué?	Tak	lo que,qué?,qui cosa?,algun	ai		concept 'algun' taken from Armentia	
 92	3	*a3	*aʔi	*qué?	Tak	qué?	ai ni da		Armentia	
 93	3	*a3	*aʔi	*qué?	Tak	qué será?	ai hia			
-94	3	*a3	*aʔi	*qué?	Kav	qué?,como?	ai ~ aʔi			
+94	3	*a3	*aʔi	*qué?	Kav	qué?,como?	ai~aʔi			
 95	3	*a3	*aʔi	*qué?	Ese	qué?,quién?,nada!	ae			
 96	3	*a3	*aʔikʷana	*cosa	ProTa	cosa	aʔikʷana	*a3+ʔi+kʷana		
 97	3	*a3	*aʔikʷana	*cosa	Tak	cosas	aikwana			
@@ -248,7 +248,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 247	12	*ana	*ana	*lengua	Kav	punto de lengua	y-ana-wito			
 248	12	*ana	*ana	*lengua	Kav	lengua chuta	y-ana-tobo			
 249	12	*ana	*ana	*lengua	Ese	tongue	eyana			
-250	12	*ana	*ana	*lengua	War	lengua	y-ana ~ e-ana			
+250	12	*ana	*ana	*lengua	War	lengua	y-ana~e-ana			
 251	12	*ana	*ana	*lengua	Tia	tongue	yana		Fast	
 252	12	*ana	*ana	*lengua	Ara	Zunge	eána		Nordenskiöld	
 253	13	*anani	*anani	*palo santo	ProTa	palo santo	anani			
@@ -656,7 +656,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 655	49	*basa-/basai-	*basa-/basai-	*acomodar	ProTa	acomodar	basa-/basai-			
 656	49	*basa-/basai-	*basa-/basai-	*acomodar	Tak	acomodar,arreglar	basa-ita-			
 657	49	*basa-/basai-	*basa-/basai-	*acomodar	Tak	adornado,compuesto	basa-ita-hi-hi		Armentia	
-658	49	*basa-/basai-	*basa-/basai-	*acomodar	Tak	componer	baseta ~ basaita		Armentia	
+658	49	*basa-/basai-	*basa-/basai-	*acomodar	Tak	componer	baseta~basaita		Armentia	
 659	49	*basa-/basai-	*basa-/basai-	*acomodar	Tak	entretener	basia		Armentia	
 660	49	*basa-/basai-	*basa-/basai-	*acomodar	Kav	acomodar,limpiar,componer	bahehe-			
 661	49	*basa-/basai-	*basa-/basai-	*acomodar	Kav	acomodado	e-bahehe		*basai+i?	
@@ -736,14 +736,14 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 735	55	*bea-	*bea...	*también	Kav	enfermer,contagiar	a-dya-		cognate? | Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	1
 736	55	*bea-	*beakwa	*río arriba	ProTa	río arriba	beakwa			
 737	55	*bea-	*beakwa	*río arriba	Tak	arriba (río arriba)	biakwa-wa			
-738	55	*bea-	*beakwa	*río arriba	Ese	río arriba	beakwa ~ biakwa			
+738	55	*bea-	*beakwa	*río arriba	Ese	río arriba	beakwa~biakwa			
 739	55	*bea-	*beakwa	*río arriba	War	arriba del río	beakwa,beakwa-ena			
 740	55	*bea-	*beakwa	*río arriba	Ara	en haut	beákua		Nordenskiöld	
 741	55	*bea-	*beakwa	*río arriba	Tia	above	biäkwa		Faust	
 742	56	*bedu	*bedu	*buitre negro	ProTa	buitre negro	bedu			
 743	56	*bedu	*bedu	*buitre negro	Rey	buzzard	bendzo			
 744	56	*bedu	*bedu	*buitre negro	Ese	sucha	beʔo			
-745	56	*bedu	*bedu	*buitre negro	War	gallinazo	beó ~ beʔó			
+745	56	*bedu	*bedu	*buitre negro	War	gallinazo	beó~beʔó			
 746	57	*bei	*bei	*feliz,alegre,contento	ProTa	feliz,alegre	bei			
 747	57	*bei	*bei	*feliz,alegre,contento	Tak	feliz,alegre	bei-da-hi			
 748	57	*bei	*bei	*feliz,alegre,contento	Tak	alegría	bei-bi		Armentia	
@@ -1114,7 +1114,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 1113	99	*-c̣e2	*-c̣e	*dual suffix	Tak	dual suffix for nouns	-de-ce			
 1114	99	*-c̣e2	*-c̣e	*dual suffix	Kav	nosotros dos	ya-ce			
 1115	99	*-c̣e2	*-c̣e	*dual suffix	Kav	ambos,ellos dos	ta-ce			
-1116	99	*-c̣e2	*-c̣e	*dual suffix	Kav	dentrambos	ta-ce ~ e-ka-ce		Armentia	
+1116	99	*-c̣e2	*-c̣e	*dual suffix	Kav	dentrambos	ta-ce~e-ka-ce		Armentia	
 1117	100	*c̣ea-(c̣ea-)	*c̣ea-(c̣ea-)	*gritar	ProTa	gritar	c̣ea-(c̣ea-)			
 1118	100	*c̣ea-(c̣ea-)	*c̣ea-(c̣ea-)	*gritar	Tak	gritar,gruñir,chillar	cia-cia		Armentia	
 1119	100	*c̣ea-(c̣ea-)	*c̣ea-(c̣ea-)	*gritar	Tak	gritón	cia-cia-cia-cia		Armentia	
@@ -1201,7 +1201,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 1200	107	*c̣ewe	*c̣ewe	*gancho	Kav	gancho,palca (para tejer)	čewe		from metathesized *e-cewe?	
 1201	107	*c̣ewe	*c̣ewe	*gancho	Ese	hacha	sewe-ša			
 1202	107	*c̣ewe	*c̣ewe	*gancho	Ese	atravesar	hea-sweie-			
-1203	108	*c̣i(i)-	*c̣i(i)-	*atorar	ProTa	atorar	*c̣i(i)-			
+1203	108	*c̣i(i)-	*c̣i(i)-	*atorar	ProTa	atorar	c̣i(i)-			
 1204	108	*c̣i(i)-	*c̣i(i)-	*atorar	Kav	atorar	či-ki-			
 1205	108	*c̣i(i)-	*c̣i(i)-	*atorar	Kav	desgujar,deszumar	čii		Armentia	
 1206	108	*c̣i(i)-	*c̣i(i)-	*atorar	Ese	atorar	sii-xa-			
@@ -1306,7 +1306,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 1305	120	*c̣ukwe	*c̣ukwe	*tucán	ProTa	tucán	c̣ukwe			
 1306	120	*c̣ukwe	*c̣ukwe	*tucán	Tak	tucán	cukwe		Armentia | <tsucue> | equals/cuke/or loan?	
 1307	120	*c̣ukwe	*c̣ukwe	*tucán	Kav	tucán	cokwe			
-1308	120	*c̣ukwe	*c̣ukwe	*tucán	Ese	tucán	sokwé ~ sokwe			
+1308	120	*c̣ukwe	*c̣ukwe	*tucán	Ese	tucán	sokwé~sokwe			
 1309	121	*c̣unu-	*c̣unu-	*cuando,harto	ProTa	cuando,harto	c̣unu-			
 1310	121	*c̣unu-	*c̣unu-	*cuando,harto	Tak	hace mucho tiempo	cunu-da			
 1311	121	*c̣unu-	*c̣unu-	*cuando,harto	Tak	tardarse	cunu-ta-			
@@ -1327,7 +1327,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 1326	122	*c̣ura-	*c̣ura-	*subir	Ese	arribar,subir	sowa-			
 1327	122	*c̣ura-	*c̣ura-	*subir	Ese	subir,levantar	ani-sowa-ki-			
 1328	122	*c̣ura-	*c̣ura-	*subir	Ese	alzar	xeki-sowa-ki-			
-1329	122	*c̣ura-	*c̣ura-	*subir	War	subir	sua-ti- ~ soa-ti-			
+1329	122	*c̣ura-	*c̣ura-	*subir	War	subir	sua-ti-~soa-ti-			
 1330	122	*c̣ura-	*c̣ura-	*subir	War	levantar	heki-soa-			
 1331	122	*c̣ura-	*c̣ura-	*subir	War	levantarse (de pié)	neki-soa-			
 1332	123	*c̣ure-	*c̣ure-	*aro	ProTa	aro	c̣ure-			
@@ -1343,7 +1343,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 1342	124	*c̣uri	*c̣uri	*voz	Ese	conversaron	xa-sowi-wowika-			
 1343	124	*c̣uri	*c̣uri	*voz	Ese	profesor	e-sowi-wowixi			
 1344	124	*c̣uri	*c̣uri	*voz	Ese	enseñar	sowi-wowi-			
-1345	124	*c̣uri	*c̣uri	*voz	War	lengua,idioma	e-soi ~ e-šoi			
+1345	124	*c̣uri	*c̣uri	*voz	War	lengua,idioma	e-soi~e-šoi			
 1346	125	*c̣uru	*c̣uru	*encontrar	ProTa	encontrar	c̣uru			
 1347	125	*c̣uru	*c̣uru	*encontrar	Tak	andar encontrar	cu-tiya-			
 1348	125	*c̣uru	*c̣uru	*encontrar	Tak	lo encontró	cu-itaitia		Armentia	
@@ -1620,7 +1620,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 1619	151	*ei-	*ei-	*1P	Kav	hacía mí	iakeha			
 1620	151	*ei-	*ei-	*1P	Kav	conmigo	iacewe		Armentia: <eatseve>	
 1621	151	*ei-	*ei-	*1P	Kav	nosotros dos	yace			
-1622	151	*ei-	*ei-	*1P	Ese	yo	ea ~ eyaya	*e-ra(e-ra)		
+1622	151	*ei-	*ei-	*1P	Ese	yo	ea~eyaya	*e-ra(e-ra)		
 1623	152	*iba	*iba	*tigre	ProTa	tigre	iba			
 1624	152	*iba	*iba	*tigre	Tak	tigre	iba			
 1625	152	*iba	*iba	*tigre	Rey	jaguar	imba			
@@ -1850,7 +1850,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 1849	174	*iwi-	*iwi-	*pudrirse	Ese	podrido	e-ʔiwi			
 1850	174	*iwi-	*iwi-	*pudrirse	War	hediondo	kia-íbui			
 1851	174	*iwi-	*iwi-	*pudrirse	War	no es hediondo	ibuí-ama			
-1852	174	*iwi-	*iwi-	*pudrirse	War	heder	eíbuí ~ eíui			
+1852	174	*iwi-	*iwi-	*pudrirse	War	heder	eíbuí~eíui			
 1853	174	*iwi-	*iwi-	*pudrirse	War	pudrirse	ibi-a-			
 1854	174	*iwi-	*iwi-	*pudrirse	War	no se pudre	ibi-yota-aha			
 1855	175	*iya-	*iya-	*dejar,poner	ProTa	dejar,poner	iya-			
@@ -1867,7 +1867,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 1866	176	*iyakwa	*iyakwa	*nuevo,ahora	ProTa	nuevo,ahora	iyakwa			
 1867	176	*iyakwa	*iyakwa	*nuevo,ahora	Tak	nuevo	e-ičakwa			
 1868	176	*iyakwa	*iyakwa	*nuevo,ahora	Tak	renovar	ečakwa ayu		Armentia	
-1869	176	*iyakwa	*iyakwa	*nuevo,ahora	Tak	nuevo	ečača ~ eičakwa		Armentia	
+1869	176	*iyakwa	*iyakwa	*nuevo,ahora	Tak	nuevo	ečača~eičakwa		Armentia	
 1870	176	*iyakwa	*iyakwa	*nuevo,ahora	Kav	ahora,nuevo	i(y)akwa			
 1871	176	*iyakwa	*iyakwa	*nuevo,ahora	Kav	hoy día	(i)yakwa-wekaka			
 1872	176	*iyakwa	*iyakwa	*nuevo,ahora	Kav	nuevo	iyakwa-ke			
@@ -2138,7 +2138,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 2060	211	*kea-	*kea-	*hoy día,ahora	Was	this day	geabe			
 2061	211	*kea-	*kea-	*hoy día,ahora	Ese	ahora	xeya-wa			
 2062	211	*kea-	*kea-	*hoy día,ahora	Ese	ahora	xeya			
-2063	211	*kea-	*kea-	*hoy día,ahora	War	ahora	heya ~ heyawa			
+2063	211	*kea-	*kea-	*hoy día,ahora	War	ahora	heya~heyawa			
 2064	211	*kea-	*kea-	*hoy día,ahora	War	ahora mismo	heya-wa-nei			
 2065	212	*keke	*keke	*gritar	ProTa	gritar	keke			
 2066	212	*keke	*keke	*gritar	Tak	gritar	hehe-			
@@ -2401,7 +2401,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 2323	242	*kwec̣ara	*kwec̣ara	*nutria	Tak	londra,lobo	keca			
 2324	242	*kwec̣ara	*kwec̣ara	*nutria	Rey	otter	kweca			
 2325	242	*kwec̣ara	*kwec̣ara	*nutria	Kav	lobo (nutria)	kwecara			
-2326	243	*kwei-	*kwei-	*barba	ProTa	berba	*kwei-		see also *kwac̣a	
+2326	243	*kwei-	*kwei-	*barba	ProTa	berba	kwei-		see also *kwac̣a	
 2327	243	*kwei-	*kwei-	*barba	Tak	barba,bigote	ke-dha			
 2328	243	*kwei-	*kwei-	*barba	Tak	saliva	e-ke-di			
 2329	243	*kwei-	*kwei-	*barba	Tak	labio,orilla	e-ke-ke		Armentia	
@@ -3271,7 +3271,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 3193	338	*peia-	*peia-	*uno	Kav	discernir,disunión	pea-pea		Armentia	
 3194	338	*peia-	*peia-	*uno	Kav	otro	pea-ra		Armentia	
 3195	338	*peia-	*peia-	*uno	Kav	otros	pea-sa		Armentia	
-3196	338	*peia-	*peia-	*uno	Kav	otro	pea ~ peya			
+3196	338	*peia-	*peia-	*uno	Kav	otro	pea~peya			
 3197	338	*peia-	*peia-	*uno	Kav	uno	pea-dya			
 3198	338	*peia-	*peia-	*uno	Kav	penga	pea-dyaihaka			
 3199	338	*peia-	*peia-	*uno	Kav	en la otra,aparte	peeyaho			
@@ -3488,26 +3488,26 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 3410	362	*rami	*rami	*carne,cuerpo	War	carne	eyami			
 3411	362	*rami	*rami	*carne,cuerpo	War	sin cuerpo	yámina		this form would indicate that *r > War. y and not Ø	
 3412	362	*rami	*rami	*carne,cuerpo	Ara	meat	éami			
-3413	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	ProTa	este,aquí	ree- ~ rei-		N.B. A single protoform, which would satisfy all languages, is difficult to set up. Van Wynen's Tak. and Armentia's Tak. are not at all in agreement. There is no evidence that *r would give Ese. h. All sets of demonstratives in Takanan present extreme difficulty in reconstruction, and we must assume either that Takanan demonstratives evolved in highly erratic and individual ways or that a number of protomorphemes may be involved, some of which at least superficially resembled each other.	
-3414	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Tak	este	ye			
-3415	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Tak	recién	yeču			
-3416	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Tak	este otro	yepia		Armentia's forms: <ihe> 'este', <ihesa> 'de este', <ihesinecua> 'esta tarde', <iheve> 'este no más', all of which point to a <iʔe->, but also <ieichu> 'recién'	
-3417	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Kav	por aquí	reeke			
-3418	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Kav	aquí	rewa			
-3419	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Kav	de aquí	rewaho			
-3420	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Kav	hasta aquí	rewatopo			
-3421	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Kav	ayer	riabarepa			
-3422	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Kav	anteayer	riabarepatibene			
-3423	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Kav	aquí	riada			
-3424	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Kav	no había	riaihamahowa			
-3425	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Kav	como ahora	riahotidia			
-3426	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Kav	siempre,hasta ahora	riakama			
-3427	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Kav	menos,un poco	riapihi			
-3428	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Kav	este	rike			
-3429	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Kav	este	riyake		Armentia's forms: <riebarepa> 'ayer', <reue> 'acá', <rie> 'este', <riquievaca> 'hoy', <riaddio> 'hoy, <riavecacajuqui> 'de hoy'	
-3430	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Ese	aquí,este	hikio			
-3431	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Ese	aquí en este lugar	hikioho			
-3432	363	*ree- ~ *rei-	*ree- ~ *rei-	*este,aquí	Ese	por acá	hikiakwa		cognate?	
+3413	363	*ree-~*rei-	*ree-~*rei-	*este,aquí	ProTa	este,aquí	ree-~rei-		N.B. A single protoform, which would satisfy all languages, is difficult to set up. Van Wynen's Tak. and Armentia's Tak. are not at all in agreement. There is no evidence that *r would give Ese. h. All sets of demonstratives in Takanan present extreme difficulty in reconstruction, and we must assume either that Takanan demonstratives evolved in highly erratic and individual ways or that a number of protomorphemes may be involved, some of which at least superficially resembled each other.	
+3414	363	*ree-~*rei-	*ree-~*rei-	*este,aquí	Tak	este	ye			
+3415	363	*ree-~*rei-	*ree-~*rei-	*este,aquí	Tak	recién	yeču			
+3416	363	*ree-~*rei-	*ree-~*rei-	*este,aquí	Tak	este otro	yepia		Armentia's forms: <ihe> 'este', <ihesa> 'de este', <ihesinecua> 'esta tarde', <iheve> 'este no más', all of which point to a <iʔe->, but also <ieichu> 'recién'	
+3417	363	*ree-~*rei-	*ree-~*rei-	*este,aquí	Kav	por aquí	reeke			
+3418	363	*ree-~*rei-	*ree-~*rei-	*este,aquí	Kav	aquí	rewa			
+3419	363	*ree-~*rei-	*ree-~*rei-	*este,aquí	Kav	de aquí	rewaho			
+3420	363	*ree-~*rei-	*ree-~*rei-	*este,aquí	Kav	hasta aquí	rewatopo			
+3421	363	*ree-~*rei-	*ree-~*rei-	*este,aquí	Kav	ayer	riabarepa			
+3422	363	*ree-~*rei-	*ree-~*rei-	*este,aquí	Kav	anteayer	riabarepatibene			
+3423	363	*ree-~*rei-	*ree-~*rei-	*este,aquí	Kav	aquí	riada			
+3424	363	*ree-~*rei-	*ree-~*rei-	*este,aquí	Kav	no había	riaihamahowa			
+3425	363	*ree-~*rei-	*ree-~*rei-	*este,aquí	Kav	como ahora	riahotidia			
+3426	363	*ree-~*rei-	*ree-~*rei-	*este,aquí	Kav	siempre,hasta ahora	riakama			
+3427	363	*ree-~*rei-	*ree-~*rei-	*este,aquí	Kav	menos,un poco	riapihi			
+3428	363	*ree-~*rei-	*ree-~*rei-	*este,aquí	Kav	este	rike			
+3429	363	*ree-~*rei-	*ree-~*rei-	*este,aquí	Kav	este	riyake		Armentia's forms: <riebarepa> 'ayer', <reue> 'acá', <rie> 'este', <riquievaca> 'hoy', <riaddio> 'hoy, <riavecacajuqui> 'de hoy'	
+3430	363	*ree-~*rei-	*ree-~*rei-	*este,aquí	Ese	aquí,este	hikio			
+3431	363	*ree-~*rei-	*ree-~*rei-	*este,aquí	Ese	aquí en este lugar	hikioho			
+3432	363	*ree-~*rei-	*ree-~*rei-	*este,aquí	Ese	por acá	hikiakwa		cognate?	
 3433	364	*řa-	*řa-	*cortar,quebrar	ProTa	cortar,quebrar	řa-			
 3434	364	*řa-	*řa-	*cortar,quebrar	Tak	cortar,consechar	ra-ha-			
 3435	364	*řa-	*řa-	*cortar,quebrar	Tak	quebrar (de un árbol o planta)	ra-ri-			
@@ -3530,7 +3530,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 3452	366	*řař{e/i}	*řař{e/i}	*chapapear,abochornar	Kav	abochornar,bochorno	rari		Armentia	
 3453	367	*řa(ʔ)u	*řa(ʔ)u	*garza	ProTa	garza	řa(ʔ)u			
 3454	367	*řa(ʔ)u	*řa(ʔ)u	*garza	Tak	garza	rau			
-3455	367	*řa(ʔ)u	*řa(ʔ)u	*garza	Kav	garza	rao ~ raʔo			
+3455	367	*řa(ʔ)u	*řa(ʔ)u	*garza	Kav	garza	rao~raʔo			
 3456	368	*ře-	*ře-	*traer	ProTa	traer	ře-			
 3457	368	*ře-	*ře-	*traer	Kav	arrastrar,jalar	re-pe-			
 3458	368	*ře-	*ře-	*traer	Ese	traer	ye-		cognate?	
@@ -3621,7 +3621,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 3543	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Aro	pescado	jae			
 3544	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Mar	fish	sisi		cognate?	
 3545	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Sap	fish	sisi		cognate?	
-3546	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Kav	pez	hae ~ haʔe			
+3546	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Kav	pez	hae~haʔe			
 3547	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Kav	bufeo	hae acukike			
 3548	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Kav	pez blanca	hae paha			
 3549	377	*sa(ʔ)e	*sa(ʔ)e	*pez,pescado	Kav	pescador	hae-aki		Armentia	
@@ -3707,7 +3707,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 3629	387	*seke	*seke	*llenar,llenarse	Tak	llenar	sehe-a-			
 3630	387	*seke	*seke	*llenar,llenarse	Tak	lleno	e-sehe			
 3631	387	*seke	*seke	*llenar,llenarse	Tak	hinchazón	sehe		Armentia	
-3632	387	*seke	*seke	*llenar,llenarse	Tak	lleno,hincado,colmado	sehe-hihi ~ sehe-ahihi		Armentia	
+3632	387	*seke	*seke	*llenar,llenarse	Tak	lleno,hincado,colmado	sehe-hihi~sehe-ahihi		Armentia	
 3633	387	*seke	*seke	*llenar,llenarse	Was	full of grace	gracia c̹egeagigi			
 3634	387	*seke	*seke	*llenar,llenarse	Kav	llenar	heke-			
 3635	387	*seke	*seke	*llenar,llenarse	Kav	llenar	heke-ša-			
@@ -3936,7 +3936,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 3858	418	*te(ʔ)e	*te(ʔ)e	*chaco	Tak	chacra abandonada	teini		Armentia	
 3859	418	*te(ʔ)e	*te(ʔ)e	*chaco	Tak	a la chacra	te-su		Armentia	
 3860	418	*te(ʔ)e	*te(ʔ)e	*chaco	Rey	field	te			
-3861	418	*te(ʔ)e	*te(ʔ)e	*chaco	Kav	chaco	tee ~ teʔe			
+3861	418	*te(ʔ)e	*te(ʔ)e	*chaco	Kav	chaco	tee~teʔe			
 3862	418	*te(ʔ)e	*te(ʔ)e	*chaco	Ese	chaco	ke			
 3863	419	*ti1	*tiki	*fuego	ProTa	fuego	tiki		The Takana forms here may well be based on *ti- only.	
 3864	419	*ti1	*tiki	*fuego	Tak	carbón	e-ti-ře			
@@ -3992,8 +3992,8 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 3914	420	*ti2-	*tibu	*tronco,pierna	Kav	empezar,comenzar	ka-tibo-ti-			
 3915	420	*ti2-	*tibu	*tronco,pierna	Kav	canoero	e-tibu-ma-ki		Armentia	
 3916	420	*ti2-	*tibu	*tronco,pierna	Ese	tobillo	e-kiʔbo			
-3917	420	*ti2-	*tibu	*tronco,pierna	War	pierna	e-tibo ~ e-kibo			
-3918	420	*ti2-	*tibu	*tronco,pierna	War	tobillo	e-tibo-šošahi ~ e-kibo-šošahi			
+3917	420	*ti2-	*tibu	*tronco,pierna	War	pierna	e-tibo~e-kibo			
+3918	420	*ti2-	*tibu	*tronco,pierna	War	tobillo	e-tibo-šošahi~e-kibo-šošahi			
 3919	420	*ti2-	*tic̣e	*pierna,falda	ProTa	pierna,falda	tic̣e			
 3920	420	*ti2-	*tic̣e	*pierna,falda	Tak	cadera	e-tice-wi			
 3921	420	*ti2-	*tic̣e	*pierna,falda	Ese	pierna,falda	e-kise			
@@ -4103,7 +4103,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 4025	430	*tizi-	*tizi-	*pisar,arañar	Tak	pisar	tidhi-			
 4026	430	*tizi-	*tizi-	*pisar,arañar	Ese	pisar,arañar	kiši-			
 4027	430	*tizi-	*tizi-	*pisar,arañar	Ese	escarbar	kiši-šaba			
-4028	430	*tizi-	*tizi-	*pisar,arañar	War	pisar	tiši ~ kiši-			
+4028	430	*tizi-	*tizi-	*pisar,arañar	War	pisar	tiši~kiši-			
 4029	431	*tu1-	*tu-	*3ra persona	ProTa	3ra person	tu-			
 4030	431	*tu1-	*tu-	*3ra persona	Tak	ellos (dual)	tuaceda			
 4031	431	*tu1-	*tu-	*3ra persona	Tak	sus (dual)	tuacesa			
@@ -4117,7 +4117,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 4039	431	*tu1-	*tu-	*3ra persona	Tak	de él,suyo	tuseda			
 4040	431	*tu1-	*tu-	*3ra persona	Tak	su	tusa			
 4041	431	*tu1-	*tu-	*3ra persona	Tak	ellos solos	tuna-mewa			
-4042	431	*tu1-	*tu-	*3ra persona	Rey	he	tetowe ~ tetoe			
+4042	431	*tu1-	*tu-	*3ra persona	Rey	he	tetowe~tetoe			
 4043	431	*tu1-	*tu-	*3ra persona	Rey	they	tonabhe			
 4044	431	*tu1-	*tu-	*3ra persona	Mar	he	tuve		Heath	
 4045	431	*tu1-	*tu-	*3ra persona	Mar	they	tunave		Heath	
@@ -4372,27 +4372,27 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 4294	453	*wabu(ru)	*wabu(ru)	*chanco de tropa	Kav	taitetú	waborasa			
 4295	453	*wabu(ru)	*wabu(ru)	*chanco de tropa	Ese	white-lipped peccary	waxa		cognate?	
 4296	453	*wabu(ru)	*wabu(ru)	*chanco de tropa	Ese	chancho	wo		cognate?	
-4297	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	ProTa	pié	wac̣i ~ wazi			
-4298	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Tak	pié,rastro,pisada	e-waci		Concepts 'rastro,pisada' taken from Armentia	
-4299	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Tak	talon	e-waci tiadi		Armentia	
-4300	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Tak	uña del pié	e-waci metidi		Armentia	
-4301	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Rey	foot	e-waci			
-4302	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Mar	foot	éhuotsi		Nordenskiöld	
-4303	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Mar	foot	evatri		Heath	
-4304	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Sap	foot	ebbachi			
-4305	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Aro	pié	euatsi			
-4306	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Mab	foot	iwatsi			
-4307	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Kav	pié,pata (de animal)	e-wači			
-4308	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Kav	cienpiés	wači-wači-ke			
-4309	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Kav	pata (de mueblos)	e-wasi		Latter forms apparently from *e-wazi	
-4310	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Kav	espinilla	e-wasi-mere		Latter forms apparently from *e-wazi	
-4311	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Ese	pié	e-wasi			
-4312	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Ese	dedo gran del pié	e-wasi-ai-ai			
-4313	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Ese	uña (del pié?)	e-wa-kiši			
-4314	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	War	uña	e-wa-tisi			
-4315	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Ara	toenail	e-huatise			
-4316	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Ara	toe	ehäuši-sisi			
-4317	454	*wac̣i ~ *wazi	*wac̣i ~ *wazi	*pié	Ara	foot	ehäuši			
+4297	454	*wac̣i~*wazi	*wac̣i~*wazi	*pié	ProTa	pié	wac̣i~wazi			
+4298	454	*wac̣i~*wazi	*wac̣i~*wazi	*pié	Tak	pié,rastro,pisada	e-waci		Concepts 'rastro,pisada' taken from Armentia	
+4299	454	*wac̣i~*wazi	*wac̣i~*wazi	*pié	Tak	talon	e-waci tiadi		Armentia	
+4300	454	*wac̣i~*wazi	*wac̣i~*wazi	*pié	Tak	uña del pié	e-waci metidi		Armentia	
+4301	454	*wac̣i~*wazi	*wac̣i~*wazi	*pié	Rey	foot	e-waci			
+4302	454	*wac̣i~*wazi	*wac̣i~*wazi	*pié	Mar	foot	éhuotsi		Nordenskiöld	
+4303	454	*wac̣i~*wazi	*wac̣i~*wazi	*pié	Mar	foot	evatri		Heath	
+4304	454	*wac̣i~*wazi	*wac̣i~*wazi	*pié	Sap	foot	ebbachi			
+4305	454	*wac̣i~*wazi	*wac̣i~*wazi	*pié	Aro	pié	euatsi			
+4306	454	*wac̣i~*wazi	*wac̣i~*wazi	*pié	Mab	foot	iwatsi			
+4307	454	*wac̣i~*wazi	*wac̣i~*wazi	*pié	Kav	pié,pata (de animal)	e-wači			
+4308	454	*wac̣i~*wazi	*wac̣i~*wazi	*pié	Kav	cienpiés	wači-wači-ke			
+4309	454	*wac̣i~*wazi	*wac̣i~*wazi	*pié	Kav	pata (de mueblos)	e-wasi		Latter forms apparently from *e-wazi	
+4310	454	*wac̣i~*wazi	*wac̣i~*wazi	*pié	Kav	espinilla	e-wasi-mere		Latter forms apparently from *e-wazi	
+4311	454	*wac̣i~*wazi	*wac̣i~*wazi	*pié	Ese	pié	e-wasi			
+4312	454	*wac̣i~*wazi	*wac̣i~*wazi	*pié	Ese	dedo gran del pié	e-wasi-ai-ai			
+4313	454	*wac̣i~*wazi	*wac̣i~*wazi	*pié	Ese	uña (del pié?)	e-wa-kiši			
+4314	454	*wac̣i~*wazi	*wac̣i~*wazi	*pié	War	uña	e-wa-tisi			
+4315	454	*wac̣i~*wazi	*wac̣i~*wazi	*pié	Ara	toenail	e-huatise			
+4316	454	*wac̣i~*wazi	*wac̣i~*wazi	*pié	Ara	toe	ehäuši-sisi			
+4317	454	*wac̣i~*wazi	*wac̣i~*wazi	*pié	Ara	foot	ehäuši			
 4318	455	*wac̣i	*wac̣i	*sabañon	ProTa	sabañon	wac̣i			
 4319	455	*wac̣i	*wac̣i	*sabañon	Tak	sabañon	waci-hařa			
 4320	455	*wac̣i	*wac̣i	*sabañon	Kav	sabañon	wači-bihi			
@@ -4402,7 +4402,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 4324	456	*wai	*wai	*chico	Kav	cachorro	e-ve		Armentia	
 4325	457	*wa(ʔ)i	*wa(ʔ)i	*paloma	ProTa	paloma	wa(ʔ)i			
 4326	457	*wa(ʔ)i	*wa(ʔ)i	*paloma	Tak	especie de paloma	wai-tuku			
-4327	457	*wa(ʔ)i	*wa(ʔ)i	*paloma	Kav	paloma	wei ~ weʔi			
+4327	457	*wa(ʔ)i	*wa(ʔ)i	*paloma	Kav	paloma	wei~weʔi			
 4328	457	*wa(ʔ)i	*wa(ʔ)i	*paloma	Ese	paloma	waʔy-oxo			
 4329	457	*wa(ʔ)i	*wa(ʔ)i	*paloma	Ese	paloma	weá			
 4330	457	*wa(ʔ)i	*wa(ʔ)i	*paloma	War	paloma	kwei-beʔi			
@@ -4704,7 +4704,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 4626	489	*zaʔazi	*zaʔazi	*coca	ProTa	coca	zaʔazi			
 4627	489	*zaʔazi	*zaʔazi	*coca	Tak	coca	dhaʔadhi			
 4628	489	*zaʔazi	*zaʔazi	*coca	Rey	coca	saʔasi			
-4629	489	*zaʔazi	*zaʔazi	*coca	Kav	coca,aculli	saasi ~ saʔasi			
+4629	489	*zaʔazi	*zaʔazi	*coca	Kav	coca,aculli	saasi~saʔasi			
 4630	490	*zakwa	*zakwa	*cerner,punzar	ProTa	cerner,punzar	zakwa			
 4631	490	*zakwa	*zakwa	*cerner,punzar	Tak	bentón (pez)	dhakwa			
 4632	490	*zakwa	*zakwa	*cerner,punzar	Tak	cerner,colar	dakwa-		/dhakwa-/ in Armentia	
