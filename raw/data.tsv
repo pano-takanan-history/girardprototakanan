@@ -706,9 +706,9 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 705	54	*be3-	*beca	*nadar	War	bañarse	besa-			
 706	55	*bea-	*beake	*encima	ProTa	encima	beake			
 707	55	*bea-	*beake	*encima	Tak	por encima,montado	e-bia-he			
-708	55	*bea-	*beake	*encima	Kav	encima,sobre,muy	dyake		Concept 'muy' taken from Armentia | [y] as a superscript | Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	1
-709	55	*bea-	*beake	*encima	Kav	demasiado,por de más	dyake-kwita		[y] as a superscript | Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	1
-710	55	*bea-	*beake	*encima	Kav	peor,por de más	dyake-ne		[y] as a superscript | Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	1
+708	55	*bea-	*beake	*encima	Kav	encima,sobre,muy	dʲake		Concept 'muy' taken from Armentia | Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	1
+709	55	*bea-	*beake	*encima	Kav	demasiado,por de más	dʲake-kwita		Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	1
+710	55	*bea-	*beake	*encima	Kav	peor,por de más	dʲake-ne		Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	1
 711	55	*bea-	*beake	*encima	Kav	engradecer	diake-dianea		Armentia | Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	1
 712	55	*bea-	*beake	*encima	Kav	enteramente	diake-hie		Armentia | Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	1
 713	55	*bea-	*beake	*encima	Kav	externo	diake-hu		Armentia | Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	1
@@ -4077,8 +4077,8 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 3999	427	*tiri2	*tiri	*terminar	Tak	coyuntura,para añadir	e-ti-a-da-(h)i			
 4000	427	*tiri2	*tiri	*terminar	Tak	extemidad,terminación	e-ti-a-ni			
 4001	427	*tiri2	*tiri	*terminar	Tak	nudo,añadir	ti-a-da		Armentia	
-4002	427	*tiri2	*tiri	*terminar	Kav	cuando está terminado	a-tilya-co		/y/ as superscript	
-4003	427	*tiri2	*tiri	*terminar	Kav	limpiar,terminar	tily-a-		/y/ as superscript	
+4002	427	*tiri2	*tiri	*terminar	Kav	cuando está terminado	a-tilʲa-co			
+4003	427	*tiri2	*tiri	*terminar	Kav	limpiar,terminar	tilʲ-a-			
 4004	427	*tiri2	*tiri	*terminar	Kav	consunción,etc	tiri-a-tiri-a		Armentia	
 4005	427	*tiri2	*tiri	*terminar	Kav	terminar,acabar	tere-			
 4006	427	*tiri2	*tiri	*terminar	Kav	fines del año	mara-tere-ya-ho			
@@ -4162,12 +4162,12 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 4084	433	*tu3-	*tu-	*encender	Ese	atizar	ko-ša-			
 4085	434	*tubu	*tubu	*cortar,trozar	ProTa	cortar,trozar	tubu			
 4086	434	*tubu	*tubu	*cortar,trozar	Kav	cortar,arear	tobo-			
-4087	434	*tubu	*tubu	*cortar,trozar	Kav	corto	tyobo	< *e-tobo	/y/ as superscript	
+4087	434	*tubu	*tubu	*cortar,trozar	Kav	corto	tʲobo	< *e-tobo		
 4088	434	*tubu	*tubu	*cortar,trozar	Ese	trozar	kobo-			
 4089	435	*tu(ʔ)i	*tu(ʔ)i	*loro (chico)	ProTa	loro (chico)	tu(ʔ)i			
 4090	435	*tu(ʔ)i	*tu(ʔ)i	*loro (chico)	Tak	especie de loro chico	tui			
-4091	435	*tu(ʔ)i	*tu(ʔ)i	*loro (chico)	Kav	loro (chico)	tyoʔi		/y/ as superscript	
-4092	435	*tu(ʔ)i	*tu(ʔ)i	*loro (chico)	Kav	clase de pájaro negro con pico colorado	tyowikoro		/y/ as superscript | < *e-tu(ʔ)i?	
+4091	435	*tu(ʔ)i	*tu(ʔ)i	*loro (chico)	Kav	loro (chico)	tʲoʔi			
+4092	435	*tu(ʔ)i	*tu(ʔ)i	*loro (chico)	Kav	clase de pájaro negro con pico colorado	tʲowikoro		< *e-tu(ʔ)i?	
 4093	436	*(a)tuka	*(a)tuka	*ojo	ProTa	ojo	(a)tuka			
 4094	436	*(a)tuka	*(a)tuka	*ojo	Tak	ojo	e-tua			
 4095	436	*(a)tuka	*(a)tuka	*ojo	Tak	lágrima	tua-na			
@@ -4217,8 +4217,8 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 4139	439	*tunu	*tunu	*lombriz	ProTa	lombriz	tunu			
 4140	439	*tunu	*tunu	*lombriz	Tak	lombriz	tunu			
 4141	439	*tunu	*tunu	*lombriz	Rey	worm	se-tono			
-4142	439	*tunu	*tunu	*lombriz	Kav	lombriz,gusano	tyono		/y/ as superscript	
-4143	439	*tunu	*tunu	*lombriz	Kav	cutuchi (víbora)	tyono-pa	< *e-tono	/y/as superscript	
+4142	439	*tunu	*tunu	*lombriz	Kav	lombriz,gusano	tʲono			
+4143	439	*tunu	*tunu	*lombriz	Kav	cutuchi (víbora)	tʲono-pa	< *e-tono		
 4144	439	*tunu	*tunu	*lombriz	Ese	lombrices	kono			
 4145	440	*tupu	*tupu	*pesar	ProTa	pesar	tupu			
 4146	440	*tupu	*tupu	*pesar	Tak	vejiga (de animales),alcanza,igual,basta	tupu		Concepts 'igual,basta' taken from Armentia	
