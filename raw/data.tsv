@@ -829,7 +829,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 828	65	*biji	*biji	*balsa	Ese	cáscara del cedro	biše-hé			
 829	65	*biji	*biji	*balsa	Ese	popa de la canoa	biše-kii			
 830	65	*biji	*biji	*balsa	Ese	canoa (juguete)	biše-dišo			
-831	66	*bijiji	*bijiji	*cuquisa	ProTa	bijiji	cuquisa			
+831	66	*bijiji	*bijiji	*cuquisa	ProTa	cuqisa	bijiji			
 832	66	*bijiji	*bijiji	*cuquisa	Tak	paloma cuquisa	biřidi		biřiři? or dissimilation	
 833	66	*bijiji	*bijiji	*cuquisa	Kav	cuquisa	bihihi			
 834	67	*biju	*biju	*ají	ProTa	ají	biju			
@@ -1511,7 +1511,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 1510	140	*du2-	*duku	*adentro,en	Tak	empuñar	e-me-duhu-			
 1511	140	*du2-	*duku	*adentro,en	Tak	entre	duhu		Armentia	
 1512	140	*du2-	*duku	*adentro,en	Tak	adentro de entre,en el centro	duhu-su		Armentia	
-1513	140	*du2-	*duku	*adentro,en	Was	of thy womb	ečeme-rˈuzu			
+1513	140	*du2-	*duku	*adentro,en	Was	of thy womb	ec̹eme-rˈuzu			
 1514	140	*du2-	*duku	*adentro,en	Kav	adentro	e-doko-ho			
 1515	140	*du2-	*duku	*adentro,en	Kav	adentro del agua	ena-doko			
 1516	140	*du2-	*duku	*adentro,en	Kav	interno	e-duku-hu		Armentia	
@@ -1666,7 +1666,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 1665	156	*ija2-	*ija-	*oreja	Tak	sordo	iřa-ha-mawe			
 1666	156	*ija2-	*ija-	*oreja	Tak	oreja	e-iřa-ha			
 1667	156	*ija2-	*ija-	*oreja	Tak	bulla	ida-ba-da		Armentia	
-1668	156	*ija2-	*ija-	*oreja	Rey	ear	e-šaxa			
+1668	156	*ija2-	*ija-	*oreja	Rey	ear	e-šakwena			
 1669	156	*ija2-	*ija-	*oreja	Mar	ear	ešakuéna		Heath	
 1670	156	*ija2-	*ija-	*oreja	Mar	ear	éshaquehuéna		Nordenskiöld	
 1671	156	*ija2-	*ija-	*oreja	Mab	ear	ithaha			

@@ -5,27 +5,27 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| a | 5750 | ✓ | ✓ |
+| a | 5749 | ✓ | ✓ |
 | + | 3986 | ✓ | ✓ |
-| i | 3544 | ✓ | ✓ |
-| e | 3468 | ✓ | ✓ |
-| k | 1460 | ✓ | ✓ |
-| u | 1354 | ✓ | ✓ |
-| n | 1150 | ✓ | ✓ |
+| i | 3546 | ✓ | ✓ |
+| e | 3469 | ✓ | ✓ |
+| k | 1461 | ✓ | ✓ |
+| u | 1352 | ✓ | ✓ |
+| n | 1151 | ✓ | ✓ |
 | t | 1089 | ✓ | ✓ |
 | h | 1088 | ✓ | ✓ |
 | o | 1021 | ✓ | ✓ |
-| b | 1000 | ✓ | ✓ |
-| w | 992 | ✓ | ✓ |
+| b | 1001 | ✓ | ✓ |
+| w | 993 | ✓ | ✓ |
 | m | 965 | ✓ | ✓ |
 | d | 770 | ✓ | ✓ |
 | p | 710 | ✓ | ✓ |
-| s | 669 | ✓ | ✓ |
 | r | 668 | ✓ | ✓ |
+| s | 668 | ✓ | ✓ |
 | ts | 434 | ✓ | ✓ |
-| j | 353 | ✓ | ✓ |
-| x | 243 | ✓ | ✓ |
-| tʃ | 198 | ✓ | ✓ |
+| j | 355 | ✓ | ✓ |
+| x | 242 | ✓ | ✓ |
+| tʃ | 197 | ✓ | ✓ |
 | kʷ | 190 | ✓ | ✓ |
 | ʃ | 159 | ✓ | ✓ |
 | ʔ | 154 | ✓ | ✓ |
@@ -43,11 +43,11 @@
 | ú/u | 9 | ✓ | ✓ |
 | θ | 9 | ✓ | ✓ |
 | l | 8 | ✓ | ✓ |
-| q | 6 | ✓ | ✓ |
 | nˠ | 5 | ✓ | ✓ |
+| q | 5 | ✓ | ✓ |
 | tʲ | 5 | ✓ | ✓ |
+| <<̹>> | 3 | ? | ? |
 | dʲ | 3 | ✓ | ✓ |
-| <<̹>> | 2 | ? | ? |
 | lʲ | 2 | ✓ | ✓ |
 | f | 1 | ✓ | ✓ |
 
@@ -74,10 +74,11 @@
 | ProTa-hermano-2 | ProTa | hermano | u+... | u + |
 | ProTa-ir-2 | ProTa | ir | pu+... | p u + |
 | ProTa-piernamuslo-1 | ProTa | piernamuslo | ti+... | t i + |
+| Was-adentroen-1 | Was | adentroen | ec̹eme-rˈuzu | e ts <s> <<̹>> </s> e m e + r u z u |
 | Was-barrigaintestinos-1 | Was | barrigaintestinos | ec̹emerˈuzu | e ts <s> <<̹>> </s> e m e r u z u |
 | Was-llenarllenarse-1 | Was | llenarllenarse | gracia_c̹egeagigi | g r a ts i a + ts <s> <<̹>> </s> e g e a g i g i |
 | Was-locativesuffix-1 | Was | locativesuffix | <-zu> | + z u |
 
-(9 rows)
+(10 rows)
 
 
