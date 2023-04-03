@@ -2,6 +2,7 @@ Grapheme	IPA	Frequency
 a	a	911
 -	+	954
 k	k	364
+kw	kʷ	
 b	b	121
 o	o	329
 e	e	624
@@ -12,8 +13,6 @@ i	i	532
 s	s	135
 w	w	271
 h	h	149
-(	NULL	4
-)	NULL	4
 ʔ	ʔ	66
 y	j	86
 á	á/a	20
@@ -27,14 +26,5 @@ t	t	29
 d	d	46
 ó	ó/o	4
 _	+	
-in	i nˠ	
-nia	nʲ i a	
-nio	nʲ i o	
-nie	nʲ i e	
-nii	nʲ i i	
-niá	nʲ i á/a	
-nié	nʲ i é/e	
-nió	nʲ i ó/o	
-nií	nʲ i í/i	
 ^-	NULL	
 -$	NULL	

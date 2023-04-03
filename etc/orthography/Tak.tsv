@@ -8,16 +8,19 @@ t	t	370
 i	i	1096
 k	k	229
 e	e	1046
+ea	j a
+ee	j e
 y	j	36
 m	m	287
 n	n	379
 d	d	412
 dh	ð	
+kw	kʷ	
 d'd	d	2
 r	r	194
 s	s	231
 č	tʃ	86
-c	ts	213
+c	ʈʂ	213
 p	p	223
 w	w	280
 ʔ	ʔ	17
@@ -28,10 +31,8 @@ v	β	26
 o	o	14
 j	j	1
 á	á/a	2
-wi	w i	
-we	w e	
-(	NULL	19
-)	NULL	19
+wi	β i	
+we	β e	
 _	+	
 ^-	NULL	
 -$	NULL	

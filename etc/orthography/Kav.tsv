@@ -4,6 +4,11 @@ a	a	2001
 y	j	148
 k	k	787
 kw	kʷ	
+kwi	kʷ i	
+kwe	kʷ ea	
+wi	β i
+we	β e
+ea	j a
 e	e	1057
 n	n	364
 t	t	
@@ -25,19 +30,10 @@ c	ts	143
 s	s	115
 v	β	25
 ñ	ɲ	2
-z	z	3
-<	NULL	2
->	NULL	2
-{	NULL	1
-/	NULL	1
-}	NULL	1
+z	z	
 _	+	
-(	NULL	8
-)	NULL	8
-wi	w i	
-we	w e	
 ^-	NULL	
 -$	NULL	
-dʲ	dʲ	
-lʲ	lʲ	
-tʲ	tʲ	
+dʲ	d i	
+lʲ	l i	
+tʲ	t i

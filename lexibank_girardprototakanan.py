@@ -25,11 +25,14 @@ class CustomConcept(Concept):
 @attr.s
 class CustomLexeme(Lexeme):
     UncertainCognacy = attr.ib(default=None)
-    Concept_From_Proto = attr.ib(default=None)
+    ConceptFromProto = attr.ib(default=None)
+    EntryFromProto = attr.ib(default=None)
+    FormFromProto = attr.ib(default=None)
     ProtoSet = attr.ib(default=None)
     EntryInSource = attr.ib(default=None)
     Variants = attr.ib(default=None)
     ConceptInSource = attr.ib(default=None)
+    MorphologicalInformation = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -39,11 +42,20 @@ class Dataset(BaseDataset):
     concept_class = CustomConcept
     lexeme_class = CustomLexeme
     form_spec = FormSpec(
-            separators="~;,/",
-            missing_data=["--", "- -", "-", "-- **", "--.", "- --"],
-            replacements=[(" ", "_")],
-            first_form_only=True
-            )
+        separators="~;,/",
+        missing_data=["--", "- -", "-", "-- **", "--.", "- --"],
+        replacements=[
+            (" ", "_"),
+            ("<-zu>", "-zu"),
+            ("<tawa-daʔa>", "tawa-daʔa"),
+            ("{u/o}", "U"),
+            ("{e/ä}", "E"),
+            ("{a/e}", "A"),
+            ("{i/e}", "I"),
+            ("{e/i}", "I")
+        ],
+        first_form_only=True
+        )
 
     def cmd_makecldf(self, args):
         args.writer.add_sources()
@@ -51,7 +63,6 @@ class Dataset(BaseDataset):
 
         # add conceptlists
         concepts = defaultdict()
-        proto_concepts = defaultdict()
 
         # Proto Concepts: New
         proto_list = self.etc_dir.read_csv(
@@ -141,10 +152,10 @@ class Dataset(BaseDataset):
                     Language_ID=languages[doculect],
                     Parameter_ID=concepts[(proto_concept)],
                     Value=value,
-                    #Entry_From_Proto=proto_entry,
-                    #Form_From_Proto=proto_form,
-                    #Morphological_Information=morph_infor,
-                    Concept_From_Proto=proto_concept,
+                    EntryFromProto=proto_entry,
+                    FormFromProto=proto_form,
+                    ConceptFromProto=proto_concept,
+                    MorphologicalInformation=morph_infor,
                     Variants=variants,
                     Comment=note,
                     #Source=source,
