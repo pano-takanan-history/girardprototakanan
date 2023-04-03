@@ -653,7 +653,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 652	48	*banu	*banu	*sal	Kav	sal	bano			
 653	48	*banu	*banu	*sal	Kav	sin sal	bano-ma čapa			
 654	48	*banu	*banu	*sal	Kav	está con sal	bano-ki			
-655	49	*basa-/basai-	*basa-/basai-	*acomodar	ProTa	acomodar	basa-/basai-			
+655	49	*basa-/basai-	*basa-/basai-	*acomodar	ProTa	acomodar	basa(i)-			
 656	49	*basa-/basai-	*basa-/basai-	*acomodar	Tak	acomodar,arreglar	basa-ita-			
 657	49	*basa-/basai-	*basa-/basai-	*acomodar	Tak	adornado,compuesto	basa-ita-hi-hi		Armentia	
 658	49	*basa-/basai-	*basa-/basai-	*acomodar	Tak	componer	baseta~basaita		Armentia	
@@ -916,7 +916,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 915	77	*bu2-	*buc̣e	*par	Kav	así como,parece	boča	*boc̣e-a		
 916	77	*bu2-	*buc̣e	*par	Kav	carilucio	buce-pikinipupu		Armentia	
 917	77	*bu2-	*buc̣e	*par	Kav	carinegro	buce-pikiniceve		Armentia	
-918	77	*bu2-	*buc̣e	*par	Ese	cara	e-bosi/e-bose			
+918	77	*bu2-	*buc̣e	*par	Ese	cara	e-bos{i/e}			
 919	77	*bu2-	*bu...	*cara	ProTa	cara	bu...			
 920	77	*bu2-	*bu...	*cara	Tak	cara	e-bu			
 921	77	*bu2-	*bu...	*cara	Tak	falso	bu-beta			
@@ -3325,7 +3325,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 3247	345	*pi-	*pi-	*extender	Ese	recto	kea-pí			
 3248	345	*pi-	*pi-	*extender	Ese	recto	e-pi-nee			
 3249	345	*pi-	*pi-	*extender	Ese	estar ya recto	xa-neke-pi-ki-yo-			
-3250	346	*pica	*pica	*tucán	ProTa	tucánn	pica		or *pija | loan?	
+3250	346	*pica	*pica	*tucán	ProTa	tucán	pica		or *pija | loan?	
 3251	346	*pica	*pica	*tucán	Tak	tucán pequeño	pica		piřa?	
 3252	346	*pica	*pica	*tucán	Rey	toucan	pila			
 3253	346	*pica	*pica	*tucán	Ese	tucán	piša			

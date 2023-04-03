@@ -42,17 +42,19 @@ class Dataset(BaseDataset):
     concept_class = CustomConcept
     lexeme_class = CustomLexeme
     form_spec = FormSpec(
-        separators="~;,/",
+        separators="~;,",
         missing_data=["--", "- -", "-", "-- **", "--.", "- --"],
         replacements=[
             (" ", "_"),
             ("<-zu>", "-zu"),
             ("<tawa-daʔa>", "tawa-daʔa"),
+            ("<{s/z}awa-da>", "Sawa-da"),
             ("{u/o}", "U"),
             ("{e/ä}", "E"),
             ("{a/e}", "A"),
             ("{i/e}", "I"),
-            ("{e/i}", "I")
+            ("{e/i}", "I"),
+            ("{a/u}", "Ä")
         ],
         first_form_only=True
         )
@@ -108,7 +110,8 @@ class Dataset(BaseDataset):
         args.log.info("added languages")
 
         data = Wordlist(str(self.raw_dir.joinpath("data.tsv")))
-        data.renumber("PROTO_SET", "cogid")
+        data.renumber(
+            "PROTO_SET", "cogid")
 
         # add data
         for (
