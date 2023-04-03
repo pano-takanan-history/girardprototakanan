@@ -12,7 +12,7 @@
         {
             "rdf:about": "https://github.com/pano-tacanan-history/girardprototakanan",
             "rdf:type": "prov:Entity",
-            "dc:created": "c617c10",
+            "dc:created": "69e9494",
             "dc:title": "Repository"
         },
         {
@@ -142,14 +142,6 @@
                     {
                         "datatype": "string",
                         "name": "ProtoSet"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "EntryInSource"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Variants"
                     },
                     {
                         "datatype": "string",

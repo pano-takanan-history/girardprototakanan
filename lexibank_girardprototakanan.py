@@ -29,8 +29,6 @@ class CustomLexeme(Lexeme):
     EntryFromProto = attr.ib(default=None)
     FormFromProto = attr.ib(default=None)
     ProtoSet = attr.ib(default=None)
-    EntryInSource = attr.ib(default=None)
-    Variants = attr.ib(default=None)
     ConceptInSource = attr.ib(default=None)
     MorphologicalInformation = attr.ib(default=None)
 
@@ -111,7 +109,7 @@ class Dataset(BaseDataset):
 
         data = Wordlist(str(self.raw_dir.joinpath("data.tsv")))
         data.renumber(
-            "PROTO_SET", "cogid")
+            "PROTO_FORM", "cogid")
 
         # add data
         for (
@@ -143,14 +141,6 @@ class Dataset(BaseDataset):
             ),
             desc="cldfify"
         ):
-            if " [" in value:
-                phon = value.split(" [")[1:]
-                value = phon[0].strip("] ~")
-                variants = (str(phon[1]).strip("] ~") if len(phon) > 1 else "")
-
-            else:
-                variants = ""
-
             for lexeme in args.writer.add_forms_from_value(
                     Language_ID=languages[doculect],
                     Parameter_ID=concepts[(proto_concept)],
@@ -159,7 +149,6 @@ class Dataset(BaseDataset):
                     FormFromProto=proto_form,
                     ConceptFromProto=proto_concept,
                     MorphologicalInformation=morph_infor,
-                    Variants=variants,
                     Comment=note,
                     #Source=source,
                     UncertainCognacy=uncertainty,

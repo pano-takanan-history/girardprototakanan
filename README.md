@@ -26,8 +26,8 @@ This dataset is licensed under a CC-BY-4.0 license
 - **Lexemes:** 4,764
 - **Sources:** 0
 - **Synonymy:** 1.48
-- **Cognacy:** 4,764 cognates in 491 cognate sets (1 singletons)
-- **Cognate Diversity:** -0.01
+- **Cognacy:** 4,764 cognates in 523 cognate sets (1 singletons)
+- **Cognate Diversity:** -0.00
 - **Invalid lexemes:** 0
 - **Tokens:** 31,937
 - **Segments:** 48 (0 BIPA errors, 0 CLTS sound class errors, 48 CLTS modified)
