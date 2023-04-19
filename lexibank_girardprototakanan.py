@@ -124,6 +124,7 @@ class Dataset(BaseDataset):
             morph_infor,
             note,
             uncertainty,
+            source,
             cogid
         ) in pb(
             data.iter_rows(
@@ -137,6 +138,7 @@ class Dataset(BaseDataset):
                 "morph_infor",
                 "note",
                 "uncertainty",
+                "source",
                 "cogid"
             ),
             desc="cldfify"
@@ -150,7 +152,7 @@ class Dataset(BaseDataset):
                     ConceptFromProto=proto_concept,
                     MorphologicalInformation=morph_infor,
                     Comment=note,
-                    #Source=source,
+                    Source=source,
                     UncertainCognacy=uncertainty,
                     ProtoSet=proto_set,
                     Cognacy=cogid,

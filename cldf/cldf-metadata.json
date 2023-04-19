@@ -6,13 +6,14 @@
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
+    "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Girard's \"Proto-Takanan Phonology\" from 1971",
     "dcat:accessURL": "https://github.com/pano-tacanan-history/girardprototakanan",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/pano-tacanan-history/girardprototakanan",
             "rdf:type": "prov:Entity",
-            "dc:created": "69e9494",
+            "dc:created": "88a37dd",
             "dc:title": "Repository"
         },
         {
@@ -22,15 +23,15 @@
             "dc:title": "Glottolog"
         },
         {
-            "rdf:about": "https://github.com/concepticon/concepticon-data",
+            "rdf:about": "https://github.com/MuffinLinwist/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.1.0",
+            "dc:created": "v3.0.0",
             "dc:title": "Concepticon"
         },
         {
             "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.2.0",
+            "dc:created": "v1.4-161-g8b92f99",
             "dc:title": "CLTS"
         }
     ],
@@ -41,7 +42,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.11.2"
+            "dc:description": "3.9.1"
         },
         {
             "dc:title": "python-packages",
