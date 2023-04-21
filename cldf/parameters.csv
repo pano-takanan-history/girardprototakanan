@@ -3,9 +3,8 @@ hacer,*hacer,813,DO,,1,hacer
 cargar,*cargar,700,CARRY,,1,cargar
 muela,*muela,1049,MOLAR TOOTH,,1,muela
 persuadir,*persuadir,3645,PERSUADE,,1,persuadir
-quedarsetenerestar,"*quedarse,*tener,*estar",1442,STAND,,1,"quedarse,tener,estar"
+quedarsetenerestar,"*quedarse,*tener,*estar",,,,1,"quedarse,tener,estar"
 terminaracabar,"*terminar,*acabar",1766,FINISH,,1,"terminar,acabar"
-andar,*andar,1443,WALK,,1,andar
 transitivizingsuffix,*transitivizing suffix,,,,2,transitivizing suffix
 simpleinterrogante,*simple interrogante,,,,3,simple interrogante
 que,*qué?,1236,WHAT,,3,qué?
@@ -15,8 +14,8 @@ conque,*con qué?,,,,3,con qué?
 paraque,*para qué?,,,,3,para qué?
 dequien,*de quién,,,,3,de quién
 interrogacion,*interrogación,,,,3,interrogación
-barbasco,*barbasco,,,,4,barbasco
-pampa,*pampa,,,,5,pampa
+barbasco,*barbasco,348,FISH POISON,,4,barbasco
+pampa,*pampa,652,PLAIN,,5,pampa
 teta,*teta,1402,BREAST,,6,teta
 chontaloro,*chontaloro,,,,7,chontaloro
 arbol,*árbol,906,TREE,,8,árbol
@@ -28,19 +27,19 @@ palosanto,*palo santo,,,,13,palo santo
 mujer,*mujer,962,WOMAN,,14,mujer
 gualusa,*gualusa,,,,15,gualusa
 obscuro,*obscuro,1764,OBSCURE,,16,obscuro
-creceragrandar,"*crecer,agrandar",479,GROW,,17,"crecer,agrandar"
+creceragrandar,"*crecer,agrandar",,,,17,"crecer,agrandar"
 hombro,*hombro,1482,SHOULDER,,18,hombro
 grillo,*grillo,2354,CRICKET,,19,grillo
 alacran,*alacrán,1538,SCORPION,,20,alacrán
 amigo,*amigo,1325,FRIEND,,21,amigo
 abeja,*abeja,665,BEE,,22,abeja
 mundo,*mundo,965,WORLD,,23,mundo
-tapir,*tapir,,,,24,tapir
+tapir,*tapir,312,TAPIR,,24,tapir
 marido,*marido,1200,HUSBAND,,25,marido
 sucio,*sucio,1230,DIRTY,,26,sucio
 mirarver,"*mirar,ver",1409,SEE,,27,"mirar,ver"
 mostrar,*mostrar,1039,SHOW,,27,mostrar
-parecido,*parecido,,,,27,parecido
+parecido,*parecido,1558,SIMILAR,,27,parecido
 saber,*saber,1410,KNOW (SOMETHING),,27,saber
 lago,*lago,624,LAKE,,28,lago
 rociosereno,"*rocío,sereno",1977,DEW,,28,"rocío,sereno"
@@ -62,28 +61,28 @@ nombre,*nombre,1405,NAME,,41,nombre
 jochipintado,*jochi pintado,,,,42,jochi pintado
 vibora,*víbora,730,SNAKE,,43,víbora
 hijo,*hijo,1620,SON,,44,hijo
-sembrar,*sembrar,,,,45,sembrar
+sembrar,*sembrar,748,SOW SEEDS,,45,sembrar
 caricari,*caricari,,,,46,caricari
 jausilagartija,"*jausi,lagartija",632,LIZARD,,47,"jausi,lagartija"
 sal,*sal,1274,SALT,,48,sal
 acomodar,*acomodar,,,,49,acomodar
-arrojar,*arrojar,,,,50,arrojar
+arrojar,*arrojar,1456,THROW,,50,arrojar
 tostar,*tostar,,,,51,tostar
 ventear,*ventear,,,,52,ventear
 viento,*viento,960,WIND,,52,viento
 traer,*traer,692,BRING,,53,traer
 nadar,*nadar,1439,SWIM,,54,nadar
-encima,*encima,,,,55,encima
+encima,*encima,1741,ABOVE,,55,encima
 tambien,*también,,,,55,también
 rioarriba,*río arriba,,,,55,río arriba
 buitrenegro,*buitre negro,,,,56,buitre negro
 felizalegrecontento,"*feliz,alegre,contento",1495,HAPPY,,57,"feliz,alegre"
-querer,*querer,923,LOVE,,57,querer
+querer,*querer,1784,WANT,,57,querer
 garrapata,*garrapata,,,,58,garrapata
 escarbar,*escarbar,,,,59,escarbar
 viejo,*viejo,1229,OLD,,60,viejo
 dos,*dos,1498,TWO,,61,dos
-osohormigueroosoperezoso,"*oso hormiguero,oso perezoso",181,ANTEATER,,62,"oso hormiguero,oso perezoso"
+osohormigueroosoperezoso,"*oso hormiguero,oso perezoso",,,,62,"oso hormiguero,oso perezoso"
 piojo,*piojo,1392,LOUSE,,63,piojo
 palmareal,*palma real,,,,64,palma real
 balsa,*balsa,1664,RAFT,,65,balsa
@@ -115,9 +114,9 @@ floracion,*floración,,,,88,floración
 cabello,*cabello,2648,HAIR (HEAD),,88,cabello
 mojar,*mojar,,,,89,mojar
 reir,*reír,1355,LAUGH,,90,reír
-orilla,*orilla,,,,91,orilla
+orilla,*orilla,113,SHORE,,91,orilla
 necesito,*necesito,,,,92,necesito
-piepierna,"*pie,pierna",1301,FOOT,,93,"pie,pierna"
+piepierna,"*pie,pierna",2098,FOOT OR LEG,,93,"pie,pierna"
 cabeza,*cabeza,1256,HEAD,,94,cabeza
 puntadeflechahechadetacuararaspada,*punta de flecha hecha de tacuara raspada,,,,95,punta de flecha hecha de tacuara raspada
 hueso,*hueso,1394,BONE,,96,hueso
@@ -125,15 +124,15 @@ ayudar,*ayudar,1897,HELP,,97,ayudar
 diente,*diente,1380,TOOTH,,98,diente
 dualsuffix,*dual suffix,,,,99,dual suffix
 gritar,*gritar,715,SHOUT,,100,gritar
-fuerteagrio,"*fuerte,agrio",785,STRONG,,101,"fuerte,agrio"
+fuerteagrio,"*fuerte,agrio",,,,101,"fuerte,agrio"
 pecho,*pecho,1592,CHEST,,102,pecho
-puertaafuera,"*puerta,afuera",1567,DOOR,,103,"puerta,afuera"
+puertaafuera,"*puerta,afuera",,,,103,"puerta,afuera"
 gusano,*gusano,1219,WORM,,104,gusano
 grasagordura,"*grasa,gordura",323,FAT (ORGANIC SUBSTANCE),,105,"grasa,gordura"
 lamer,*lamer,319,LICK,,106,lamer
 gancho,*gancho,1071,HOOK,,107,gancho
 atorar,*atorar,,,,108,atorar
-diafiesta,"*día,fiesta",1225,DAY (NOT NIGHT),,109,"día,fiesta"
+diafiesta,"*día,fiesta",,,,109,"día,fiesta"
 tejer,*tejer,133,WEAVE,,110,tejer
 robar,*robar,713,STEAL,,111,robar
 palmera,*palmera,1181,PALM TREE,,112,palmera
@@ -141,12 +140,12 @@ marihui,*marihuí,,,,113,marihuí
 excusar,*excusar,,,,114,excusar
 grano,*grano,605,GRAIN,,115,grano
 esquina,*esquina,192,CORNER,,115,esquina
-borogusano,"*boro,gusano",1219,WORM,,116,"boro,gusano"
-tatu,*tatú,,,,117,tatú
-hipo,*hipo,,,,118,hipo
+borogusano,"*boro,gusano",,,,116,"boro,gusano"
+tatu,*tatú,68,TATTOO,,117,tatú
+hipo,*hipo,162,HICCOUGH,,118,hipo
 morder,*morder,1403,BITE,,119,morder
 tucan,*tucán,308,TOUCAN,,120,tucán
-cuandoharto,"*cuando,harto",1238,WHEN,,121,"cuando,harto"
+cuandoharto,"*cuando,harto",,,,121,"cuando,harto"
 subir,*subir,1102,CLIMB,,122,subir
 aro,*aro,,,,123,aro
 voz,*voz,1363,VOICE,,124,voz
@@ -157,56 +156,56 @@ palo,*palo,1295,STICK,,128,palo
 caer,*caer,1280,FALL,,129,caer
 tabano,*tábano,,,,130,tábano
 cuerno,*cuerno,1393,HORN (ANATOMY),,131,cuerno
-tortugapeta,"*tortuga,peta",895,TORTOISE,,132,"tortuga,peta"
+tortugapeta,"*tortuga,peta",,,,132,"tortuga,peta"
 ardilla,*ardilla,1628,SQUIRREL,,133,ardilla
-raspar,*raspar,,,,134,raspar
+raspar,*raspar,1767,SCRAPE,,134,raspar
 hombre,hombre,1554,MAN,,135,hombre
 mononocturno,*mono nocturno,,,,136,mono nocturno
 mosquito,*mosquito,1509,MOSQUITO,,137,mosquito
 camino,*camino,2252,PATH,,138,camino
-pariente,*pariente,,,,139,pariente
-hondoprofundo,"*hondo,profundo",,,,140,hondo
-entrarcentro,"*entrar,centro",749,ENTER,,140,"entrar,centro"
+pariente,*pariente,1644,RELATIVES,,139,pariente
+hondoprofundo,"*hondo,profundo",1593,DEEP,,140,hondo
+entrarcentro,"*entrar,centro",,,,140,"entrar,centro"
 adentroen,"*adentro,en",1460,IN,,140,"adentro,en"
-envolver,*envolver,,,,140,envolver
+envolver,*envolver,1113,WRAP,,140,envolver
 cascabel,*cascabel,871,RATTLESNAKE,,141,cascabel
 racimo,*racimo,1966,BUNCH,,142,racimo
-brujodios,"*brujo,dios",1944,GOD,,143,"brujo,dios"
-molertocar,"*moler,tocar",1892,TOUCH,,144,"moler,tocar"
+brujodios,"*brujo,dios",,,,143,"brujo,dios"
+molertocar,"*moler,tocar",,,,144,"moler,tocar"
 venado,*venado,1936,DEER,,145,venado
-excremento,*excremento,,,,146,excremento
+excremento,*excremento,675,FAECES (EXCREMENT),,146,excremento
 llevar,*llevar,700,CARRY,,147,llevar
 monomanechi,*mono manechi,,,,148,mono manechi
 absolutiveprefix,*absolutive prefix,,,,149,absolutive prefix
-si,*sí,,,,150,sí
-1p,*1P,,,,151,1P
+si,*sí,1268,YES,,150,sí
+1p,*1P,1212,WE,,151,1P
 tigre,*tigre,1250,JAGUAR,,152,tigre
 raya,*raya,,,,153,raya
-remedio,*remedio,,,,154,remedio
-puercoespin,*puerco espín,,,,155,puerco espín
+remedio,*remedio,1372,MEDICINE,,154,remedio
+puercoespin,*puerco espín,2510,PORCUPINE,,155,puerco espín
 oreja,*oreja,1247,EAR,,156,oreja
 carino,*cariño,,,,157,cariño
-diablozorro,"*diablo,zorro",1312,FOX,,158,"diablo,zorro"
+diablozorro,"*diablo,zorro",,,,158,"diablo,zorro"
 vivo,*vivo,1422,BE ALIVE,,159,vivo
 sol,*sol,1343,SUN,,160,sol
 tomarbeber,"*tomar,beber",1401,DRINK,,161,"tomar,beber"
 esperar,*esperar,1590,WAIT (FOR),,162,esperar
 hormiga,*hormiga,587,ANT,,163,hormiga
-consumir,*consumir,,,,164,consumir
-hojapelopluma,"*hoja,pelo,pluma",628,LEAF,,165,"hoja,pelo,pluma"
+consumir,*consumir,2787,CONSUME (DRINK OR EAT),,164,consumir
+hojapelopluma,"*hoja,pelo,pluma",,,,165,"hoja,pelo,pluma"
 agarrar,*agarrar,855,SEIZE,,166,agarrar
 japutamu,*japutamu,,,,167,japutamu
 collar,*collar,1961,NECKLACE,,168,collar
 urupecedazo,*urupé (cedazo),,,,169,urupé (cedazo)
 vender,*vender,1571,SELL,,170,vender
-desgranar,*desgranar,,,,171,desgranar
+desgranar,*desgranar,285,THRESH,,171,desgranar
 cola,*cola,1220,TAIL,,172,cola
 llamar,*llamar,1084,CALL,,173,llamar
 pudrirse,*pudrirse,,,,174,pudrirse
-dejarponer,"*dejar,poner",998,PUT,,175,"dejar,poner"
-nuevoahora,"*nuevo,ahora",1231,NEW,,176,"nuevo,ahora"
-pegar,*pegar,1069,GLUE,,177,pegar
-cunado,*cuñado,,,,178,cuñado
+dejarponer,"*dejar,poner",,,,175,"dejar,poner"
+nuevoahora,"*nuevo,ahora",,,,176,"nuevo,ahora"
+pegar,*pegar,,,,177,pegar
+cunado,*cuñado,2314,BROTHER-IN-LAW,,178,cuñado
 hermanamenor,*hermana menor,1761,YOUNGER SISTER,,178,hermana menor
 hermanomenor,*hermano menor,1760,YOUNGER BROTHER,,178,hermano menor
 bofe,*bofe,,,,179,bofe
@@ -217,7 +216,7 @@ huevo,*huevo,744,EGG,,199,huevo
 plantadeplatano,*planta de plátano,,,,200,planta de plátano
 fruta,*fruta,1507,FRUIT,,200,fruta
 chaquilloarbol,*chaquillo (árbol),,,,200,chaquillo (árbol)
-mani,*maní,,,,200,maní
+mani,*maní,2364,PEANUT,,200,maní
 zumaquiarbol,*zumaqui (árbol),,,,200,zumaqui (árbol)
 costillodecasa,*costillo de casa,,,,201,costillo de casa
 rollup,*roll up,,,,202,roll up
@@ -225,12 +224,12 @@ techo,*techo,769,ROOF,,203,techo
 nadamas,*nada más,,,,204,nada más
 descansar,*descansar,168,REST,,205,descansar
 comida,*comida,256,FOOD,,206,comida
-pozo,*pozo,,,,207,pozo
+pozo,*pozo,954,WELL,,207,pozo
 paraba,*paraba,,,,208,paraba
 agentnominalizersuffix,*agent nominalizer suffix,,,,209,agent nominalizer suffix
 creer,*creer,1890,BELIEVE,,210,creer
-hoydiaahora,"*hoy día,ahora",1376,NOW,,211,"hoy día,ahora"
-sacarcomprar,"*sacar,comprar",1869,BUY,,213,"sacar,comprar"
+hoydiaahora,"*hoy día,ahora",,,,211,"hoy día,ahora"
+sacarcomprar,"*sacar,comprar",,,,213,"sacar,comprar"
 zapayojoco,"*zapayo,joco",,,,214,"zapayo,joco"
 haz,*haz,,,,215,haz
 pastparticiple,*past participle,,,,217,past participle
@@ -245,7 +244,7 @@ tigrecillo,*tigrecillo,,,,225,tigrecillo
 canoso,*canoso,,,,226,canoso
 ir,*ir,695,GO,,227,ir
 madre,*madre,1216,MOTHER,,228,madre
-hot,*hot,,,,229,hot
+hot,*hot,1286,HOT,,229,hot
 caliente,*caliente,1286,HOT,,229,caliente
 claro,*claro,989,CLEAR,,229,claro
 freir,*freir,991,FRY,,229,freir
@@ -255,7 +254,7 @@ canoa,*canoa,1970,CANOE,,231,canoa
 boca,*boca,674,MOUTH,,232,boca
 picaflor,*picaflor,1589,HUMMINGBIRD,,233,picaflor
 pluralsuffixnounandpronoun,"*plural suffix, noun and pronoun",,,,234,"plural suffix, noun and pronoun"
-jefejuez,"*jefe,juez",861,JUDGE,,235,"jefe,juez"
+jefejuez,"*jefe,juez",,,,235,"jefe,juez"
 chocolate,*chocolate,3873,CHOCOLATE,,236,chocolate
 yuca,*yuca,925,CASSAVA,,237,yuca
 asomar,*asomar,,,,238,asomar
@@ -264,48 +263,48 @@ delgado,*delgado,1400,THIN (SLIM),,239,delgado
 imperativesuffix,*imperative suffix,,,,240,imperative suffix
 possessiveaffix,*possessive affix,,,,241,possessive affix
 nutria,*nutria,15,OTTER,,242,nutria
-barba,*barba,,,,243,berba
-avisar,*avisar,,,,243,avisar
+barba,*barba,678,BEARD,,243,berba
+avisar,*avisar,9,ANNOUNCE,,243,avisar
 barranco,*barranco,1930,RAVINE,,243,barranco
 primero,*primero,728,FIRST,,244,primero
 tumbar,*tumbar,,,,245,tumbar
 rio,*río,666,RIVER,,246,río
 pintado,*pintado,,,,247,pintado
 quiabo,*quiabó,,,,249,quiabó
-espinas,*espinas,,,,250,espinas
+espinas,*espinas,3799,FISHBONE,,250,espinas
 pene,*pene,1222,PENIS,,251,pene
 cuidar,*cuidar,,,,252,cuidar
 salirllegar,"*salir,llegar",1107,GO OUT,,253,salir
 cuerpo,*cuerpo,1480,BODY,,254,cuerpo
 vientre,*vientre,1251,BELLY,,256,vientre
 negativeprivativesuffix,*negative/privative suffix,,,,257,negative/privative suffix
-achiote,*achiote,,,,258,achiote
+achiote,*achiote,349,ACHIOTE,,258,achiote
 castigar,*castigar,3649,PUNISH,,259,castigar
 jochicolorado,*jochi colorado,,,,260,jochi colorado
 martinpescadorave,*martin pescador (ave),,,,261,martin pescador (ave)
-resina,*resina,,,,262,resina
+resina,*resina,664,RESIN,,262,resina
 bibosiarbol,*bibosi (árbol),,,,263,bibosi (árbol)
-cascajo,*cascajo,,,,264,cascajo
-guerraenemigo,"*guerra,enemigo",1358,ENEMY,,265,"guerra,enemigo"
+cascajo,*cascajo,3028,GRAVEL,,264,cascajo
+guerraenemigo,"*guerra,enemigo",,,,265,"guerra,enemigo"
 orillabanda,"*orilla,banda",,,,266,"orilla,banda"
 palometapez,*palometa (pez),,,,267,palometa (pez)
 sayamajo,"*saya,majo",,,,268,"saya,majo"
 majillopalmera,*majillo (palmera),,,,268,majillo (palmera)
 madremama,"*madre,mamá",1216,MOTHER,,269,"madre,mamá"
-alligator,*alligator,,,,270,alligator
+alligator,*alligator,1581,ALLIGATOR,,270,alligator
 arboldesiringa,*árbol de siringa,,,,271,árbol de siringa
 morir,*morir,1494,DIE,,272,morir
-llevarcargarabrazar,"*llevar,cargar,abrazar",700,CARRY,,273,"llevar,cargar,abrazar"
-paujil,*paujil,,,,274,paujil
+llevarcargarabrazar,"*llevar,cargar,abrazar",,,,273,"llevar,cargar,abrazar"
+paujil,*paujil,315,CURASSOW,,274,paujil
 chonta,*chonta,440,CHONTA PALM,,275,chonta
 brujahechicero,"*bruja,hechicero",,,,276,"bruja,hechicero"
 caituhilohechoencasa,*caitu (hilo hecho en casa),,,,277,caitu (hilo hecho en casa)
 cerro,*cerro,639,MOUNTAIN,,278,cerro
-lagartocaiman,"*lagarto,caiman",632,LIZARD,,279,"lagarto,caiman"
-muchomalodificil,"*mucho,malo,difícil",1292,BAD,,280,"mucho,malo,difícil"
-gredabarrocoloradopiedra,"*greda,barro colorado,piedra",857,STONE,,281,"greda,barro colorado,piedra"
+lagartocaiman,"*lagarto,caiman",,,,279,"lagarto,caiman"
+muchomalodificil,"*mucho,malo,difícil",,,,280,"mucho,malo,difícil"
+gredabarrocoloradopiedra,"*greda,barro colorado,piedra",,,,281,"greda,barro colorado,piedra"
 tierra,*tierra,1228,EARTH (SOIL),,281,tierra
-tierraarena,"*tierra,arena",671,SAND,,281,"tierra,arena"
+tierraarena,"*tierra,arena",,,,281,"tierra,arena"
 mano,*mano,1277,HAND,,282,mano
 adjectivesuffix,*adjective suffix,,,,283,adjective suffix
 arma,*arma,951,WEAPONS,,284,arma
@@ -314,14 +313,14 @@ vaciar,*vaciar,,,,286,vaciar
 vacio,*vacío,1624,EMPTY,,287,vacío
 recoger,*recoger,371,PICK UP,,288,recoger
 causativesuffix,*causative suffix,,,,289,causative suffix
-mananaayer,"*mañana,ayer",1329,TOMORROW,,290,"mañana,ayer"
+mananaayer,"*mañana,ayer",,,,290,"mañana,ayer"
 celar,*celar,,,,291,celar
-2dapersona,*2da persona,,,,292,2da persona
-palabrahablarcantar,"*palabra,hablar,cantar",1261,SING,,293,"palabra,hablar,cantar"
-dardecomer,*dar de comer,,,,294,dar de comer
+2dapersona,*2da persona,1213,YOU,,292,2da persona
+palabrahablarcantar,"*palabra,hablar,cantar",,,,293,"palabra,hablar,cantar"
+dardecomer,*dar de comer,739,FEED,,294,dar de comer
 pancho,*pancho,,,,295,pancho
 arrancardesplumar,"*arrancar,desplumar",,,,296,"arrancar,desplumar"
-tacuaraflauta,"*tacuara,flauta",777,FLUTE,,297,"tacuara,flauta"
+tacuaraflauta,"*tacuara,flauta",,,,297,"tacuara,flauta"
 ceniza,*ceniza,646,ASH,,298,ceniza
 seco,*seco,1398,DRY,,299,seco
 crecer,*crecer,479,GROW,,300,crecer
@@ -331,33 +330,34 @@ sombrero,*sombrero,771,HAT,,303,sombrero
 almendro,*almendro,,,,304,almendro
 lluviaaguacero,"*lluvia,aguacero",658,RAIN (PRECIPITATION),,305,"lluvia,aguacero"
 humedomojado,"*húmedo,mojado",1726,WET,,305,"húmedo,mojado"
-aguado,*aguado,,,,305,aguado
-banar,*bañar,,,,305,bañar
-agualluviario,"*agua,lluvia,río",948,WATER,,305,"agua,lluvia,río"
+aguado,*aguado,3545,WATERY,,305,aguado
+banar,*bañar,138,BATHE,,305,bañar
+agualluviario,"*agua,lluvia,río",,,,305,"agua,lluvia,río"
 ala,*ala,1257,WING,,306,ala
 sobaco,*sobaco,1886,ARMPIT,,306,sobaco
 cuellopescuezo,"*cuello,pescuezo",1333,NECK,,307,"cuello,pescuezo"
 garganta,*garganta,1346,THROAT,,307,garganta
 completivesuffix,*completive suffix,,,,309,completive suffix
-tiernochico,"*tierno,chico",1246,SMALL,,310,"tierno,chico"
-platanopacay,"*plátano,pacay",399,PLANTAIN,,311,"plátano,pacay"
+tiernochico,"*tierno,chico",,,,310,"tierno,chico"
+platanopacay,"*plátano,pacay",,,,311,"plátano,pacay"
 turiro,*turiro,,,,312,turiro
-defendertenermezquindad,"*defender,tener mezquindad",1330,DEFEND,,313,"defender,tener mezquindad"
+defendertenermezquindad,"*defender,tener mezquindad",,,,313,"defender,tener mezquindad"
 tia,*tía,1272,AUNT,,314,tía
 enfermedad,*enfermedad,1986,DISEASE,,315,enfermedad
 correctoverdadero,"*correcto,verdadero",1725,CORRECT (RIGHT),,316,"correcto,verdadero"
-pararpararse,"*parar,pararse",3351,STOP DOING,,317,"parar,pararse"
-animaespiritucorazon,"*anima,espíritu,corazón",1223,HEART,,318,"anima,espíritu,corazón"
+pararpararse,"*parar,pararse",,,,317,"parar,pararse"
+animaespiritucorazon,"*anima,espíritu,corazón",,,,318,"anima,espíritu,corazón"
 geniocaracterconciencia,"*genio,carácter,conciencia",,,,318,"genio,carácter,conciencia"
+andar,*andar,1470,FOLD,,319,doblar
 hermano,*hermano,1262,BROTHER,,320,hermano
 empujar,*empujar,1452,PUSH,,321,empujar
-meterentrar,"*meter,entrar",749,ENTER,,321,"meter,entrar"
+meterentrar,"*meter,entrar",,,,321,"meter,entrar"
 pastopaja,"*pasto,paja",,,,322,"pasto,paja"
 arbolconfrutoquesecomen,*árbol con fruto que se comen,,,,323,árbol con fruto que se comen
 ciempies,*ciempiés,1974,CENTIPEDE,,324,ciempiés
-with,*with,,,,325,with
-medio,*medio,,,,326,medio
-enterrar,*enterrar,,,,327,enterrar
+with,*with,1340,WITH,,325,with
+medio,*medio,3208,CENTER OR MIDDLE,,326,medio
+enterrar,*enterrar,1719,BURY,,327,enterrar
 llorar,*llorar,1839,CRY,,328,llorar
 sedice,*se dice,,,,329,se dice
 augmentativesuffix,*augmentative suffix,,,,330,augmentative suffix
@@ -366,64 +366,64 @@ amargo,*amargo,887,BITTER,,332,amargo
 golpear,*golpear,353,STRIKE,,333,golpear
 carpir,*carpir,,,,334,carpir
 blanco,*blanco,1335,WHITE,,335,blanco
-tuertogris,"*tuerto,gris",2409,BROWN,,336,"tuerto,gris"
+tuertogris,"*tuerto,gris",,,,336,"tuerto,gris"
 uno,*uno,1493,ONE,,338,uno
 unladojuntoanteadelante,"*un lado,junto,ante,adelante",,,,339,"un lado,junto,ante,adelante"
 bambu,*bambú,1927,BAMBOO,,340,bambú
-cayapobalsa,"*cayapo,balsa",1664,RAFT,,341,"cayapo,balsa"
-acompanar,*acompañar,,,,342,acompañar
+cayapobalsa,"*cayapo,balsa",,,,341,"cayapo,balsa"
+acompanar,*acompañar,1542,ACCOMPANY,,342,acompañar
 desenganchar,*desenganchar,,,,343,desenganchar
 pasaratravesar,"*pasar,atravesar",,,,344,"pasar,atravesar"
-extender,*extender,,,,345,extender
+extender,*extender,38,SPREAD OUT,,345,extender
 ligoso,*ligoso,,,,347,ligoso
 flecha,*flecha,977,ARROW,,348,flecha
 pescuezocuello,"*pescuezo,cuello",1333,NECK,,349,"pescuezo,cuello"
 desatar,*desatar,352,UNTIE,,350,desatar
 iguana,*iguana,1578,IGUANA,,351,iguana
-puno,*puño,,,,352,puño
+puno,*puño,1473,FIST,,352,puño
 pelar,*pelar,275,PEEL,,353,pelar
-decirhacer,"*decir,hacer",1458,SAY,,354,"decir,hacer"
-venirllegar,"*venir,llegar",1446,COME,,354,"venir,llegar"
+decirhacer,"*decir,hacer",,,,354,"decir,hacer"
+venirllegar,"*venir,llegar",,,,354,"venir,llegar"
 reventar,*reventar,,,,355,reventar
-blando,*blando,,,,356,blando
+blando,*blando,1856,SOFT,,356,blando
 nominalizingagentivesuffix,*nominalizing agentive suffix,,,,357,nominalizing agentive suffix
-mujerhembra,"*mujer,hembra",962,WOMAN,,359,"mujer,hembra"
-curucusiluciernaga,"*curucusí,luciérnaga",206,FIREFLY,,360,"curucusí,luciérnaga"
+mujerhembra,"*mujer,hembra",1551,FEMALE,,359,"mujer,hembra"
+curucusiluciernaga,"*curucusí,luciérnaga",,,,360,"curucusí,luciérnaga"
 transivitizingandinstrumentalsuffixmainlypronominal,"*transivitizing (and instrumental) suffix, mainly pronominal",,,,361,"transivitizing (and instrumental) suffix, mainly pronominal"
 carnecuerpo,"*carne,cuerpo",2615,FLESH OR MEAT,,362,"carne,cuerpo"
-esteaqui,"*este,aquí",1214,THIS,,363,"este,aquí"
-cortarquebrar,"*cortar,quebrar",1432,CUT,,364,"cortar,quebrar"
-juntaramontonaracarrear,"*juntar,amontonar,acarrear",1576,PILE UP,,365,"juntar,amontonar,acarrear"
+esteaqui,"*este,aquí",,,,363,"este,aquí"
+cortarquebrar,"*cortar,quebrar",,,,364,"cortar,quebrar"
+juntaramontonaracarrear,"*juntar,amontonar,acarrear",,,,365,"juntar,amontonar,acarrear"
 chapapearabochornar,"*chapapear,abochornar",,,,366,"chapapear,abochornar"
 garza,*garza,758,HERON,,367,garza
 rallarraspar,"*rallar,raspar",3114,GRATE (SOMETHING),,369,"rallar,raspar"
 pascana,*pascana,,,,370,pascana
 gatear,*gatear,96,CRAWL,,371,gatear
-apretar,*apretar,,,,372,apretar
+apretar,*apretar,1414,SQUEEZE,,372,apretar
 zurcirfrunzar,"*zurcir,frunzar",,,,372,"zurcir,frunzar"
 tirarjalar,"*tirar,jalar",1455,PULL,,372,"tirar,jalar"
 amarraratar,"*amarrar,atar",1917,TIE,,372,"amarrar,atar"
-podrir,*podrir,,,,373,podrir
+podrir,*podrir,2907,ROT,,373,podrir
 acostarecharse,"*acostar,echarse",,,,374,"acostar,echarse"
 possessivesuffix,*possessive suffix,,,,375,possessive suffix
 mariposa,*mariposa,1791,BUTTERFLY,,376,mariposa
 pezpescado,"*pez,pescado",227,FISH,,377,"pez,pescado"
 bueno,*bueno,1035,GOOD,,378,bueno
 cortar,*cortar,1432,CUT,,379,cortar
-fuerteacidoagrio,"*fuerte,ácido,agrio",785,STRONG,,380,"fuerte,ácido,agrio"
-gallinazosucha,"*gallinazo,sucha",1865,BUZZARD,,381,"gallinazo,sucha"
-venanerviotendon,"*vena,nervio,tendón",1924,VEIN,,382,"vena,nervio,tendón"
+fuerteacidoagrio,"*fuerte,ácido,agrio",,,,380,"fuerte,ácido,agrio"
+gallinazosucha,"*gallinazo,sucha",,,,381,"gallinazo,sucha"
+venanerviotendon,"*vena,nervio,tendón",,,,382,"vena,nervio,tendón"
 sarna,*sarna,,,,383,sarna
-maduraramarillo,"*madurar,amarillo",1424,YELLOW,,384,"madurar,amarillo"
+maduraramarillo,"*madurar,amarillo",,,,384,"madurar,amarillo"
 chichilo,*chichilo,,,,385,chicilo
-venirandartirar,"*venir,andar,tirar",1446,COME,,386,"venir,andar,tirar"
+venirandartirar,"*venir,andar,tirar",,,,386,"venir,andar,tirar"
 llenarllenarse,"*llenar,llenarse",,,,387,"llenar,llenarse"
 yacamiave,*yacamí (ave),,,,388,yacamí (ave)
-resbalosoresbalar,"*resbaloso,resbalar",1324,SLIP,,389,"resbaloso,resbalar"
-hongo,*hongo,,,,390,hongo
-cortarserruchar,"*cortar,serruchar",1432,CUT,,391,"cortar,serruchar"
-calientecocinar,"*caliente,cocinar",1286,HOT,,392,"caliente,cocinar"
-rataraton,"*rata,ratón",1490,RAT,,393,"rata,ratón"
+resbalosoresbalar,"*resbaloso,resbalar",,,,389,"resbaloso,resbalar"
+hongo,*hongo,641,MUSHROOM,,390,hongo
+cortarserruchar,"*cortar,serruchar",,,,391,"cortar,serruchar"
+calientecocinar,"*caliente,cocinar",,,,392,"caliente,cocinar"
+rataraton,"*rata,ratón",,,,393,"rata,ratón"
 monosilbador,*mono silbador,,,,394,mono silbador
 locativesuffix,*locative suffix,,,,395,locative suffix
 despues,*después,1685,AFTER,,396,después
@@ -431,51 +431,51 @@ pato,*pato,1360,DUCK,,397,pato
 pierna,*pierna,1297,LEG,,398,pierna
 juntosambos,"*juntos,ambos",,,,399,"juntos,ambos"
 picotada,*picotada,,,,400,picotada
-durofuerte,"*duro,fuerte",785,STRONG,,401,"duro,fuerte"
-silencio,*silencio,,,,402,silencio
+durofuerte,"*duro,fuerte",,,,401,"duro,fuerte"
+silencio,*silencio,3458,SILENCE,,402,silencio
 higado,*hígado,1224,LIVER,,403,hígado
 casa,*casa,1252,HOUSE,,404,casa
 hormigacazadora,*hormiga cazadora,,,,405,hormiga cazadora
 anillo,*anillo,1374,RING,,406,anillo
 calabaceragrandeinsecto,*calabacera grande (insecto),,,,407,calabacera grande (insecto)
-remarbatir,"*remar,batir",1849,ROW,,408,"remar,batir"
-clavararreglar,"*clavar,arreglar",3306,NAIL,,409,"clavar,arreglar"
+remarbatir,"*remar,batir",,,,408,"remar,batir"
+clavararreglar,"*clavar,arreglar",,,,409,"clavar,arreglar"
 papa,*papá,1217,FATHER,,410,papá
-cana,*caña,146,SUGAR CANE,,411,caña
+cana,*caña,659,REED,,411,caña
 dormir,*dormir,1585,SLEEP,,412,dormir
-pavo,*pavo,315,CURASSOW,,413,pavo
-matarcazar,"*matar,cazar",1417,KILL,,414,"matar,cazar"
+pavo,*pavo,2386,TURKEY,,413,pavo
+matarcazar,"*matar,cazar",,,,414,"matar,cazar"
 jacuu,*jacuú,,,,415,jacuú
 cerrar,*cerrar,1046,SHUT,,416,cerrar
-esconderse,*esconderse,,,,417,esconderse
+esconderse,*esconderse,2485,HIDE (ONESELF),,417,esconderse
 chaco,*chaco,,,,418,chaco
 fuego,*fuego,221,FIRE,,419,fuego
 apagar,*apagar,127,EXTINGUISH,,419,apagar
 quemar,*quemar,141,BURN (SOMETHING),,419,quemar
-troncopierna,"*tronco,pierna",1297,LEG,,420,"tronco,pierna"
-piernafalda,"*pierna,falda",1297,LEG,,420,"pierna,falda"
-piernamuslo,"*pierna,muslo",1297,LEG,,420,"pierna,muslo"
+troncopierna,"*tronco,pierna",,,,420,"tronco,pierna"
+piernafalda,"*pierna,falda",,,,420,"pierna,falda"
+piernamuslo,"*pierna,muslo",,,,420,"pierna,muslo"
 dar,*dar,1447,GIVE,,421,dar
 detrasatras,"*detrás,atrás",,,,421,"detrás,atrás"
-atrasdespues,"*atrás,después",1685,AFTER,,421,"atrás,después"
+atrasdespues,"*atrás,después",,,,421,"atrás,después"
 reflexivesuffix,*reflexive suffix,,,,422,reflexive suffix
-una,*uña,1258,FINGERNAIL,,423,uña
+una,*uña,1896,FINGERNAIL OR TOENAIL,,423,uña
 cintura,*cintura,1681,WAIST,,424,cintura
-centro,*centro,,,,425,centro
+centro,*centro,491,CENTER,,425,centro
 raiz,*raíz,670,ROOT,,426,raíz
 terminar,*terminar,1766,FINISH,,427,terminar
 tronar,*tronar,,,,428,tronar
 quejido,*quejido,,,,429,quejido
-pisararanar,"*pisar,arañar",575,TREAD,,430,"pisar,arañar"
+pisararanar,"*pisar,arañar",,,,430,"pisar,arañar"
 3rapersona,*3ra persona,,,,431,3ra person
 barriga,*barriga,1251,BELLY,,432,barriga
 encender,*encender,737,LIGHT (IGNITE),,433,encender
-cortartrozar,"*cortar,trozar",1432,CUT,,434,"cortar,trozar"
+cortartrozar,"*cortar,trozar",,,,434,"cortar,trozar"
 lorochico,*loro (chico),882,PARROT,,435,loro (chico)
 ojo,*ojo,1248,EYE,,436,ojo
 motacu,*motacú,,,,437,motacú
 piedra,*piedra,857,STONE,,438,piedra
-lombriz,*lombriz,,,,439,lombriz
+lombriz,*lombriz,1219,WORM,,439,lombriz
 pesar,*pesar,1098,WEIGH,,440,pesar
 nietanieto,"*nieta,nieto",1618,GRANDSON,,441,"nieta,nieto"
 sobrinosobrina,"*sobrino,sobrina",1063,NEPHEW,,441,"sobrino,sobrina"
@@ -486,12 +486,12 @@ luz,*luz,630,LIGHT (RADIATION),,444,luz
 silbar,*silbar,1025,WHISTLE,,445,silbar
 tabaco,*tabaco,974,TOBACCO,,446,tabaco
 marfilpalmera,*marfil (palmera),,,,447,marfil (palmera)
-caerse,*caerse,,,,448,caerse
+caerse,*caerse,2894,TUMBLE (FALL DOWN),,448,caerse
 sardina,*sardina,,,,449,sardina
 agua,*agua,948,WATER,,451,agua
 mezclar,*mezclar,2017,MIX,,452,mezclar
 chancodetropa,*chanco de tropa,,,,453,chanco de tropa
-pie,*pié,,,,454,pié
+pie,*pié,1301,FOOT,,454,pié
 sabanon,*sabañon,,,,455,sabañon
 chico,*chico,1246,SMALL,,456,chico
 paloma,*paloma,1853,DOVE,,457,paloma
@@ -503,39 +503,39 @@ algodon,*algodón,1850,COTTON,,463,algodón
 palizado,*palizado,,,,464,palizado
 huaracachiave,*huaracachi (ave),,,,465,huaracachi (ave)
 toco,*toco,,,,466,toco
-autoridad,*autoridad,,,,467,autoridad
-abejamiel,"*abeja,miel",665,BEE,,468,"abeja,miel"
+autoridad,*autoridad,1637,AUTHORITY,,467,autoridad
+abejamiel,"*abeja,miel",,,,468,"abeja,miel"
 rana,*rana,503,FROG,,469,rana
 sudorsudar,"*sudor,sudar",2458,PERSPIRE OR SWEAT,,470,"sudor,sudar"
 mosca,*mosca,1504,FLY (INSECT),,471,mosca
 nariz,*nariz,1221,NOSE,,472,nariz
 ahogar,*ahogar,1904,DROWN,,473,ahogar
-desnudarsacardestejar,"*desnudar,sacar,destejar",3654,TAKE OUT,,474,"desnudar,sacar,destejar"
-cera,*cera,1931,BEESWAX,,476,cera
+desnudarsacardestejar,"*desnudar,sacar,destejar",,,,474,"desnudar,sacar,destejar"
+cera,*cera,3942,WAX,,476,cera
 orina,*orina,1142,URINE,,477,orina
 perdizchica,*perdiz chica,,,,478,perdiz chica
 soplar,*soplar,175,BLOW (OF WIND),,479,soplar
 vestir,*vestir,976,WEAR,,480,vestir
 espigacogollo,"*espiga,cogollo",,,,481,"espiga,cogollo"
 colorear,*colorear,,,,482,colorear
-plantarclavar,"*plantar,clavar",3306,NAIL,,483,"plantar,clavar"
+plantarclavar,"*plantar,clavar",,,,483,"plantar,clavar"
 ramagajo,"*rama,gajo",3223,BRANCH OR TWIG,,484,"rama,gajo"
 banda,*banda,,,,485,banda
-espiga,*espiga,,,,487,espiga
+espiga,*espiga,1249,SPIKE,,487,espiga
 pasttense,*past tense,,,,488,past tense
 coca,*coca,137,COCA,,489,coca
-cernerpunzar,"*cerner,punzar",398,PIERCE,,490,"cerner,punzar"
+cernerpunzar,"*cerner,punzar",,,,490,"cerner,punzar"
 sancochar,*sancochar,,,,491,sancochar
 isla,*isla,622,ISLAND,,492,isla
 prender,*prender,,,,493,prender
-azulverde,"*azul,verde",1425,GREEN,,494,"azul,verde"
-defecar,*defecar,,,,495,defecar
+azulverde,"*azul,verde",2382,BLUE OR GREEN,,494,"azul,verde"
+defecar,*defecar,676,SHIT (DEFECATE),,495,defecar
 plato,*plato,480,PLATE,,496,plato
-barrigaintestinos,"*barriga,intestinos",1251,BELLY,,497,"barriga,intestinos"
+barrigaintestinos,"*barriga,intestinos",,,,497,"barriga,intestinos"
 cangrejo,*cangrejo,2348,CRAB,,498,cangrejo
 negro,*negro,163,BLACK,,499,negro
 unirjuntar,"*unir,juntar",1743,JOIN,,501,"unir,juntar"
 noche,*noche,1233,NIGHT,,502,noche
 ensartarcosturar,"*ensartar,costurar",,,,503,"ensartar,costurar"
-capibara,*capibara,,,,504,capibara
+capibara,*capibara,314,CAPYBARA,,504,capibara
 derivativesuffixwithreferencetobodyparts,*derivative suffix with reference to body parts,,,,198,derivative suffix with reference to body parts

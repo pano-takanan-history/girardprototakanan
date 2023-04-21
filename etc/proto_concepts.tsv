@@ -5,7 +5,6 @@ muela	1049	MOLAR TOOTH	1	*muela
 persuadir	3645	PERSUADE	1	*persuadir
 quedarse,tener,estar			1	*quedarse,*tener,*estar
 terminar,acabar	1766	FINISH	1	*terminar,*acabar
-andar	1443	WALK	1	*andar
 transitivizing suffix			2	*transitivizing suffix
 simple interrogante			3	*simple interrogante
 qué?	1236	WHAT	3	*qué?
@@ -392,43 +391,42 @@ reventar			355	*reventar
 blando	1856	SOFT	356	*blando
 nominalizing agentive suffix			357	*nominalizing agentive suffix
 mujer,hembra	1551	FEMALE	359	*mujer,hembra
-curucusí,luciérnaga	206	FIREFLY	360	*curucusí,luciérnaga
+curucusí,luciérnaga			360	*curucusí,luciérnaga
 transivitizing (and instrumental) suffix, mainly pronominal			361	*transivitizing (and instrumental) suffix, mainly pronominal
 carne,cuerpo	2615	FLESH OR MEAT	362	*carne,cuerpo
-este,aquí	1214	THIS	363	*este,aquí
-cortar,quebrar	1432	CUT	364	*cortar,quebrar
-juntar,amontonar,acarrear	1576	PILE UP	365	*juntar,amontonar,acarrear
+este,aquí			363	*este,aquí
+cortar,quebrar			364	*cortar,quebrar
+juntar,amontonar,acarrear			365	*juntar,amontonar,acarrear
 chapapear,abochornar			366	*chapapear,abochornar
 garza	758	HERON	367	*garza
-traer	692	BRING	368	*traer
 rallar,raspar	3114	GRATE (SOMETHING)	369	*rallar,raspar
 pascana			370	*pascana
 gatear	96	CRAWL	371	*gatear
-apretar			372	*apretar
+apretar	1414	SQUEEZE	372	*apretar
 zurcir,frunzar			372	*zurcir,frunzar
 tirar,jalar	1455	PULL	372	*tirar,jalar
 amarrar,atar	1917	TIE	372	*amarrar,atar
-podrir			373	*podrir
+podrir	2907	ROT	373	*podrir
 acostar,echarse			374	*acostar,echarse
 possessive suffix			375	*possessive suffix
 mariposa	1791	BUTTERFLY	376	*mariposa
 pez,pescado	227	FISH	377	*pez,pescado
 bueno	1035	GOOD	378	*bueno
 cortar	1432	CUT	379	*cortar
-fuerte,ácido,agrio	785	STRONG	380	*fuerte,ácido,agrio
-gallinazo,sucha	1865	BUZZARD	381	*gallinazo,sucha
-vena,nervio,tendón	1924	VEIN	382	*vena,nervio,tendón
+fuerte,ácido,agrio			380	*fuerte,ácido,agrio
+gallinazo,sucha			381	*gallinazo,sucha
+vena,nervio,tendón			382	*vena,nervio,tendón
 sarna			383	*sarna
-madurar,amarillo	1424	YELLOW	384	*madurar,amarillo
+madurar,amarillo			384	*madurar,amarillo
 chicilo			385	*chichilo
-venir,andar,tirar	1446	COME	386	*venir,andar,tirar
+venir,andar,tirar			386	*venir,andar,tirar
 llenar,llenarse			387	*llenar,llenarse
 yacamí (ave)			388	*yacamí (ave)
-resbaloso,resbalar	1324	SLIP	389	*resbaloso,resbalar
-hongo			390	*hongo
-cortar,serruchar	1432	CUT	391	*cortar,serruchar
-caliente,cocinar	1286	HOT	392	*caliente,cocinar
-rata,ratón	1490	RAT	393	*rata,ratón
+resbaloso,resbalar			389	*resbaloso,resbalar
+hongo	641	MUSHROOM	390	*hongo
+cortar,serruchar			391	*cortar,serruchar
+caliente,cocinar			392	*caliente,cocinar
+rata,ratón			393	*rata,ratón
 mono silbador			394	*mono silbador
 locative suffix			395	*locative suffix
 después	1685	AFTER	396	*después
@@ -436,53 +434,52 @@ pato	1360	DUCK	397	*pato
 pierna	1297	LEG	398	*pierna
 juntos,ambos			399	*juntos,ambos
 picotada			400	*picotada
-duro,fuerte	785	STRONG	401	*duro,fuerte
-silencio			402	*silencio
+duro,fuerte			401	*duro,fuerte
+silencio	3458	SILENCE	402	*silencio
 hígado	1224	LIVER	403	*hígado
 casa	1252	HOUSE	404	*casa
 hormiga cazadora			405	*hormiga cazadora
 anillo	1374	RING	406	*anillo
 calabacera grande (insecto)			407	*calabacera grande (insecto)
-remar,batir	1849	ROW	408	*remar,batir
-clavar,arreglar	3306	NAIL	409	*clavar,arreglar
+remar,batir			408	*remar,batir
+clavar,arreglar			409	*clavar,arreglar
 papá	1217	FATHER	410	*papá
-caña	146	SUGAR CANE	411	*caña
+caña	659	REED	411	*caña
 dormir	1585	SLEEP	412	*dormir
-pavo	315	CURASSOW	413	*pavo
-matar,cazar	1417	KILL	414	*matar,cazar
+pavo	2386	TURKEY	413	*pavo
+matar,cazar			414	*matar,cazar
 jacuú			415	*jacuú
 cerrar	1046	SHUT	416	*cerrar
-esconderse			417	*esconderse
+esconderse	2485	HIDE (ONESELF)	417	*esconderse
 chaco			418	*chaco
 fuego	221	FIRE	419	*fuego
 apagar	127	EXTINGUISH	419	*apagar
 quemar	141	BURN (SOMETHING)	419	*quemar
-fuego	221	FIRE	419	*fuego
-tronco,pierna	1297	LEG	420	*tronco,pierna
-pierna,falda	1297	LEG	420	*pierna,falda
-pierna,muslo	1297	LEG	420	*pierna,muslo
+tronco,pierna			420	*tronco,pierna
+pierna,falda			420	*pierna,falda
+pierna,muslo			420	*pierna,muslo
 dar	1447	GIVE	421	*dar
 detrás,atrás			421	*detrás,atrás
-atrás,después	1685	AFTER	421	*atrás,después
+atrás,después			421	*atrás,después
 abajo	1326	DOWN	421	*abajo
 reflexive suffix			422	*reflexive suffix
-uña	1258	FINGERNAIL	423	*uña
+uña	1896	FINGERNAIL OR TOENAIL	423	*uña
 cintura	1681	WAIST	424	*cintura
-centro			425	*centro
+centro	491	CENTER	425	*centro
 raíz	670	ROOT	426	*raíz
 terminar	1766	FINISH	427	*terminar
 tronar			428	*tronar
 quejido			429	*quejido
-pisar,arañar	575	TREAD	430	*pisar,arañar
+pisar,arañar			430	*pisar,arañar
 3ra person			431	*3ra persona
 barriga	1251	BELLY	432	*barriga
 encender	737	LIGHT (IGNITE)	433	*encender
-cortar,trozar	1432	CUT	434	*cortar,trozar
+cortar,trozar			434	*cortar,trozar
 loro (chico)	882	PARROT	435	*loro (chico)
 ojo	1248	EYE	436	*ojo
 motacú			437	*motacú
 piedra	857	STONE	438	*piedra
-lombriz			439	*lombriz
+lombriz	1219	WORM	439	*lombriz
 pesar	1098	WEIGH	440	*pesar
 nieta,nieto	1618	GRANDSON	441	*nieta,nieto
 sobrino,sobrina	1063	NEPHEW	441	*sobrino,sobrina
@@ -494,60 +491,57 @@ luz	630	LIGHT (RADIATION)	444	*luz
 silbar	1025	WHISTLE	445	*silbar
 tabaco	974	TOBACCO	446	*tabaco
 marfil (palmera)			447	*marfil (palmera)
-caerse			448	*caerse
+caerse	2894	TUMBLE (FALL DOWN)	448	*caerse
 sardina			449	*sardina
-tierra	1228	EARTH (SOIL)	450	*tierra
 agua	948	WATER	451	*agua
 mezclar	2017	MIX	452	*mezclar
 chanco de tropa			453	*chanco de tropa
-pié			454	*pié
+pié	1301	FOOT	454	*pié
 sabañon			455	*sabañon
 chico	1246	SMALL	456	*chico
 paloma	1853	DOVE	457	*paloma
 conejo	1136	RABBIT	458	*conejo
 poner	998	PUT	459	*poner
-mujer	962	WOMAN	460	*mujer
 humo	778	SMOKE (EXHAUST)	461	*humo
 abejo			462	*abejo
 algodón	1850	COTTON	463	*algodón
 palizado			464	*palizado
 huaracachi (ave)			465	*huaracachi (ave)
 toco			466	*toco
-autoridad			467	*autoridad
-abeja,miel	665	BEE	468	*abeja,miel
+autoridad	1637	AUTHORITY	467	*autoridad
+abeja,miel			468	*abeja,miel
 rana	503	FROG	469	*rana
 sudor,sudar	2458	PERSPIRE OR SWEAT	470	*sudor,sudar
 mosca	1504	FLY (INSECT)	471	*mosca
 nariz	1221	NOSE	472	*nariz
 ahogar	1904	DROWN	473	*ahogar
-desnudar,sacar,destejar	3654	TAKE OUT	474	*desnudar,sacar,destejar
+desnudar,sacar,destejar			474	*desnudar,sacar,destejar
 frío	1287	COLD	475	*frío
-cera	1931	BEESWAX	476	*cera
+cera	3942	WAX	476	*cera
 orina	1142	URINE	477	*orina
 perdiz chica			478	*perdiz chica
 soplar	175	BLOW (OF WIND)	479	*soplar
 vestir	976	WEAR	480	*vestir
 espiga,cogollo			481	*espiga,cogollo
 colorear			482	*colorear
-plantar,clavar	3306	NAIL	483	*plantar,clavar
+plantar,clavar			483	*plantar,clavar
 rama,gajo	3223	BRANCH OR TWIG	484	*rama,gajo
 banda			485	*banda
 cabeza	1256	HEAD	486	*cabeza
-espiga			487	*espiga
+espiga	1249	SPIKE	487	*espiga
 past tense			488	*past tense
 coca	137	COCA	489	*coca
-cerner,punzar	398	PIERCE	490	*cerner,punzar
+cerner,punzar			490	*cerner,punzar
 sancochar			491	*sancochar
 isla	622	ISLAND	492	*isla
 prender			493	*prender
-azul,verde	1425	GREEN	494	*azul,verde
-defecar			495	*defecar
+azul,verde	2382	BLUE OR GREEN	494	*azul,verde
+defecar	676	SHIT (DEFECATE)	495	*defecar
 plato	480	PLATE	496	*plato
-barriga,intestinos	1251	BELLY	497	*barriga,intestinos
+barriga,intestinos			497	*barriga,intestinos
 cangrejo	2348	CRAB	498	*cangrejo
 negro	163	BLACK	499	*negro
-viejo	1229	OLD	500	*viejo
 unir,juntar	1743	JOIN	501	*unir,juntar
 noche	1233	NIGHT	502	*noche
 ensartar,costurar			503	*ensartar,costurar
-capibara			504	*capibara
+capibara	314	CAPYBARA	504	*capibara
