@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Girard, Victor (1971): Proto-Takanan Phonology.",
+    "dc:bibliographicCitation": "Girard, Victor (1971): Proto-Takanan Phonology. University of California Press, Berkeley, 1971.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/pano-tacanan-history/girardprototakanan",
             "rdf:type": "prov:Entity",
-            "dc:created": "b4d99d5",
+            "dc:created": "a69ab8c",
             "dc:title": "Repository"
         },
         {
@@ -25,7 +25,7 @@
         {
             "rdf:about": "https://github.com/MuffinLinwist/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0.0",
+            "dc:created": "v3.1.0",
             "dc:title": "Concepticon"
         },
         {

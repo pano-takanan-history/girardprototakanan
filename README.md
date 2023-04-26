@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Girard, Victor (1971): Proto-Takanan Phonology.
+  > Girard, Victor (1971): Proto-Takanan Phonology. University of California Press, Berkeley, 1971.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -16,7 +16,7 @@ This dataset is licensed under a CC-BY-4.0 license
 
 
 ![Glottolog: 88%](https://img.shields.io/badge/Glottolog-88%25-yellowgreen.svg "Glottolog: 88%")
-![Concepticon: 68%](https://img.shields.io/badge/Concepticon-68%25-orange.svg "Concepticon: 68%")
+![Concepticon: 70%](https://img.shields.io/badge/Concepticon-70%25-orange.svg "Concepticon: 70%")
 ![Source: 20%](https://img.shields.io/badge/Source-20%25-red.svg "Source: 20%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")

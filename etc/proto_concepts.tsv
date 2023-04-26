@@ -105,7 +105,7 @@ sobrino/a	1063	NEPHEW	79	*sobrino/a
 melero			80	*melero
 tucandera			81	*tucandera
 perdiz	3681	PARTRIDGE	82	*perdiz
-guayaba (árbol)			83	*guayaba (árbol)
+guayaba (árbol)	3981	GUAVA	83	*guayaba (árbol)
 risueño			84	*risueño
 rana,sapo	503	FROG	85	*rana,sapo
 materia			86	*pus,materia
@@ -201,10 +201,10 @@ vender	1571	SELL	170	*vender
 desgranar	285	THRESH	171	*desgranar
 cola	1220	TAIL	172	*cola
 llamar	1084	CALL	173	*llamar
-pudrirse			174	*pudrirse
-dejar,poner			175	*dejar,poner
+pudrirse	2907	ROT	174	*pudrirse
+dejar,poner	998	PUT	175	*dejar,poner
 nuevo,ahora			176	*nuevo,ahora
-pegar			177	*pegar
+pegar	1433	HIT	177	*pegar
 cuñado	2314	BROTHER-IN-LAW	178	*cuñado
 hermana menor	1761	YOUNGER SISTER	178	*hermana menor
 hermano menor	1760	YOUNGER BROTHER	178	*hermano menor
@@ -213,7 +213,7 @@ mandíbula	798	JAW	184	*mandíbula
 abrir	1156	OPEN	186	*abrir
 tareche			187	*tareche
 huevo	744	EGG	199	*huevo
-planta de plátano			200	*planta de plátano
+planta de plátano	1795	BANANA TREE	200	*planta de plátano
 fruta	1507	FRUIT	200	*fruta
 chaquillo (árbol)			200	*chaquillo (árbol)
 maní	2364	PEANUT	200	*maní
@@ -407,7 +407,7 @@ zurcir,frunzar			372	*zurcir,frunzar
 tirar,jalar	1455	PULL	372	*tirar,jalar
 amarrar,atar	1917	TIE	372	*amarrar,atar
 podrir	2907	ROT	373	*podrir
-acostar,echarse			374	*acostar,echarse
+acostar,echarse	215	LIE DOWN	374	*acostar,echarse
 possessive suffix			375	*possessive suffix
 mariposa	1791	BUTTERFLY	376	*mariposa
 pez,pescado	227	FISH	377	*pez,pescado
@@ -420,13 +420,13 @@ sarna			383	*sarna
 madurar,amarillo			384	*madurar,amarillo
 chicilo			385	*chichilo
 venir,andar,tirar			386	*venir,andar,tirar
-llenar,llenarse			387	*llenar,llenarse
+llenar,llenarse	2006	FILL	387	*llenar,llenarse
 yacamí (ave)			388	*yacamí (ave)
 resbaloso,resbalar			389	*resbaloso,resbalar
 hongo	641	MUSHROOM	390	*hongo
 cortar,serruchar			391	*cortar,serruchar
 caliente,cocinar			392	*caliente,cocinar
-rata,ratón			393	*rata,ratón
+rata,ratón	2139	MUROID (MOUSE OR RAT)	393	*rata,ratón
 mono silbador			394	*mono silbador
 locative suffix			395	*locative suffix
 después	1685	AFTER	396	*después
@@ -459,7 +459,7 @@ tronco,pierna			420	*tronco,pierna
 pierna,falda			420	*pierna,falda
 pierna,muslo			420	*pierna,muslo
 dar	1447	GIVE	421	*dar
-detrás,atrás			421	*detrás,atrás
+detrás,atrás	1686	BEHIND	421	*detrás,atrás
 atrás,después			421	*atrás,después
 abajo	1326	DOWN	421	*abajo
 reflexive suffix			422	*reflexive suffix

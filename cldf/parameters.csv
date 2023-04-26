@@ -105,7 +105,7 @@ sobrinoa,*sobrino/a,1063,NEPHEW,,79,sobrino/a
 melero,*melero,,,,80,melero
 tucandera,*tucandera,,,,81,tucandera
 perdiz,*perdiz,3681,PARTRIDGE,,82,perdiz
-guayabaarbol,*guayaba (árbol),,,,83,guayaba (árbol)
+guayabaarbol,*guayaba (árbol),3981,GUAVA,,83,guayaba (árbol)
 risueno,*risueño,,,,84,risueño
 ranasapo,"*rana,sapo",503,FROG,,85,"rana,sapo"
 pusmateria,"*pus,materia",,,,86,materia
@@ -201,10 +201,10 @@ vender,*vender,1571,SELL,,170,vender
 desgranar,*desgranar,285,THRESH,,171,desgranar
 cola,*cola,1220,TAIL,,172,cola
 llamar,*llamar,1084,CALL,,173,llamar
-pudrirse,*pudrirse,,,,174,pudrirse
-dejarponer,"*dejar,poner",,,,175,"dejar,poner"
+pudrirse,*pudrirse,2907,ROT,,174,pudrirse
+dejarponer,"*dejar,poner",998,PUT,,175,"dejar,poner"
 nuevoahora,"*nuevo,ahora",,,,176,"nuevo,ahora"
-pegar,*pegar,,,,177,pegar
+pegar,*pegar,1433,HIT,,177,pegar
 cunado,*cuñado,2314,BROTHER-IN-LAW,,178,cuñado
 hermanamenor,*hermana menor,1761,YOUNGER SISTER,,178,hermana menor
 hermanomenor,*hermano menor,1760,YOUNGER BROTHER,,178,hermano menor
@@ -213,7 +213,7 @@ mandibula,*mandíbula,798,JAW,,184,mandíbula
 abrir,*abrir,1156,OPEN,,186,abrir
 tareche,*tareche,,,,187,tareche
 huevo,*huevo,744,EGG,,199,huevo
-plantadeplatano,*planta de plátano,,,,200,planta de plátano
+plantadeplatano,*planta de plátano,1795,BANANA TREE,,200,planta de plátano
 fruta,*fruta,1507,FRUIT,,200,fruta
 chaquilloarbol,*chaquillo (árbol),,,,200,chaquillo (árbol)
 mani,*maní,2364,PEANUT,,200,maní
@@ -404,7 +404,7 @@ zurcirfrunzar,"*zurcir,frunzar",,,,372,"zurcir,frunzar"
 tirarjalar,"*tirar,jalar",1455,PULL,,372,"tirar,jalar"
 amarraratar,"*amarrar,atar",1917,TIE,,372,"amarrar,atar"
 podrir,*podrir,2907,ROT,,373,podrir
-acostarecharse,"*acostar,echarse",,,,374,"acostar,echarse"
+acostarecharse,"*acostar,echarse",215,LIE DOWN,,374,"acostar,echarse"
 possessivesuffix,*possessive suffix,,,,375,possessive suffix
 mariposa,*mariposa,1791,BUTTERFLY,,376,mariposa
 pezpescado,"*pez,pescado",227,FISH,,377,"pez,pescado"
@@ -417,13 +417,13 @@ sarna,*sarna,,,,383,sarna
 maduraramarillo,"*madurar,amarillo",,,,384,"madurar,amarillo"
 chichilo,*chichilo,,,,385,chicilo
 venirandartirar,"*venir,andar,tirar",,,,386,"venir,andar,tirar"
-llenarllenarse,"*llenar,llenarse",,,,387,"llenar,llenarse"
+llenarllenarse,"*llenar,llenarse",2006,FILL,,387,"llenar,llenarse"
 yacamiave,*yacamí (ave),,,,388,yacamí (ave)
 resbalosoresbalar,"*resbaloso,resbalar",,,,389,"resbaloso,resbalar"
 hongo,*hongo,641,MUSHROOM,,390,hongo
 cortarserruchar,"*cortar,serruchar",,,,391,"cortar,serruchar"
 calientecocinar,"*caliente,cocinar",,,,392,"caliente,cocinar"
-rataraton,"*rata,ratón",,,,393,"rata,ratón"
+rataraton,"*rata,ratón",2139,MUROID (MOUSE OR RAT),,393,"rata,ratón"
 monosilbador,*mono silbador,,,,394,mono silbador
 locativesuffix,*locative suffix,,,,395,locative suffix
 despues,*después,1685,AFTER,,396,después
@@ -456,7 +456,7 @@ troncopierna,"*tronco,pierna",,,,420,"tronco,pierna"
 piernafalda,"*pierna,falda",,,,420,"pierna,falda"
 piernamuslo,"*pierna,muslo",,,,420,"pierna,muslo"
 dar,*dar,1447,GIVE,,421,dar
-detrasatras,"*detrás,atrás",,,,421,"detrás,atrás"
+detrasatras,"*detrás,atrás",1686,BEHIND,,421,"detrás,atrás"
 atrasdespues,"*atrás,después",,,,421,"atrás,después"
 reflexivesuffix,*reflexive suffix,,,,422,reflexive suffix
 una,*uña,1896,FINGERNAIL OR TOENAIL,,423,uña
