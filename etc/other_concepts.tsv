@@ -1,0 +1,3106 @@
+GLOSS	PROTO_ID	PROTO_CONCEPT
+quiero hacer	1	*hacer
+make!	1	*hacer
+decir,hacer,pegar,atacar,picar	1	*hacer
+lo que hace	1	*hacer
+venir a hacer	1	*hacer
+aconsejar,enseñar	1	*hacer
+no está hecho,si no	1	*hacer
+decir,hacer	1	*hacer
+topar,chocar una cosa con otra	1	*cargar
+cárgate	1	*cargar
+jase (haz)	1	*cargar
+cargar,escobar,tocar	1	*cargar
+quijada,cachete,mandíbula	1	*muela
+desquijarrar	1	*muela
+mandar hacer	1	*persuadir
+quedarse,estar,tener	1	*quedarse,*tener,*estar
+apartar,retirar,mudar de lugar	1	*quedarse,*tener,*estar
+andar a quedarse	1	*quedarse,*tener,*estar
+vivienda,lugar,parte ó lugar	1	*quedarse,*tener,*estar
+sentar	1	*quedarse,*tener,*estar
+asiento	1	*quedarse,*tener,*estar
+lindo,bonito,hermoso	1	*quedarse,*tener,*estar
+muy lindo	1	*quedarse,*tener,*estar
+lindo, hermoso	1	*quedarse,*tener,*estar
+seated	1	*quedarse,*tener,*estar
+siéntate	1	*quedarse,*tener,*estar
+sits	1	*quedarse,*tener,*estar
+il y a	1	*quedarse,*tener,*estar
+tener,hay,vivir,sentir,quedar	1	*quedarse,*tener,*estar
+vive bien serio	1	*quedarse,*tener,*estar
+sentar,aterrizar	1	*quedarse,*tener,*estar
+pascana,campamento	1	*quedarse,*tener,*estar
+condición,complexión,zurdo	1	*quedarse,*tener,*estar
+errante	1	*quedarse,*tener,*estar
+guarida	1	*quedarse,*tener,*estar
+matriz	1	*quedarse,*tener,*estar
+estar	1	*quedarse,*tener,*estar
+subir,levantar	1	*quedarse,*tener,*estar
+de paseo	1	*quedarse,*tener,*estar
+sentarse	1	*quedarse,*tener,*estar
+sentado	1	*quedarse,*tener,*estar
+vivir,estar	1	*quedarse,*tener,*estar
+estoy terminando	1	*terminar,*acabar
+acabado	1	*terminar,*acabar
+acabando,cuando se acaba	1	*terminar,*acabar
+contradicción	1	*terminar,*acabar
+contradictor	1	*terminar,*acabar
+Contradecir	1	*terminar,*acabar
+ir a cazar	1	*andar
+caminando,paseando	1	*andar
+están andando	1	*andar
+walk	1	*andar
+cojo	1	*andar
+casi hacer	1	*andar
+errar	1	*andar
+transitivizing suffix	3	*transitivizing suffix
+tal vez,así será,casi lo mismo que a	3	*simple interrogante
+será así,así será	3	*simple interrogante
+la seña de una interrogación	3	*simple interrogante
+lo que,qué?,qui cosa?,algun	3	*qué?
+qué será?	3	*qué?
+qué?,como?	3	*qué?
+qué?,quién?,nada!	3	*qué?
+cosas	3	*cosa
+cualquier cosa	3	*cosa
+quién (trans.)	3	*quién
+qué?,quién?	3	*quién
+con quién?	3	*con qué?
+por qué?	3	*para qué?
+cuyo	3	*de quién
+de quién?	3	*de quién
+quién?	3	*quién
+quién será?	3	*quién
+quienes	3	*quién
+algo	3	*quién
+who?	3	*quién
+cual	3	*quién
+de qué tamaño?	3	*quién
+cuantos días?	3	*quién
+cuantos?	3	*quién
+donde está?	3	*quién
+de donde?	3	*quién
+cuándo?	3	*quién
+cuál?	3	*quién
+cuándo	3	*quién
+cuánto(s)	3	*quién
+por donde	3	*quién
+no	3	*interrogación
+no,no hay	3	*interrogación
+avec qui?	3	*interrogación
+donde	3	*interrogación
+como se dice	3	*interrogación
+qué es esto	3	*interrogación
+qué es eso	3	*interrogación
+que	3	*interrogación
+no hay	3	*interrogación
+impossible	3	*interrogación
+así lo hace	3	*interrogación
+para hacer	3	*interrogación
+abundancia	3	*interrogación
+abundar	3	*interrogación
+a donde?	3	*interrogación
+cómo?	3	*interrogación
+cómo se hace?	3	*interrogación
+cómo está Usted?	3	*interrogación
+dónde está?	3	*interrogación
+espera!	3	*interrogación
+que es esto?	3	*interrogación
+barbasco (bejuco)	4	*barbasco
+resina de paquió	4	*barbasco
+pampa,pajonal	5	*pampa
+grass	5	*pampa
+grassland	5	*pampa
+pampa,paja	5	*pampa
+tetilla	6	*teta
+testes	6	*teta
+leche	6	*teta
+breast	6	*teta
+breasts	6	*teta
+leche,ubre	6	*teta
+chontaloro (palmera)	7	*chontaloro
+árbol,palo	8	*árbol
+espina	8	*árbol
+suchi (pez)	8	*árbol
+manzana silvestre (árbol)	8	*árbol
+gavetillo (árbol)	8	*árbol
+árbol de cacao	8	*árbol
+tree	8	*árbol
+leaf	8	*árbol
+bi (árbol y fruta)	8	*árbol
+clase de árbol	8	*árbol
+rama de yuca	8	*árbol
+bagre (pez)	8	*árbol
+naranjo	8	*árbol
+garrotear	8	*árbol
+callapo	8	*árbol
+coquino	8	*árbol
+quemaquema	8	*árbol
+gaveta	8	*árbol
+árbol,palanca	8	*árbol
+spine	8	*árbol
+hemorragia,flujo	11	*sangre
+disentería	11	*sangre
+salir sangre	11	*sangre
+acusarse	11	*sangre
+blood	11	*sangre
+vena	11	*sangre
+hemorragia	11	*sangre
+ensangrentar	11	*sangre
+exangüe,incruento	11	*sangre
+hemorragio	11	*sangre
+desangrar	11	*sangre
+lengua mala	12	*lengua
+tongue	12	*lengua
+lingua	12	*lengua
+lengua,ley,orden,costumbre,idioma	12	*lengua
+obedecer,complir,hacer caso	12	*lengua
+palador	12	*lengua
+zonzo,opa,mudo	12	*lengua
+mentira,falso,de balde	12	*lengua
+regalar	12	*lengua
+punto de lengua	12	*lengua
+lengua chuta	12	*lengua
+Zunge	12	*lengua
+palo santo (árbol)	13	*palo santo
+palo santo,hormiga de palo santo	13	*palo santo
+palo santo (y hormiga)	13	*palo santo
+mujer vieja	14	*mujer
+woman	14	*mujer
+abuela	14	*mujer
+abuela,suegra	14	*mujer
+old woman	14	*mujer
+obscurar	16	*obscuro
+de noche,en la noche	16	*obscuro
+de mañana	16	*obscuro
+de madrugada	16	*obscuro
+night	16	*obscuro
+oscuro	16	*obscuro
+nublado,obscuro,madrugada	16	*obscuro
+obscuro,de noche	16	*obscuro
+anochecer,oscurecer	16	*obscuro
+sombra	16	*obscuro
+perder,desaparecer	16	*obscuro
+perder su color	16	*obscuro
+eclipse del sol	16	*obscuro
+entenebrear	16	*obscuro
+descolorar	16	*obscuro
+anublar	16	*obscuro
+encapotar	16	*obscuro
+oscurecer	16	*obscuro
+nube	16	*obscuro
+asombro	16	*obscuro
+lobreguez,tinieblas	16	*obscuro
+crecir,agrandar	17	*crecer,agrandar
+grande	17	*crecer,agrandar
+large	17	*crecer,agrandar
+stort hus	17	*crecer,agrandar
+stort	17	*crecer,agrandar
+great	17	*crecer,agrandar
+grande,grueso	17	*crecer,agrandar
+delgado	17	*crecer,agrandar
+sucha (pez)	17	*crecer,agrandar
+shoulder	18	*hombro
+paleta	18	*hombro
+urina (venado)	18	*hombro
+despaldillar	18	*hombro
+barrio,parcialidad	21	*amigo
+amigo,pariente,vecino,paisano	21	*amigo
+enemigo	21	*amigo
+alma,espíritu	21	*amigo
+desalmado	21	*amigo
+consanguíneo	21	*amigo
+barbón (abeja chica)	22	*abeja
+clase de abeja	22	*abeja
+tierra,mundo,suelo	23	*mundo
+abajo	23	*mundo
+llanura	23	*mundo
+mundo,suelo,piso,terreno	23	*mundo
+anta	24	*tapir
+anta,tapir	24	*tapir
+tapir foot (plant sp.)	24	*tapir
+cuñado (hermano de marido)	25	*marido
+cuñada (hermana de marido)	25	*marido
+suegra (madre de marido)	25	*marido
+suegro (padre de marido)	25	*marido
+soltera	25	*marido
+concuñada	25	*marido
+yerno	25	*marido
+casar (refiere a mujeres)	25	*marido
+casamiento,bode	25	*marido
+husband	25	*marido
+my husband	25	*marido
+viuda	25	*marido
+enviudar	25	*marido
+cuñada	25	*marido
+concuñado	25	*marido
+novio	25	*marido
+macho,marido	25	*marido
+casada	25	*marido
+casarse (la mujer)	25	*marido
+sin marido	25	*marido
+casar (mujer)	25	*marido
+man	25	*marido
+tener asco	26	*sucio
+feo	26	*sucio
+feo,sucio	26	*sucio
+limpio	26	*sucio
+contaminación	26	*sucio
+depravación,embrutecer,escombro	26	*sucio
+depravadamente	26	*sucio
+huella	27	*mirar,ver
+ver	27	*mirar,ver
+mirar	27	*mirar,ver
+mirar hacia arriba	27	*mirar,ver
+escuchar,oir	27	*mirar,ver
+see	27	*mirar,ver
+venir,visitar	27	*mirar,ver
+lo que ve	27	*mirar,ver
+despertar,encontrar	27	*mirar,ver
+mirar,encontrar,conocer	27	*mirar,ver
+guia	27	*mostrar
+color,parecido	27	*parecido
+parecido,igual	27	*parecido
+nada,falta	27	*parecido
+se ve	27	*parecido
+es preciso	27	*parecido
+enseñar	27	*saber
+aprender	27	*saber
+sabe	27	*saber
+prudente,sabe	27	*saber
+profesor	27	*saber
+acordarse	27	*saber
+know	27	*saber
+poza	28	*lago
+lake	28	*lago
+encuentro de río	28	*rocío,sereno
+calmado,con paz	28	*rocío,sereno
+silencio	28	*rocío,sereno
+codo,esquina	29	*codo
+elbow	29	*codo
+brazo,brazo de río	29	*brazo
+manco	29	*brazo
+a la derecha,brazo derecho	29	*brazo
+ala,manga de vestida	29	*brazo
+arma	29	*brazo
+wing	29	*brazo
+arm	29	*brazo
+braccio	29	*brazo
+pelo del brazo,vello	29	*brazo
+pulso	29	*brazo
+manga	29	*brazo
+puño,puñete	29	*brazo
+dar puñete	29	*brazo
+maña	29	*brazo
+mañoso	29	*brazo
+alcanzar	29	*brazo
+codo,brazo	29	*brazo
+espalda superior,pulmones	29	*espalda
+back of body	29	*espalda
+shoulder	29	*hombro
+frío,fresco	30	*frío
+hacer frío	30	*frío
+enfriar,refrescar	30	*frío
+refrescar	30	*frío
+friolento	30	*frío
+frescura	30	*frío
+resfriar	30	*frío
+enfriar	30	*frío
+calofrío	30	*frío
+fiebre (chills?)	30	*frío
+cold	30	*frío
+no hace frío	30	*frío
+cielo (donde mora Dios)	31	*cielo
+arriba	31	*cielo
+bien arriba,alto	31	*cielo
+de arriba	31	*cielo
+sky	31	*cielo
+sù	31	*cielo
+giù	31	*cielo
+heaven	31	*cielo
+alzadora	31	*cielo
+noon	31	*cielo
+medio día	31	*cielo
+alcanzar,conseguir	31	*cielo
+sky,heavens	31	*cielo
+grande	31	*cielo
+pasar,ganar,alargar	31	*cielo
+corona,celebro	31	*cielo
+encopetar	31	*cielo
+crecer	31	*largo
+tall	31	*largo
+alto,largo	31	*largo
+corto,juatoco	31	*largo
+estatura	31	*largo
+cielo,arriba	31	*largo
+ajoajo (árbol)	32	*ajoajo
+hombre viejo	33	*abuelo
+su abuelo	33	*abuelo
+chef du village	33	*abuelo
+dieu créateur	33	*abuelo
+antiguos,antecesores	33	*abuelo
+abuelos	33	*abuelo
+abuelo,suegro	33	*abuelo
+sucha colorada (pez)	33	*abuelo
+grandfather	33	*abuelo
+uncle	33	*abuelo
+paquío (arbol grande)	34	*cedro
+un bejuco con papas que se comen	35	*gualusa
+gualusa (tubérculo)	35	*gualusa
+hamaca	36	*colgar
+viver	36	*colgar
+quedar	36	*colgar
+encostar	36	*colgar
+ayudar	36	*colgar
+colgable	36	*colgar
+luna nueva	37	*luna
+moon	37	*luna
+mese	37	*luna
+luna,mes	37	*luna
+novilunio	37	*luna
+impertinente,molesto	38	*desidia
+aburrirse	38	*desidia
+desidioso	38	*desidia
+gorronazo	38	*desidia
+gorrista	38	*desidia
+hilado	39	*hilar
+comprar,pedir	40	*pedir
+estoy pidiendo	40	*pedir
+voy a pedir	40	*pedir
+preguntar	40	*pedir
+pedir,reclamar	40	*pedir
+pedir,suplicar,súplica	40	*pedir
+petición	40	*pedir
+ruego	40	*pedir
+indagar	40	*pedir
+decir	40	*pedir
+conceder,devoción	40	*pedir
+name	41	*nombre
+nom	41	*nombre
+innominado	41	*nombre
+nombrar	41	*nombre
+jochi pintado (aguti)	42	*jochi pintado
+víboro	43	*víbora
+hoja de víbora	43	*víbora
+snake	43	*víbora
+water boa	43	*víbora
+rattlesnake	43	*víbora
+culebra,serpiente,víbora	43	*víbora
+cheperequi (árbol)	43	*víbora
+la flor morado de un árbol	43	*víbora
+grosca,hidra	43	*víbora
+coral	43	*víbora
+nuera	44	*hijo
+sobrina/o (hija/o de hermana de madre o de hermano de padre)	44	*hijo
+hija	44	*hijo
+yerno	44	*hijo
+my daughter/son	44	*hijo
+son	44	*hijo
+daufhter	44	*hijo
+muchacha (chica)	44	*hijo
+alzadora	44	*hijo
+criatura,muchacho	44	*hijo
+muchacho	44	*hijo
+ahijado	44	*hijo
+filial	44	*hijo
+sobrino	44	*hijo
+hijastro	44	*hijo
+paria	44	*hijo
+boy	44	*hijo
+punzón,palo para sembrar	45	*sembrar
+caricari (árbol con espina)	46	*caricari
+jausi	47	*jausi,lagartija
+peni (clase de lagarto)	47	*jausi,lagartija
+lagartija	47	*jausi,lagartija
+salado	48	*sal
+salt	48	*sal
+sin sal	48	*sal
+está con sal	48	*sal
+acomodar,arreglar	49	*acomodar
+adornado,compuesto	49	*acomodar
+componer	49	*acomodar
+entretener	49	*acomodar
+acomodar,limpiar,componer	49	*acomodar
+acomodado	49	*acomodar
+arrojar,vomitar	50	*arrojar
+volcar	50	*arrojar
+tiesto de barro,tostador	51	*tostar
+tostar,freir	51	*tostar
+turbio,agua turbia	52	*ventear
+flato	52	*ventear
+huelgo,eructar	52	*ventear
+mécelo	52	*ventear
+wind	52	*viento
+vento	52	*viento
+sur	52	*viento
+ventarron	52	*viento
+mandar,despachar	53	*traer
+aparejar	53	*traer
+espinaza	54	*espalda
+vena de la hoja del motacú	54	*espalda
+mango,e.g.,cuchillo	54	*espalda
+back	54	*espalda
+riñones	54	*espalda
+hombro	54	*espalda
+clavícula	54	*espalda
+nadar,bracear	54	*nadar
+a nado	54	*nadar
+bañarse	54	*nadar
+cruzar (el río)	54	*nadar
+por encima,montado	55	*encima
+encima,sobre,muy	55	*encima
+demasiado,por de más	55	*encima
+peor,por de más	55	*encima
+engradecer	55	*encima
+enteramente	55	*encima
+externo	55	*encima
+creciente	55	*encima
+enorme	55	*encima
+extraordinario	55	*encima
+intemporie	55	*encima
+tapar	55	*también
+mojar	55	*también
+demasiado,mucho,encima	55	*también
+antes	55	*también
+tambien,nada,aún todavía,aunque,en cuanto	55	*también
+vaciar	55	*también
+velar	55	*también
+encomendar	55	*también
+enjugar	55	*también
+apurarse	55	*también
+defenderse,resistirse	55	*también
+fardo	55	*también
+seguido	55	*también
+enfermer,contagiar	55	*también
+arriba (río arriba)	55	*río arriba
+arriba del río	55	*río arriba
+en haut	55	*río arriba
+above	55	*río arriba
+buzzard	56	*buitre negro
+sucha	56	*buitre negro
+gallinazo	56	*buitre negro
+alegría	57	*feliz,alegre,contento
+alegre,contento	57	*feliz,alegre,contento
+cariño,halago	57	*feliz,alegre,contento
+halago,cariño,halagar	57	*feliz,alegre,contento
+acarícialo	57	*feliz,alegre,contento
+afortunado	57	*feliz,alegre,contento
+contento	57	*feliz,alegre,contento
+está contento	57	*feliz,alegre,contento
+adorar	57	*feliz,alegre,contento
+alegrarse	57	*feliz,alegre,contento
+chistoso	57	*querer
+conseguir,andar atener suerte	57	*querer
+querer,desear,agradar,tener ganas,gustar	57	*querer
+prohibir,no querer	57	*querer
+determinar	57	*querer
+indeterminado	57	*querer
+cosquilloso	57	*querer
+tick	58	*garrapata
+delgado	59	*escarbar
+afinar (con azuela)	59	*escarbar
+ya	60	*viejo
+viejo,antiguo,antes	60	*viejo
+two	61	*dos
+gemelo	61	*dos
+acompañar	61	*dos
+3	61	*dos
+4	61	*dos
+algunos	61	*dos
+jugar	61	*dos
+2	61	*dos
+perezoso	62	*oso hormiguero,oso perezoso
+oso hormiguero	62	*oso hormiguero,oso perezoso
+oso	62	*oso hormiguero,oso perezoso
+liendre	63	*piojo
+lice	63	*piojo
+louse	63	*piojo
+despiojar	63	*piojo
+expulgar	63	*piojo
+piojera	63	*piojo
+canoa,cedro	65	*balsa
+espalda de la canoa	65	*balsa
+cáscara del cedro	65	*balsa
+popa de la canoa	65	*balsa
+canoa (juguete)	65	*balsa
+paloma cuquisa	66	*cuquisa
+cuquisa	66	*cuquisa
+chile,chili pepper	67	*ají
+triste	68	*pesado
+muy pesado	68	*pesado
+no pesado	68	*pesado
+bat	69	*murciélago
+grande murciélago	69	*murciélago
+pequeño murciélago	69	*murciélago
+peto	70	*avispo,peto
+clase de víbora	70	*avispo,peto
+avispa	70	*avispo,peto
+endulcer	71	*dulce
+dolce	71	*dulce
+endulzer	71	*dulce
+cuero,piel,cáscara,corteza	72	*piel
+skin	72	*piel
+bark	72	*piel
+piel,cutis,cuero	72	*piel
+descascarar	72	*piel
+spider monkey	74	*marimono
+mono maquisapa	74	*marimono
+mentira	75	*vergüenza
+mentir	75	*vergüenza
+mentiroso	75	*vergüenza
+tener vergüenza	75	*vergüenza
+avergonzado	75	*vergüenza
+vergonzoso	75	*vergüenza
+está enfadado	75	*vergüenza
+suciedad,nubo	76	*sucio
+nublado,sucio	76	*sucio
+mancha	76	*sucio
+manchar	76	*sucio
+limpiada	76	*sucio
+limpia,limpieza	76	*sucio
+pureza	76	*sucio
+limpiar	76	*sucio
+nube	76	*sucio
+escoba	76	*basura
+delante de,al frente	77	*par
+sin par	77	*par
+recto	77	*par
+paralelo	77	*par
+correcto,la verdad	77	*par
+canilla	77	*par
+cara	77	*par
+recién,primera vez	77	*par
+así como,parece	77	*par
+carilucio	77	*par
+carinegro	77	*par
+falso	77	*cara
+ambos lados	77	*cara
+serio,cara brava	77	*cara
+sien	77	*cara
+a un lado	77	*cara
+un lado,otro lado	77	*cara
+acompañar	77	*cara
+compañero	77	*cara
+tuerto	77	*cara
+face	77	*cara
+faccia	77	*cara
+eyebrow	77	*cara
+pluma	77	*cara
+pozo en el río,remanso	78	*abajo
+tropezar	78	*abajo
+bajada,puerto	78	*bajar
+inclínate,encúrbate	78	*bajar
+sit down	78	*bajar
+sits	78	*bajar
+puerto	78	*bajar
+sentar,aterrizar	78	*bajar
+sobrino/a (hijo/a de hermano de madre)	79	*sobrino/a
+sobrina	79	*sobrino/a
+sobrino	79	*sobrino/a
+melero (animal)	80	*melero
+tucandera (hormiga grande qui pica fuerte)	81	*tucandera
+perdiz del monte	82	*perdiz
+perdiz azul (grande)	82	*perdiz
+bird	82	*perdiz
+uccello	82	*perdiz
+perdiz grande	82	*perdiz
+perotó (árbol)	83	*guayaba (árbol)
+bien risueño	84	*risueño
+partir,reventar	84	*risueño
+gozo,gozoso	84	*risueño
+gozar	84	*risueño
+ansia,ansiar	84	*risueño
+especie de sapo	85	*rana,sapo
+víbora sapo	85	*rana,sapo
+frog	85	*rana,sapo
+víbora (yoperojobobo)	85	*rana,sapo
+pus,materia	86	*pus,materia
+materia,pus	86	*pus,materia
+disentería	86	*pus,materia
+apostema	86	*pus,materia
+pus	86	*pus,materia
+cane	87	*chuchio,charo,caña brava
+caña	87	*chuchio,charo,caña brava
+chuchio,charo	87	*chuchio,charo,caña brava
+caña brava	87	*chuchio,charo,caña brava
+puma (de flecha),floración	88	*floración
+urupé,cedazo hecho de hojas de palma torcidas	88	*floración
+intestinos (toda la tripa)	88	*floración
+mapaju,algodon silvestre (árbol con seda vegetal)	88	*floración
+piña	88	*floración
+afrecha,chala,jachi	88	*floración
+florecer	88	*floración
+hair	88	*floración
+dar guasca,florecer	88	*floración
+atoakaka (una fruta del monte)	88	*floración
+guayaba	88	*floración
+mapajo (árbol)	88	*floración
+jachi	88	*floración
+una fruta	88	*floración
+tutumá,mate	88	*floración
+surco	88	*cabello
+cappelli	88	*cabello
+peludo,velludo	88	*cabello
+cabello,pello	88	*cabello
+empelar	88	*cabello
+quedeja	88	*cabello
+crencha	88	*cabello
+cabello corto	88	*cabello
+mojer	89	*mojar
+mojado	89	*mojar
+rozar,chaquear	89	*mojar
+chilchiar (lloviznar)	89	*mojar
+reír,sonreír	90	*reír
+están enamorados	90	*reír
+sonrisa	90	*reír
+reirse	90	*reír
+asustarse	90	*reír
+feliz	90	*reír
+rire	90	*reír
+orilla,borde,canto	91	*orilla
+alborde del río	91	*orilla
+yo necesito	92	*necesito
+no necesito	92	*necesito
+querer,yo necesito	92	*necesito
+está buscando una cosa que necesita	92	*necesito
+necesidad	92	*necesito
+buscar	92	*necesito
+pié y tobillo,canilla,pié o tronco de un árbol,pata de un animal	93	*pie,pierna
+vuélcalo	93	*pie,pierna
+al ras	93	*pie,pierna
+root	93	*pie,pierna
+pierna	93	*pie,pierna
+entrepiernas	93	*pie,pierna
+raíz	93	*pie,pierna
+raíz (of a tree)	93	*pie,pierna
+seso,médula	94	*cabeza
+seso	94	*cabeza
+almohada	94	*cabeza
+calavera	94	*cabeza
+calvo	94	*cabeza
+rubio	94	*cabeza
+dandruff	94	*cabeza
+unta de tacuara de flecha	95	*punta de flecha hecha de tacuara raspada
+flèche à pointe de caña brava	95	*punta de flecha hecha de tacuara raspada
+tuétano	96	*hueso
+bone	96	*hueso
+hueso,jipurí (nervio principal de la hoja de la palmera totai)	96	*hueso
+muela	98	*diente
+encía	98	*diente
+colmillo	98	*diente
+gancho,horqueta	98	*diente
+con dientes	98	*diente
+punta	98	*diente
+tooth	98	*diente
+teeth	98	*diente
+dente	98	*diente
+sin diente	98	*diente
+dentellar	98	*diente
+dentón	98	*diente
+dentera	98	*diente
+dentado	98	*diente
+endentecer	98	*diente
+sin dientes	98	*diente
+encias	98	*diente
+Uds. (dual/intrans.)	99	*dual suffix
+ellos (dual/intrans.)	99	*dual suffix
+nosotros (dual/incl./intrans.)	99	*dual suffix
+nosotros (dual/excl./intrans.)	99	*dual suffix
+dual suffix for nouns	99	*dual suffix
+nosotros dos	99	*dual suffix
+ambos,ellos dos	99	*dual suffix
+dentrambos	99	*dual suffix
+gritar,gruñir,chillar	100	*gritar
+gritón	100	*gritar
+grito,ahuillido,graznido	100	*gritar
+vivo,sano,chacota,grito,griterio	100	*gritar
+insaludable	100	*gritar
+rojo	100	*gritar
+contender	100	*gritar
+chacotear,sanar	100	*gritar
+curar	100	*gritar
+curar,salvar	100	*gritar
+curandero,salvador	100	*gritar
+zorro	100	*gritar
+disfavor	100	*gritar
+fermentar la chicha	101	*fuerte,agrio
+borracho	101	*fuerte,agrio
+emborracher	101	*fuerte,agrio
+avinegrado	101	*fuerte,agrio
+strong	101	*fuerte,agrio
+agrio	101	*fuerte,agrio
+no agrio	101	*fuerte,agrio
+galápago	102	*pecho
+chest	102	*pecho
+petto	102	*pecho
+vello del pecho	102	*pecho
+poitrine	102	*pecho
+patio	103	*puerta,afuera
+doorway,outside	103	*puerta,afuera
+a fuera	103	*puerta,afuera
+puerta,entrada	103	*puerta,afuera
+abrir	103	*puerta,afuera
+abierto	103	*puerta,afuera
+por afuera	103	*puerta,afuera
+afuera	103	*puerta,afuera
+puerta,abertura	103	*puerta,afuera
+está afuera	103	*puerta,afuera
+salir afuera	103	*puerta,afuera
+puerta	103	*puerta,afuera
+cerrar	103	*puerta,afuera
+cerrable	103	*puerta,afuera
+worm	104	*gusano
+desapolillar	104	*gusano
+gordura	105	*grasa,gordura
+gordo	105	*grasa,gordura
+engordar	105	*grasa,gordura
+grasa,gorduba,aceite	105	*grasa,gordura
+disfrazar	105	*grasa,gordura
+desengrasar	105	*grasa,gordura
+aceite,seto	105	*grasa,gordura
+engordarse	105	*grasa,gordura
+engordar,gordo	105	*grasa,gordura
+fat	105	*grasa,gordura
+probar	106	*lamer
+palador	106	*lamer
+jadear,lamer,gustar	106	*lamer
+disgusto	106	*lamer
+planchar	106	*lamer
+enganchar	107	*gancho
+gancho,palca (para tejer)	107	*gancho
+hacha	107	*gancho
+atravesar	107	*gancho
+desgujar,deszumar	108	*atorar
+estrangular,ahorcar	108	*atorar
+tarde	109	*día,fiesta
+day	109	*día,fiesta
+evening	109	*día,fiesta
+in (this) day	109	*día,fiesta
+fiesta grande	109	*día,fiesta
+día,festividad	109	*día,fiesta
+fiesta	109	*día,fiesta
+temprano en la tarde	109	*día,fiesta
+se hizo tarde	109	*día,fiesta
+la tarde	109	*día,fiesta
+oscuro	109	*día,fiesta
+oscurecer	109	*día,fiesta
+afternoon	109	*día,fiesta
+techar	110	*tejer
+bien tejido	110	*tejer
+ladrón	111	*robar
+robado,lisiado,herido	111	*robar
+steak	111	*robar
+defraudar	111	*robar
+hurtable	111	*robar
+rob	111	*robar
+thief	111	*robar
+marayaú (palmera)	112	*palmera
+clase de palmera	112	*palmera
+palmiche	112	*palmera
+jejene,marihuí	113	*marihuí
+nigua	113	*marihuí
+secretamente,callado	114	*excusar
+cuidar,espiar	114	*excusar
+excusa,excusar,fingir	114	*excusar
+fingido	114	*excusar
+excusable	114	*excusar
+fingidamente	114	*excusar
+rincon (de cases)	115	*grano
+codo,esquina	115	*grano
+escamas	115	*grano
+codo	115	*grano
+ingle	115	*esquina
+aguja	115	*esquina
+esquina,rincón,muslo	115	*esquina
+cuadro	115	*esquina
+semilla	115	*esquina
+mordidos por gusanos	116	*boro,gusano
+engusanarse	116	*boro,gusano
+gusanera	116	*boro,gusano
+boro	116	*boro,gusano
+carachupa	116	*boro,gusano
+gusano	116	*boro,gusano
+víbora tatú	117	*tatú
+pejichi	117	*tatú
+armadillo	117	*tatú
+quince kilos (clase de tatú)	117	*tatú
+clase de víbora	117	*tatú
+vejiga,natatorio,hipo	118	*hipo
+tener hijo	118	*hipo
+seno,bajo vientre	118	*hipo
+tener hipo	118	*hipo
+hiccough	118	*hipo
+mordido,mordedura	119	*morder
+vinegrera	119	*morder
+ensartar en un palo	119	*morder
+hay que ensartar	119	*morder
+tengo vinegrera	119	*morder
+hace mucho tiempo	121	*cuando,harto
+tardarse	121	*cuando,harto
+cuando	121	*cuando,harto
+tardar mucho	121	*cuando,harto
+harto	121	*cuando,harto
+estada	121	*cuando,harto
+mirar para arriba	122	*subir
+subida	122	*subir
+enseñar	122	*subir
+aprender	122	*subir
+alzar	122	*subir
+resurrected	122	*subir
+subir,arribar	122	*subir
+levantarse	122	*subir
+arribar,subir	122	*subir
+subir,levantar	122	*subir
+levantar	122	*subir
+levantarse (de pié)	122	*subir
+mango,cabo	123	*aro
+garganta	124	*voz
+voz,grito	124	*voz
+palabra,idioma	124	*voz
+cantar	124	*voz
+conversaron	124	*voz
+profesor	124	*voz
+enseñar	124	*voz
+lengua,idioma	124	*voz
+andar encontrar	125	*encontrar
+lo encontró	125	*encontrar
+encuentro	125	*encontrar
+encuentro de un río	125	*encontrar
+ombligo,especie de ozo muy chico	126	*ombligo
+clase de animal	126	*ombligo
+assertive particle	127	*adjectivizing suffix
+palito (como pata de mesa o silla),palca para tejar,cabo,mango	128	*palo
+escalera de balsa	128	*palo
+gancho,garfio,muesca	128	*palo
+dardo	128	*palo
+rodilla	128	*palo
+sacar palo para pescar	128	*palo
+ensalmar,hunada,huso	128	*palo
+cadera	128	*palo
+espalda de la canoe	128	*palo
+ralo,no tupido	129	*caer
+hacer caer	129	*caer
+destechar	129	*caer
+calva,encalvecer	129	*caer
+calvo	129	*caer
+vomitar,arrojar,empachar	129	*caer
+tábano negro	130	*tábano
+tábano grande	130	*tábano
+cuerno,asta,espolón,garrón	131	*cuerno
+rodilla	131	*cuerno
+corneta (vaca)	131	*cuerno
+griso (pez)	131	*cuerno
+espolón	131	*cuerno
+peta (de agua)	132	*tortuga,peta
+peta	132	*tortuga,peta
+peta seca	132	*tortuga,peta
+tortuga grande	132	*tortuga,peta
+turtle	132	*tortuga,peta
+tortoise	132	*tortuga,peta
+peta del monte	132	*tortuga,peta
+año (time of turtles)	132	*tortuga,peta
+tortuga de tierra)	132	*tortuga,peta
+ardilla,masi	133	*ardilla
+raspar (con cualquier instrumento sin filo),pelar	134	*raspar
+peluquear	134	*raspar
+hombrecito	135	hombre
+boy	135	hombre
+man	135	hombre
+young	135	hombre
+people	135	hombre
+body,people	135	hombre
+son	135	hombre
+hombre,varón,macho	135	hombre
+marimacho	135	hombre
+hombre viejo	135	hombre
+hombrón	135	hombre
+mosquito,zancudo	137	*mosquito
+muchos mosquitos	137	*mosquito
+zancudo	137	*mosquito
+trail	138	*camino
+strada	138	*camino
+calle	138	*camino
+en el camino	138	*camino
+vena	138	*camino
+hostigar	138	*camino
+rayar	138	*camino
+pariente,hermano	139	*pariente
+mucho,harto,tiene hermanos,bandada	139	*pariente
+hermana mayor (entre mujeres)	139	*pariente
+cuñado (marido de hermana)	139	*pariente
+much	139	*pariente
+older sister	139	*pariente
+parents	139	*pariente
+brother	139	*pariente
+sister	139	*pariente
+campañero	139	*pariente
+todo,completo	139	*pariente
+no es todo	139	*pariente
+todas partes,todo el mundo	139	*pariente
+igual	139	*pariente
+vecino,paisano	139	*pariente
+compañero	139	*pariente
+my brother	139	*pariente
+adentro	140	*hondo,profundo
+por adentro	140	*hondo,profundo
+mitad	140	*hondo,profundo
+en el medio	140	*hondo,profundo
+medir la profundidad	140	*hondo,profundo
+irse a lo profundo	140	*hondo,profundo
+profundo,hondo	140	*hondo,profundo
+pando,poco profundo	140	*hondo,profundo
+fondear	140	*hondo,profundo
+fondeo,hondura	140	*hondo,profundo
+panza	140	*hondo,profundo
+hongo	140	*hondo,profundo
+envolver	140	*hondo,profundo
+bajar (por el río)	140	*hondo,profundo
+desbarrancar	140	*hondo,profundo
+enviar	140	*hondo,profundo
+apartir	140	*hondo,profundo
+tapar	140	*hondo,profundo
+toadstoll	140	*hondo,profundo
+medula,entrañas,centro	140	*entrar,centro
+embudo,echador	140	*entrar,centro
+hueco	140	*entrar,centro
+entresacar	140	*entrar,centro
+entrar	140	*entrar,centro
+hundirse	140	*entrar,centro
+volcar	140	*entrar,centro
+meter	140	*entrar,centro
+entre medio	140	*adentro,en
+empuñar	140	*adentro,en
+entre	140	*adentro,en
+adentro de entre,en el centro	140	*adentro,en
+of thy womb	140	*adentro,en
+adentro del agua	140	*adentro,en
+interno	140	*adentro,en
+en la casa	140	*adentro,en
+espíritu	140	*adentro,en
+costillas	140	*adentro,en
+seso	140	*adentro,en
+llenar	140	*adentro,en
+tapar (encima)	140	*envolver
+cosa (como trapo) para envolver	140	*envolver
+retobo	140	*envolver
+envolver,liar	140	*envolver
+liar para asar	140	*envolver
+paquete	140	*envolver
+acomodar	140	*envolver
+serpentear	141	*cascabel
+revés	141	*cascabel
+yema	142	*racimo
+cocinar,preparar,espesar	142	*racimo
+caldo,comido	142	*racimo
+turbio,espeso	142	*racimo
+ralo	142	*racimo
+coagular	142	*racimo
+piedra de brujo,poder de brujería	143	*brujo,dios
+dio	143	*brujo,dios
+dios	143	*brujo,dios
+brujo,curandero	143	*brujo,dios
+moler	144	*moler,tocar
+piedra de moler	144	*moler,tocar
+tocar,sonar (instrumento)	144	*moler,tocar
+música,puntear	144	*moler,tocar
+horcón,poste	144	*moler,tocar
+venado,huasa	145	*venado
+venado de pajonal	145	*venado
+hormiga colorada larga, muy venenosa	145	*venado
+deer	145	*venado
+venado,huaso del monte	145	*venado
+león leopardo	145	*venado
+ciervo	145	*venado
+león	145	*venado
+venado,ciervo	145	*venado
+venado rojo	145	*venado
+venado blanco	145	*venado
+venado negro	145	*venado
+hormiga hedionda	146	*excremento
+hormiga escarabajo	146	*excremento
+panza,barriga grande	146	*excremento
+excremento,excretar,mierda,coagada,cagar	146	*excremento
+cagadero	146	*excremento
+extreñir	146	*excremento
+intestino	146	*excremento
+traer	147	*llevar
+aparecer	147	*llevar
+mono lucashi	148	*mono manechi
+howler monkey	148	*mono manechi
+manechi (mono aullador)	148	*mono manechi
+mono lucashi,mono león	148	*mono manechi
+erereú (abeja)	148	*mono manechi
+manechi	148	*mono manechi
+mono coto	148	*mono manechi
+yes	150	*sí
+esta	150	*sí
+sí está bien	150	*sí
+de veras,cierto	150	*sí
+I (intr.)	151	*1P
+I (tr.)	151	*1P
+yo solo	151	*1P
+conmigo	151	*1P
+I	151	*1P
+yo solo,yo mismo	151	*1P
+hacía mí	151	*1P
+nosotros dos	151	*1P
+yo	151	*1P
+jaguar	152	*tigre
+tigre (jaguar)	152	*tigre
+tigrecillo	152	*tigre
+clase de víbora	152	*tigre
+garduña	152	*tigre
+tigre pintado	152	*tigre
+tigre rojo	152	*tigre
+curar	154	*remedio
+aguantar	154	*remedio
+sufrir	154	*remedio
+sufrible	154	*remedio
+exasperar	154	*remedio
+compunción	154	*remedio
+espina	155	*puerco espín
+limar	155	*puerco espín
+erizar	155	*puerco espín
+sacar (cuero o cáscara)	155	*puerco espín
+rasparse	155	*puerco espín
+afilar	155	*puerco espín
+scratch oneself	155	*puerco espín
+escuchar,oír	156	*oreja
+sordo	156	*oreja
+bulla	156	*oreja
+ear	156	*oreja
+oído	156	*oreja
+ensordecer	156	*oreja
+conejo	156	*oreja
+orejas,oído	156	*oreja
+oír	156	*oreja
+to hear	156	*oreja
+abracer	157	*cariño
+criatura de pechos	157	*cariño
+caricia,cariño	157	*cariño
+cariñoso	157	*cariño
+encariñar	157	*cariño
+diablo	158	*diablo,zorro
+demonio	158	*diablo,zorro
+infierno	158	*diablo,zorro
+máscara	158	*diablo,zorro
+condenar	158	*diablo,zorro
+zorro	158	*diablo,zorro
+adulterar	158	*diablo,zorro
+adivinar	158	*diablo,zorro
+pensar	158	*diablo,zorro
+vivo,sano,remedio	159	*vivo
+vivió,por,resucitó	159	*vivo
+resucitar	159	*vivo
+salvar,escapar	159	*vivo
+está despierto	159	*vivo
+los bichos,los vivos	159	*vivo
+living	159	*vivo
+the living (as opossed to the dead)	159	*vivo
+botado	159	*vivo
+botar,echar	159	*vivo
+crudo,pando	159	*vivo
+crudo,vivo despierto	159	*vivo
+resolana	160	*sol
+oriente	160	*sol
+poniente	160	*sol
+asolear	160	*sol
+buen tiempo,escampar	160	*sol
+sun	160	*sol
+sole	160	*sol
+oeste,poniente	160	*sol
+eclipse del sol	160	*sol
+donde sale el sol	160	*sol
+año	160	*sol
+reloj	160	*sol
+chicha	161	*tomar,beber
+tomar	161	*tomar,beber
+vasija para tomar	161	*tomar,beber
+tomador,borrachón	161	*tomar,beber
+dar de beber	161	*tomar,beber
+probar (cosa líquida)	161	*tomar,beber
+quiero beber,tengo sed	161	*tomar,beber
+corn drink	161	*tomar,beber
+drink	161	*tomar,beber
+to drink	161	*tomar,beber
+bebida	161	*tomar,beber
+tiene sed,sin tomar	161	*tomar,beber
+oloroso,olor agradable	161	*tomar,beber
+tomar,chupar	161	*tomar,beber
+tomar,chupar,beber	161	*tomar,beber
+bebedor	161	*tomar,beber
+bebible	161	*tomar,beber
+ant	163	*hormiga
+hormiguero	163	*hormiga
+hormiga negra	163	*hormiga
+bebedor	164	*consumir
+cimer,morder,picar	164	*consumir
+crujer	164	*consumir
+fumar	164	*consumir
+tragar	164	*consumir
+cepillar	164	*consumir
+comilón	164	*consumir
+aserrar	164	*consumir
+comida	164	*consumir
+hoja,pluma	165	*hoja,pelo,pluma
+chamuscar	165	*hoja,pelo,pluma
+desplumar	165	*hoja,pelo,pluma
+yerba de semilla como la de mostaza	165	*hoja,pelo,pluma
+trasquilar,cortar el pelo	165	*hoja,pelo,pluma
+feathers	165	*hoja,pelo,pluma
+cola	165	*hoja,pelo,pluma
+largar	165	*hoja,pelo,pluma
+descolar	165	*hoja,pelo,pluma
+pelo,vellos	165	*hoja,pelo,pluma
+doblar (las hojas)	165	*hoja,pelo,pluma
+calvo	165	*hoja,pelo,pluma
+perro	165	*hoja,pelo,pluma
+hoja	165	*hoja,pelo,pluma
+hoja de árbol	165	*hoja,pelo,pluma
+hoja de palmiche	165	*hoja,pelo,pluma
+hoja de llarina	165	*hoja,pelo,pluma
+hacer agarrar	166	*agarrar
+cuidado	166	*agarrar
+agarrado	166	*agarrar
+coger,salvar,sostener,agarrar	166	*agarrar
+recibir,aceptar	166	*agarrar
+asa	166	*agarrar
+completar,finalizar	166	*agarrar
+agarrar,recibir	166	*agarrar
+apretar	166	*agarrar
+encender (la lanterna)	166	*agarrar
+estrujar	166	*agarrar
+arrugar	166	*agarrar
+soltar	166	*agarrar
+atajar	166	*agarrar
+exprimir	166	*agarrar
+recibir	166	*agarrar
+empujar	166	*agarrar
+japutamu (insecto)	167	*japutamu
+collar tejido con chaquiras	168	*collar
+collar,chaquira,abalorio	168	*collar
+urupé (cedazo hecha de palma)	169	*urupé (cedazo)
+venta	170	*vender
+volver a vender	170	*vender
+mujer desenvuelta, que se vende	170	*vender
+granoso	171	*desgranar
+tail	172	*cola
+perro	172	*cola
+hedionda,podrido	174	*pudrirse
+olor mal,hediondez	174	*pudrirse
+stench	174	*pudrirse
+podrido	174	*pudrirse
+hediondo	174	*pudrirse
+no es hediondo	174	*pudrirse
+heder	174	*pudrirse
+no se pudre	174	*pudrirse
+sacar afuera	175	*dejar,poner
+apartar	175	*dejar,poner
+meter adentro	175	*dejar,poner
+guardar	175	*dejar,poner
+dejar	175	*dejar,poner
+poner,dejar,servir	175	*dejar,poner
+ponerse	175	*dejar,poner
+bájalo,apéalo	175	*dejar,poner
+nuevo	176	*nuevo,ahora
+renovar	176	*nuevo,ahora
+ahora,nuevo	176	*nuevo,ahora
+hoy día	176	*nuevo,ahora
+ahorita	176	*nuevo,ahora
+desde hoy	176	*nuevo,ahora
+no es nuevo	176	*nuevo,ahora
+pegar,dar guasco	177	*pegar
+matar (pegando)	177	*pegar
+ha de pegar,golpear ó azotear	177	*pegar
+pelear	177	*pegar
+pelea	177	*pegar
+camenazar	177	*pegar
+compaderse,perdonar	177	*pegar
+impedir,pobre,pena,trabajo,miseria	177	*pegar
+forgive	177	*pegar
+matar	177	*pegar
+matador	177	*pegar
+cuñado (marido de hermana, hombres dicen)	178	*cuñado
+soltero	178	*cuñado
+viudo	178	*cuñado
+hermana menor (entre mujeres)	178	*hermana menor
+cuñado (marido de hermana menor)	178	*hermana menor
+younger sister	178	*hermana menor
+hermana	178	*hermana menor
+cuñada	178	*hermana menor
+hermano menor (entre hermanos)	178	*hermano menor
+cuñada (esposa de hermano menor)	178	*hermano menor
+hermano	178	*hermano menor
+barbasco	183	*barbasco
+jaw	184	*mandíbula
+chin	184	*mandíbula
+raspar (con cualq. instrumento filo)	185	*raspar
+arañar	185	*raspar
+raspador,rallador	185	*raspar
+arañado	185	*raspar
+raspar (con la uña)	185	*raspar
+frotar	185	*raspar
+filo	185	*raspar
+rasguñar,arañar	185	*raspar
+abrir (el libro)	186	*abrir
+tareche (loro)	187	*tareche
+loro	187	*tareche
+derivative suffix with reference to body parts	198	*derivative suffix with reference to body parts
+poner huevo	199	*huevo
+yemo de huevo	199	*huevo
+clara de huevo	199	*huevo
+testes	199	*huevo
+egg	199	*huevo
+huevo de peto	199	*huevo
+camote	200	*planta de plátano
+patujú (planta con hoja como de plátano)	200	*planta de plátano
+platanillo	200	*planta de plátano
+achachairú (fruta)	200	*planta de plátano
+papa redondo	200	*planta de plátano
+cogollo de palmeras	200	*planta de plátano
+plátano	200	*planta de plátano
+planta del plátano	200	*planta de plátano
+fruta,semilla	200	*fruta
+planta que tiene papas	200	*fruta
+fruit,seed	200	*fruta
+semilla,fruta,pepita	200	*fruta
+frutar,dar fruta	200	*fruta
+chonta (palmera)	200	*fruta
+horcón de chonta	200	*fruta
+fruta del motacú	200	*fruta
+coquino	200	*fruta
+árbol para hacer limón, limón (de carretín)	200	*chaquillo (árbol)
+piñón (árbol)	200	*maní
+pitón (planta)	200	*maní
+sumuqué (palmera)	200	*zumaqui (árbol)
+costillo de casa (donde amarran las hojas)	201	*costillo de casa
+los dos, costilla (de casa)	201	*costillo de casa
+castigar,azotar,chicotear,dar guasca	201	*costillo de casa
+azote	201	*costillo de casa
+palos para una casa	201	*costillo de casa
+moler (la caña)	201	*costillo de casa
+moler	201	*costillo de casa
+azotarse	201	*costillo de casa
+costillares (palos)	201	*costillo de casa
+rollado	202	*roll up
+techo,cabellete	203	*techo
+encima	203	*techo
+nada más,ya bastante	204	*nada más
+último	204	*nada más
+así,no más	204	*nada más
+por eso	204	*nada más
+así	204	*nada más
+agitarse,sofocarse	205	*descansar
+agitado	205	*descansar
+descansar,reposar	205	*descansar
+palpitar,aspirar	205	*descansar
+aire,vapor,cansado,hálito,regüeldo	205	*descansar
+agitación,boquear,jadear,respiración,vida,vivir,vivo	205	*descansar
+infatigable	205	*descansar
+fatiga,fatigar	205	*descansar
+pulso	205	*descansar
+mentira,falso	205	*descansar
+cocinar	206	*comida
+garganta	207	*pozo
+narices	207	*pozo
+pozo,hueco,agujero,cueva,pauroi	207	*pozo
+agujerear	207	*pozo
+empozar	207	*pozo
+manga	207	*pozo
+oído	207	*pozo
+cueva,nido	207	*pozo
+noria	207	*pozo
+pozo en la tierra	207	*pozo
+pozo en el agua	207	*pozo
+paraba (loro)	208	*paraba
+paraba (guacamayo)	208	*paraba
+tarechi (loro)	208	*paraba
+paraba (ave)	208	*paraba
+paraba (colorado)	208	*paraba
+parrot	208	*paraba
+nominalizing suffix \lo que _\	209	*agent nominalizer suffix
+obedecer	210	*creer
+creencia,credulidad	210	*creer
+intriga,fementido,incredulidad	210	*creer
+será	211	*hoy día,ahora
+ahora mismo	211	*hoy día,ahora
+today	211	*hoy día,ahora
+this day	211	*hoy día,ahora
+ahora	211	*hoy día,ahora
+to cry	212	*gritar
+gritar,aullar,cantar el gallo	212	*gritar
+primer canto del gallo	212	*gritar
+gritón	212	*gritar
+graznar	212	*gritar
+sacar	213	*sacar,comprar
+casarse	213	*sacar,comprar
+recibir	213	*sacar,comprar
+alzar	213	*sacar,comprar
+sacar (agua)	213	*sacar,comprar
+comprar,sacar	213	*sacar,comprar
+casrse,comprar	213	*sacar,comprar
+descascarar	213	*sacar,comprar
+squash	214	*zapayo,joco
+joco,calabaza	214	*zapayo,joco
+joco	214	*zapayo,joco
+haz,jase	215	*haz
+haz,agavillar,fajina,gavilla,manojo	215	*haz
+frente	216	*traer
+estirar (el arco)	216	*traer
+tener hijo	216	*traer
+pescar	216	*traer
+alzar	216	*traer
+jalar	216	*traer
+apretar	216	*traer
+monte,selva	218	*monte
+diablo (animal)	218	*monte
+pachiuba	219	*pachiuba (palmera)
+tío por madre (hermano de madre)	220	*tío
+tía (esposa de tío)	220	*tío
+esposa del tío	220	*tío
+hermana mayor	220	*tío
+campanillo	221	*campanillo (wild turkey)
+vivienda,lugar	222	*pueblo
+town,village	222	*pueblo
+regaliz,raíz dulce	223	*bejuco
+yerba de bejuco	223	*bejuco
+bejucal	223	*bejuco
+corona de espina	223	*bejuco
+fruta de bejuco del monte	223	*bejuco
+camote	223	*bejuco
+bejuco,ombligo	223	*bejuco
+soga	223	*bejuco
+surubí (pez)	223	*bejuco
+arroyo	223	*bejuco
+víbora loro	224	*loro
+jaguar	225	*tigrecillo
+tejón	225	*tigrecillo
+canoso,motacú bien maduro	226	*canoso
+cano,canoso	226	*canoso
+podrido	226	*canoso
+nuca	226	*canoso
+encanecer	226	*canoso
+bien maduro	226	*canoso
+masrcar	226	*canoso
+acullicar,coquar (mascar coca)	226	*canoso
+volar	227	*ir
+me voy	227	*ir
+se están yendo	227	*ir
+tropezar	227	*ir
+vamos	227	*ir
+salir,nacer	227	*ir
+poner huevo	227	*ir
+de paseo	227	*ir
+run	227	*ir
+madrastra,madrina,patrona	228	*madre
+tía por madre (hermana de madre)	228	*madre
+my mother	228	*madre
+mother	228	*madre
+mamá	228	*madre
+tía	228	*madre
+madrastra	228	*madre
+tibio,medio caliente	229	*caliente
+calientar	229	*caliente
+claro,transparente,brilloso	229	*claro
+chiaro	229	*claro
+hervir,freir	229	*freir
+chicharrón,freir	229	*freir
+frito	229	*freir
+fuego,tizón,brasa	229	*leña
+abeja leña (su picada es como fuego)	229	*leña
+haz arder el fuego	229	*leña
+fogata	229	*leña
+atiza el fuego	229	*leña
+enciende el fuego	229	*leña
+en el fuego	229	*leña
+firewood	229	*leña
+fire	229	*leña
+fuoco	229	*leña
+fuego	229	*leña
+wood	229	*leña
+fuego,leña	229	*leña
+brasas	229	*leña
+ceniza	229	*leña
+venteador	229	*leña
+fuego,tizón,leña	229	*leña
+kindling wood	229	*leña
+bois (chonta) de la flèche	229	*leña
+chamuscar	229	*asar
+quemarse	229	*asar
+asado (en chapapa)	229	*asar
+asar,asar en brasas	229	*asar
+pechuga	230	*pecho
+cedro	231	*canoa
+canoe	231	*canoa
+chalupa	231	*canoa
+bostezar	232	*boca
+besar	232	*boca
+ordenar,mandar	232	*boca
+achacar,imputar	232	*boca
+un bocado,un trago,una palabra,una boca	232	*boca
+tapar (cántaro ó botella)	232	*boca
+mouth	232	*boca
+bocca	232	*boca
+labbro	232	*boca
+boca,ribera	232	*boca
+labio	232	*boca
+dicho,cuento	232	*boca
+corregir	232	*boca
+orillar	232	*boca
+embozar	232	*boca
+labios	232	*boca
+crecer la barba	232	*boca
+picaflor (ave),colibrí	233	*picaflor
+hummingbird	233	*picaflor
+gavetillo (árbol)	233	*picaflor
+clase de picaflor	233	*picaflor
+jefe,señor	235	*jefe,juez
+juez	235	*jefe,juez
+fruta de cacao	236	*chocolate
+árbol de cacao	236	*chocolate
+chocolatillo (árbol)	236	*chocolate
+chocolatal	236	*chocolate
+cacao	236	*chocolate
+rama de yuca	237	*yuca
+chivé	237	*yuca
+yucal	237	*yuca
+Mandioca	237	*yuca
+almidón de yuca	237	*yuca
+espiar,asomarse	238	*asomar
+averiguar,exploración	238	*asomar
+inaveriguable	238	*asomar
+convidar	238	*asomar
+filoso	239	*afilado
+muto (sin filo)	239	*afilado
+hacer punta	239	*afilado
+delgado (como papel o tela)	239	*delgado
+possessive prefix	241	*possessive affix
+londra,lobo	242	*nutria
+otter	242	*nutria
+lobo (nutria)	242	*nutria
+barba,bigote	243	*barba
+saliva	243	*barba
+labio,orilla	243	*barba
+bigote	243	*barba
+escupar	243	*barba
+beard	243	*barba
+berad	243	*barba
+mentón	243	*barba
+la barba	243	*barba
+salivar	243	*barba
+cara	243	*barba
+barba	243	*barba
+escoba	243	*barba
+pelo de la barba	243	*barba
+conversar,charlar	243	*avisar
+avisar,hacer señas	243	*avisar
+decir,avisar,predicar,invitar,contar,señalar	243	*avisar
+barranco,costado	243	*barranco
+barranco de tierra	243	*barranco
+primero,adelante,antes	244	*primero
+tumbar,hachear	245	*tumbar
+pegar,castigar	245	*tumbar
+Río Beni,río	246	*río
+pintado,mezclado,pinta como la del taitetú	247	*pintado
+rayado,pintado	247	*pintado
+hacer viento	248	*viento
+ventarrón	248	*viento
+correntoso	248	*viento
+que huele a pesado,quiabó	249	*quiabó
+queabó (mal odor)	249	*quiabó
+con espinas,espinudo	250	*espinas
+arista	250	*espinas
+aguja	250	*espinas
+espiga	250	*espinas
+punta	250	*espinas
+pene,miembro del hombre	251	*pene
+regar	251	*pene
+gonorrea	251	*pene
+espurriar	251	*pene
+glándula	251	*pene
+gotear	251	*pene
+cuidante,para cuidar	252	*cuidar
+mujer que ayuda a los curanderos	252	*cuidar
+cuidante	252	*cuidar
+limpiar	252	*cuidar
+limpiador	252	*cuidar
+llegar	253	*salir,llegar
+partera	253	*salir,llegar
+from which sprang	253	*salir,llegar
+salir,llegar,parir	253	*salir,llegar
+donde sale el sol	253	*salir,llegar
+sacar (agua)	253	*salir,llegar
+nacer	253	*salir,llegar
+nacido,paride	253	*salir,llegar
+entero	254	*cuerpo
+verdad	254	*cuerpo
+corpo	254	*cuerpo
+hombre,gente,santo,cuerpo	254	*cuerpo
+cuerudo,no siente nada	254	*cuerpo
+cosquilloso	254	*cuerpo
+homicida	254	*cuerpo
+abajo,debajo	255	*abajo
+por abajo	255	*abajo
+giù	255	*abajo
+morir	255	*abajo
+la muerte	255	*abajo
+muerrto	255	*abajo
+tumba	255	*abajo
+muerto,finado,difunto	255	*abajo
+esqueleto	255	*abajo
+viuda	255	*abajo
+mortal	255	*abajo
+hospital	255	*abajo
+panteón	255	*abajo
+sano,salud	255	*abajo
+sofocar	255	*abajo
+enfermo	255	*abajo
+he allí	255	*abajo
+ahí,está	255	*abajo
+abajo (dirección en que corre los ríos)	255	*abajo
+este (al lado de abajo)	255	*abajo
+hacia abajo	255	*abajo
+para abajo	255	*abajo
+bajo vientre	256	*vientre
+preñada	256	*vientre
+corazón,estómago	256	*vientre
+concebir,quedar embarazada la mujer	256	*vientre
+grueso (en derredor, como hilo)	256	*vientre
+grueso (en derredor como hilo, bejuco)	256	*vientre
+heart	256	*vientre
+cuore	256	*vientre
+corazón	256	*vientre
+estómago	256	*vientre
+cintura	256	*vientre
+panza	256	*vientre
+achiote,urucú	258	*achiote
+víbora coral	258	*achiote
+clase de víbora de color rojo	258	*achiote
+castigo de Dios,cualquier sufrimiento	259	*castigar
+castigo,penitencia	259	*castigar
+bravo	259	*castigar
+ponerse bravo	259	*castigar
+martin pescador	261	*martin pescador (ave)
+bolacha,plancha,resina de goma	262	*resina
+va a traer goma	262	*resina
+resina de paquió	262	*resina
+gomosidad	262	*resina
+leche,resina	262	*resina
+resina de solimán	262	*resina
+goma	262	*resina
+bibosi	263	*bibosi (árbol)
+nido maduro del turiro de tierra	264	*cascajo
+cascajo,piedra de moler,cachuela,macanique,ripio	264	*cascajo
+guerra	265	*guerra,enemigo
+bárbaro	265	*guerra,enemigo
+plátano chama	265	*guerra,enemigo
+enemigo	265	*guerra,enemigo
+adversario,guerrear,guerra	265	*guerra,enemigo
+guerreador	265	*guerra,enemigo
+en la orilla del río	266	*orilla,banda
+banda	266	*orilla,banda
+aquella banda	266	*orilla,banda
+por/in aquella banda	266	*orilla,banda
+piranha	267	*palometa (pez)
+palometa	267	*palometa (pez)
+saya, palma de cuyo fruto se saca un aceite muy bueno	268	*saya,majo
+pitauá (palmera)	268	*saya,majo
+majo (palmera)	268	*saya,majo
+majosal,majutú	268	*saya,majo
+majillo	268	*majillo (palmera)
+un árbol harinoso	271	*árbol de siringa
+matar	272	*morir
+solimán (árbol venenoso)	272	*morir
+cadáver	272	*morir
+muerto	272	*morir
+ha de morir	272	*morir
+inmortal,que no sabe morir	272	*morir
+el que ayuda a matar	272	*morir
+kill	272	*morir
+the dead (pl)	272	*morir
+marchita,seco	272	*morir
+enfermarse,cansarse	272	*morir
+enfermo,cansado	272	*morir
+embrujar	272	*morir
+el enfermo	272	*morir
+el muerte	272	*morir
+viuda	272	*morir
+dead	272	*morir
+baby sitter	273	*llevar,cargar,abrazar
+llevar,cargar	273	*llevar,cargar,abrazar
+alzador	273	*llevar,cargar,abrazar
+abrazar	273	*llevar,cargar,abrazar
+mutún (ave),paujil	274	*paujil
+mal agüero	274	*paujil
+poweel	274	*paujil
+garza morena	274	*paujil
+sicurí (boa),mal agüero	274	*paujil
+chima (árbol)	275	*chonta
+chima	275	*chonta
+chima (fruta)	275	*chonta
+bruja	276	*bruja,hechicero
+embrujar,maleficio	276	*bruja,hechicero
+matador,el que mata	276	*bruja,hechicero
+hechicero	276	*bruja,hechicero
+veneno	276	*bruja,hechicero
+envenenar	276	*bruja,hechicero
+hilo de algodón	277	*caitu (hilo hecho en casa)
+fil	277	*caitu (hilo hecho en casa)
+ligature de la flèche	277	*caitu (hilo hecho en casa)
+cerro,frente	278	*cerro
+punta de cerro	278	*cerro
+cientopiés	278	*cerro
+lorito cuarito (frente amarillo)	278	*cerro
+cumbre,punta	278	*cerro
+forehead	278	*cerro
+hill	278	*cerro
+fronte	278	*cerro
+serranía,montaña	278	*cerro
+punta,cima	278	*cerro
+casca	278	*cerro
+lagarto	279	*lagarto,caiman
+caiman	279	*lagarto,caiman
+tachacá (pez)	279	*lagarto,caiman
+harto,mucho,malo	280	*mucho,malo,difícil
+lengua mala	280	*mucho,malo,difícil
+malo	280	*mucho,malo,difícil
+feo	280	*mucho,malo,difícil
+despreciar,murmurar	280	*mucho,malo,difícil
+iniquidad	280	*mucho,malo,difícil
+bad	280	*mucho,malo,difícil
+mal	280	*mucho,malo,difícil
+difícil,costoso,penoso	280	*mucho,malo,difícil
+breve	280	*mucho,malo,difícil
+greda,barro colorado	281	*greda,barro colorado,piedra
+barrero salitral	281	*greda,barro colorado,piedra
+piedra	281	*greda,barro colorado,piedra
+piedra de moler	281	*greda,barro colorado,piedra
+stone	281	*greda,barro colorado,piedra
+estuco (tierra blanca usada como estuco)	281	*tierra
+earth	281	*tierra
+plato	281	*tierra
+pot de terre	281	*tierra
+greda	281	*tierra,arena
+cavar la tierra	281	*tierra,arena
+sand	281	*tierra,arena
+arena,playa	281	*tierra,arena
+arenoso	281	*tierra,arena
+embarrar	281	*tierra,arena
+cántaro	281	*tierra,arena
+uña	282	*mano
+largar	282	*mano
+empuñar	282	*mano
+aplaudar	282	*mano
+puño	282	*mano
+recibir	282	*mano
+rascar	282	*mano
+anillo	282	*mano
+dedo de la mano	282	*mano
+servir,muñeca	282	*mano
+dedo pulgar	282	*mano
+en la mano,debajo	282	*mano
+apunta con la mano	282	*mano
+entregar	282	*mano
+servir	282	*mano
+agarrarse de las manos	282	*mano
+enroscar	282	*mano
+lamerse las manos	282	*mano
+fingers	282	*mano
+hand	282	*mano
+nails	282	*mano
+dito	282	*mano
+pulgar	282	*mano
+palma de mano	282	*mano
+dedo de mano	282	*mano
+anillo,sortija	282	*mano
+confesar	282	*mano
+trabajar	282	*mano
+trabajo	282	*mano
+trabajador	282	*mano
+flojo,no sabe trabajar	282	*mano
+esclavo,fámulo	282	*mano
+sopapo	282	*mano
+perno	282	*mano
+muñeca	282	*mano
+estrechar la mano	282	*mano
+medillo	282	*mano
+flecha	282	*mano
+lastimarse el dedo	282	*mano
+mano derecha	282	*mano
+mano izquierda	282	*mano
+finger	282	*mano
+arrow	282	*mano
+ajeno,con arma	284	*arma
+ajeno	284	*arma
+hacerse dueño,apoderarse	285	*dueño
+enseñorear,heredero	285	*dueño
+vaciar,desocuparlo	286	*vaciar
+local	286	*vaciar
+adentro	286	*vaciar
+forrar por dentro	286	*vaciar
+enjuagar	286	*vaciar
+dentro	286	*vaciar
+arrebatar,quitar	286	*vaciar
+vacío,infecundo	287	*vacío
+recoger,escoger	288	*recoger
+mañana	290	*mañana,ayer
+ayer,mañana	290	*mañana,ayer
+mañana por la mañana	290	*mañana,ayer
+ayer	290	*mañana,ayer
+morning,yesterday	290	*mañana,ayer
+notte	290	*mañana,ayer
+noche	290	*mañana,ayer
+anteayer	290	*mañana,ayer
+medianoche	290	*mañana,ayer
+anochecer	290	*mañana,ayer
+mañanita	290	*mañana,ayer
+media noche	290	*mañana,ayer
+tomorrow	290	*mañana,ayer
+apuntar	291	*celar
+thy	292	*2da persona
+you (pl)	292	*2da persona
+Usted (trans.),tú (trans.)	292	*2da persona
+Ustedes (pl)	292	*2da persona
+Usted (intr.),tú (intr.)	292	*2da persona
+Usted solo	292	*2da persona
+de Usted,de tí	292	*2da persona
+you (sg)	292	*2da persona
+you	292	*2da persona
+tu	292	*2da persona
+de toi	292	*2da persona
+à toi	292	*2da persona
+ustedes (intr.)	292	*2da persona
+V. (trans.),tú (trans.)	292	*2da persona
+Vds. (trans.)	292	*2da persona
+suyo (de Vd.)	292	*2da persona
+Vd. (intr.),tú (intr.)	292	*2da persona
+usted solo,usted mismo	292	*2da persona
+contigo	292	*2da persona
+de Vd.	292	*2da persona
+de Vds.	292	*2da persona
+usted	292	*2da persona
+ustedes	292	*2da persona
+suyo	292	*2da persona
+palabra	293	*palabra,hablar,cantar
+hablar	293	*palabra,hablar,cantar
+conversación	293	*palabra,hablar,cantar
+despacio	293	*palabra,hablar,cantar
+speak	293	*palabra,hablar,cantar
+prayer	293	*palabra,hablar,cantar
+hablar,cantar,bramar	293	*palabra,hablar,cantar
+chismoso	293	*palabra,hablar,cantar
+bullicioso	293	*palabra,hablar,cantar
+talking	293	*palabra,hablar,cantar
+carnaza	294	*dar de comer
+soga (pancho torcido)	295	*pancho
+arrancar	296	*arrancar,desplumar
+desplumar	296	*arrancar,desplumar
+desherber,despreocupar	296	*arrancar,desplumar
+ceniza,polvo,arena	298	*ceniza
+rescoldo	298	*ceniza
+encenizar	298	*ceniza
+almidón de yuca	298	*ceniza
+renacuajo	298	*ceniza
+hartos	298	*ceniza
+dry	299	*seco
+dry season	299	*seco
+retoñar,nacer,brotar las plantas	300	*crecer
+mogote,repechones	300	*crecer
+brotó,creció	300	*crecer
+crecido	300	*crecer
+descrecer	300	*crecer
+harinoso,fofo	301	*hinchar
+suave	301	*hinchar
+hipocondría	301	*hinchar
+hidrópico	301	*hinchar
+polillo,gorgojo	302	*gorgojo
+castaña,almendro	304	*almendro
+almendra de Tumupasa	304	*almendro
+norte	305	*lluvia,aguacero
+rain	305	*lluvia,aguacero
+pioggia	305	*lluvia,aguacero
+lluvia	305	*lluvia,aguacero
+aguacero	305	*lluvia,aguacero
+llovar	305	*lluvia,aguacero
+damp	305	*húmedo,mojado
+húmedo	305	*húmedo,mojado
+mojar	305	*húmedo,mojado
+wash	305	*húmedo,mojado
+aguado,con agua	305	*aguado
+menstruar	305	*aguado
+beñar	305	*bañar
+baño	305	*bañar
+río	305	*agua,lluvia,río
+arroyo	305	*agua,lluvia,río
+pozo en el río,remanso del río	305	*agua,lluvia,río
+marbella,ave come pato	305	*agua,lluvia,río
+exprimar	305	*agua,lluvia,río
+exprimar (por torciendo)	305	*agua,lluvia,río
+leche	305	*agua,lluvia,río
+desemboque,junta de río	305	*agua,lluvia,río
+en la orilla del río	305	*agua,lluvia,río
+aguanoso	305	*agua,lluvia,río
+agua turbida	305	*agua,lluvia,río
+medio húmedo	305	*agua,lluvia,río
+humedecer	305	*agua,lluvia,río
+stream	305	*agua,lluvia,río
+agua	305	*agua,lluvia,río
+mojado	305	*agua,lluvia,río
+llanto	305	*agua,lluvia,río
+están llorando los dos	305	*agua,lluvia,río
+jugo,zumo	305	*agua,lluvia,río
+supurar	305	*agua,lluvia,río
+ebrio	305	*agua,lluvia,río
+borrachera	305	*agua,lluvia,río
+caldo	305	*agua,lluvia,río
+agua,lluvio,río	305	*agua,lluvia,río
+llover	305	*agua,lluvia,río
+sangre	305	*agua,lluvia,río
+gaviota (ave)	305	*agua,lluvia,río
+rana	305	*agua,lluvia,río
+orilla del río	305	*agua,lluvia,río
+desaguar (la canoa)	305	*agua,lluvia,río
+oleaje	305	*agua,lluvia,río
+bilis	305	*agua,lluvia,río
+sangrar	305	*agua,lluvia,río
+blood or liquid	305	*agua,lluvia,río
+water	305	*agua,lluvia,río
+ala,manga de vestido o camisa	306	*ala
+mangas cortadas,camisa sin mangas	306	*ala
+wing	306	*ala
+ahorcarse	307	*cuello,pescuezo
+bostezar	307	*cuello,pescuezo
+coto,bocio,garganta	307	*garganta
+angina	307	*garganta
+neck	307	*garganta
+goiter	307	*garganta
+manzana (nuez de la garganta)	307	*garganta
+throat	307	*garganta
+hermana	308	*madre
+hermana (mayor)	308	*madre
+mother	308	*madre
+tierno	310	*tierno,chico
+niña/o	310	*tierno,chico
+criatura	310	*tierno,chico
+chico,tierno	310	*tierno,chico
+novilunio	310	*tierno,chico
+criatura,muchacho	310	*tierno,chico
+plátano	311	*plátano,pacay
+pacay (árbol)	311	*plátano,pacay
+banana	311	*plátano,pacay
+pantain	311	*plátano,pacay
+pacay	311	*plátano,pacay
+pacae,pacay	311	*plátano,pacay
+turiro,comején	312	*turiro
+abejo turiro	312	*turiro
+termine	312	*turiro
+mesquino,miserable	313	*defender,tener mezquindad
+tía por madre (hermana de padre)	314	*tía
+tío (marido de la tía)	314	*tía
+estás triste	315	*enfermedad
+enfermo	315	*enfermedad
+hacer sentir, causar pena	315	*enfermedad
+sentir	315	*enfermedad
+pena,tristeza,aflicción	315	*enfermedad
+pobre	315	*enfermedad
+pobrecito	315	*enfermedad
+limosnero,misericordioso	315	*enfermedad
+emancipar	315	*enfermedad
+rico	315	*enfermedad
+caridad	315	*enfermedad
+intimar	315	*enfermedad
+histérico	315	*enfermedad
+ronquear	315	*enfermedad
+duele	315	*enfermedad
+doler	315	*enfermedad
+correcto,la verdad	316	*correcto,verdadero
+verdad	316	*correcto,verdadero
+ciertamente	316	*correcto,verdadero
+es cierto, a la verdad	316	*correcto,verdadero
+bien (verbal suffix)	316	*correcto,verdadero
+a la direcha	316	*correcto,verdadero
+verdadero	316	*correcto,verdadero
+enmendación,enmiendar	316	*correcto,verdadero
+pararse	317	*parar,pararse
+levantarse	317	*parar,pararse
+apartar (cosas paradas)	317	*parar,pararse
+apartarse (cuando está parado)	317	*parar,pararse
+walk	317	*parar,pararse
+get up	317	*parar,pararse
+parar	317	*parar,pararse
+desamparar	317	*parar,pararse
+stand	317	*parar,pararse
+estuvo	317	*parar,pararse
+estuvo (parado)	317	*parar,pararse
+estar compuesto	317	*parar,pararse
+barjarlo	317	*parar,pararse
+estar ya recto	317	*parar,pararse
+levantarse (al pié)	317	*parar,pararse
+anima de uno,sombra,espíritu	318	*anima,espíritu,corazón
+asustar	318	*anima,espíritu,corazón
+ultrajar	318	*anima,espíritu,corazón
+anima	318	*anima,espíritu,corazón
+corazón,pulsación	318	*anima,espíritu,corazón
+machuhuasu (abeja come turiro, pero hace miel)	318	*anima,espíritu,corazón
+vena	318	*anima,espíritu,corazón
+borracho	318	*anima,espíritu,corazón
+emborracharse	318	*anima,espíritu,corazón
+furor	318	*anima,espíritu,corazón
+rabia	318	*anima,espíritu,corazón
+denuedo	318	*anima,espíritu,corazón
+deplorar,gemir,etc	318	*anima,espíritu,corazón
+desmayar	318	*genio,carácter,conciencia
+como,costumbre	318	*genio,carácter,conciencia
+estúpido,que no entiende	318	*genio,carácter,conciencia
+genio fogoso, ligero	318	*genio,carácter,conciencia
+busca vida,agencioso	318	*genio,carácter,conciencia
+inconstante	318	*genio,carácter,conciencia
+da miedo,tengo miedo,etc	318	*genio,carácter,conciencia
+remedar,imitar	318	*genio,carácter,conciencia
+olvidar	318	*genio,carácter,conciencia
+vivo,bien de salud	318	*genio,carácter,conciencia
+para	318	*genio,carácter,conciencia
+contumacia	318	*genio,carácter,conciencia
+embobecer	318	*genio,carácter,conciencia
+memoria	318	*genio,carácter,conciencia
+informar,información,etc	318	*genio,carácter,conciencia
+manera,costumbre,asunto,orden,culpa,carácter	318	*genio,carácter,conciencia
+tener	318	*genio,carácter,conciencia
+despacio	318	*genio,carácter,conciencia
+zonzo	318	*genio,carácter,conciencia
+voluntad	318	*genio,carácter,conciencia
+pensar,podecer,estar con pena,etc	318	*genio,carácter,conciencia
+andar y regreser	319	*andar
+vez	319	*andar
+corva,plegar	319	*andar
+genuflexión	319	*andar
+pliego	319	*andar
+enredadera	319	*andar
+doblarse (el plátano)	319	*andar
+cuñada (esposa de hermano)	320	*hermano
+hermana	320	*hermano
+bisabuelo	320	*hermano
+brother	320	*hermano
+hermano de hermana	320	*hermano
+amasar	321	*empujar
+comprimir	321	*empujar
+meter	321	*meter,entrar
+meter adentro	321	*meter,entrar
+meter,introducir	321	*meter,entrar
+entrarse	321	*meter,entrar
+entrar,hincar	321	*meter,entrar
+hincadura	321	*meter,entrar
+entrada	321	*meter,entrar
+agacharse	321	*meter,entrar
+nido	321	*meter,entrar
+entrar	321	*meter,entrar
+guardar (e.g., en una caja)	321	*meter,entrar
+suave	322	*pasto,paja
+paja,pasto	322	*pasto,paja
+pajonal	322	*pasto,paja
+fruta roja del monte	323	*árbol con fruto que se comen
+red berry	323	*árbol con fruto que se comen
+pama (fruta, como cereza)	323	*árbol con fruto que se comen
+cientopiés	324	*ciempiés
+escolopendra	324	*ciempiés
+un poco,medio	326	*medio
+mitad	326	*medio
+noon	326	*medio
+medianoche	326	*medio
+sacar	327	*enterrar
+enterrado	327	*enterrar
+desenterrar,exhumar	327	*enterrar
+agobiado	327	*enterrar
+aplastado	327	*enterrar
+sepultar,enterrar	327	*enterrar
+abrir,reventar	327	*enterrar
+caer (de ariba),despeñar,abrir	327	*enterrar
+abierto	327	*enterrar
+calzada	327	*enterrar
+enterrador	327	*enterrar
+desembocar	327	*enterrar
+desaguar	327	*enterrar
+desarrebosar	327	*enterrar
+destapar,abrir	327	*enterrar
+tapar	327	*enterrar
+taparse	327	*enterrar
+olvidar	327	*enterrar
+no puede llorar	328	*llorar
+está llorando	328	*llorar
+lamento	328	*llorar
+lágrimas	328	*llorar
+están llorando los dos	328	*llorar
+llanto	328	*llorar
+tristes,pensando	328	*llorar
+color	328	*llorar
+lo va a hacer llorar	328	*llorar
+lacrimoso	328	*llorar
+así dice	329	*se dice
+todo,todos	330	*augmentative suffix
+ancho	330	*augmentative suffix
+riñones	331	*riñón
+hiel	332	*amargo
+ensalobrarse	332	*amargo
+no amargo	332	*amargo
+aplaudir,jalear	333	*golpear
+guantada,herir	333	*golpear
+batió	333	*golpear
+simbado,trenzado	333	*golpear
+está blanqueando	335	*blanco
+blanquear	335	*blanco
+todo blanco	335	*blanco
+white	335	*blanco
+emblanquecer	335	*blanco
+gringo	335	*blanco
+clara de huevo	335	*blanco
+ciego,tuerto	336	*tuerto,gris
+tuerto	336	*tuerto,gris
+pardo	336	*tuerto,gris
+color café,gris	336	*tuerto,gris
+tosco,gris	336	*tuerto,gris
+venteador,soplador,abanico	337	*ventear
+venteador,soplador	337	*ventear
+venteador	337	*ventear
+abanicar	337	*ventear
+abanico	337	*ventear
+cambiarse a otra cosa	338	*uno
+diferente	338	*uno
+otros	338	*uno
+distinto,otro	338	*uno
+one	338	*uno
+además	338	*uno
+discernir,disunión	338	*uno
+otro	338	*uno
+penga	338	*uno
+en la otra,aparte	338	*uno
+una	338	*uno
+una vez	338	*uno
+del otro	338	*uno
+en otro lugar	338	*uno
+también	338	*uno
+three	338	*uno
+adúltero	338	*uno
+another	338	*uno
+side,de un solo lado	339	*un lado,junto,ante,adelante
+junto,ante,en frente	339	*un lado,junto,ante,adelante
+a un lado,junto,ante,delante	339	*un lado,junto,ante,adelante
+adelante	339	*un lado,junto,ante,adelante
+bambú,tacuarembú	340	*bambú
+tacuara	340	*bambú
+sabe remar,balsero	341	*cayapo,balsa
+callapo	341	*cayapo,balsa
+amigo	342	*acompañar
+andar a pasear	342	*acompañar
+visitar	342	*acompañar
+friend	342	*acompañar
+costado	342	*acompañar
+inseparable	342	*acompañar
+apretar	342	*acompañar
+separar	342	*acompañar
+peinar,desenganchar,zafar,resbalar	343	*desenganchar
+labrar,desbastar	343	*desenganchar
+vado,pasage	344	*pasar,atravesar
+andar en el agua pando	344	*pasar,atravesar
+recto	345	*extender
+extender,carmenar,desarrugar	345	*extender
+enderezó	345	*extender
+estar ya recto	345	*extender
+tucán pequeño	346	*tucán
+toucan	346	*tucán
+tucán	346	*tucán
+ligoso,hablando de cosas de comer	347	*ligoso
+flechar	348	*flecha
+arco	348	*flecha
+hormiga flechador	348	*flecha
+arrow	348	*flecha
+bow	348	*flecha
+flecha,lanza	348	*flecha
+flechador	348	*flecha
+flèche à pointe de bois de palmier	348	*flecha
+pescuezo	349	*pescuezo,cuello
+neck	349	*pescuezo,cuello
+collo,gorgia	349	*pescuezo,cuello
+cuello (de camisa)	349	*pescuezo,cuello
+decapitar	349	*pescuezo,cuello
+cuello,garganga,pescuezo	349	*pescuezo,cuello
+se desata,hay que desatar	350	*desatar
+demostrar	350	*desatar
+desatar,desligar	350	*desatar
+iguana,pení	351	*iguana
+peni	351	*iguana
+clase de víbora	351	*iguana
+hacer bollo (e.g., de papal)	352	*puño
+puño,puñete	352	*puño
+dar puñete	352	*puño
+bala,bola	352	*puño
+descarar,pelar	353	*pelar
+lavar (ropa)	353	*pelar
+pelar,deschalar	353	*pelar
+pelada	353	*pelar
+pelado	353	*pelar
+pelado,lustrado	353	*pelar
+limpiar,lustrar,aceitar,escopeta	353	*pelar
+relampaguer	353	*pelar
+pulido,lucido,liso	353	*pelar
+descascarar	353	*pelar
+raspar	353	*pelar
+mancharse (blanco)	353	*pelar
+relámpago	353	*pelar
+hacer,decir	354	*decir,hacer
+venir	354	*venir,llegar
+llegados,viajeros	354	*venir,llegar
+come	354	*venir,llegar
+come here	354	*venir,llegar
+venir rápido	354	*venir,llegar
+cuando vaya	354	*andar
+ha ido	354	*andar
+si fuese	354	*andar
+fué,remoto	354	*andar
+yendo	354	*andar
+go	354	*andar
+ir	354	*andar
+saltar,brincar	354	*andar
+dejar,abandonar	354	*andar
+brinco,corcovo,exigencia,fogosidad	354	*andar
+concomerse,desalmarse,exigir	354	*andar
+brincar	354	*andar
+fuga,fugar	354	*andar
+invadir	354	*andar
+fuirse rápido	354	*andar
+fuirse	354	*andar
+escapir	354	*andar
+going	354	*andar
+rodear,dar vueltas	354	*ir
+digo,fué,ha sido	354	*ir
+si fuera	354	*ir
+pronto	354	*ir
+acabar	354	*ir
+dejar de ver ó hacer,etc	354	*ir
+quebrar	355	*reventar
+frágil	355	*reventar
+romper	355	*reventar
+partir	355	*reventar
+rajarse	355	*reventar
+insípido,chapa	356	*blando
+jorebaré (hormiga chica que pica fuerte)	358	*hormiga
+hormiga blanca (chica)	358	*hormiga
+casa de hormiga	358	*hormiga
+hormiga cazadora	358	*hormiga
+hormiga colorada	358	*hormiga
+hormiguero	358	*hormiga
+clase de homirga	358	*hormiga
+mujer	359	*mujer,hembra
+jovencita (14-18 años)	359	*mujer,hembra
+niña (6-14 años)	359	*mujer,hembra
+afeminado	359	*mujer,hembra
+casto	359	*mujer,hembra
+muchacha	359	*mujer,hembra
+vieja,anciana	359	*mujer,hembra
+girl	359	*mujer,hembra
+daughter	359	*mujer,hembra
+hembra,mujer	359	*mujer,hembra
+female	359	*mujer,hembra
+woman	359	*mujer,hembra
+luciérnaga,curucusí	360	*curucusí,luciérnaga
+curucusí,luciérnago,estrella	360	*curucusí,luciérnaga
+lucero	360	*curucusí,luciérnaga
+carne	362	*carne,cuerpo
+meat,flesh	362	*carne,cuerpo
+body,meat	362	*carne,cuerpo
+desengrosar	362	*carne,cuerpo
+carnívoro	362	*carne,cuerpo
+carnosidad	362	*carne,cuerpo
+cuerpo	362	*carne,cuerpo
+vello del cuerpo	362	*carne,cuerpo
+curandero	362	*carne,cuerpo
+sin cuerpo	362	*carne,cuerpo
+meat	362	*carne,cuerpo
+este	363	*este,aquí
+recién	363	*este,aquí
+este otro	363	*este,aquí
+por aquí	363	*este,aquí
+aquí	363	*este,aquí
+de aquí	363	*este,aquí
+hasta aquí	363	*este,aquí
+ayer	363	*este,aquí
+anteayer	363	*este,aquí
+no había	363	*este,aquí
+como ahora	363	*este,aquí
+siempre,hasta ahora	363	*este,aquí
+menos,un poco	363	*este,aquí
+aquí,este	363	*este,aquí
+aquí en este lugar	363	*este,aquí
+por acá	363	*este,aquí
+cortar,consechar	364	*cortar,quebrar
+quebrar (de un árbol o planta)	364	*cortar,quebrar
+quebrar	364	*cortar,quebrar
+quebrada	364	*cortar,quebrar
+cortar	364	*cortar,quebrar
+división de casa,ropa interior de mujer	365	*juntar,amontonar,acarrear
+en la dormita,en el interior	365	*juntar,amontonar,acarrear
+abultado	365	*juntar,amontonar,acarrear
+amontonar	365	*juntar,amontonar,acarrear
+monton	365	*juntar,amontonar,acarrear
+es preciso amontonar	365	*juntar,amontonar,acarrear
+ramillete,junta	365	*juntar,amontonar,acarrear
+balumba	365	*juntar,amontonar,acarrear
+chapapear,asar	366	*chapapear,abochornar
+abochornar,bochorno	366	*chapapear,abochornar
+arrastrar,jalar	368	*traer
+rallar	369	*rallar,raspar
+bejuco con espinas	369	*rallar,raspar
+rallador,serrucho	369	*rallar,raspar
+fino,finura	369	*rallar,raspar
+raspar	369	*rallar,raspar
+pascana,campamento	370	*pascana
+tambo,pascana,chosa	370	*pascana
+enramar	370	*pascana
+está gateando (una criatura)	371	*gatear
+trampa con cordel para animales	372	*apretar
+ajustado,apretado	372	*apretar
+apretar con cordel	372	*apretar
+arrugado	372	*apretar
+abolsado	372	*apretar
+zurcir	372	*zurcir,frunzar
+fruncido,arrugado	372	*zurcir,frunzar
+frunzar	372	*zurcir,frunzar
+jalar (llevar de tiro),tirar con cordel	372	*tirar,jalar
+tiren	372	*tirar,jalar
+suspender con cordel	372	*tirar,jalar
+jalar	372	*tirar,jalar
+empujar	372	*tirar,jalar
+cosa para amarrar	372	*amarrar,atar
+amarrado	372	*amarrar,atar
+amarrar	372	*amarrar,atar
+anudar	372	*amarrar,atar
+atada	372	*amarrar,atar
+nudo	372	*amarrar,atar
+techar	372	*amarrar,atar
+amarrar todo	372	*amarrar,atar
+atar	372	*amarrar,atar
+se ha de acabar,esterminar	373	*podrir
+podrido	373	*podrir
+yoperojobobo (víbora venenosa)	373	*podrir
+podrir,corromper	373	*podrir
+agacharse	374	*acostar,echarse
+echarse	374	*acostar,echarse
+cama tendida	374	*acostar,echarse
+apartar (cuando está echado)	374	*acostar,echarse
+nido	374	*acostar,echarse
+estar echado	374	*acostar,echarse
+estar flotando	374	*acostar,echarse
+gallina clueca	374	*acostar,echarse
+recostarse	374	*acostar,echarse
+campo	374	*acostar,echarse
+nido,pañal	374	*acostar,echarse
+desanidar	374	*acostar,echarse
+echarse,acostar,dejar	374	*acostar,echarse
+calmar	374	*acostar,echarse
+cuidar,guardar	374	*acostar,echarse
+cuidante	374	*acostar,echarse
+encallar	374	*acostar,echarse
+almohada	374	*acostar,echarse
+mariposa de noche	376	*mariposa
+pez	377	*pez,pescado
+pescar	377	*pez,pescado
+anzuelo	377	*pez,pescado
+andar a pescar	377	*pez,pescado
+pescado	377	*pez,pescado
+fish	377	*pez,pescado
+bufeo	377	*pez,pescado
+pez blanca	377	*pez,pescado
+pescador	377	*pez,pescado
+blanquillo (pez)	377	*pez,pescado
+azulejo (pez)	377	*pez,pescado
+chanana (pez)	377	*pez,pescado
+sanar	378	*bueno
+comprar bien	378	*bueno
+muy bueno	378	*bueno
+guardar	378	*bueno
+ser,poner	378	*bueno
+ropa	378	*bueno
+good	378	*bueno
+bien	378	*bueno
+good,blessed	378	*bueno
+bueno,contento,feliz,sano,bien	378	*bueno
+tiempo bueno	378	*bueno
+bonito,agradable	378	*bueno
+bonito,hermoso	378	*bueno
+bueno,contento	378	*bueno
+honrar,hacerlo buen	378	*bueno
+amar,hallar bueno	378	*bueno
+bien educado,etc	378	*bueno
+le gusta,agradable	378	*bueno
+partir,cortar	379	*cortar
+divorciar	379	*cortar
+fuerte (al palador),ácido	380	*fuerte,ácido,agrio
+fermentar	380	*fuerte,ácido,agrio
+fermentado,agrio	380	*fuerte,ácido,agrio
+fuerte,agria,ácido,agrio	380	*fuerte,ácido,agrio
+sucha gallinazo	381	*gallinazo,sucha
+vena,tendón	382	*vena,nervio,tendón
+vena	382	*vena,nervio,tendón
+nevio	382	*vena,nervio,tendón
+cosquilloso,dentera	383	*sarna
+(medio) amarillo	384	*madurar,amarillo
+crudo	384	*madurar,amarillo
+yellow	384	*madurar,amarillo
+amarillo,bayo	384	*madurar,amarillo
+cuando está maduro	384	*madurar,amarillo
+madurar	384	*madurar,amarillo
+maduro	384	*madurar,amarillo
+bien maduro	384	*madurar,amarillo
+encanecer	384	*madurar,amarillo
+que maduro!	384	*madurar,amarillo
+amarillo,madura	384	*madurar,amarillo
+chichilo,mono amarillo	385	*chichilo
+chichilo	385	*chichilo
+tirar (piedra)	386	*venir,andar,tirar
+volver,regresarse	386	*venir,andar,tirar
+devolver	386	*venir,andar,tirar
+andar a quedarse	386	*venir,andar,tirar
+come	386	*venir,andar,tirar
+venir	386	*venir,andar,tirar
+andar	386	*venir,andar,tirar
+andar cojo	386	*venir,andar,tirar
+abandonar,botar	386	*venir,andar,tirar
+desparrarse	386	*venir,andar,tirar
+perderse	386	*venir,andar,tirar
+llenarse	387	*llenar,llenarse
+llenar	387	*llenar,llenarse
+lleno	387	*llenar,llenarse
+hinchazón	387	*llenar,llenarse
+lleno,hincado,colmado	387	*llenar,llenarse
+full of grace	387	*llenar,llenarse
+refill	387	*llenar,llenarse
+abeja	388	*yacamí (ave)
+yacamí	388	*yacamí (ave)
+resbaloso	389	*resbaloso,resbalar
+resbalar,encima de palo	389	*resbaloso,resbalar
+hongo,orejo de palo	390	*hongo
+hongo comestible	390	*hongo
+cortar (princ. carne)	391	*cortar,serruchar
+picado (ave)	391	*cortar,serruchar
+un tajo	391	*cortar,serruchar
+cortadura	391	*cortar,serruchar
+descuartizar	391	*cortar,serruchar
+cortar,rayar (goma),aserrar,cosechar (arroz)	391	*cortar,serruchar
+cortar,aserrar	391	*cortar,serruchar
+cortar	391	*cortar,serruchar
+cortable	391	*cortar,serruchar
+no cortable	391	*cortar,serruchar
+caliente,hace color	392	*caliente,cocinar
+olla de barra para cocer chicha	392	*caliente,cocinar
+cocer	392	*caliente,cocinar
+ardor	392	*caliente,cocinar
+hot	392	*caliente,cocinar
+cocido	392	*caliente,cocinar
+crudo (sin cocer)	392	*caliente,cocinar
+cocer,cocinar	392	*caliente,cocinar
+cocinar	392	*caliente,cocinar
+arder	392	*caliente,cocinar
+ratón,matapalo	393	*rata,ratón
+rat	393	*rata,ratón
+después,cuando	396	*después
+cuando ya terminado	396	*después
+llegar	396	*después
+llegar,venir	396	*después
+andar	396	*después
+no poder	396	*después
+entonces,por eso	396	*después
+terminar	396	*después
+así como está	396	*después
+además	396	*después
+por él	396	*después
+él	396	*después
+por allá	396	*después
+aquello,he allí	396	*después
+allí	396	*después
+lejos	396	*después
+duck	397	*pato
+pato bichichií	397	*pato
+pato roncador	397	*pato
+canilla	398	*pierna
+pantorilla	398	*pierna
+golpear	398	*pierna
+tenaza (de fierro)	398	*pierna
+canilla ó pierna	398	*pierna
+por las piernas,pasta	398	*pierna
+patear	398	*pierna
+leg	398	*pierna
+tapir-foot (plant)	398	*pierna
+juntos	399	*juntos,ambos
+entre	399	*juntos,ambos
+ambos,ellos dos	399	*juntos,ambos
+detrambos	399	*juntos,ambos
+picotada,mordido	400	*picotada
+gajo	400	*picotada
+duro	401	*duro,fuerte
+trabajo difícil de hacer	401	*duro,fuerte
+endureciendo	401	*duro,fuerte
+hard	401	*duro,fuerte
+endurar,cuajar	401	*duro,fuerte
+temblar	401	*duro,fuerte
+paludismo	401	*duro,fuerte
+hielo,granizo,cuajada	401	*duro,fuerte
+corazón de árbol	401	*duro,fuerte
+endurarse	401	*duro,fuerte
+no tiene fuerza	401	*duro,fuerte
+tapar	401	*duro,fuerte
+cerrado	401	*duro,fuerte
+abierto	401	*duro,fuerte
+endurecerse	401	*duro,fuerte
+triste,silencio,miedo,cosa imponente	402	*silencio
+encalmarse	402	*silencio
+mudo	402	*silencio
+liver	403	*hígado
+overnight shelter	404	*casa
+house	404	*casa
+cárcel	404	*casa
+tapera	404	*casa
+visitar,pasear	404	*casa
+popa de la canoa	404	*casa
+cabaña	404	*casa
+to the house	404	*casa
+corral,canchón,tranca	406	*anillo
+ring	406	*anillo
+anillo,sortija	406	*anillo
+cerco	406	*anillo
+corral	406	*anillo
+calabacera grande	407	*calabacera grande (insecto)
+remo	408	*remar,batir
+remar	408	*remar,batir
+batir,remar	408	*remar,batir
+balsero	408	*remar,batir
+clavar	409	*clavar,arreglar
+arreglar	409	*clavar,arreglar
+tío por padre	410	*papá
+my father	410	*papá
+father	410	*papá
+bisabuelo	410	*papá
+padre	410	*papá
+ambaibo (árbol)	411	*caña
+soga hecha de pancho	411	*caña
+escoba	411	*caña
+miel de caña	411	*caña
+sleep	412	*dormir
+sueño	412	*dormir
+soñar	412	*dormir
+cama,dormitorio	412	*dormir
+pascana,campamento	412	*dormir
+campamento	412	*dormir
+desmayarse	412	*dormir
+dormilón	412	*dormir
+pava	413	*pavo
+pavo roncador	413	*pavo
+batar	414	*matar,cazar
+flechar	414	*matar,cazar
+entrepunzadura	414	*matar,cazar
+cazar,matar,punzar,sembrar	414	*matar,cazar
+cazador	414	*matar,cazar
+pelearse	414	*matar,cazar
+matar	414	*matar,cazar
+come con jacuú	415	*jacuú
+jacuú (plátanos, yuca)	415	*jacuú
+jacuhú,pan,yuca	415	*jacuú
+tapar	416	*cerrar
+puerta	416	*cerrar
+cerrar,trancar	416	*cerrar
+encarcelar	416	*cerrar
+esconder	417	*esconderse
+field	418	*chaco
+chacra abandonada	418	*chaco
+a la chacra	418	*chaco
+carbón	419	*fuego
+amarillo	419	*fuego
+pálido	419	*fuego
+ceniza	419	*fuego
+tarumá (árbol y fruta)	419	*fuego
+atizar (el fuego)	419	*fuego
+fire	419	*fuego
+charcoal	419	*fuego
+infierno	419	*fuego
+tizón	419	*fuego
+brasa	419	*fuego
+mucho fuego,rubio	419	*fuego
+hogar	419	*fuego
+se va a apagar	419	*apagar
+leña sin fuego	419	*apagar
+apagado	419	*apagar
+apagar (fuego)	419	*apagar
+quemar la comida	419	*quemar
+quemazon,incendio	419	*quemar
+quemar la mitad	419	*quemar
+quemar,chamuscar	419	*quemar
+caliente	419	*quemar
+arder	419	*quemar
+calentar	419	*quemar
+quemar,tener fiebre	419	*quemar
+brasa,chispa	419	*fuego
+atizar	419	*fuego
+tarumá	419	*fuego
+match	419	*fuego
+upper arm	420	*tronco,pierna
+tronco,timón	420	*tronco,pierna
+tronco,popa	420	*tronco,pierna
+talón	420	*tronco,pierna
+empezar,comenzar	420	*tronco,pierna
+canoero	420	*tronco,pierna
+tobillo	420	*tronco,pierna
+pierna	420	*tronco,pierna
+cadera	420	*pierna,falda
+suncharse la pierna	420	*pierna,falda
+cojear,renguear	420	*pierna,muslo
+coyuntura	420	*pierna,muslo
+pantorrilla	420	*pierna,muslo
+dar,atrás	421	*dar
+encomienda,remesa	421	*dar
+anticipar	421	*dar
+dando,en dar	421	*dar
+give	421	*dar
+dar,entrejar,alcanzar	421	*dar
+vender	421	*dar
+entrejar,prometer	421	*dar
+dividir,repartir	421	*dar
+prestar	421	*dar
+devolver	421	*dar
+apretar,plastar,poner encima,etc	421	*dar
+regalar	421	*dar
+atrás (de persona)	421	*detrás,atrás
+bejuco balsamina	421	*detrás,atrás
+talso	421	*detrás,atrás
+de revés,pasado,mañana,anteayer,atrás	421	*detrás,atrás
+recular	421	*detrás,atrás
+atrás,detrás,menor,después	421	*atrás,después
+rezagado	421	*atrás,después
+venir atrás	421	*atrás,después
+el último	421	*atrás,después
+después,posteriormente	421	*atrás,después
+después,atrás	421	*atrás,después
+acompañar	421	*atrás,después
+último,después,detrás	421	*atrás,después
+atrás de	421	*abajo
+está persiguiendo,le va detrás	421	*abajo
+río abajo	421	*abajo
+barranco,bajada	421	*abajo
+subida del barranco	421	*abajo
+debajo	421	*abajo
+resbalarse	421	*abajo
+banco	421	*abajo
+fingernail	423	*uña
+-nail	423	*uña
+uña (toenail?)	423	*uña
+nail	423	*uña
+toenail	423	*uña
+fajar	424	*cintura
+faja	424	*cintura
+monton	425	*centro
+en el centro	425	*centro
+calle	425	*centro
+campo,potrero	425	*centro
+papa alargada	426	*raíz
+tiene mucha raíz	426	*raíz
+coyuntura,para añadir	427	*terminar
+extemidad,terminación	427	*terminar
+nudo,añadir	427	*terminar
+cuando está terminado	427	*terminar
+limpiar,terminar	427	*terminar
+consunción,etc	427	*terminar
+terminar,acabar	427	*terminar
+fines del año	427	*terminar
+terminar secando	427	*terminar
+terminar (en)	427	*terminar
+bailar	428	*tronar
+tronado	428	*tronar
+trueno	428	*tronar
+thunder	428	*tronar
+dance	428	*tronar
+quejarse	429	*quejido
+palpitar	429	*quejido
+corazón	429	*quejido
+heart	429	*quejido
+pisar	430	*pisar,arañar
+escarbar	430	*pisar,arañar
+ellos (dual)	431	*3ra persona
+sus (dual)	431	*3ra persona
+de ellos (dual)	431	*3ra persona
+él (trans.),ella (trans.)	431	*3ra persona
+él (intr.),ella (intr.),eso	431	*3ra persona
+ellos	431	*3ra persona
+sus (pl.)	431	*3ra persona
+de ellos,suyos (pl.)	431	*3ra persona
+con él	431	*3ra persona
+de él,suyo	431	*3ra persona
+su	431	*3ra persona
+ellos solos	431	*3ra persona
+he	431	*3ra persona
+they	431	*3ra persona
+él (trans.)	431	*3ra persona
+ese mismo,otra vez	431	*3ra persona
+de allá	431	*3ra persona
+por allí	431	*3ra persona
+por allá	431	*3ra persona
+allá	431	*3ra persona
+allí,de ahi	431	*3ra persona
+su (de él)	431	*3ra persona
+él (intr.)	431	*3ra persona
+único,ese no más	431	*3ra persona
+ellos (intr.)	431	*3ra persona
+ellos (trans.)	431	*3ra persona
+su (de ellos)	431	*3ra persona
+él solo	431	*3ra persona
+él solito	431	*3ra persona
+ese	431	*3ra persona
+barrigón	432	*barriga
+torcido	432	*barriga
+arrodillarse	432	*barriga
+agachado,jorobado	432	*barriga
+arco	432	*barriga
+fruncido,medio torcido	432	*barriga
+doblegar	432	*barriga
+corbo	432	*barriga
+abdomen,empeine	432	*barriga
+bala	432	*barriga
+arco,escopeta	432	*barriga
+redondo	432	*barriga
+bow	432	*barriga
+arder,encender	433	*encender
+atizar	433	*encender
+cortar,arear	434	*cortar,trozar
+corto	434	*cortar,trozar
+trozar	434	*cortar,trozar
+especie de loro chico	435	*loro (chico)
+clase de pájaro negro con pico colorado	435	*loro (chico)
+lágrima	436	*ojo
+brillante,claro	436	*ojo
+párpado	436	*ojo
+soñoliente,ojero por el desvelo	436	*ojo
+escarmentar	436	*ojo
+vender los ojos	436	*ojo
+experimentar,escarmentar	436	*ojo
+eye	436	*ojo
+occhio	436	*ojo
+eyebrow	436	*ojo
+eyelash	436	*ojo
+pestaña	436	*ojo
+orzuelo	436	*ojo
+eclipse	436	*ojo
+espejo	436	*ojo
+sin ojos	436	*ojo
+motacú (palmera)	437	*motacú
+caluche	437	*motacú
+pedregoso	438	*piedra
+corvina (pez)	438	*piedra
+cascajo	438	*piedra
+agujero en la piedra	438	*piedra
+rock	438	*piedra
+stone	438	*piedra
+roca	438	*piedra
+empedrado	438	*piedra
+apedrear	438	*piedra
+tapón	438	*piedra
+encorralar	438	*piedra
+worm	439	*lombriz
+lombriz,gusano	439	*lombriz
+cutuchi (víbora)	439	*lombriz
+lombrices	439	*lombriz
+vejiga (de animales),alcanza,igual,basta	440	*pesar
+pesar,medir,igualar,nivelar	440	*pesar
+igualar,igual	440	*pesar
+cabal	440	*pesar
+todos juntos	440	*pesar
+pesar,seguir,pensar,acompañar	440	*pesar
+haste,bastante,cabal,caso,medido	440	*pesar
+bastante,alcanza	440	*pesar
+medidor	440	*pesar
+limitar	440	*pesar
+último	440	*pesar
+limite,etc	440	*pesar
+nieta	441	*nieta,nieto
+brother	441	*nieta,nieto
+nieto	441	*nieta,nieto
+sobrino (hijo de hermana de padre)	441	*sobrino,sobrina
+sobrina (la mujer dice)	441	*sobrino,sobrina
+hermano mayor (entre hermanos)	441	*hermano mayor
+cuñada (esposa de hermano)	441	*hermano mayor
+cuñada	441	*hermano mayor
+sobrina (hija de hermano de padre)	441	*hermano
+cuñado	441	*hermano
+por aquí	442	*así
+este tanto,poco	442	*así
+esta banda	442	*así
+aquí	442	*así
+mas aquí	442	*así
+aquicito no más	442	*así
+este tamaño	442	*así
+corto (en tiempo),etc	442	*así
+quizás,tal vez	442	*así
+vuelta,otra vez	442	*así
+su	442	*así
+suyo	442	*así
+otra vez	442	*así
+él	442	*así
+todos,ellos	442	*así
+ellos,etc	442	*así
+babear,baba	443	*espuma
+baboso	443	*espuma
+espumadera	443	*espuma
+espumar	443	*espuma
+madrugada	444	*luz
+reflejar,relucir	444	*luz
+amanecer,aclarar el día	444	*luz
+jovencito	444	*luz
+reflejando	444	*luz
+today	444	*luz
+tomorrow	444	*luz
+alumbrar	444	*luz
+luz,vela candela	444	*luz
+alba	444	*luz
+cirio	444	*luz
+día	444	*luz
+aclarar,amanecer	444	*luz
+brillante	444	*luz
+de día,con luz	444	*luz
+hoy día	444	*luz
+fulgor,iluminar	444	*luz
+farol	444	*luz
+reflejar,ilustrar	444	*luz
+aclarar,esclarecer,fantasía	444	*luz
+limpiar	444	*luz
+limpiar (el chaco),carpir	444	*luz
+asolear	444	*luz
+clara (el cielo)	444	*luz
+silbador	445	*silbar
+fumar	446	*tabaco
+tobacco	446	*tabaco
+luciérnaga	446	*tabaco
+marfil	447	*marfil (palmera)
+lo bajar	448	*caerse
+sentar	448	*caerse
+bajarlo	448	*caerse
+caer	448	*caerse
+bajar	448	*caerse
+fall	448	*caerse
+mamoré (pez)	449	*sardina
+earth	450	*tierra
+terreno	450	*tierra
+ampisi (boa) de tierra	450	*tierra
+loma,cerro	450	*tierra
+cueva	450	*tierra
+sembrar	450	*tierra
+sembrador	450	*tierra
+enterrar	450	*tierra
+barro	450	*tierra
+fangoso	450	*tierra
+ralo,como agua	451	*agua
+water	451	*agua
+acqua	451	*agua
+lago	451	*agua
+mezclado	452	*mezclar
+batar,removar	452	*mezclar
+remover	452	*mezclar
+taitetú	453	*chanco de tropa
+cobaye	453	*chanco de tropa
+wangana	453	*chanco de tropa
+peccary	453	*chanco de tropa
+white-lipped peccary	453	*chanco de tropa
+chancho	453	*chanco de tropa
+pié,rastro,pisada	454	*pié
+talon	454	*pié
+uña del pié	454	*pié
+foot	454	*pié
+pié,pata (de animal)	454	*pié
+cienpiés	454	*pié
+pata (de mueblos)	454	*pié
+espinilla	454	*pié
+dedo gran del pié	454	*pié
+uña (del pié?)	454	*pié
+uña	454	*pié
+toenail	454	*pié
+toe	454	*pié
+chico,pequeño	456	*chico
+joven,maltón,mocedad	456	*chico
+cachorro	456	*chico
+especie de paloma	457	*paloma
+tender,poner,dejer	459	*poner
+matar (pegando)	459	*poner
+poner,huir	459	*poner
+guardar	459	*poner
+guardar adentro	459	*poner
+echar abajo	459	*poner
+guardar arriba	459	*poner
+colgar	459	*poner
+esposa	460	*mujer
+suegra	460	*mujer
+suegro	460	*mujer
+soltero	460	*mujer
+concuñado	460	*mujer
+casar (hombres)	460	*mujer
+nuera	460	*mujer
+wife	460	*mujer
+my wife	460	*mujer
+viudo	460	*mujer
+novia	460	*mujer
+concuñada	460	*mujer
+casarse	460	*mujer
+woman	460	*mujer
+oler	461	*humo
+hediondo,mal odor	461	*humo
+odoroso	461	*humo
+humo,nube	461	*humo
+olor	461	*humo
+desahumar	461	*humo
+humear	461	*humo
+hollin	461	*humo
+entiznar	461	*humo
+dirty	461	*humo
+erereú (abeja)	462	*abejo
+blando,esponjado	463	*algodón
+cotton	463	*algodón
+espuma,otro	463	*algodón
+espumar	463	*algodón
+palizado (palos montados en río)	464	*palizado
+huaracachi	465	*huaracachi (ave)
+asiento,toco	466	*toco
+toco,banco	466	*toco
+cacique,jefe	467	*autoridad
+chief	467	*autoridad
+abeja	468	*abeja,miel
+abeja de la tierra	468	*abeja,miel
+miel	468	*abeja,miel
+bee,honey	468	*abeja,miel
+miele	468	*abeja,miel
+miel de abeja	468	*abeja,miel
+chamayro (bejuco)	468	*abeja,miel
+dulce	468	*abeja,miel
+dulce,jane (pulpa)	468	*abeja,miel
+clase de abeja	468	*abeja,miel
+enjambre	468	*abeja,miel
+especie de rana	469	*rana
+clase de víbora, salamanqueja	469	*rana
+sudor	470	*sudor,sudar
+sudar	470	*sudor,sudar
+fly	471	*mosca
+queresa	471	*mosca
+ventana de nariz	472	*nariz
+águila	472	*nariz
+punta	472	*nariz
+puntiagudo	472	*nariz
+bien delgado	472	*nariz
+adelante	472	*nariz
+ñato	472	*nariz
+lorito con pico blanco	472	*nariz
+huiñapu (una chicha fuerte hecho de maíz)	472	*nariz
+nose	472	*nariz
+punta (de flecha)	472	*nariz
+mutún (ave)	472	*nariz
+chuhubí,gavilón (ave de rapina)	472	*nariz
+punta de lengua	472	*nariz
+anzuelo	472	*nariz
+pescar	472	*nariz
+pita,cordel	472	*nariz
+crecer,nacer (planta),retoñar	472	*nariz
+nariz,mutún	472	*nariz
+cavar (la punta)	472	*nariz
+hachear (la punta)	472	*nariz
+cresta	472	*nariz
+bigote	472	*nariz
+zambullearse	472	*nariz
+anguila	472	*nariz
+tojo	472	*nariz
+clase de palometa	472	*nariz
+pez: pintado	472	*nariz
+jochi colorado	472	*nariz
+tejón	472	*nariz
+mono silbador	472	*nariz
+pataju	472	*nariz
+tachacá (pez)	472	*nariz
+pauxi	472	*nariz
+desnudar,sacar	474	*desnudar,sacar,destejar
+desnudo	474	*desnudar,sacar,destejar
+sacarse (ropa),desnudarse	474	*desnudar,sacar,destejar
+destejar,destramer,desdorar,despojar	474	*desnudar,sacar,destejar
+verga	474	*desnudar,sacar,destejar
+frío,fresco	475	*frío
+refrescar	475	*frío
+helado	475	*frío
+cold	475	*frío
+not cold	475	*frío
+descerar	476	*cera
+abeja,miel de abeja	476	*cera
+bee	476	*cera
+wax	476	*cera
+orinar	477	*orina
+urinate	477	*orina
+desbeber,orinar,orina	477	*orina
+orinar,mear	477	*orina
+perdecito	478	*perdiz chica
+fuerte (río,vento)	479	*soplar
+abocar	479	*soplar
+mejilla	479	*soplar
+humo	479	*soplar
+neblina	479	*soplar
+niebla,nublado	479	*soplar
+vapor	479	*soplar
+smoke	479	*soplar
+vestido,ropa,tela	480	*vestir
+vestelo a ese	480	*vestir
+vestida	480	*vestir
+ropa,tela	480	*vestir
+enlazar,vestir o arreglar a otro	480	*vestir
+vestirse	480	*vestir
+vístete	480	*vestir
+no se ha vestido	480	*vestir
+espiga	481	*espiga,cogollo
+tola de palmeras,papa de plátano,cogollo	481	*espiga,cogollo
+cogollo	481	*espiga,cogollo
+pintado de colorado y blanmco	482	*colorear
+pintado,rayado	482	*colorear
+colorado	482	*colorear
+fangoso	483	*plantar,clavar
+dirt	483	*plantar,clavar
+barro,lodo	483	*plantar,clavar
+con rama y todo	484	*rama,gajo
+gajo,rama	484	*rama,gajo
+pucarara (víbora)	484	*rama,gajo
+lagarto	484	*rama,gajo
+ala	484	*rama,gajo
+brazo,gajo	484	*rama,gajo
+vello del brazo	484	*rama,gajo
+muslo del brazo	484	*rama,gajo
+avión	484	*rama,gajo
+rama	484	*rama,gajo
+arm	484	*rama,gajo
+human arm	484	*rama,gajo
+aquella banda	485	*banda
+por/in aquella banda	485	*banda
+más allá	485	*banda
+allá	485	*banda
+por allá	485	*banda
+por de más	485	*banda
+pasado mañana	485	*banda
+aparte,etc	485	*banda
+that	485	*banda
+anteayer	485	*banda
+anoche,anteanoche	485	*banda
+aquel	485	*banda
+entonces	485	*banda
+en la banda (del río)	485	*banda
+banda (orilla apuesta del río)	485	*banda
+banda ú orilla del río	485	*banda
+coronilla	486	*cabeza
+caspa de cabeza	486	*cabeza
+cabecera,almohada	486	*cabeza
+seso	486	*cabeza
+cabello	486	*cabeza
+cabezón	486	*cabeza
+pelado de la cabeza,rapado	486	*cabeza
+dedo pulgar	486	*cabeza
+head	486	*cabeza
+hair	486	*cabeza
+pulgar	486	*cabeza
+caspa	486	*cabeza
+idea,inteligente	486	*cabeza
+almohada,cabecera	486	*cabeza
+encasquetar	486	*cabeza
+calavera	486	*cabeza
+jaqueca	486	*cabeza
+cabelludo	486	*cabeza
+gorra	486	*cabeza
+mecha hecha de chuchío seco usada para luz en el camino y para quemar chacos; antorcha	487	*espiga
+racimo de plátano,espiga	487	*espiga
+espigar	487	*espiga
+resurrected, past tense	488	*past tense
+coca,aculli	489	*coca
+bentón (pez)	490	*cerner,punzar
+cerner,colar	490	*cerner,punzar
+cedazo,colador,cernido,lanzada	490	*cerner,punzar
+sunchado,punzado	490	*cerner,punzar
+punzar	490	*cerner,punzar
+herida	490	*cerner,punzar
+cuchillada,herir,herido	490	*cerner,punzar
+island	492	*isla
+rayo	493	*prender
+pintado	493	*prender
+tizón de fuego	493	*prender
+prender,encender	493	*prender
+lightning	493	*prender
+chispear	493	*prender
+azul	494	*azul,verde
+medio azul	494	*azul,verde
+verde,crudo	494	*azul,verde
+blue,green	494	*azul,verde
+blue	494	*azul,verde
+verde,azul	494	*azul,verde
+carne fresca	494	*azul,verde
+bien azul	494	*azul,verde
+teñir	494	*azul,verde
+enmohecer	494	*azul,verde
+azulear	494	*azul,verde
+verde	494	*azul,verde
+clara (el agua)	494	*azul,verde
+aclararse	494	*azul,verde
+bilis	494	*azul,verde
+claro (limpio)	494	*azul,verde
+no azul	494	*azul,verde
+no limpio	494	*azul,verde
+diarrea	495	*defecar
+disentería	495	*defecar
+tener diarrea	495	*defecar
+cagar	495	*defecar
+no caga	495	*defecar
+assiette	496	*plato
+taza	496	*plato
+barriga	497	*barriga,intestinos
+barrigón,panzón,petacudo	497	*barriga,intestinos
+of (thy) womb	497	*barriga,intestinos
+belly	497	*barriga,intestinos
+intestino	497	*barriga,intestinos
+desbarrigado	497	*barriga,intestinos
+tripa	497	*barriga,intestinos
+intestinos	497	*barriga,intestinos
+intestinos,tripas	497	*barriga,intestinos
+abdomen	497	*barriga,intestinos
+black	499	*negro
+color osco,moreno,medio oscuro	499	*negro
+ennegrecer	499	*negro
+hosco	499	*negro
+denegrecer	499	*negro
+negro,escrito	499	*negro
+escriber,nmegrer	499	*negro
+coquino	499	*negro
+muy negro	499	*negro
+no es negro	499	*negro
+tinta	499	*negro
+old	500	*viejo
+maduro,sazón,senectud,viejo	500	*viejo
+envejecer	500	*viejo
+juventud	500	*viejo
+los viejos	500	*viejo
+crecer	500	*viejo
+criar	500	*viejo
+entenado	500	*viejo
+padre	500	*viejo
+viejo/a	500	*viejo
+muy viejo	500	*viejo
+captain,old man	500	*viejo
+juntar,amontonar	501	*unir,juntar
+reunirse	501	*unir,juntar
+unite!	501	*unir,juntar
+amontonarse,juntarse	501	*unir,juntar
+quedar	501	*unir,juntar
+recoger	501	*unir,juntar
+media noche	502	*noche
+neblina	502	*noche
+ensartar	503	*ensartar,costurar
+garrote,macana (de chonta)	503	*ensartar,costurar
+peine	503	*ensartar,costurar
+sembrar (con punzón)	503	*ensartar,costurar
+punzón	503	*ensartar,costurar
+fishbook	503	*ensartar,costurar
+costurar	503	*ensartar,costurar
+racimo	503	*ensartar,costurar
+capibnara	504	*capibara
+capybara	504	*capibara
+cabiai (capyvara)	504	*capibara
