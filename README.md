@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Girard, Victor (1971): Proto-Takanan Phonology. University of California Press, Berkeley, 1971.
+  > Girard, Victor (1971): Proto-Takanan Phonology. University of California Press, Berkeley.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -15,7 +15,7 @@ This dataset is licensed under a CC-BY-4.0 license
 ## Statistics
 
 
-![Glottolog: 88%](https://img.shields.io/badge/Glottolog-88%25-yellowgreen.svg "Glottolog: 88%")
+![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 70%](https://img.shields.io/badge/Concepticon-70%25-orange.svg "Concepticon: 70%")
 ![Source: 20%](https://img.shields.io/badge/Source-20%25-red.svg "Source: 20%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
@@ -29,7 +29,7 @@ This dataset is licensed under a CC-BY-4.0 license
 - **Cognacy:** 4,764 cognates in 523 cognate sets (1 singletons)
 - **Cognate Diversity:** -0.00
 - **Invalid lexemes:** 0
-- **Tokens:** 31,937
+- **Tokens:** 31,878
 - **Segments:** 48 (0 BIPA errors, 0 CLTS sound class errors, 48 CLTS modified)
 - **Inventory size (avg):** 24.93
 
@@ -55,4 +55,4 @@ Johann-Mattis List | @LinguList| CLDF conversion | Other
 
 The following CLDF datasets are available in [cldf](cldf):
 
-- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf\cldf-metadata.json](cldf\cldf-metadata.json)
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)

@@ -1,15 +1,15 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,NameInSource
-ProTa,Proto-Takana,,,,,,,,ProtoTakana
-Tak,Tacana,taca1256,Tacana,tna,South America,-13.39249,-68.04056,Pano-Tacanan,Takana
-Rey,Reyesano,reye1240,Reyesano,rey,South America,-14.8333,-67.0833,Pano-Tacanan,Reyesano
-Mar,Maropa,reye1240,Reyesano,rey,South America,-14.8333,-67.0833,Pano-Tacanan,Maropa
-Was,Guariza,reye1240,Reyesano,rey,South America,-14.8333,-67.0833,Pano-Tacanan,Warisa
-Sap,Sapibokona,reye1240,Reyesano,rey,South America,-14.8333,-67.0833,Pano-Tacanan,Sapibokona
-Aro,Araona,arao1248,Araona,aro,South America,-12.4242,-67.7293,Pano-Tacanan,Araona
-Mab,Mabenaro,mabe1235,Mabenaro,,South America,-11.543809,-68.277741,Pano-Tacanan,Mabenaro
-Kav,Cavineña,cavi1250,Cavineña,cav,South America,-13.3544,-66.6277,Pano-Tacanan,Kavineño
-Ese,Ese Ejja,esee1248,Ese Ejja,ese,South America,-11.7268,-67.515,Pano-Tacanan,Ese?exa
-War,Huarayo,esee1248,Ese Ejja,ese,South America,-11.7268,-67.515,Pano-Tacanan,Warayo
-Cam,Chama,esee1248,Ese Ejja,ese,South America,-11.7268,-67.515,Pano-Tacanan,Čama (Firestone)
-Ara,Arasa,araz1236,Arazaire,,South America,-13.25,-70.8,Pano-Tacanan,Arasa
-Tia,Tiatinahua,esee1248,Ese Ejja,ese,South America,-11.7268,-67.515,Pano-Tacanan,Tiatinawa
+ProtoTakana,ProtoTakana,taca1255,Tacanan,,,,,Pano-Tacanan,ProTa
+Tacana,Takana,taca1256,Tacana,tna,South America,-13.39249,-68.04056,Pano-Tacanan,Tak
+Reyesano,Reyesano,reye1240,Reyesano,rey,South America,-14.8333,-67.0833,Pano-Tacanan,Rey
+Maropa,Maropa,reye1240,Reyesano,rey,South America,-14.8333,-67.0833,Pano-Tacanan,Mar
+Guariza,Warisa,reye1240,Reyesano,rey,South America,-14.8333,-67.0833,Pano-Tacanan,Was
+Sapibokona,Sapibokona,reye1240,Reyesano,rey,South America,-14.8333,-67.0833,Pano-Tacanan,Sap
+Araona,Araona,arao1248,Araona,aro,South America,-12.4242,-67.7293,Pano-Tacanan,Aro
+Mabenaro,Mabenaro,mabe1235,Mabenaro,,South America,-11.543809,-68.277741,Pano-Tacanan,Mab
+Cavinena,Kavineño,cavi1250,Cavineña,cav,South America,-13.3544,-66.6277,Pano-Tacanan,Kav
+EseEjja,Ese?exa,esee1248,Ese Ejja,ese,South America,-11.7268,-67.515,Pano-Tacanan,Ese
+Huarayo,Warayo,esee1248,Ese Ejja,ese,South America,-11.7268,-67.515,Pano-Tacanan,War
+Chama,Čama (Firestone),esee1248,Ese Ejja,ese,South America,-11.7268,-67.515,Pano-Tacanan,Cam
+Arasa,Arasa,araz1236,Arazaire,,South America,-13.25,-70.8,Pano-Tacanan,Ara
+Tiatinahua,Tiatinawa,esee1248,Ese Ejja,ese,South America,-11.7268,-67.515,Pano-Tacanan,Tia

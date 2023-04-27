@@ -520,8 +520,8 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 519	33	*baba	*baba	*abuelo	ProTa	abuelo	baba				
 520	33	*baba	*baba	*abuelo	Tak	hombre viejo	baba				
 521	33	*baba	*baba	*abuelo	Tak	su abuelo	e-baba-ce				
-522	33	*baba	*baba	*abuelo	Aro	chef du village	baba xiodi				Créqui1921
-523	33	*baba	*baba	*abuelo	Aro	dieu créateur	baba buada				Créqui1921
+522	33	*baba	*baba	*abuelo	Aro	chef du village	baba xiodi				Créqui1922
+523	33	*baba	*baba	*abuelo	Aro	dieu créateur	baba buada				Créqui1922
 524	33	*baba	*baba	*abuelo	Kav	antiguos,antecesores	baba-kwana				
 525	33	*baba	*baba	*abuelo	Kav	abuelo	e-baba				
 526	33	*baba	*baba	*abuelo	Kav	abuelos	e-baba-ekana				
@@ -1462,7 +1462,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 1461	139	*du1-	*du-	*pariente	Tak	cuñado (marido de hermana)	e-du-s-awe	*du-sa-awe			
 1462	139	*du1-	*du-	*pariente	Mar	much	drúxa				Heath1883
 1463	139	*du1-	*du-	*pariente	Mar	older sister	drundru				Heath1883
-1464	139	*du1-	*du-	*pariente	Aro	parents	-edoï-				Créqui1921
+1464	139	*du1-	*du-	*pariente	Aro	parents	-edoï-				Créqui1922
 1465	139	*du1-	*du-	*pariente	Mab	brother	dodo				
 1466	139	*du1-	*du-	*pariente	Mab	sister	doda				
 1467	139	*du1-	*du-	*pariente	Kav	campañero	e-dure				Armentia1887
@@ -2298,7 +2298,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 2220	229	*kwa3-	*kwati	*leña	War	ceniza	kwati-poi				
 2221	229	*kwa3-	*kwati	*leña	Cam	kindling wood	kwáki				
 2222	229	*kwa3-	*kwati	*leña	Ara	fire	kuáti				
-2223	229	*kwa3-	*kwati	*leña	Ara	bois (chonta) de la flèche	kuato				Créqui1921
+2223	229	*kwa3-	*kwati	*leña	Ara	bois (chonta) de la flèche	kuato				Créqui1922
 2224	229	*kwa3-	*kwawi	*asar	ProTa	asar	kwawi				
 2225	229	*kwa3-	*kwawi	*asar	Tak	asar	kwawi-				
 2226	229	*kwa3-	*kwawi	*asar	Tak	chamuscar	ina-kwawi-				
@@ -2658,8 +2658,8 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 2580	277	*masi	*masi	*caitu (hilo hecho en casa)	ProTa	caitu (hilo hecho en casa)	masi				
 2581	277	*masi	*masi	*caitu (hilo hecho en casa)	Kav	caitu (hilo hecho en casa)	masi				
 2582	277	*masi	*masi	*caitu (hilo hecho en casa)	Ese	hilo de algodón	mahii				
-2583	277	*masi	*masi	*caitu (hilo hecho en casa)	Ara	fil	mahi				Créqui1921
-2584	277	*masi	*masi	*caitu (hilo hecho en casa)	Ara	ligature de la flèche	mahí				Créqui1921
+2583	277	*masi	*masi	*caitu (hilo hecho en casa)	Ara	fil	mahi				Créqui1922
+2584	277	*masi	*masi	*caitu (hilo hecho en casa)	Ara	ligature de la flèche	mahí				Créqui1922
 2585	278	*mata	*mata	*cerro	ProTa	cerro	mata				
 2586	278	*mata	*mata	*cerro	Tak	cerro,frente	e-mata				
 2587	278	*mata	*mata	*cerro	Tak	punta de cerro	e-mata wiceki				
@@ -3344,7 +3344,7 @@ ID	PROTO_SET	Proto_Entry	Proto_Form	Proto_Concept	Doculect	Concept	Value	Morph_I
 3266	348	*pisa	*pisa	*flecha	Kav	flecha,lanza	piya				
 3267	348	*pisa	*pisa	*flecha	Kav	flechar	piya-cewe-a-				
 3268	348	*pisa	*pisa	*flecha	Kav	flechador	pia-ki		*pisa > piha > pi(y)a?		Armentia1887
-3269	348	*pisa	*pisa	*flecha	Ara	flèche à pointe de bois de palmier	pia				Créqui1921
+3269	348	*pisa	*pisa	*flecha	Ara	flèche à pointe de bois de palmier	pia				Créqui1922
 3270	349	*piti	*piti	*pescuezo,cuello	ProTa	pescuezo,cuello	piti		or *tipi		
 3271	349	*piti	*piti	*pescuezo,cuello	Tak	pescuezo	e-tipi				
 3272	349	*piti	*piti	*pescuezo,cuello	Mar	neck	etípi				Heath1883

@@ -12,7 +12,6 @@ from pylexibank import FormSpec
 @attr.s
 class CustomLanguage(Language):
     NameInSource = attr.ib(default=None)
-#    Sources = attr.ib(default=None)
 
 
 @attr.s
@@ -104,7 +103,8 @@ class Dataset(BaseDataset):
         args.log.info("added concepts")
 
         # add language
-        languages = args.writer.add_languages(lookup_factory="ID")
+        languages = args.writer.add_languages(lookup_factory="NameInSource")
+        print(languages)
         args.log.info("added languages")
 
         data = Wordlist(str(self.raw_dir.joinpath("data.tsv")))
