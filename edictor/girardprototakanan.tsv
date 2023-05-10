@@ -346,7 +346,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	SOURCE	PROTOSET	CONCEPTINSOURCE
 3146	EseEjja	*amargo	kea-pase	kea-pase	k e a + p a s e		352		332	amargo	
 3147	Huarayo	*amargo	kia-pase	kia-pase	k i a + p a s e		352		332	amargo	
 3148	Huarayo	*amargo	pasé-ama	pasé-ama	p a s é/e + a m a		352		332	no amargo	
-3490	ProtoTakana	*amarrar,atar	řisi	řisi	ɽ i s i		521		372	amarrar,atar	
+3490	ProtoTakana	*amarrar,atar	řisi	řisi	ɽ i s i		521		372	amarrar,atar	1
 3491	Tacana	*amarrar,atar	e-risi-hi	e-risi-hi	e + r i s i + h i		521		372	cosa para amarrar	
 3492	Tacana	*amarrar,atar	risi-hihi	risi-hihi	r i s i + h i h i		521		372	amarrado	
 3493	Tacana	*amarrar,atar	risi-	risi-	r i s i		521		372	amarrar	
@@ -1598,18 +1598,18 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	SOURCE	PROTOSET	CONCEPTINSOURCE
 4084	EseEjja	*encender	ko-ša-	ko-ša-	k o + ʃ a		442		433	atizar	
 706	ProtoTakana	*encima	beake	beake	b e a k e		95		55	encima	
 707	Tacana	*encima	e-bia-he	e-bia-he	e + b i a + h e		95		55	por encima,montado	
-708	Cavinena	*encima	dʲake	dʲake	d i a k e	Concept 'muy' taken from Armentia | Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	95		55	encima,sobre,muy	
-709	Cavinena	*encima	dʲake-kwita	dʲake-kwita	d i a k e + kʷ i t a	Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	95		55	demasiado,por de más	
-710	Cavinena	*encima	dʲake-ne	dʲake-ne	d i a k e + n e	Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	95		55	peor,por de más	
-711	Cavinena	*encima	diake-dianea	diake-dianea	d i a k e + d i a n j a	Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	95	Armentia1887	55	engradecer	
-712	Cavinena	*encima	diake-hie	diake-hie	d i a k e + h i e	Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	95	Armentia1887	55	enteramente	
-713	Cavinena	*encima	diake-hu	diake-hu	d i a k e + h u	Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	95	Armentia1887	55	externo	
-714	Cavinena	*encima	diake-hunati	diake-hunati	d i a k e + h u n a t i	Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	95	Armentia1887	55	creciente	
-715	Cavinena	*encima	diake-neuti	diake-neuti	d i a k e + n e u t i	Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	95	Armentia1887	55	enorme	
-716	Cavinena	*encima	diake-pihe	diake-pihe	d i a k e + p i h e	Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	95	Armentia1887	55	extraordinario	
-717	Cavinena	*encima	diake-pihine	diake-pihine	d i a k e + p i h i n e	cognate? | Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	95	Armentia1887	55	intemporie	
-718	EseEjja	*encima	biaxe	biaxe	b i a x e	Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	95		55	encima	
-719	Huarayo	*encima	e-biahe	e-biahe	e + b i a h e	Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	95		55	encima	
+708	Cavinena	*encima	dʲake	dʲake	d i a k e	Concept 'muy' taken from Armentia | Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	95		55	encima,sobre,muy	1
+709	Cavinena	*encima	dʲake-kwita	dʲake-kwita	d i a k e + kʷ i t a	Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	95		55	demasiado,por de más	1
+710	Cavinena	*encima	dʲake-ne	dʲake-ne	d i a k e + n e	Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	95		55	peor,por de más	1
+711	Cavinena	*encima	diake-dianea	diake-dianea	d i a k e + d i a n j a	Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	95	Armentia1887	55	engradecer	1
+712	Cavinena	*encima	diake-hie	diake-hie	d i a k e + h i e	Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	95	Armentia1887	55	enteramente	1
+713	Cavinena	*encima	diake-hu	diake-hu	d i a k e + h u	Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	95	Armentia1887	55	externo	1
+714	Cavinena	*encima	diake-hunati	diake-hunati	d i a k e + h u n a t i	Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	95	Armentia1887	55	creciente	1
+715	Cavinena	*encima	diake-neuti	diake-neuti	d i a k e + n e u t i	Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	95	Armentia1887	55	enorme	1
+716	Cavinena	*encima	diake-pihe	diake-pihe	d i a k e + p i h e	Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	95	Armentia1887	55	extraordinario	1
+717	Cavinena	*encima	diake-pihine	diake-pihine	d i a k e + p i h i n e	cognate? | Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	95	Armentia1887	55	intemporie	1
+718	EseEjja	*encima	biaxe	biaxe	b i a x e	Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	95		55	encima	1
+719	Huarayo	*encima	e-biahe	e-biahe	e + b i a h e	Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	95		55	encima	1
 1346	ProtoTakana	*encontrar	c̣uru	c̣uru	ʈʂ u r u		167		125	encontrar	
 1347	Tacana	*encontrar	cu-tiya-	cu-tiya-	ʈʂ u + t i j a		167		125	andar encontrar	
 1348	Tacana	*encontrar	cu-itaitia	cu-itaitia	ʈʂ u + i t a i t i a		167	Armentia1887	125	lo encontró	
@@ -1850,10 +1850,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	SOURCE	PROTOSET	CONCEPTINSOURCE
 476	Tacana	*frío	ba-nesa	ba-nesa	b a + n e s a		63	Armentia1887	30	enfriar	
 477	Tacana	*frío	ba-su	ba-su	b a + s u		63	Armentia1887	30	calofrío	
 478	Tacana	*frío	baara	baara	b a a r a		63		30	fiebre (chills?)	
-479	Mabenaro	*frío	buata	buata	b u a t a		63		30	cold	
+479	Mabenaro	*frío	buata	buata	b u a t a		63		30	cold	1
 480	EseEjja	*frío	kea-boe	kea-boe	k e a + b o e		63		30	frío	
 481	EseEjja	*frío	boeʔama	boeʔama	b o e ʔ a m a		63		30	no hace frío	
-482	Huarayo	*frío	kia-buewe	kia-buewe	k i a + b u e w e		63		30	frío	
+482	Huarayo	*frío	kia-buewe	kia-buewe	k i a + b u e w e		63		30	frío	1
 4487	ProtoTakana	*frío	wina	wina	w i n a		484		475	frío	
 4488	Tacana	*frío	wina-da	wina-da	β i n a + d a		484		475	frío,fresco	
 4489	Tacana	*frío	wina-na-	wina-na-	β i n a + n a		484		475	refrescar	
@@ -2169,9 +2169,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	SOURCE	PROTOSET	CONCEPTINSOURCE
 1485	Cavinena	*hondo,profundo	de-da-ma-ke	de-da-ma-ke	d e + d a + m a + k e		181		140	pando,poco profundo	
 1486	Cavinena	*hondo,profundo	de-daʔa	de-daʔa	d e + d a ʔ a		181	Armentia1887	140	fondear	
 1487	Cavinena	*hondo,profundo	de-u	de-u	d e + u		181	Armentia1887	140	fondeo,hondura	
-1488	Cavinena	*hondo,profundo	du-e-niti	du-e-niti	d u + e + n i t i		181		140	panza	
+1488	Cavinena	*hondo,profundo	du-e-niti	du-e-niti	d u + e + n i t i		181		140	panza	1
 1489	EseEjja	*hondo,profundo	kea-do-e	kea-do-e	k e a + d o + e		181		140	hondo	
-1490	EseEjja	*hondo,profundo	doo	doo	d o o		181		140	hongo	
+1490	EseEjja	*hondo,profundo	doo	doo	d o o		181		140	hongo	1
 1491	EseEjja	*hondo,profundo	do-do-ka-	do-do-ka-	d o + d o + k a		181		140	envolver	
 1492	EseEjja	*hondo,profundo	do-ho-ka-	do-ho-ka-	d o + h o + k a		181		140	bajar (por el río)	
 1493	EseEjja	*hondo,profundo	do-ho-ka-ki-	do-ho-ka-ki-	d o + h o + k a + k i		181		140	desbarrancar	
@@ -2283,12 +2283,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	SOURCE	PROTOSET	CONCEPTINSOURCE
 143	Cavinena	*interrogación	airiya	airiya	a i r i j a		56		3	qué es esto	
 144	Cavinena	*interrogación	aitome	aitome	a i t o m e		56		3	qué es eso	
 145	Cavinena	*interrogación	aitibu	aitibu	a i t i b u		56	Armentia1887	3	que	
-146	Cavinena	*interrogación	aiha-ma	aiha-ma	a i h a + m a		56		3	no hay	
-147	Cavinena	*interrogación	aiha-ma-taʔa	aiha-ma-taʔa	a i h a + m a + t a ʔ a		56		3	impossible	
-148	Cavinena	*interrogación	aikiraaya	aikiraaya	a i k i r a a j a		56		3	así lo hace	
-149	Cavinena	*interrogación	aikiraišo	aikiraišo	a i k i r a i ʃ o		56		3	para hacer	
-150	Cavinena	*interrogación	aida	aida	a i d a		56	Armentia1887	3	abundancia	
-151	Cavinena	*interrogación	aidahu	aidahu	a i d a h u		56	Armentia1887	3	abundar	
+146	Cavinena	*interrogación	aiha-ma	aiha-ma	a i h a + m a		56		3	no hay	1
+147	Cavinena	*interrogación	aiha-ma-taʔa	aiha-ma-taʔa	a i h a + m a + t a ʔ a		56		3	impossible	1
+148	Cavinena	*interrogación	aikiraaya	aikiraaya	a i k i r a a j a		56		3	así lo hace	1
+149	Cavinena	*interrogación	aikiraišo	aikiraišo	a i k i r a i ʃ o		56		3	para hacer	1
+150	Cavinena	*interrogación	aida	aida	a i d a		56	Armentia1887	3	abundancia	1
+151	Cavinena	*interrogación	aidahu	aidahu	a i d a h u		56	Armentia1887	3	abundar	1
 152	EseEjja	*interrogación	ačakwa	ačakwa	a tʃ a kʷ a	*aʔiza...?	56		3	a donde?	
 153	EseEjja	*interrogación	ačaxa	ačaxa	a tʃ a x a		56		3	cómo?	
 154	EseEjja	*interrogación	ačaxa akawi	ačaxa_akawi	a tʃ a x a + a k a w i		56		3	cómo se hace?	
@@ -3096,9 +3096,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	SOURCE	PROTOSET	CONCEPTINSOURCE
 288	Cavinena	*obscuro	k-apu-ta	k-apu-ta	k + a p u + t a		43	Armentia1887	16	obscuro	
 289	Cavinena	*obscuro	k-apu-tahu	k-apu-tahu	k + a p u + t a h u		43	Armentia1887	16	encapotar	
 290	Cavinena	*obscuro	e-apu-ta	e-apu-ta	e + a p u + t a		43	Armentia1887	16	oscurecer	
-291	Cavinena	*obscuro	pube	pube	p u b e		43	Armentia1887	16	nube	
-292	Cavinena	*obscuro	puenrurusisama	puenrurusisama	p u e n r u r u s i s a m a		43	Armentia1887	16	asombro	
-293	Cavinena	*obscuro	apu-da	apu-da	a p u + d a		43	Armentia1887	16	lobreguez,tinieblas	
+291	Cavinena	*obscuro	pube	pube	p u b e		43	Armentia1887	16	nube	1
+292	Cavinena	*obscuro	puenrurusisama	puenrurusisama	p u e n r u r u s i s a m a		43	Armentia1887	16	asombro	1
+293	Cavinena	*obscuro	apu-da	apu-da	a p u + d a		43	Armentia1887	16	lobreguez,tinieblas	1
 294	EseEjja	*obscuro	kea-ʔapo	kea-ʔapo	k e a + ʔ a p o		43		16	oscuro	
 4093	ProtoTakana	*ojo	(a)tuka	tuka	t u k a		3		436	ojo	
 4094	Tacana	*ojo	e-tua	e-tua	e + t u a		3		436	ojo	
@@ -3208,7 +3208,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	SOURCE	PROTOSET	CONCEPTINSOURCE
 1362	Tacana	*palo	e-da-da	e-da-da	e + d a + d a	Concepts 'palca para tejar,cabo,mango' taken from Armentia	170		128	palito (como pata de mesa o silla),palca para tejar,cabo,mango	
 1363	Tacana	*palo	da-řa	da-řa	d a + ɽ a		170		128	escalera de balsa	
 1364	Tacana	*palo	da-ra	da-ra	d a + r a		170	Armentia1887	128	gancho,garfio,muesca	
-1365	Tacana	*palo	da-ra-da-rai	da-ra-da-rai	d a + r a + d a + r a i		170		128	dardo	
+1365	Tacana	*palo	da-ra-da-rai	da-ra-da-rai	d a + r a + d a + r a i		170		128	dardo	1
 1366	Tacana	*palo	ema-da-čua	ema-da-čua	e m a + d a + tʃ u a		170		128	rodilla	
 1367	Cavinena	*palo	da-da-a-	da-da-a-	d a + d a + a		170		128	sacar palo para pescar	
 1368	Cavinena	*palo	da-da	da-da	d a + d a		170	Armentia1887	128	ensalmar,hunada,huso	
@@ -3393,7 +3393,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	SOURCE	PROTOSET	CONCEPTINSOURCE
 1889	Cavinena	*pegar	iye-ke	iye-ke	i j e + k e		215	Armentia1887	177	matador	
 3294	ProtoTakana	*pelar	pu-	pu-	p u		373		353	pelar	
 3295	Tacana	*pelar	pu-si	pu-si	p u + s i		373		353	descarar,pelar	
-3296	Tacana	*pelar	pu-pu-	pu-pu-	p u + p u		373		353	lavar (ropa)	
+3296	Tacana	*pelar	pu-pu-	pu-pu-	p u + p u		373		353	lavar (ropa)	1
 3297	Cavinena	*pelar	po-hi-	po-hi-	p o + h i		373		353	pelar,deschalar	
 3298	Cavinena	*pelar	e-po-hi	e-po-hi	e + p o + h i		373		353	pelada	
 3299	Cavinena	*pelar	po-pi	po-pi	p o + p i		373		353	pelado	
@@ -3721,10 +3721,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	SOURCE	PROTOSET	CONCEPTINSOURCE
 34	Tacana	*quedarse,*tener,*estar	ani-hude	ani-hude	a n i + h u d e	concept 'parte ó lugar' taken from Armentia	39		1	vivienda,lugar,parte ó lugar	
 35	Tacana	*quedarse,*tener,*estar	ani-ute-	ani-ute-	a n i + u t e		39		1	sentar	
 36	Tacana	*quedarse,*tener,*estar	e-ani-hi	e-ani-hi	e + a n i + h i		39	Armentia1887	1	asiento	
-37	Tacana	*quedarse,*tener,*estar	ani-a	ani-a	a n i + a		39		1	lindo,bonito,hermoso	
-38	Tacana	*quedarse,*tener,*estar	ani-a-ani-a	ani-a-ani-a	a n i + a + a n i + a		39		1	muy lindo	
-39	Tacana	*quedarse,*tener,*estar	ani-a-čidi	ani-a-čidi	a n i + a + tʃ i d i		39		1	lindo, hermoso	
-40	Reyesano	*quedarse,*tener,*estar	ani-po-he	ani-po-he	a n i + p o + h e		39		1	seated	
+37	Tacana	*quedarse,*tener,*estar	ani-a	ani-a	a n i + a		39		1	lindo,bonito,hermoso	1
+38	Tacana	*quedarse,*tener,*estar	ani-a-ani-a	ani-a-ani-a	a n i + a + a n i + a		39		1	muy lindo	1
+39	Tacana	*quedarse,*tener,*estar	ani-a-čidi	ani-a-čidi	a n i + a + tʃ i d i		39		1	lindo, hermoso	1
+40	Reyesano	*quedarse,*tener,*estar	ani-po-he	ani-po-he	a n i + p o + h e		39		1	seated	1
 41	Maropa	*quedarse,*tener,*estar	ani-buteje	ani-buteje	a n i + b u t e j e		39	Cardús1886	1	siéntate	
 42	Guariza	*quedarse,*tener,*estar	anibuteni	anibuteni	a n i b u t e n i		39		1	sits	
 43	Araona	*quedarse,*tener,*estar	eani	eani	e a n i		39		1	il y a	
@@ -3952,9 +3952,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	SOURCE	PROTOSET	CONCEPTINSOURCE
 427	ProtoTakana	*rocío,sereno	ba...	ba...	b a		64		28	rocío,sereno	
 428	Tacana	*rocío,sereno	ba-hi	ba-hi	b a + h i	cognate?	64		28	rocío,sereno	
 429	Cavinena	*rocío,sereno	ba-kakaya	ba-kakaya	b a + k a k a j a		64	Armentia1887	28	encuentro de río	
-430	Cavinena	*rocío,sereno	y-aba-kwi	y-aba-kwi	j + a b a + kʷ i		64		28	rocío,sereno	
-431	Cavinena	*rocío,sereno	aba-ka-da	aba-ka-da	a b a + k a + d a		64		28	calmado,con paz	
-432	Cavinena	*rocío,sereno	aba-ka-ta	aba-ka-ta	a b a + k a + t a	probably most, or all, from a different root	64		28	silencio	
+430	Cavinena	*rocío,sereno	y-aba-kwi	y-aba-kwi	j + a b a + kʷ i		64		28	rocío,sereno	1
+431	Cavinena	*rocío,sereno	aba-ka-da	aba-ka-da	a b a + k a + d a		64		28	calmado,con paz	1
+432	Cavinena	*rocío,sereno	aba-ka-ta	aba-ka-ta	a b a + k a + t a	probably most, or all, from a different root	64		28	silencio	1
 433	Huarayo	*rocío,sereno	bačue	bačue	b a tʃ u e		64		28	lago	
 1994	ProtoTakana	*roll up	kaka-	kaka-	k a k a		231		202	roll up	
 1995	Cavinena	*roll up	kaka-	kaka-	k a k a		231		202	roll up	
@@ -4187,9 +4187,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	SOURCE	PROTOSET	CONCEPTINSOURCE
 730	Tacana	*también	bia-tipie	bia-tipie	b i a + t i p i e		94	Armentia1887	55	apurarse	
 731	Tacana	*también	bia-tuče	bia-tuče	b i a + t u tʃ e		94	Armentia1887	55	defenderse,resistirse	
 732	Tacana	*también	dunu-hi	dunu-hi	d u n u + h i		94	Armentia1887	55	fardo	
-733	Cavinena	*también	dyahotiʔi	dyahotiʔi	d j a h o t i ʔ i	Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	94		55	seguido	
-734	Cavinena	*también	diadi	diadi	d i a d i	Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	94	Armentia1887	55	también	
-735	Cavinena	*también	a-dya-	a-dya-	a + d j a	cognate? | Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	94		55	enfermer,contagiar	
+733	Cavinena	*también	dyahotiʔi	dyahotiʔi	d j a h o t i ʔ i	Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	94		55	seguido	1
+734	Cavinena	*también	diadi	diadi	d i a d i	Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	94	Armentia1887	55	también	1
+735	Cavinena	*también	a-dya-	a-dya-	a + d j a	cognate? | Kav forms may well not be cognate. While morphologically these forms resemble those of Takana and Eseʔexa, a different root may be involved. The correspondance Tak. bea : Kav. dya may then be quite fictional.	94		55	enfermer,contagiar	1
 336	ProtoTakana	*tapir	awada	awada	a w a d a		51		24	tapir	
 337	Tacana	*tapir	awada	awada	a w a d a		51		24	anta	
 338	Reyesano	*tapir	awandza	awandza	a w a n d z a		51		24	tapir	
@@ -4353,7 +4353,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	SOURCE	PROTOSET	CONCEPTINSOURCE
 685	ProtoTakana	*traer	be-	be-	b e		93		53	traer	
 686	Tacana	*traer	be-itu-	be-itu-	b e + i t u	Concept 'despachar' taken from Armentia	93		53	mandar,despachar	
 687	Cavinena	*traer	be-	be-	b e		93		53	traer	
-688	Cavinena	*traer	ka-be-ti	ka-be-ti	k a + b e + t i		93	Armentia1887	53	aparejar	
+688	Cavinena	*traer	ka-be-ti	ka-be-ti	k a + b e + t i		93	Armentia1887	53	aparejar	1
 2090	ProtoTakana	*traer	keti-	keti-	k e t i		244		216	traer	
 2091	Tacana	*traer	heti-	heti-	h e t i		244		216	traer	
 2092	Cavinena	*traer	keti-	keti-	k e t i		244		216	traer	
@@ -4706,8 +4706,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	SOURCE	PROTOSET	CONCEPTINSOURCE
 184	Tacana	*árbol	akiřa	akiřa	a k i ɽ a		2		8	espina	
 185	Tacana	*árbol	akiřai	akiřai	a k i ɽ a i		2		8	suchi (pez)	
 186	Tacana	*árbol	akiřu	akiřu	a k i ɽ u		2		8	manzana silvestre (árbol)	
-187	Tacana	*árbol	ki-pabi	ki-pabi	k i + p a b i		2		8	gavetillo (árbol)	
-188	Tacana	*árbol	kwase eki	kwase_eki	kʷ a s e + e k i		2		8	árbol de cacao	
+187	Tacana	*árbol	ki-pabi	ki-pabi	k i + p a b i		2		8	gavetillo (árbol)	1
+188	Tacana	*árbol	kwase eki	kwase_eki	kʷ a s e + e k i		2		8	árbol de cacao	1
 189	Reyesano	*árbol	akwi	akwi	a kʷ i		2		8	tree	
 190	Maropa	*árbol	ekená	ekená	e k e n á/a		2	Heath1883	8	leaf	
 191	Maropa	*árbol	áki	áki	á/a k i		2	Heath1883	8	tree	
