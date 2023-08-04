@@ -30,7 +30,7 @@ This dataset is licensed under a CC-BY-4.0 license
 - **Cognate Diversity:** -0.00
 - **Invalid lexemes:** 0
 - **Tokens:** 31,878
-- **Segments:** 48 (0 BIPA errors, 0 CLTS sound class errors, 48 CLTS modified)
+- **Segments:** 48 (0 BIPA errors, 0 CTLS sound class errors, 48 CLTS modified)
 - **Inventory size (avg):** 24.93
 
 ## Possible Improvements:
@@ -55,4 +55,4 @@ Johann-Mattis List | @LinguList| CLDF conversion | Other
 
 The following CLDF datasets are available in [cldf](cldf):
 
-- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf\cldf-metadata.json](cldf\cldf-metadata.json)
