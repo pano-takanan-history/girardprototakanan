@@ -7,6 +7,7 @@ from pylexibank import Dataset as BaseDataset
 from pylexibank import progressbar as pb
 from pylexibank import Language, Lexeme, Concept
 from pylexibank import FormSpec
+from pyedictor import fetch
 
 
 @attr.s
@@ -56,6 +57,32 @@ class Dataset(BaseDataset):
         first_form_only=True
         )
 
+    def cmd_download(self, _):
+        print("updating...")
+        with open(self.raw_dir.joinpath("data.tsv"), "w", encoding="utf-8") as f:
+            f.write(
+                fetch(
+                    "girardprototakanan",
+                    columns=[
+                        "ALIGNMENT",
+                        "COGID",
+                        "CONCEPT",
+                        "DOCULECT",
+                        "FORM",
+                        "VALUE",
+                        "TOKENS",
+                        #"MORPH_INFO",
+                        "NOTE",
+                        "SOURCE",
+                        "PROTO_SET",
+                        #"PROTO_ENTRY",
+                        #"PROTO_FORM",
+                        "CONCEPT_IN_SOURCE",
+                    ],
+                    base_url="http://lingulist.de/edev"
+                )
+            )
+
     def cmd_makecldf(self, args):
         args.writer.add_sources()
         args.log.info("added sources")
@@ -103,65 +130,75 @@ class Dataset(BaseDataset):
         args.log.info("added concepts")
 
         # add language
-        languages = args.writer.add_languages(lookup_factory="NameInSource")
+        languages = args.writer.add_languages(lookup_factory="ID")
         print(languages)
         args.log.info("added languages")
 
         data = Wordlist(str(self.raw_dir.joinpath("data.tsv")))
-        data.renumber(
-            "PROTO_FORM", "cogid")
+        #data.renumber(
+         #   "PROTO_FORM", "cogid")
 
         # add data
         for (
             idx,
+            alignment,
             proto_set,
-            proto_entry,
-            proto_form,
-            proto_concept,
+            #proto_entry,
+            #proto_form,
+            #proto_concept,
             doculect,
             concept,
             value,
-            morph_infor,
+            form,
+            tokens,
+            #morph_infor,
             note,
-            uncertainty,
+            #uncertainty,
             source,
-            cogid
+            cogid,
+            concept_in_source
         ) in pb(
             data.iter_rows(
                 "proto_set",
-                "proto_entry",
-                "proto_form",
-                "proto_concept",
+                "alignment",
+                #"proto_entry",
+                #"proto_form",
+                #"proto_concept",
                 "doculect",
                 "concept",
                 "value",
-                "morph_infor",
+                "form",
+                "tokens",
+                #"morph_infor",
                 "note",
-                "uncertainty",
+                #"uncertainty",
                 "source",
-                "cogid"
+                "cogid",
+                "concept_in_source"
             ),
             desc="cldfify"
         ):
-            for lexeme in args.writer.add_forms_from_value(
-                    Language_ID=languages[doculect],
-                    Parameter_ID=concepts[(proto_concept)],
-                    Value=value,
-                    EntryFromProto=proto_entry,
-                    FormFromProto=proto_form,
-                    ConceptFromProto=proto_concept,
-                    MorphologicalInformation=morph_infor,
-                    Comment=note,
-                    Source=source,
-                    UncertainCognacy=uncertainty,
-                    ProtoSet=proto_set,
-                    Cognacy=cogid,
-                    ConceptInSource=concept,
-                    ):
+            lexeme = args.writer.add_form_with_segments(
+                Language_ID=languages[doculect],
+                Parameter_ID=concepts[(concept)],
+                Value=value.strip() or form.strip(),
+                Form=form.strip(),
+                Segments=tokens,
+                #EntryFromProto=proto_entry,
+                #FormFromProto=proto_form,
+                #ConceptFromProto=proto_concept,
+                #MorphologicalInformation=morph_infor,
+                Comment=note,
+                #Source=source,
+                #UncertainCognacy=uncertainty,
+                ProtoSet=proto_set,
+                Cognacy=cogid,
+                ConceptInSource=concept_in_source,
+            )
 
-                args.writer.add_cognate(
-                        lexeme=lexeme,
-                        Cognateset_ID=cogid,
-                        Cognate_Detection_Method="expert",
-                        Source="Girard1971"
-                        )
+            args.writer.add_cognate(
+                lexeme=lexeme,
+                Cognateset_ID=cogid,
+                Cognate_Detection_Method="expert",
+                Source="Girard1971"
+                )

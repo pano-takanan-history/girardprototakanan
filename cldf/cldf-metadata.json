@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/pano-tacanan-history/girardprototakanan",
             "rdf:type": "prov:Entity",
-            "dc:created": "73313e9",
+            "dc:created": "7823ae7",
             "dc:title": "Repository"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.8.8"
+            "dc:description": "3.9.1"
         },
         {
             "dc:title": "python-packages",
@@ -51,13 +51,10 @@
     ],
     "rdf:ID": "girardprototakanan",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
-    "dialect": {
-        "commentPrefix": null
-    },
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 4764,
+            "dc:extent": 4819,
             "tableSchema": {
                 "columns": [
                     {
@@ -204,7 +201,7 @@
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
-                        "valueUrl": "http://glottolog.org/resource/languoid/id/{glottolog_id}",
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
                         "name": "Glottocode"
                     },
                     {
@@ -224,8 +221,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -90,
-                            "maximum": 90
+                            "minimum": "-90",
+                            "maximum": "90"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
                         "required": false,
@@ -234,8 +231,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -180,
-                            "maximum": 180
+                            "minimum": "-180",
+                            "maximum": "180"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
                         "required": false,
@@ -258,7 +255,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 540,
+            "dc:extent": 552,
             "tableSchema": {
                 "columns": [
                     {
@@ -274,7 +271,7 @@
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#concepticonReference",
-                        "valueUrl": "http://concepticon.clld.org/parameters/{concepticon_id}",
+                        "valueUrl": "http://concepticon.clld.org/parameters/{Concepticon_ID}",
                         "name": "Concepticon_ID"
                     },
                     {
@@ -302,7 +299,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 4764,
+            "dc:extent": 4819,
             "tableSchema": {
                 "columns": [
                     {
