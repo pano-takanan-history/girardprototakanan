@@ -182,5 +182,3 @@ class Dataset(BaseDataset):
                 Cognate_Detection_Method="expert",
                 Source="Girard1971"
             )
-
-            print(source)
