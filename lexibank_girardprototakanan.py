@@ -17,20 +17,15 @@ class CustomLanguage(Language):
 
 @attr.s
 class CustomConcept(Concept):
-    Proto_Concept = attr.ib(default=None)
     Proto_ID = attr.ib(default=None)
     Original_Concept = attr.ib(default=None)
 
 
 @attr.s
 class CustomLexeme(Lexeme):
-    UncertainCognacy = attr.ib(default=None)
-    ConceptFromProto = attr.ib(default=None)
-    EntryFromProto = attr.ib(default=None)
-    FormFromProto = attr.ib(default=None)
+    Alignment = attr.ib(default=None)
     ProtoSet = attr.ib(default=None)
     ConceptInSource = attr.ib(default=None)
-    MorphologicalInformation = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -137,28 +132,28 @@ class Dataset(BaseDataset):
         for (
             idx,
             alignment,
-            protoset,
-            doculect,
+            cogid,
             concept,
-            value,
+            doculect,
             form,
+            value,
             tokens,
             note,
             source,
-            cogid,
+            protoset,
             conceptinsource
         ) in pb(
             data.iter_rows(
-                "protoset",
                 "alignment",
-                "doculect",
+                "cogid",
                 "concept",
-                "value",
+                "doculect",
                 "form",
+                "value",
                 "tokens",
                 "note",
                 "source",
-                "cogid",
+                "protoset",
                 "conceptinsource"
             ),
             desc="cldfify"
@@ -173,6 +168,7 @@ class Dataset(BaseDataset):
                 Source=source.split(" "),
                 ProtoSet=protoset,
                 Cognacy=cogid,
+                Alignment="".join(alignment),
                 ConceptInSource=conceptinsource,
             )
 

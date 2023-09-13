@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/pano-tacanan-history/girardprototakanan",
             "rdf:type": "prov:Entity",
-            "dc:created": "40c537c",
+            "dc:created": "68d4808",
             "dc:title": "Repository"
         },
         {
@@ -126,19 +126,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "UncertainCognacy"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "ConceptFromProto"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "EntryFromProto"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "FormFromProto"
+                        "name": "Alignment"
                     },
                     {
                         "datatype": "string",
@@ -147,10 +135,6 @@
                     {
                         "datatype": "string",
                         "name": "ConceptInSource"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "MorphologicalInformation"
                     }
                 ],
                 "foreignKeys": [
@@ -277,10 +261,6 @@
                     {
                         "datatype": "string",
                         "name": "Concepticon_Gloss"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Proto_Concept"
                     },
                     {
                         "datatype": "string",

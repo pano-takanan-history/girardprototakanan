@@ -2,8 +2,8 @@
     "by_language": {
         "Araona": {
             "bipa_errors": [
-                "t.j",
                 "m.b",
+                "t.j",
                 "t\u027d"
             ],
             "general_errors": 3,
@@ -217,8 +217,8 @@
                 ]
             },
             "sclass_errors": [
-                "t.j",
                 "m.b",
+                "t.j",
                 "t\u027d"
             ],
             "segments": {
@@ -1975,9 +1975,9 @@
         },
         "Maropa": {
             "bipa_errors": [
-                "ndr",
                 "m.b",
                 "dr",
+                "ndr",
                 "\u0288\u027d"
             ],
             "general_errors": 32,
@@ -2191,9 +2191,9 @@
                 ]
             },
             "sclass_errors": [
-                "ndr",
                 "m.b",
                 "dr",
+                "ndr",
                 "\u0288\u027d"
             ],
             "segments": {
@@ -3916,15 +3916,15 @@
         ],
         "bad_words_count": 64,
         "bipa_errors": [
+            "t\u027d",
+            "}a",
+            "u.e",
+            "dr",
+            "t.j",
             "ndr",
             "m.b",
-            "u.e",
-            "t.j",
-            "dr",
             "a.i",
-            "}a",
-            "\u0288\u027d",
-            "t\u027d"
+            "\u0288\u027d"
         ],
         "general_errors": 65,
         "invalid_words": [],
@@ -4140,15 +4140,15 @@
             ]
         },
         "sclass_errors": [
+            "t\u027d",
+            "}a",
+            "u.e",
+            "dr",
+            "t.j",
             "ndr",
             "m.b",
-            "u.e",
-            "t.j",
-            "dr",
             "a.i",
-            "}a",
-            "\u0288\u027d",
-            "t\u027d"
+            "\u0288\u027d"
         ],
         "segments": {
             "!I/i": 2,
