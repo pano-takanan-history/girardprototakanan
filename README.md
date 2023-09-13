@@ -17,14 +17,14 @@ This dataset is licensed under a CC-BY-4.0 license
 
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 70%](https://img.shields.io/badge/Concepticon-70%25-orange.svg "Concepticon: 70%")
-![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
+![Source: 19%](https://img.shields.io/badge/Source-19%25-red.svg "Source: 19%")
 ![BIPA: 88%](https://img.shields.io/badge/BIPA-88%25-yellowgreen.svg "BIPA: 88%")
 ![CLTS SoundClass: 88%](https://img.shields.io/badge/CLTS%20SoundClass-88%25-yellowgreen.svg "CLTS SoundClass: 88%")
 
 - **Varieties:** 14
 - **Concepts:** 552
 - **Lexemes:** 4,819
-- **Sources:** 0
+- **Sources:** 6
 - **Synonymy:** 1.47
 - **Cognacy:** 4,819 cognates in 1,092 cognate sets (556 singletons)
 - **Cognate Diversity:** 0.13
@@ -37,7 +37,7 @@ This dataset is licensed under a CC-BY-4.0 license
 
 
 
-- Entries missing sources: 4819/4819 (100.00%)
+- Entries missing sources: 3887/4819 (80.66%)
 
 # Contributors
 

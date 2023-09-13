@@ -71,12 +71,9 @@ class Dataset(BaseDataset):
                         "FORM",
                         "VALUE",
                         "TOKENS",
-                        #"MORPH_INFO",
                         "NOTE",
                         "SOURCE",
                         "PROTOSET",
-                        #"PROTO_ENTRY",
-                        #"PROTO_FORM",
                         "CONCEPTINSOURCE",
                     ],
                     base_url="http://lingulist.de/edev"
@@ -131,29 +128,22 @@ class Dataset(BaseDataset):
 
         # add language
         languages = args.writer.add_languages(lookup_factory="ID")
-        print(languages)
         args.log.info("added languages")
 
         data = Wordlist(str(self.raw_dir.joinpath("data.tsv")))
-        #data.renumber(
-         #   "PROTO_FORM", "cogid")
+
 
         # add data
         for (
             idx,
             alignment,
             protoset,
-            #proto_entry,
-            #proto_form,
-            #proto_concept,
             doculect,
             concept,
             value,
             form,
             tokens,
-            #morph_infor,
             note,
-            #uncertainty,
             source,
             cogid,
             conceptinsource
@@ -161,17 +151,12 @@ class Dataset(BaseDataset):
             data.iter_rows(
                 "protoset",
                 "alignment",
-                #"proto_entry",
-                #"proto_form",
-                #"proto_concept",
                 "doculect",
                 "concept",
                 "value",
                 "form",
                 "tokens",
-                #"morph_infor",
                 "note",
-                #"uncertainty",
                 "source",
                 "cogid",
                 "conceptinsource"
@@ -184,13 +169,8 @@ class Dataset(BaseDataset):
                 Value=value.strip() or form.strip(),
                 Form=form.strip(),
                 Segments=tokens,
-                #EntryFromProto=proto_entry,
-                #FormFromProto=proto_form,
-                #ConceptFromProto=proto_concept,
-                #MorphologicalInformation=morph_infor,
                 Comment=note,
-                #Source=source,
-                #UncertainCognacy=uncertainty,
+                Source=source.split(" "),
                 ProtoSet=protoset,
                 Cognacy=cogid,
                 ConceptInSource=conceptinsource,
@@ -201,4 +181,6 @@ class Dataset(BaseDataset):
                 Cognateset_ID=cogid,
                 Cognate_Detection_Method="expert",
                 Source="Girard1971"
-                )
+            )
+
+            print(source)

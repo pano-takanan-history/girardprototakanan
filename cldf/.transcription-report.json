@@ -2,9 +2,9 @@
     "by_language": {
         "Araona": {
             "bipa_errors": [
+                "t.j",
                 "t\u027d",
-                "m.b",
-                "t.j"
+                "m.b"
             ],
             "general_errors": 3,
             "replacements": {
@@ -217,9 +217,9 @@
                 ]
             },
             "sclass_errors": [
+                "t.j",
                 "t\u027d",
-                "m.b",
-                "t.j"
+                "m.b"
             ],
             "segments": {
                 "+": 7,
@@ -1975,10 +1975,10 @@
         },
         "Maropa": {
             "bipa_errors": [
-                "m.b",
+                "dr",
                 "ndr",
-                "\u0288\u027d",
-                "dr"
+                "m.b",
+                "\u0288\u027d"
             ],
             "general_errors": 32,
             "replacements": {
@@ -2191,10 +2191,10 @@
                 ]
             },
             "sclass_errors": [
-                "m.b",
+                "dr",
                 "ndr",
-                "\u0288\u027d",
-                "dr"
+                "m.b",
+                "\u0288\u027d"
             ],
             "segments": {
                 "!hu/w": 1,
@@ -3916,15 +3916,15 @@
         ],
         "bad_words_count": 64,
         "bipa_errors": [
+            "dr",
+            "ndr",
+            "t\u027d",
+            "}a",
+            "t.j",
             "a.i",
             "u.e",
-            "dr",
-            "\u0288\u027d",
-            "t.j",
-            "t\u027d",
             "m.b",
-            "ndr",
-            "}a"
+            "\u0288\u027d"
         ],
         "general_errors": 65,
         "invalid_words": [],
@@ -4140,15 +4140,15 @@
             ]
         },
         "sclass_errors": [
+            "dr",
+            "ndr",
+            "t\u027d",
+            "}a",
+            "t.j",
             "a.i",
             "u.e",
-            "dr",
-            "\u0288\u027d",
-            "t.j",
-            "t\u027d",
             "m.b",
-            "ndr",
-            "}a"
+            "\u0288\u027d"
         ],
         "segments": {
             "!I/i": 2,
