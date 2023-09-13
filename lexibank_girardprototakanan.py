@@ -74,10 +74,10 @@ class Dataset(BaseDataset):
                         #"MORPH_INFO",
                         "NOTE",
                         "SOURCE",
-                        "PROTO_SET",
+                        "PROTOSET",
                         #"PROTO_ENTRY",
                         #"PROTO_FORM",
-                        "CONCEPT_IN_SOURCE",
+                        "CONCEPTINSOURCE",
                     ],
                     base_url="http://lingulist.de/edev"
                 )
@@ -142,7 +142,7 @@ class Dataset(BaseDataset):
         for (
             idx,
             alignment,
-            proto_set,
+            protoset,
             #proto_entry,
             #proto_form,
             #proto_concept,
@@ -156,10 +156,10 @@ class Dataset(BaseDataset):
             #uncertainty,
             source,
             cogid,
-            concept_in_source
+            conceptinsource
         ) in pb(
             data.iter_rows(
-                "proto_set",
+                "protoset",
                 "alignment",
                 #"proto_entry",
                 #"proto_form",
@@ -174,7 +174,7 @@ class Dataset(BaseDataset):
                 #"uncertainty",
                 "source",
                 "cogid",
-                "concept_in_source"
+                "conceptinsource"
             ),
             desc="cldfify"
         ):
@@ -191,9 +191,9 @@ class Dataset(BaseDataset):
                 Comment=note,
                 #Source=source,
                 #UncertainCognacy=uncertainty,
-                ProtoSet=proto_set,
+                ProtoSet=protoset,
                 Cognacy=cogid,
-                ConceptInSource=concept_in_source,
+                ConceptInSource=conceptinsource,
             )
 
             args.writer.add_cognate(
