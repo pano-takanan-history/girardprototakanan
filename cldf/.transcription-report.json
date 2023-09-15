@@ -1976,8 +1976,8 @@
         "Maropa": {
             "bipa_errors": [
                 "m.b",
-                "dr",
                 "ndr",
+                "dr",
                 "\u0288\u027d"
             ],
             "general_errors": 32,
@@ -2192,8 +2192,8 @@
             },
             "sclass_errors": [
                 "m.b",
-                "dr",
                 "ndr",
+                "dr",
                 "\u0288\u027d"
             ],
             "segments": {
@@ -3916,15 +3916,15 @@
         ],
         "bad_words_count": 64,
         "bipa_errors": [
-            "t\u027d",
             "}a",
-            "u.e",
-            "dr",
             "t.j",
-            "ndr",
+            "t\u027d",
             "m.b",
+            "dr",
             "a.i",
-            "\u0288\u027d"
+            "\u0288\u027d",
+            "ndr",
+            "u.e"
         ],
         "general_errors": 65,
         "invalid_words": [],
@@ -4140,15 +4140,15 @@
             ]
         },
         "sclass_errors": [
-            "t\u027d",
             "}a",
-            "u.e",
-            "dr",
             "t.j",
-            "ndr",
+            "t\u027d",
             "m.b",
+            "dr",
             "a.i",
-            "\u0288\u027d"
+            "\u0288\u027d",
+            "ndr",
+            "u.e"
         ],
         "segments": {
             "!I/i": 2,
