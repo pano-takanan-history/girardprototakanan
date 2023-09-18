@@ -7,6 +7,7 @@ from pylexibank import Dataset as BaseDataset
 from pylexibank import progressbar as pb
 from pylexibank import Language, Lexeme, Concept
 from pylexibank import FormSpec
+from pyedictor import fetch
 
 
 @attr.s
@@ -16,20 +17,15 @@ class CustomLanguage(Language):
 
 @attr.s
 class CustomConcept(Concept):
-    Proto_Concept = attr.ib(default=None)
     Proto_ID = attr.ib(default=None)
     Original_Concept = attr.ib(default=None)
 
 
 @attr.s
 class CustomLexeme(Lexeme):
-    UncertainCognacy = attr.ib(default=None)
-    ConceptFromProto = attr.ib(default=None)
-    EntryFromProto = attr.ib(default=None)
-    FormFromProto = attr.ib(default=None)
+    Alignment = attr.ib(default=None)
     ProtoSet = attr.ib(default=None)
     ConceptInSource = attr.ib(default=None)
-    MorphologicalInformation = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -55,6 +51,29 @@ class Dataset(BaseDataset):
         ],
         first_form_only=True
         )
+
+    def cmd_download(self, _):
+        print("updating...")
+        with open(self.raw_dir.joinpath("data.tsv"), "w", encoding="utf-8") as f:
+            f.write(
+                fetch(
+                    "girardprototakanan",
+                    columns=[
+                        "ALIGNMENT",
+                        "COGID",
+                        "CONCEPT",
+                        "DOCULECT",
+                        "FORM",
+                        "VALUE",
+                        "TOKENS",
+                        "NOTE",
+                        "SOURCE",
+                        "PROTOSET",
+                        "CONCEPTINSOURCE",
+                    ],
+                    base_url="http://lingulist.de/edev"
+                )
+            )
 
     def cmd_makecldf(self, args):
         args.writer.add_sources()
@@ -103,65 +122,59 @@ class Dataset(BaseDataset):
         args.log.info("added concepts")
 
         # add language
-        languages = args.writer.add_languages(lookup_factory="NameInSource")
-        print(languages)
+        languages = args.writer.add_languages(lookup_factory="ID")
         args.log.info("added languages")
 
         data = Wordlist(str(self.raw_dir.joinpath("data.tsv")))
-        data.renumber(
-            "PROTO_FORM", "cogid")
+
 
         # add data
         for (
             idx,
-            proto_set,
-            proto_entry,
-            proto_form,
-            proto_concept,
-            doculect,
+            alignment,
+            cogid,
             concept,
+            doculect,
+            form,
             value,
-            morph_infor,
+            tokens,
             note,
-            uncertainty,
             source,
-            cogid
+            protoset,
+            conceptinsource
         ) in pb(
             data.iter_rows(
-                "proto_set",
-                "proto_entry",
-                "proto_form",
-                "proto_concept",
-                "doculect",
+                "alignment",
+                "cogid",
                 "concept",
+                "doculect",
+                "form",
                 "value",
-                "morph_infor",
+                "tokens",
                 "note",
-                "uncertainty",
                 "source",
-                "cogid"
+                "protoset",
+                "conceptinsource"
             ),
             desc="cldfify"
         ):
-            for lexeme in args.writer.add_forms_from_value(
-                    Language_ID=languages[doculect],
-                    Parameter_ID=concepts[(proto_concept)],
-                    Value=value,
-                    EntryFromProto=proto_entry,
-                    FormFromProto=proto_form,
-                    ConceptFromProto=proto_concept,
-                    MorphologicalInformation=morph_infor,
-                    Comment=note,
-                    Source=source,
-                    UncertainCognacy=uncertainty,
-                    ProtoSet=proto_set,
-                    Cognacy=cogid,
-                    ConceptInSource=concept,
-                    ):
+            lexeme = args.writer.add_form_with_segments(
+                Language_ID=languages[doculect],
+                Parameter_ID=concepts[(concept)],
+                Value=value.strip() or form.strip(),
+                Form=form.strip(),
+                Segments=tokens,
+                Comment=note,
+                Source=source.split(" "),
+                ProtoSet=protoset,
+                Cognacy=cogid,
+                Alignment="".join(alignment),
+                ConceptInSource=conceptinsource,
+            )
 
-                args.writer.add_cognate(
-                        lexeme=lexeme,
-                        Cognateset_ID=cogid,
-                        Cognate_Detection_Method="expert",
-                        Source="Girard1971"
-                        )
+            args.writer.add_cognate(
+                lexeme=lexeme,
+                Cognateset_ID=cogid,
+                Cognate_Detection_Method="expert",
+                Source="Girard1971"
+            )

@@ -17,27 +17,27 @@ This dataset is licensed under a CC-BY-4.0 license
 
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 70%](https://img.shields.io/badge/Concepticon-70%25-orange.svg "Concepticon: 70%")
-![Source: 20%](https://img.shields.io/badge/Source-20%25-red.svg "Source: 20%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+![Source: 19%](https://img.shields.io/badge/Source-19%25-red.svg "Source: 19%")
+![BIPA: 88%](https://img.shields.io/badge/BIPA-88%25-yellowgreen.svg "BIPA: 88%")
+![CLTS SoundClass: 88%](https://img.shields.io/badge/CLTS%20SoundClass-88%25-yellowgreen.svg "CLTS SoundClass: 88%")
 
 - **Varieties:** 14
-- **Concepts:** 540
-- **Lexemes:** 4,764
+- **Concepts:** 552
+- **Lexemes:** 4,819
 - **Sources:** 6
-- **Synonymy:** 1.48
-- **Cognacy:** 4,764 cognates in 523 cognate sets (1 singletons)
-- **Cognate Diversity:** -0.00
+- **Synonymy:** 1.47
+- **Cognacy:** 4,819 cognates in 1,092 cognate sets (556 singletons)
+- **Cognate Diversity:** 0.13
 - **Invalid lexemes:** 0
-- **Tokens:** 31,878
-- **Segments:** 48 (0 BIPA errors, 0 CTLS sound class errors, 48 CLTS modified)
-- **Inventory size (avg):** 24.93
+- **Tokens:** 31,975
+- **Segments:** 78 (9 BIPA errors, 9 CLTS sound class errors, 69 CLTS modified)
+- **Inventory size (avg):** 28.86
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 3832/4764 (80.44%)
+- Entries missing sources: 3887/4819 (80.66%)
 
 # Contributors
 
@@ -55,4 +55,4 @@ Johann-Mattis List | @LinguList| CLDF conversion | Other
 
 The following CLDF datasets are available in [cldf](cldf):
 
-- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf\cldf-metadata.json](cldf\cldf-metadata.json)
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
