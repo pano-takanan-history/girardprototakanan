@@ -10,6 +10,12 @@ from pylexibank import FormSpec
 from pyedictor import fetch
 
 
+def unmerge(sequence):
+    out = []
+    for tok in sequence:
+        out += tok.split('.')
+    return out
+
 @attr.s
 class CustomLanguage(Language):
     NameInSource = attr.ib(default=None)
@@ -26,6 +32,7 @@ class CustomLexeme(Lexeme):
     Alignment = attr.ib(default=None)
     ProtoSet = attr.ib(default=None)
     ConceptInSource = attr.ib(default=None)
+    GroupedSounds = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -127,7 +134,6 @@ class Dataset(BaseDataset):
 
         data = Wordlist(str(self.raw_dir.joinpath("data.tsv")))
 
-
         # add data
         for (
             idx,
@@ -163,7 +169,8 @@ class Dataset(BaseDataset):
                 Parameter_ID=concepts[(concept)],
                 Value=value.strip() or form.strip(),
                 Form=form.strip(),
-                Segments=tokens,
+                Segments=unmerge(tokens),
+                GroupedSounds=tokens,
                 Comment=note,
                 Source=source.split(" "),
                 ProtoSet=protoset,
