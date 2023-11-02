@@ -2,258 +2,7 @@
     "by_language": {
         "Araona": {
             "bipa_errors": [
-                "t\u027d",
-                "t.j",
-                "m.b"
-            ],
-            "general_errors": 3,
-            "replacements": {
-                "!I/i": [
-                    "i"
-                ],
-                "!a|e/a": [
-                    "a"
-                ],
-                "!a|u/a": [
-                    "a"
-                ],
-                "!a\u0301/a": [
-                    "a"
-                ],
-                "!dz/d\u0290": [
-                    "\u0256\u0290"
-                ],
-                "!e|a\u0308/e": [
-                    "e"
-                ],
-                "!e\u0301/e": [
-                    "e"
-                ],
-                "!hu/w": [
-                    "w"
-                ],
-                "!i/j": [
-                    "j"
-                ],
-                "!i|e/i": [
-                    "i"
-                ],
-                "!i\u0301/i": [
-                    "i"
-                ],
-                "!ku/k\u02b7": [
-                    "k\u02b7"
-                ],
-                "!o\u0301/o": [
-                    "o"
-                ],
-                "!sh/\u0283": [
-                    "\u0283"
-                ],
-                "!s|z/s": [
-                    "s"
-                ],
-                "!t\u0283/t": [
-                    "t"
-                ],
-                "!u|o/o": [
-                    "o"
-                ],
-                "!u\u0300/u": [
-                    "u"
-                ],
-                "!u\u0301/u": [
-                    "u"
-                ],
-                "+": [
-                    "+"
-                ],
-                "a": [
-                    "a"
-                ],
-                "ai": [
-                    "ai"
-                ],
-                "a\u0301/a": [
-                    "a"
-                ],
-                "b": [
-                    "b"
-                ],
-                "d": [
-                    "d"
-                ],
-                "dz": [
-                    "dz"
-                ],
-                "d\u0290": [
-                    "\u0256\u0290"
-                ],
-                "e": [
-                    "e"
-                ],
-                "ei": [
-                    "ei"
-                ],
-                "e\u0301/e": [
-                    "e"
-                ],
-                "f": [
-                    "f"
-                ],
-                "g": [
-                    "g"
-                ],
-                "g\u02b7": [
-                    "g\u02b7"
-                ],
-                "h": [
-                    "h"
-                ],
-                "i": [
-                    "i"
-                ],
-                "i|e/i": [
-                    "i"
-                ],
-                "i\u0301/i": [
-                    "i"
-                ],
-                "j": [
-                    "j"
-                ],
-                "k": [
-                    "k"
-                ],
-                "k\u02b7": [
-                    "k\u02b7"
-                ],
-                "l": [
-                    "l"
-                ],
-                "m": [
-                    "m"
-                ],
-                "n": [
-                    "n"
-                ],
-                "nd": [
-                    "nd"
-                ],
-                "ndz": [
-                    "ndz"
-                ],
-                "o": [
-                    "o"
-                ],
-                "o\u0301/o": [
-                    "o"
-                ],
-                "p": [
-                    "p"
-                ],
-                "q": [
-                    "q"
-                ],
-                "r": [
-                    "r"
-                ],
-                "s": [
-                    "s"
-                ],
-                "t": [
-                    "t"
-                ],
-                "th": [
-                    "t\u02b0"
-                ],
-                "ts": [
-                    "ts"
-                ],
-                "t\u0283": [
-                    "t\u0283"
-                ],
-                "u": [
-                    "u"
-                ],
-                "u\u0301/u": [
-                    "u"
-                ],
-                "w": [
-                    "w"
-                ],
-                "x": [
-                    "x"
-                ],
-                "z": [
-                    "z"
-                ],
-                "\u00f0": [
-                    "\u00f0"
-                ],
-                "\u014b": [
-                    "\u014b"
-                ],
-                "\u0272": [
-                    "\u0272"
-                ],
-                "\u027d": [
-                    "\u027d"
-                ],
-                "\u0283": [
-                    "\u0283"
-                ],
-                "\u0288\u0282": [
-                    "\u0288\u0282"
-                ],
-                "\u0294": [
-                    "\u0294"
-                ],
-                "\u03b2": [
-                    "\u03b2"
-                ],
-                "\u03b8": [
-                    "\u03b8"
-                ]
-            },
-            "sclass_errors": [
-                "t\u027d",
-                "t.j",
-                "m.b"
-            ],
-            "segments": {
-                "+": 7,
-                "a": 56,
-                "b": 13,
-                "d": 14,
-                "e": 44,
-                "f": 1,
-                "i": 36,
-                "j": 8,
-                "k": 7,
-                "k\u02b7": 3,
-                "l": 2,
-                "m": 13,
-                "m.b": 1,
-                "n": 11,
-                "o": 6,
-                "p": 6,
-                "s": 7,
-                "t": 15,
-                "t.j": 1,
-                "ts": 1,
-                "t\u027d": 1,
-                "t\u0283": 2,
-                "u": 31,
-                "x": 2,
-                "\u0272": 3,
-                "\u027d": 5,
-                "\u03b2": 3
-            }
-        },
-        "Arasa": {
-            "bipa_errors": [
-                "u.e"
+                "t\u027d"
             ],
             "general_errors": 1,
             "replacements": {
@@ -466,11 +215,253 @@
                 ]
             },
             "sclass_errors": [
-                "u.e"
+                "t\u027d"
             ],
             "segments": {
-                "!e|\u00e4/e": 1,
                 "!ku/k\u02b7": 2,
+                "+": 7,
+                "a": 56,
+                "b": 14,
+                "d": 14,
+                "e": 44,
+                "f": 1,
+                "i": 36,
+                "j": 9,
+                "k": 5,
+                "k\u02b7": 3,
+                "l": 2,
+                "m": 14,
+                "n": 11,
+                "o": 6,
+                "p": 6,
+                "s": 7,
+                "t": 16,
+                "ts": 1,
+                "t\u027d": 1,
+                "t\u0283": 2,
+                "u": 29,
+                "x": 2,
+                "\u0272": 3,
+                "\u027d": 5,
+                "\u03b2": 3
+            }
+        },
+        "Arasa": {
+            "bipa_errors": [],
+            "general_errors": 0,
+            "replacements": {
+                "!I/i": [
+                    "i"
+                ],
+                "!a|e/a": [
+                    "a"
+                ],
+                "!a|u/a": [
+                    "a"
+                ],
+                "!a\u0301/a": [
+                    "a"
+                ],
+                "!dz/d\u0290": [
+                    "\u0256\u0290"
+                ],
+                "!e|a\u0308/e": [
+                    "e"
+                ],
+                "!e\u0301/e": [
+                    "e"
+                ],
+                "!hu/w": [
+                    "w"
+                ],
+                "!i/j": [
+                    "j"
+                ],
+                "!i|e/i": [
+                    "i"
+                ],
+                "!i\u0301/i": [
+                    "i"
+                ],
+                "!ku/k\u02b7": [
+                    "k\u02b7"
+                ],
+                "!o\u0301/o": [
+                    "o"
+                ],
+                "!sh/\u0283": [
+                    "\u0283"
+                ],
+                "!s|z/s": [
+                    "s"
+                ],
+                "!t\u0283/t": [
+                    "t"
+                ],
+                "!u|o/o": [
+                    "o"
+                ],
+                "!u\u0300/u": [
+                    "u"
+                ],
+                "!u\u0301/u": [
+                    "u"
+                ],
+                "+": [
+                    "+"
+                ],
+                "a": [
+                    "a"
+                ],
+                "ai": [
+                    "ai"
+                ],
+                "a\u0301/a": [
+                    "a"
+                ],
+                "b": [
+                    "b"
+                ],
+                "d": [
+                    "d"
+                ],
+                "dz": [
+                    "dz"
+                ],
+                "d\u0290": [
+                    "\u0256\u0290"
+                ],
+                "e": [
+                    "e"
+                ],
+                "ei": [
+                    "ei"
+                ],
+                "e\u0301/e": [
+                    "e"
+                ],
+                "f": [
+                    "f"
+                ],
+                "g": [
+                    "g"
+                ],
+                "g\u02b7": [
+                    "g\u02b7"
+                ],
+                "h": [
+                    "h"
+                ],
+                "i": [
+                    "i"
+                ],
+                "i|e/i": [
+                    "i"
+                ],
+                "i\u0301/i": [
+                    "i"
+                ],
+                "j": [
+                    "j"
+                ],
+                "k": [
+                    "k"
+                ],
+                "k\u02b7": [
+                    "k\u02b7"
+                ],
+                "l": [
+                    "l"
+                ],
+                "m": [
+                    "m"
+                ],
+                "n": [
+                    "n"
+                ],
+                "nd": [
+                    "nd"
+                ],
+                "ndz": [
+                    "ndz"
+                ],
+                "o": [
+                    "o"
+                ],
+                "o\u0301/o": [
+                    "o"
+                ],
+                "p": [
+                    "p"
+                ],
+                "q": [
+                    "q"
+                ],
+                "r": [
+                    "r"
+                ],
+                "s": [
+                    "s"
+                ],
+                "t": [
+                    "t"
+                ],
+                "th": [
+                    "t\u02b0"
+                ],
+                "ts": [
+                    "ts"
+                ],
+                "t\u0283": [
+                    "t\u0283"
+                ],
+                "u": [
+                    "u"
+                ],
+                "u\u0301/u": [
+                    "u"
+                ],
+                "w": [
+                    "w"
+                ],
+                "x": [
+                    "x"
+                ],
+                "z": [
+                    "z"
+                ],
+                "\u00f0": [
+                    "\u00f0"
+                ],
+                "\u014b": [
+                    "\u014b"
+                ],
+                "\u0272": [
+                    "\u0272"
+                ],
+                "\u027d": [
+                    "\u027d"
+                ],
+                "\u0283": [
+                    "\u0283"
+                ],
+                "\u0288\u0282": [
+                    "\u0288\u0282"
+                ],
+                "\u0294": [
+                    "\u0294"
+                ],
+                "\u03b2": [
+                    "\u03b2"
+                ],
+                "\u03b8": [
+                    "\u03b8"
+                ]
+            },
+            "sclass_errors": [],
+            "segments": {
+                "!e|\u00e4/e": 1,
+                "!ku/k\u02b7": 3,
                 "!u|o/o": 1,
                 "!\u00e1/a": 4,
                 "!\u00e9/e": 11,
@@ -479,11 +470,11 @@
                 "a": 49,
                 "b": 2,
                 "d": 1,
-                "e": 41,
+                "e": 42,
                 "h": 14,
                 "i": 40,
                 "j": 3,
-                "k": 11,
+                "k": 10,
                 "k\u02b7": 1,
                 "l": 1,
                 "m": 14,
@@ -494,7 +485,6 @@
                 "s": 18,
                 "t": 14,
                 "u": 19,
-                "u.e": 1,
                 "w": 4,
                 "\u00e9/e": 6,
                 "\u00ed/i": 2,
@@ -503,10 +493,8 @@
             }
         },
         "Cavinena": {
-            "bipa_errors": [
-                "}a"
-            ],
-            "general_errors": 1,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "!I/i": [
                     "i"
@@ -716,15 +704,13 @@
                     "\u03b8"
                 ]
             },
-            "sclass_errors": [
-                "}a"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "!i/j": 1,
                 "!s|z/s": 1,
                 "!\u00e1/a": 1,
                 "+": 1516,
-                "a": 1997,
+                "a": 1998,
                 "b": 297,
                 "d": 280,
                 "e": 1032,
@@ -746,7 +732,6 @@
                 "u": 257,
                 "w": 107,
                 "z": 2,
-                "}a": 1,
                 "\u00e1/a": 1,
                 "\u0272": 2,
                 "\u0283": 16,
@@ -1975,12 +1960,11 @@
         },
         "Maropa": {
             "bipa_errors": [
-                "dr",
-                "\u0288\u027d",
                 "ndr",
-                "m.b"
+                "dr",
+                "t\u027d"
             ],
-            "general_errors": 32,
+            "general_errors": 22,
             "replacements": {
                 "!I/i": [
                     "i"
@@ -2191,13 +2175,13 @@
                 ]
             },
             "sclass_errors": [
-                "dr",
-                "\u0288\u027d",
                 "ndr",
-                "m.b"
+                "dr",
+                "t\u027d"
             ],
             "segments": {
                 "!hu/w": 1,
+                "!ku/k\u02b7": 2,
                 "!sh/\u0283": 1,
                 "!\u00e1/a": 22,
                 "!\u00e9/e": 13,
@@ -2205,7 +2189,7 @@
                 "!\u00fa/u": 4,
                 "+": 11,
                 "a": 102,
-                "b": 19,
+                "b": 29,
                 "d": 3,
                 "dr": 7,
                 "e": 93,
@@ -2213,11 +2197,10 @@
                 "h": 7,
                 "i": 90,
                 "j": 13,
-                "k": 18,
+                "k": 16,
                 "k\u02b7": 3,
                 "l": 1,
-                "m": 39,
-                "m.b": 10,
+                "m": 49,
                 "n": 38,
                 "ndr": 1,
                 "o": 2,
@@ -2227,8 +2210,9 @@
                 "s": 15,
                 "t": 36,
                 "ts": 6,
+                "t\u027d": 14,
                 "t\u0283": 10,
-                "u": 44,
+                "u": 42,
                 "w": 6,
                 "x": 14,
                 "z": 1,
@@ -2238,7 +2222,6 @@
                 "\u00f3/o": 1,
                 "\u00fa/u": 5,
                 "\u0283": 5,
-                "\u0288\u027d": 14,
                 "\u0288\u0282": 2,
                 "\u03b2": 17,
                 "\u03b8": 9
@@ -2490,10 +2473,8 @@
             }
         },
         "Reyesano": {
-            "bipa_errors": [
-                "m.b"
-            ],
-            "general_errors": 21,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "!I/i": [
                     "i"
@@ -2703,14 +2684,12 @@
                     "\u03b8"
                 ]
             },
-            "sclass_errors": [
-                "m.b"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "!dz/d\u0290": 2,
                 "+": 72,
                 "a": 122,
-                "b": 9,
+                "b": 30,
                 "d": 2,
                 "dz": 11,
                 "d\u0290": 1,
@@ -2721,8 +2700,7 @@
                 "k": 2,
                 "k\u02b7": 16,
                 "l": 3,
-                "m": 33,
-                "m.b": 21,
+                "m": 54,
                 "n": 37,
                 "ndz": 6,
                 "o": 56,
@@ -2955,6 +2933,7 @@
             },
             "sclass_errors": [],
             "segments": {
+                "!ku/k\u02b7": 1,
                 "!\u00e1/a": 2,
                 "!\u00f9/u": 1,
                 "+": 3,
@@ -2964,7 +2943,7 @@
                 "g": 1,
                 "h": 2,
                 "i": 31,
-                "k": 6,
+                "k": 5,
                 "m": 14,
                 "n": 10,
                 "p": 8,
@@ -2973,16 +2952,14 @@
                 "t": 12,
                 "ts": 3,
                 "t\u0283": 11,
-                "u": 36,
+                "u": 35,
                 "\u027d": 6,
                 "\u03b2": 6
             }
         },
         "Tacana": {
-            "bipa_errors": [
-                "a.i"
-            ],
-            "general_errors": 7,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "!I/i": [
                     "i"
@@ -3192,19 +3169,16 @@
                     "\u03b8"
                 ]
             },
-            "sclass_errors": [
-                "a.i"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "+": 1469,
-                "a": 1684,
-                "a.i": 7,
+                "a": 1691,
                 "ai": 3,
                 "b": 306,
                 "d": 325,
                 "e": 1041,
                 "h": 369,
-                "i": 1087,
+                "i": 1094,
                 "j": 43,
                 "k": 124,
                 "k\u02b7": 105,
@@ -3466,13 +3440,6 @@
     "stats": {
         "bad_words": [
             [
-                "Araona-2dapersona-1",
-                "Araona",
-                "2dapersona",
-                "mitya",
-                "m i <s> t.j </s> a"
-            ],
-            [
                 "Araona-brujodios-1",
                 "Araona",
                 "brujodios",
@@ -3480,123 +3447,53 @@
                 "e d u <s> t\u027d </s> i"
             ],
             [
-                "Araona-canoa-1",
-                "Araona",
-                "canoa",
-                "cuamba",
-                "k u a <s> m.b </s> a"
-            ],
-            [
-                "Arasa-frio-1",
-                "Arasa",
-                "frio",
-                "kiwuene",
-                "k i w <s> u.e </s> n e"
-            ],
-            [
-                "Cavinena-muela-2",
-                "Cavinena",
-                "muela",
-                "am\u00e1ka-kwayo",
-                "<s> }a </s> m !\u00e1/a k a + k\u02b7 a j o"
-            ],
-            [
-                "Maropa-ala-1",
-                "Maropa",
-                "ala",
-                "ennambai",
-                "e n n a <s> m.b </s> a i"
-            ],
-            [
                 "Maropa-boca-1",
                 "Maropa",
                 "boca",
                 "ekuatra",
-                "e k u a <s> \u0288\u027d </s> a"
-            ],
-            [
-                "Maropa-brazo-1",
-                "Maropa",
-                "brazo",
-                "embai",
-                "e <s> m.b </s> a i"
+                "e k u a <s> t\u027d </s> a"
             ],
             [
                 "Maropa-calientecocinar-1",
                 "Maropa",
                 "calientecocinar",
                 "\u03b8intritr\u00edme",
-                "\u03b8 i n <s> \u0288\u027d </s> i <s> \u0288\u027d </s> \u00ed/i m e"
-            ],
-            [
-                "Maropa-canoa-1",
-                "Maropa",
-                "canoa",
-                "kuamb\u00e1",
-                "k u a <s> m.b </s> !\u00e1/a"
-            ],
-            [
-                "Maropa-cara-1",
-                "Maropa",
-                "cara",
-                "embu",
-                "e <s> m.b </s> u"
-            ],
-            [
-                "Maropa-chancodetropa-1",
-                "Maropa",
-                "chancodetropa",
-                "huambu\u0161\u00e1pi",
-                "w a <s> m.b </s> u \u0283 !\u00e1/a p i"
-            ],
-            [
-                "Maropa-cielo-1",
-                "Maropa",
-                "cielo",
-                "e-mbacue-pacha",
-                "e + <s> m.b </s> a ts u e + p a t\u0283 a"
+                "\u03b8 i n <s> t\u027d </s> i <s> t\u027d </s> \u00ed/i m e"
             ],
             [
                 "Maropa-diafiesta-1",
                 "Maropa",
                 "diafiesta",
                 "tr\u00edne",
-                "<s> \u0288\u027d </s> !\u00ed/i n e"
+                "<s> t\u027d </s> !\u00ed/i n e"
             ],
             [
                 "Maropa-diafiesta-2",
                 "Maropa",
                 "diafiesta",
                 "trinekua",
-                "<s> \u0288\u027d </s> i n e k u a"
+                "<s> t\u027d </s> i n e k u a"
             ],
             [
                 "Maropa-diente-1",
                 "Maropa",
                 "diente",
                 "etre",
-                "e <s> \u0288\u027d </s> e"
+                "e <s> t\u027d </s> e"
             ],
             [
                 "Maropa-flecha-2",
                 "Maropa",
                 "flecha",
                 "pi\u03b8a-tr\u00fae",
-                "p i \u03b8 a + <s> \u0288\u027d </s> \u00fa/u e"
+                "p i \u03b8 a + <s> t\u027d </s> \u00fa/u e"
             ],
             [
                 "Maropa-floracion-1",
                 "Maropa",
                 "floracion",
                 "etra",
-                "e <s> \u0288\u027d </s> a"
-            ],
-            [
-                "Maropa-hijo-1",
-                "Maropa",
-                "hijo",
-                "quiembaqua",
-                "k i e <s> m.b </s> a k\u02b7 a"
+                "e <s> t\u027d </s> a"
             ],
             [
                 "Maropa-hombre-1",
@@ -3627,13 +3524,6 @@
                 "<s> dr </s> e x a \u03b2 e \u03b2 e"
             ],
             [
-                "Maropa-mirarver-1",
-                "Maropa",
-                "mirarver",
-                "xa-mba-ti",
-                "x a + <s> m.b </s> a + t i"
-            ],
-            [
                 "Maropa-mosquito-1",
                 "Maropa",
                 "mosquito",
@@ -3659,56 +3549,42 @@
                 "Maropa",
                 "pecho",
                 "e\u010d\u00e9ntru",
-                "e t\u0283 !\u00e9/e n <s> \u0288\u027d </s> u"
+                "e t\u0283 !\u00e9/e n <s> t\u027d </s> u"
             ],
             [
                 "Maropa-pie-2",
                 "Maropa",
                 "pie",
                 "evatri",
-                "e \u03b2 a <s> \u0288\u027d </s> i"
-            ],
-            [
-                "Maropa-piel-1",
-                "Maropa",
-                "piel",
-                "embiti",
-                "e <s> m.b </s> i t i"
+                "e \u03b2 a <s> t\u027d </s> i"
             ],
             [
                 "Maropa-robar-1",
                 "Maropa",
                 "robar",
                 "tri",
-                "<s> \u0288\u027d </s> i"
+                "<s> t\u027d </s> i"
             ],
             [
                 "Maropa-teta-1",
                 "Maropa",
                 "teta",
                 "atru",
-                "a <s> \u0288\u027d </s> u"
+                "a <s> t\u027d </s> u"
             ],
             [
                 "Maropa-tierra-1",
                 "Maropa",
                 "tierra",
                 "m\u00e9tri",
-                "m !\u00e9/e <s> \u0288\u027d </s> i"
-            ],
-            [
-                "Maropa-tigre-1",
-                "Maropa",
-                "tigre",
-                "imba",
-                "i <s> m.b </s> a"
+                "m !\u00e9/e <s> t\u027d </s> i"
             ],
             [
                 "Maropa-tomarbeber-2",
                 "Maropa",
                 "tomarbeber",
                 "jaischitri",
-                "j a i s ts h i <s> \u0288\u027d </s> i"
+                "j a i s ts h i <s> t\u027d </s> i"
             ],
             [
                 "Maropa-tortugapeta-1",
@@ -3716,220 +3592,18 @@
                 "tortugapeta",
                 "dr\u00e1ti",
                 "<s> dr </s> !\u00e1/a t i"
-            ],
-            [
-                "Reyesano-aji-1",
-                "Reyesano",
-                "aji",
-                "mbi\u0161o",
-                "<s> m.b </s> i \u0283 o"
-            ],
-            [
-                "Reyesano-ala-1",
-                "Reyesano",
-                "ala",
-                "e-nambai",
-                "e + n a <s> m.b </s> a i"
-            ],
-            [
-                "Reyesano-brazo-1",
-                "Reyesano",
-                "brazo",
-                "e-mbai",
-                "e + <s> m.b </s> a i"
-            ],
-            [
-                "Reyesano-brazo-2",
-                "Reyesano",
-                "brazo",
-                "e-na-mbai",
-                "e + n a + <s> m.b </s> a i"
-            ],
-            [
-                "Reyesano-canoa-1",
-                "Reyesano",
-                "canoa",
-                "kwamba",
-                "k\u02b7 a <s> m.b </s> a"
-            ],
-            [
-                "Reyesano-cielo-1",
-                "Reyesano",
-                "cielo",
-                "mbai-pa",
-                "<s> m.b </s> a i + p a"
-            ],
-            [
-                "Reyesano-codo-1",
-                "Reyesano",
-                "codo",
-                "e-mba-co",
-                "e + <s> m.b </s> a + ts o"
-            ],
-            [
-                "Reyesano-dos-1",
-                "Reyesano",
-                "dos",
-                "mbeta",
-                "<s> m.b </s> e t a"
-            ],
-            [
-                "Reyesano-espalda-1",
-                "Reyesano",
-                "espalda",
-                "e-mbasendze",
-                "e + <s> m.b </s> a s e n !dz/d\u0290 e"
-            ],
-            [
-                "Reyesano-lago-1",
-                "Reyesano",
-                "lago",
-                "mbai",
-                "<s> m.b </s> a i"
-            ],
-            [
-                "Reyesano-largo-1",
-                "Reyesano",
-                "largo",
-                "mbao-me",
-                "<s> m.b </s> a o + m e"
-            ],
-            [
-                "Reyesano-luna-1",
-                "Reyesano",
-                "luna",
-                "mbandzi",
-                "<s> m.b </s> a n d\u0290 i"
-            ],
-            [
-                "Reyesano-osohormigueroosoperezoso-1",
-                "Reyesano",
-                "osohormigueroosoperezoso",
-                "mbei",
-                "<s> m.b </s> e i"
-            ],
-            [
-                "Reyesano-piel-1",
-                "Reyesano",
-                "piel",
-                "e-mbiti",
-                "e + <s> m.b </s> i t i"
-            ],
-            [
-                "Reyesano-ranasapo-1",
-                "Reyesano",
-                "ranasapo",
-                "mbororo",
-                "<s> m.b </s> o r o r o"
-            ],
-            [
-                "Reyesano-sal-1",
-                "Reyesano",
-                "sal",
-                "mbano",
-                "<s> m.b </s> a n o"
-            ],
-            [
-                "Reyesano-tigre-1",
-                "Reyesano",
-                "tigre",
-                "imba",
-                "i <s> m.b </s> a"
-            ],
-            [
-                "Reyesano-troncopierna-1",
-                "Reyesano",
-                "troncopierna",
-                "e-mbai-timbo",
-                "e + m b a i + t i <s> m.b </s> o"
-            ],
-            [
-                "Reyesano-vibora-1",
-                "Reyesano",
-                "vibora",
-                "mbakwa",
-                "<s> m.b </s> a k\u02b7 a"
-            ],
-            [
-                "Reyesano-vibora-2",
-                "Reyesano",
-                "vibora",
-                "sombakwa",
-                "s o <s> m.b </s> a k\u02b7 a"
-            ],
-            [
-                "Reyesano-vibora-4",
-                "Reyesano",
-                "vibora",
-                "sumbacua",
-                "s u <s> m.b </s> a k\u02b7 a"
-            ],
-            [
-                "Tacana-quien-2",
-                "Tacana",
-                "quien",
-                "aidhe",
-                "<s> a.i </s> \u00f0 e"
-            ],
-            [
-                "Tacana-quien-3",
-                "Tacana",
-                "quien",
-                "aidhe_ni_da",
-                "<s> a.i </s> \u00f0 e + n i + d a"
-            ],
-            [
-                "Tacana-quien-4",
-                "Tacana",
-                "quien",
-                "aidhe_hia",
-                "<s> a.i </s> \u00f0 e + h i a"
-            ],
-            [
-                "Tacana-quien-5",
-                "Tacana",
-                "quien",
-                "aidhe_kwana",
-                "<s> a.i </s> \u00f0 e + k\u02b7 a n a"
-            ],
-            [
-                "Tacana-quien-6",
-                "Tacana",
-                "quien",
-                "aidhe-bia-me",
-                "<s> a.i </s> \u00f0 e + b i a + m e"
-            ],
-            [
-                "Tacana-quien-7",
-                "Tacana",
-                "quien",
-                "aidhe-ni-nehe",
-                "<s> a.i </s> \u00f0 e + n i + n e h e"
-            ],
-            [
-                "Tacana-quien-8",
-                "Tacana",
-                "quien",
-                "aidhe-ni-su",
-                "<s> a.i </s> \u00f0 e + n i + s u"
             ]
         ],
-        "bad_words_count": 64,
+        "bad_words_count": 22,
         "bipa_errors": [
-            "a.i",
-            "\u0288\u027d",
-            "u.e",
+            "ndr",
             "dr",
-            "}a",
-            "m.b",
-            "t\u027d",
-            "t.j",
-            "ndr"
+            "t\u027d"
         ],
-        "general_errors": 65,
+        "general_errors": 23,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 28.857142857142854,
+        "inventory_size": 28.571428571428573,
         "replacements": {
             "!I/i": [
                 "i"
@@ -4140,15 +3814,9 @@
             ]
         },
         "sclass_errors": [
-            "a.i",
-            "\u0288\u027d",
-            "u.e",
+            "ndr",
             "dr",
-            "}a",
-            "m.b",
-            "t\u027d",
-            "t.j",
-            "ndr"
+            "t\u027d"
         ],
         "segments": {
             "!I/i": 2,
@@ -4159,7 +3827,7 @@
             "!hu/w": 1,
             "!i/j": 1,
             "!i|e/i": 1,
-            "!ku/k\u02b7": 2,
+            "!ku/k\u02b7": 8,
             "!sh/\u0283": 1,
             "!s|z/s": 1,
             "!t\u0283/t": 1,
@@ -4171,28 +3839,26 @@
             "!\u00f9/u": 1,
             "!\u00fa/u": 4,
             "+": 3990,
-            "a": 5772,
-            "a.i": 7,
+            "a": 5780,
             "ai": 3,
-            "b": 974,
+            "b": 1006,
             "d": 747,
             "dr": 7,
             "dz": 11,
             "d\u0290": 1,
-            "e": 3479,
+            "e": 3480,
             "ei": 1,
             "f": 1,
             "g": 14,
             "g\u02b7": 2,
             "h": 1069,
-            "i": 3577,
+            "i": 3584,
             "i|e/i": 1,
-            "j": 344,
-            "k": 1158,
+            "j": 345,
+            "k": 1152,
             "k\u02b7": 525,
             "l": 11,
-            "m": 937,
-            "m.b": 32,
+            "m": 969,
             "n": 1157,
             "nd": 1,
             "ndr": 1,
@@ -4202,18 +3868,15 @@
             "q": 2,
             "r": 647,
             "s": 666,
-            "t": 1082,
-            "t.j": 1,
+            "t": 1083,
             "th": 1,
             "ts": 174,
-            "t\u027d": 1,
+            "t\u027d": 15,
             "t\u0283": 220,
-            "u": 1337,
-            "u.e": 1,
+            "u": 1332,
             "w": 503,
             "x": 245,
             "z": 37,
-            "}a": 1,
             "\u00e1/a": 19,
             "\u00e9/e": 24,
             "\u00ed/i": 15,
@@ -4224,7 +3887,6 @@
             "\u0272": 52,
             "\u027d": 138,
             "\u0283": 221,
-            "\u0288\u027d": 14,
             "\u0288\u0282": 289,
             "\u0294": 154,
             "\u03b2": 269,

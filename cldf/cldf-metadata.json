@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/pano-tacanan-history/girardprototakanan",
             "rdf:type": "prov:Entity",
-            "dc:created": "dc3af2e",
+            "dc:created": "c236136",
             "dc:title": "Repository"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.11.5"
+            "dc:description": "3.11.6"
         },
         {
             "dc:title": "python-packages",
@@ -135,6 +135,10 @@
                     {
                         "datatype": "string",
                         "name": "ConceptInSource"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "GroupedSounds"
                     }
                 ],
                 "foreignKeys": [

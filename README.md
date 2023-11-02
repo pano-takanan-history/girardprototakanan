@@ -18,8 +18,8 @@ This dataset is licensed under a CC-BY-4.0 license
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 70%](https://img.shields.io/badge/Concepticon-70%25-orange.svg "Concepticon: 70%")
 ![Source: 19%](https://img.shields.io/badge/Source-19%25-red.svg "Source: 19%")
-![BIPA: 88%](https://img.shields.io/badge/BIPA-88%25-yellowgreen.svg "BIPA: 88%")
-![CLTS SoundClass: 88%](https://img.shields.io/badge/CLTS%20SoundClass-88%25-yellowgreen.svg "CLTS SoundClass: 88%")
+![BIPA: 96%](https://img.shields.io/badge/BIPA-96%25-green.svg "BIPA: 96%")
+![CLTS SoundClass: 96%](https://img.shields.io/badge/CLTS%20SoundClass-96%25-green.svg "CLTS SoundClass: 96%")
 
 - **Varieties:** 14
 - **Concepts:** 552
@@ -29,9 +29,9 @@ This dataset is licensed under a CC-BY-4.0 license
 - **Cognacy:** 4,819 cognates in 1,092 cognate sets (556 singletons)
 - **Cognate Diversity:** 0.13
 - **Invalid lexemes:** 0
-- **Tokens:** 31,975
-- **Segments:** 78 (9 BIPA errors, 9 CLTS sound class errors, 69 CLTS modified)
-- **Inventory size (avg):** 28.86
+- **Tokens:** 32,010
+- **Segments:** 72 (3 BIPA errors, 3 CLTS sound class errors, 69 CLTS modified)
+- **Inventory size (avg):** 28.57
 
 ## Possible Improvements:
 

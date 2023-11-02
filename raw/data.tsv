@@ -22,7 +22,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 21	( - - ) a m a k a ( - - - - - )	34	*muela	ProtoTakana	amaka	amaka	a m a k a	see also *maka2		1	muela
 22	( j + ) a m a h a ( - - - - - )	34	*muela	Tacana	y-amaha	y-amaha	j + a m a h a	None		1	muela
 23	( j + ) a m a k a ( - - - - - )	34	*muela	Cavinena	y-amaka	y-amaka	j + a m a k a	None		1	quijada,cachete,mandíbula
-24	( - - ) a m !á/a k a ( + kʷ a j o )	34	*muela	Cavinena	amáka-kwayo	amáka-kwayo	}a m !á/a k a + kʷ a j o	None	Armentia1887	1	desquijarrar
+24	( - - ) a m !á/a k a ( + kʷ a j o )	34	*muela	Cavinena	amáka-kwayo	amáka-kwayo	a m !á/a k a + kʷ a j o	None	Armentia1887	1	desquijarrar
 25	( e + ) a m a x a ( - - - - - )	34	*muela	EseEjja	e-amaxa	e-amaxa	e + a m a x a	None		1	muela
 26	( e ʔ ) a m a h a ( - - - - - )	34	*muela	Huarayo	eʔamaha	eʔamaha	e ʔ a m a h a	None		1	muela
 27	a m e r e	35	*persuadir	ProtoTakana	amere	amere	a m e r e	see also *me2,*mere,*bamere		1	persuadir
@@ -174,7 +174,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 173	( e + ) a ʈʂ u ( + d u )	31	*teta	Tacana	e-acu-du	e-acu-du	e + a ʈʂ u + d u	None	Armentia1887	6	testes
 174	( - - ) a ʈʂ u ( + n a )	31	*teta	Tacana	acu-na	acu-na	a ʈʂ u + n a	palabra arcaica		6	leche
 175	( - - ) a ts o ( - - - )	31	*teta	Reyesano	aco	aco	a ts o	None		6	breast
-176	( - - ) a ʈɽ u ( - - - )	31	*teta	Maropa	atru	atru	a ʈɽ u	None	Heath1883	6	breasts
+176	( - - ) a tɽ u ( - - - )	31	*teta	Maropa	atru	atru	a tɽ u	None	Heath1883	6	breasts
 177	( - - ) a ts o ( + n a )	31	*teta	Cavinena	aco-na	aco-na	a ts o + n a	None		6	leche,ubre
 178	( - - ) a ts o ( - - - )	31	*teta	Cavinena	aco	aco	a ts o	None	Armentia1887	6	leche
 179	a d u n e	32	*chontaloro	ProtoTakana	adune	adune	a d u n e	None		7	chontaloro
@@ -1000,7 +1000,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 999	( - - - - - - ) ʈʂ ( - ) a ( + j a - - - - - - - )	133	*floración	Tacana	ca-ya	ca-ya	ʈʂ a + j a	None		88	piña
 1000	( - - - - e + ) ʈʂ ( - ) a ( + b i - - - - - - - )	133	*floración	Tacana	e-ca-bi	e-ca-bi	e + ʈʂ a + b i	None		88	afrecha,chala,jachi
 1001	( - - - h a + ) ʈʂ ( - ) a ( + d a - - + t i - - )	133	*floración	Tacana	ha-ca-da-ti-	ha-ca-da-ti-	h a + ʈʂ a + d a + t i	None	Armentia1887	88	florecer
-1002	( - - - - e - ) ʈɽ ( - ) a ( - - - - - - - - - - )	133	*floración	Maropa	etra	etra	e ʈɽ a	None	Heath1883	88	hair
+1002	( - - - - e - ) tɽ ( - ) a ( - - - - - - - - - - )	133	*floración	Maropa	etra	etra	e tɽ a	None	Heath1883	88	hair
 1003	( - - - k a + ) ts ( - ) a ( + t i - - - - - - - )	133	*floración	Cavinena	ka-ca-ti-	ka-ca-ti-	k a + ts a + t i	None		88	dar guasca,florecer
 1004	( - - - - - - ) ts ( - ) a ( + b o n - a - - - - )	133	*floración	Cavinena	ca-bona	ca-bona	ts a + b o n a	None		88	atoakaka (una fruta del monte)
 1005	( - - - - - - ) ts ( - ) a ( + k o t - e - - - - )	133	*floración	Cavinena	ca-kote	ca-kote	ts a + k o t e	None		88	guayaba
@@ -1087,7 +1087,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 1086	( e + ) ʈʂ ( - ) e ( + k i - - - - - - - - - )	141	*diente	Tacana	e-ce-ki	e-ce-ki	e + ʈʂ e + k i	None	Armentia1887	98	punta
 1087	( e + ) ʈʂ ( - ) e ( + ʈʂ a - - - - - - - h a )	141	*diente	Tacana	e-ce-caha	e-ce-caha	e + ʈʂ e + ʈʂ a h a	None	Armentia1887	98	encía
 1088	( e + ) ts ( - ) e ( - - - - - - - - - - - - )	141	*diente	Reyesano	e-ce	e-ce	e + ts e	None		98	tooth
-1089	( e - ) ʈɽ ( - ) e ( - - - - - - - - - - - - )	141	*diente	Maropa	etre	etre	e ʈɽ e	None	Heath1883	98	teeth
+1089	( e - ) tɽ ( - ) e ( - - - - - - - - - - - - )	141	*diente	Maropa	etre	etre	e tɽ e	None	Heath1883	98	teeth
 1090	!é/e ts tʃ !é/e e	1233	*diente	Maropa	étschée	étschée	!é/e ts tʃ !é/e e	None	Nordenskiöld1905	98	tooth
 1091	( e - ) ts ( h ) e ( e - - - - - - - - - - - )	141	*diente	Sapibokona	echee	echee	e tʃ e e	None		98	dente
 1092	( i - ) ts ( - ) i ( - - - - - - - - - - - - )	141	*diente	Mabenaro	itsi	itsi	i ts i	None		98	teeth
@@ -1146,7 +1146,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 1145	( e + ) ʈʂ e ( - ) d u ( - - - - - )	144	*pecho	Tacana	e-cedu	e-cedu	e + ʈʂ e d u	None		102	pecho
 1146	( - - ) ʈʂ e ( - ) d u ( + h a r i )	144	*pecho	Tacana	cedu-hari	cedu-hari	ʈʂ e d u + h a r i	None		102	galápago
 1147	( e + ) tʃ e ( n ) dz o ( - - - - - )	144	*pecho	Reyesano	e-čendzo	e-čendzo	e + tʃ e n dz o	None		102	chest
-1148	( e - ) tʃ !é/e ( n ) ʈɽ u ( - - - - - )	144	*pecho	Maropa	ečéntru	ečéntru	e tʃ !é/e n ʈɽ u	None	Heath1883	102	chest
+1148	( e - ) tʃ !é/e ( n ) tɽ u ( - - - - - )	144	*pecho	Maropa	ečéntru	ečéntru	e tʃ !é/e n tɽ u	None	Heath1883	102	chest
 1149	( e - ) tʃ e ( - ) r u ( - - - - - )	144	*pecho	Sapibokona	echerù	echerù	e tʃ e r u	None		102	petto
 1150	( e + ) s e ( - ) ʔ o ( - - - - - )	144	*pecho	EseEjja	e-seʔo	e-seʔo	e + s e ʔ o	None		102	pecho
 1151	( e + ) s e ( - ) ʔ o ( + ɲ a - - )	144	*pecho	EseEjja	e-seʔo-ña	e-seʔo-ña	e + s e ʔ o + ɲ a	None		102	vello del pecho
@@ -1209,8 +1209,8 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 1208	ʈʂ i n e ( - - - - - - - - )	151	*día,fiesta	ProtoTakana	c̣ine	c̣ine	ʈʂ i n e	None		109	día,fiesta
 1209	ʈʂ i n e ( - - - - - - - - )	151	*día,fiesta	Tacana	cine	cine	ʈʂ i n e	None		109	día,fiesta
 1210	ʈʂ i n e ( + - - - - - kʷ a )	151	*día,fiesta	Tacana	cine-kwa	cine-kwa	ʈʂ i n e + kʷ a	None		109	tarde
-1211	ʈɽ !í/i n e ( - - - - - - - - )	151	*día,fiesta	Maropa	tríne	tríne	ʈɽ !í/i n e	None	Heath1883	109	day
-1212	ʈɽ i n e ( k u a - - - - - )	151	*día,fiesta	Maropa	trinekua	trinekua	ʈɽ i n e k u a	None	Heath1883	109	evening
+1211	tɽ !í/i n e ( - - - - - - - - )	151	*día,fiesta	Maropa	tríne	tríne	tɽ !í/i n e	None	Heath1883	109	day
+1212	tɽ i n e ( k u a - - - - - )	151	*día,fiesta	Maropa	trinekua	trinekua	tɽ i n e k u a	None	Heath1883	109	evening
 1213	tʃ i n e ( s u - - - - - - )	151	*día,fiesta	Guariza	chinezu	chinezu	tʃ i n e s u	None		109	in (this) day
 1214	tʃ i n e ( - - - - - - - - )	151	*día,fiesta	Sapibokona	chine	chine	tʃ i n e	None		109	day
 1215	tʃ i n e ( + a r i d a k e )	151	*día,fiesta	Cavinena	čine_aridake	čine aridake	tʃ i n e + a r i d a k e	None		109	fiesta grande
@@ -1232,7 +1232,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 1231	ʈʂ i - - ( + p u - i - )	153	*robar	Tacana	ci-pui	ci-pu(h)i	ʈʂ i + p u i	None		111	ladrón
 1232	ʈʂ i - - ( - - - - - - )	153	*robar	Tacana	ci-	ci-	ʈʂ i	None		111	robar
 1233	ʈʂ i - - ( + h i - - - )	153	*robar	Tacana	ci-hi	ci-hi	ʈʂ i + h i	None	Armentia1887	111	robado,lisiado,herido
-1234	ʈɽ i - - ( - - - - - - )	153	*robar	Maropa	tri	tri	ʈɽ i	None	Heath1883	111	steak
+1234	tɽ i - - ( - - - - - - )	153	*robar	Maropa	tri	tri	tɽ i	None	Heath1883	111	steak
 1235	tʃ i r i ( + p o h i - )	153	*robar	Cavinena	čiri-pohi	čiri-pohi	tʃ i r i + p o h i	None		111	ladrón
 1236	tʃ i r i ( - - - - - - )	153	*robar	Cavinena	čiri-	čiri-	tʃ i r i	None		111	robar
 1237	tʃ i r i ( + kʷ e - - - )	153	*robar	Cavinena	čiri-kwe	čiri-kwe	tʃ i r i + kʷ e	None	Armentia1887	111	defraudar
@@ -1744,7 +1744,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 1743	( e + - ) i ʃ i ( - - - - - - - - )	202	*tomar,beber	Reyesano	e-iši	e-iši	e + i ʃ i	None		161	corn drink
 1744	( ʔ a - ) - ʃ - - i ( - t i h e - - - )	555	*tomar,beber	Reyesano	ʔašitihe	ʔašitihe	ʔ a ʃ i t i h e	cognate?		161	drink
 1745	( - - - ) i tʃ i ( - - - - - - - - )	202	*tomar,beber	Maropa	ichi	ichi	i tʃ i	None	Cardús1886	161	chicha
-1746	j a i s ts h i t r i	554	*tomar,beber	Maropa	jaischitri	jaischitri	j a i s ts h i ʈɽ i	None	Heath1883	161	to drink
+1746	j a i s ts h i tɽ i	554	*tomar,beber	Maropa	jaischitri	jaischitri	j a i s ts h i tɽ i	None	Heath1883	161	to drink
 1747	( e - - ) i d i ( - - - - - - - - )	202	*tomar,beber	Araona	eidi	eidi	e i d i	None		161	drink
 1748	( - - - ) i h i ( - - - - - - - - )	202	*tomar,beber	Cavinena	ihi-	ihi-	i h i	None		161	tomar,beber
 1749	( - - - ) i h i ( + i ʃ o - - - - )	202	*tomar,beber	Cavinena	ihi-išo-	ihi-išo-	i h i + i ʃ o	None		161	bebida
@@ -2193,34 +2193,34 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 2192	( - - ) kʷ a r a r a ( - - - - )	264	*freir	Tacana	kwarara-	kwarara-	kʷ a r a r a	None		229	hervir,freir
 2193	( - - ) kʷ a r a r a ( + i s a )	264	*freir	Cavinena	kwarara-isa	kwarara-isa	kʷ a r a r a + i s a	None	Armentia1887	229	chicharrón,freir
 2194	( e + ) kʷ a r a r a ( + i s a )	264	*freir	Cavinena	e-kwarara-isa	e-kwarara-isa	e + kʷ a r a r a + i s a	None	Armentia1887	229	frito
-2195	kʷ ( - ) a t ( - ) i ( - - - - - - - - - )	260	*leña	ProtoTakana	kwati	kwati	kʷ a t i	None		229	leña
-2196	kʷ ( - ) a t ( - ) i ( - - - - - - - - - )	260	*leña	Tacana	kwati	kwati	kʷ a t i	None		229	leña
-2197	kʷ ( - ) a t ( - ) i ( + d a r e + d a - )	260	*leña	Tacana	kwati-dare-da	kwati-dare-da	kʷ a t i + d a r e + d a	None		229	fuego,tizón,brasa
-2198	kʷ ( - ) a t ( - ) i ( + w a s a - - - - )	260	*leña	Tacana	kwati-wasa	kwati-wasa	kʷ a t i + w a s a	None		229	abeja leña (su picada es como fuego)
-2199	kʷ ( - ) a t ( - ) i ( + d a r e ʔ a k e )	260	*leña	Tacana	kwati_dareʔake	kwati dareʔake	kʷ a t i + d a r e ʔ a k e	None	Armentia1887	229	haz arder el fuego
-2200	kʷ ( - ) a t ( - ) i ( + e + t u a - - - )	260	*leña	Tacana	kwati_e-tua	kwati e-tua	kʷ a t i + e + t u a	None		229	fogata
-2201	kʷ ( - ) a t ( - ) i ( + t i m e + k e - )	260	*leña	Tacana	kwati_time-ke	kwati time-ke	kʷ a t i + t i m e + k e	None		229	atiza el fuego
-2202	kʷ ( - ) a t ( - ) i ( + t u r u + k e - )	260	*leña	Tacana	kwati_turu-ke	kwati turu-ke	kʷ a t i + t u r u + k e	None		229	enciende el fuego
-2203	kʷ ( - ) a t ( - ) i ( + s u - - - - - - )	260	*leña	Tacana	kwati-su	kwati-su	kʷ a t i + s u	None		229	en el fuego
-2204	kʷ ( - ) a t ( - ) i ( - - - - - - - - - )	260	*leña	Reyesano	kwati	kwati	kʷ a t i	None		229	firewood
-2205	k ( u ) a t ( - ) i ( - - - - - - - - - )	260	*leña	Maropa	cuati	cuati	k u a t i	None	Cardús1886	229	fire
+2195	kʷ a t ( - ) i ( - - - - - - - - - )	260	*leña	ProtoTakana	kwati	kwati	kʷ a t i	None		229	leña
+2196	kʷ a t ( - ) i ( - - - - - - - - - )	260	*leña	Tacana	kwati	kwati	kʷ a t i	None		229	leña
+2197	kʷ a t ( - ) i ( + d a r e + d a - )	260	*leña	Tacana	kwati-dare-da	kwati-dare-da	kʷ a t i + d a r e + d a	None		229	fuego,tizón,brasa
+2198	kʷ a t ( - ) i ( + w a s a - - - - )	260	*leña	Tacana	kwati-wasa	kwati-wasa	kʷ a t i + w a s a	None		229	abeja leña (su picada es como fuego)
+2199	kʷ a t ( - ) i ( + d a r e ʔ a k e )	260	*leña	Tacana	kwati_dareʔake	kwati dareʔake	kʷ a t i + d a r e ʔ a k e	None	Armentia1887	229	haz arder el fuego
+2200	kʷ a t ( - ) i ( + e + t u a - - - )	260	*leña	Tacana	kwati_e-tua	kwati e-tua	kʷ a t i + e + t u a	None		229	fogata
+2201	kʷ a t ( - ) i ( + t i m e + k e - )	260	*leña	Tacana	kwati_time-ke	kwati time-ke	kʷ a t i + t i m e + k e	None		229	atiza el fuego
+2202	kʷ a t ( - ) i ( + t u r u + k e - )	260	*leña	Tacana	kwati_turu-ke	kwati turu-ke	kʷ a t i + t u r u + k e	None		229	enciende el fuego
+2203	kʷ a t ( - ) i ( + s u - - - - - - )	260	*leña	Tacana	kwati-su	kwati-su	kʷ a t i + s u	None		229	en el fuego
+2204	kʷ a t ( - ) i ( - - - - - - - - - )	260	*leña	Reyesano	kwati	kwati	kʷ a t i	None		229	firewood
+2205	!ku/kʷ a t ( - ) i ( - - - - - - - - - )	260	*leña	Maropa	cuati	cuati	!ku/kʷ a t i	None	Cardús1886	229	fire
 2206	k u w ó/o t i	677	*leña	Maropa	cuhuóti	cuhuóti	k u w ó/o t i	None	Nordenskiöld1905	229	fire
-2207	k ( u ) !á/a t ( - ) i ( - - - - - - - - - )	260	*leña	Maropa	kuáti	kuáti	k u !á/a t i	None	Heath1883	229	fire
-2208	k ( u ) !á/a t ( - ) i ( - - - - - - - - - )	260	*leña	Sapibokona	cuáti	cuáti	k u !á/a t i	None		229	fuoco
-2209	k ( u ) a t ( - ) i ( + i b u e d a - - )	260	*leña	Araona	cuati_ibueda	cuati ibueda	k u a t i + i b u e d a	None		229	fuego
-2210	k ( u ) a t ( - ) i ( m a n u - - - - - )	260	*leña	Araona	cuatimanu	cuatimanu	k u a t i m a n u	None		229	leña
-2211	kʷ ( - ) a t ( h ) i ( - - - - - - - - - )	260	*leña	Mabenaro	kwathi	kwathi	kʷ a t h i	None		229	fire
-2212	kʷ ( - ) a t ( h ) i ( - t h i - - - - - )	260	*leña	Mabenaro	kwathithi	kwathithi	kʷ a t h i t h i	None		229	wood
-2213	kʷ ( - ) a t ( - ) i ( - - - - - - - - - )	260	*leña	Cavinena	kwati	kwati	kʷ a t i	None		229	leña
-2214	kʷ ( - ) a k ( - ) i ( - - - - - - - - - )	260	*leña	EseEjja	kwaki	kwaki	kʷ a k i	None		229	fuego,leña
-2215	kʷ ( - ) a k ( - ) i ( + k ó/o x a ʃ a - - )	260	*leña	EseEjja	kwaki-kóxaša	kwaki-kóxaša	kʷ a k i + k ó/o x a ʃ a	None		229	brasas
-2216	kʷ ( - ) a k ( - ) i ( + m a x o - - - - )	260	*leña	EseEjja	kwaki-maxo	kwaki-maxo	kʷ a k i + m a x o	None		229	ceniza
-2217	kʷ ( - ) a k ( - ) i ( + p e x e - - - - )	260	*leña	EseEjja	kwaki-pexe	kwaki-pexe	kʷ a k i + p e x e	None		229	venteador
-2218	kʷ ( - ) a k ( - ) i ( + p o w i - - - - )	260	*leña	EseEjja	kwaki-powi	kwaki-powi	kʷ a k i + p o w i	None		229	ceniza
-2219	kʷ ( - ) a t ( - ) i ( - - - - - - - - - )	260	*leña	Huarayo	kwati	kwati	kʷ a t i	None		229	fuego,tizón,leña
-2220	kʷ ( - ) a t ( - ) i ( + p o i - - - - - )	260	*leña	Huarayo	kwati-poi	kwati-poi	kʷ a t i + p o i	None		229	ceniza
-2221	kʷ ( - ) !á/a k ( - ) i ( - - - - - - - - - )	260	*leña	Chama	kwáki	kwáki	kʷ !á/a k i	None		229	kindling wood
-2222	k ( u ) !á/a t ( - ) i ( - - - - - - - - - )	260	*leña	Arasa	kuáti	kuáti	k u !á/a t i	None		229	fire
+2207	!ku/kʷ !á/a t ( - ) i ( - - - - - - - - - )	260	*leña	Maropa	kuáti	kuáti	!ku/kʷ !á/a t i	None	Heath1883	229	fire
+2208	!ku/kʷ !á/a t ( - ) i ( - - - - - - - - - )	260	*leña	Sapibokona	cuáti	cuáti	!ku/kʷ !á/a t i	None		229	fuoco
+2209	!ku/kʷ a t ( - ) i ( + i b u e d a - - )	260	*leña	Araona	cuati_ibueda	cuati ibueda	!ku/kʷ a t i + i b u e d a	None		229	fuego
+2210	!ku/kʷ a t ( - ) i ( m a n u - - - - - )	260	*leña	Araona	cuatimanu	cuatimanu	!ku/kʷ a t i m a n u	None		229	leña
+2211	kʷ a t ( h ) i ( - - - - - - - - - )	260	*leña	Mabenaro	kwathi	kwathi	kʷ a t h i	None		229	fire
+2212	kʷ a t ( h ) i ( t h i - - - - - - )	260	*leña	Mabenaro	kwathithi	kwathithi	kʷ a t h i t h i	None		229	wood
+2213	kʷ a t ( - ) i ( - - - - - - - - - )	260	*leña	Cavinena	kwati	kwati	kʷ a t i	None		229	leña
+2214	kʷ a k ( - ) i ( - - - - - - - - - )	260	*leña	EseEjja	kwaki	kwaki	kʷ a k i	None		229	fuego,leña
+2215	kʷ a k ( - ) i ( + k ó/o x a ʃ a - - )	260	*leña	EseEjja	kwaki-kóxaša	kwaki-kóxaša	kʷ a k i + k ó/o x a ʃ a	None		229	brasas
+2216	kʷ a k ( - ) i ( + m a x o - - - - )	260	*leña	EseEjja	kwaki-maxo	kwaki-maxo	kʷ a k i + m a x o	None		229	ceniza
+2217	kʷ a k ( - ) i ( + p e x e - - - - )	260	*leña	EseEjja	kwaki-pexe	kwaki-pexe	kʷ a k i + p e x e	None		229	venteador
+2218	kʷ a k ( - ) i ( + p o w i - - - - )	260	*leña	EseEjja	kwaki-powi	kwaki-powi	kʷ a k i + p o w i	None		229	ceniza
+2219	kʷ a t ( - ) i ( - - - - - - - - - )	260	*leña	Huarayo	kwati	kwati	kʷ a t i	None		229	fuego,tizón,leña
+2220	kʷ a t ( - ) i ( + p o i - - - - - )	260	*leña	Huarayo	kwati-poi	kwati-poi	kʷ a t i + p o i	None		229	ceniza
+2221	kʷ !á/a k ( - ) i ( - - - - - - - - - )	260	*leña	Chama	kwáki	kwáki	kʷ !á/a k i	None		229	kindling wood
+2222	!ku/kʷ !á/a t ( - ) i ( - - - - - - - - - )	260	*leña	Arasa	kuáti	kuáti	!ku/kʷ !á/a t i	None		229	fire
 2223	k u ( - - ) a t ( - ) o ( - - - - - - - - - )	676	*leña	Arasa	kuato	kuato	k u a t o	None	Créqui1922	229	bois (chonta) de la flèche
 2224	( - - - - ) kʷ a w i ( - - - - - )	262	*asar	ProtoTakana	kwawi	kwawi	kʷ a w i	None		229	asar
 2225	( - - - - ) kʷ a β i ( - - - - - )	262	*asar	Tacana	kwawi-	kwawi-	kʷ a β i	None		229	asar
@@ -2251,7 +2251,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 2250	( - - - ) kʷ ( - ) a ʈʂ a ( + p j a d a - - )	256	*boca	Tacana	kwaca_peada	kwaca peada	kʷ a ʈʂ a + p j a d a	None	Armentia1887	232	un bocado,un trago,una palabra,una boca
 2251	( - - - ) kʷ ( - ) a ʈʂ a ( + t e r i - - - )	256	*boca	Tacana	kwaca-teri	kwaca-teri	kʷ a ʈʂ a + t e r i	None	Armentia1887	232	tapar (cántaro ó botella)
 2252	( e + - ) kʷ ( - ) a ts a ( - - - - - - - - )	256	*boca	Reyesano	e-kwaca	e-kwaca	e + kʷ a ts a	None		232	mouth
-2253	( e - - ) k ( u ) a ʈɽ a ( - - - - - - - - )	256	*boca	Maropa	ekuatra	ekuatra	e k u a ʈɽ a	None	Heath1883	232	mouth
+2253	( e - - ) k ( u ) a tɽ a ( - - - - - - - - )	256	*boca	Maropa	ekuatra	ekuatra	e k u a tɽ a	None	Heath1883	232	mouth
 2254	( e - - ) k ( u ) a tʃ a ( - - - - - - - - )	256	*boca	Sapibokona	ecuacha	ecuacha	e k u a tʃ a	None		232	bocca
 2255	( e - - ) k ( u ) a tʃ a ( ts u b b i - - - )	256	*boca	Sapibokona	ecuachacubbi	ecuachacubbi	e k u a tʃ a ts u b b i	None		232	labbro
 2256	( i - - ) kʷ ( - ) a ts a ( - - - - - - - - )	256	*boca	Mabenaro	ikwatsa	ikwatsa	i kʷ a ts a	None		232	mouth
@@ -2621,7 +2621,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 2620	m e ʈʂ i ( - - - - - )	305	*tierra	ProtoTakana	mec̣i	mec̣i	m e ʈʂ i	None		281	tierra
 2621	m e ʈʂ i ( - - - - - )	305	*tierra	Tacana	meci	meci	m e ʈʂ i	None		281	estuco (tierra blanca usada como estuco)
 2622	m e ts i ( - - - - - )	305	*tierra	Reyesano	meci	meci	m e ts i	None		281	earth
-2623	m !é/e ʈɽ i ( - - - - - )	305	*tierra	Maropa	métri	métri	m !é/e ʈɽ i	None	Heath1883	281	earth
+2623	m !é/e tɽ i ( - - - - - )	305	*tierra	Maropa	métri	métri	m !é/e tɽ i	None	Heath1883	281	earth
 2624	m e tʃ i ( - - - - - )	305	*tierra	Cavinena	meči	meči	m e tʃ i	None		281	tierra
 2625	m e tʃ i ( + p e h a )	305	*tierra	Cavinena	meči-peha	meči-peha	m e tʃ i + p e h a	None		281	plato
 2626	m !e|ä/e s i ( - - - - - )	305	*tierra	Arasa	mEsi	m{e/ä}si	m !e|ä/e s i	None		281	pot de terre
@@ -2655,9 +2655,9 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 2654	m e + n a h a	605	*mano	Tacana	me-naha	me-naha	m e + n a h a	None	Armentia1887	282	entregar
 2655	m e + n a t i a	606	*mano	Tacana	me-natia	me-natia	m e + n a t i a	None	Armentia1887	282	entregar
 2656	h a + m e + b a h a	607	*mano	Tacana	ha-me-baha	ha-me-baha	h a + m e + b a h a	None	Armentia1887	282	servir
-2657		608	*mano	Tacana	ha-me-deke-ti	ha-me-deke-ti	h a + m e + d e k e + t i	None	Armentia1887	282	agarrarse de las manos
-2658		609	*mano	Tacana	ha-me-mu-ti	ha-me-mu-ti	h a + m e + m u + t i	None	Armentia1887	282	enroscar
-2659		610	*mano	Tacana	ha-me-ce-uti	ha-me-ce-uti	h a + m e + ʈʂ e + u t i	None	Armentia1887	282	lamerse las manos
+2657	h a + m e + d e k e + t i	608	*mano	Tacana	ha-me-deke-ti	ha-me-deke-ti	h a + m e + d e k e + t i	None	Armentia1887	282	agarrarse de las manos
+2658	h a + m e + m u + t i	609	*mano	Tacana	ha-me-mu-ti	ha-me-mu-ti	h a + m e + m u + t i	None	Armentia1887	282	enroscar
+2659	h a + m e + ʈʂ e + u t i	610	*mano	Tacana	ha-me-ce-uti	ha-me-ce-uti	h a + m e + ʈʂ e + u t i	None	Armentia1887	282	lamerse las manos
 2660	e m e ts h u j a	590	*mano	Maropa	emechuja	emechuja	e m e tʃ u j a	None	Heath1883	282	fingers
 2661	( e - ) m e ( - - - - - - - - - - )	303	*mano	Maropa	eme	eme	e m e	None	Heath1883	282	hand
 2662	e m e t i ts h i	591	*mano	Maropa	emetichi	emetichi	e m e t i tʃ i	None	Heath1883	282	nails
@@ -3263,7 +3263,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 3262	p i ð a ( - - - - - - - )	368	*flecha	Reyesano	pidha	pidha	p i ð a	None		348	arrow
 3263	p i ð a ( + ts o e - - - )	368	*flecha	Reyesano	pidha-coe	pidha-coe	p i ð a + ts o e	None		348	bow
 3264	p i θ a ( - - - - - - - )	368	*flecha	Maropa	piθa	piθa	p i θ a	None	Heath1883	348	arrow
-3265	p i θ a ( + t r ú/u e - - )	368	*flecha	Maropa	piθa-trúe	piθa-trúe	p i θ a + ʈɽ ú/u e	None	Heath1883	348	bow
+3265	p i θ a ( + tɽ ú/u e	368	*flecha	Maropa	piθa-trúe	piθa-trúe	p i θ a + tɽ ú/u e	None	Heath1883	348	bow
 3266	p i j a ( - - - - - - - )	368	*flecha	Cavinena	piya	piya	p i j a	None		348	flecha,lanza
 3267	p i j a ( + ts e β e + a )	368	*flecha	Cavinena	piya-cewe-a-	piya-cewe-a-	p i j a + ts e β e + a	None		348	flechar
 3268	p i - a ( + k i - - - - )	774	*flecha	Cavinena	pia-ki	pia-ki	p i a + k i	*pisa > piha > pi(y)a?	Armentia1887	348	flechador
@@ -3532,9 +3532,9 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 3531	h a	22	*possessive suffix	EseEjja	-ha	-ha,-hea	h a	None		375	possessive suffix
 3532	s a b a b a	384	*mariposa	ProtoTakana	sababa	sababa,-pipi,-puřa	s a b a b a	None		376	mariposa
 3533	s a b a b a	384	*mariposa	Tacana	sababa	sababa	s a b a b a	None		376	mariposa
-3534		806	*mariposa	Tacana	sapura	sapura	s a p u r a	None		376	mariposa de noche
+3534	s a p u r a	806	*mariposa	Tacana	sapura	sapura	s a p u r a	None		376	mariposa de noche
 3535	h a b a b a	384	*mariposa	Cavinena	hababa	hababa	h a b a b a	None		376	mariposa
-3536		805	*mariposa	Cavinena	hapipi	hapipi	h a p i p i	None		376	mariposa
+3536	h a p i p i	805	*mariposa	Cavinena	hapipi	hapipi	h a p i p i	None		376	mariposa
 3537	x a p i p i	384	*mariposa	EseEjja	xapipi	xapipi	x a p i p i	None		376	mariposa
 3538	s a e ( - - - - - - - - )	381	*pez,pescado	ProtoTakana	sae	sa(ʔ)e	s a e	None		377	pez,pescado
 3539	( - - ) s e - - ( - - - - - - - - )	807	*pez,pescado	Tacana	se	se	s e	None		377	pez
@@ -3664,7 +3664,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 3663	( - - ) s i n a ( - - - - - - - - )	398	*caliente,cocinar	Tacana	sina-	sina-	s i n a	None		392	cocer
 3664	( - - ) s i n a ( + s i n a + n i )	398	*caliente,cocinar	Tacana	sina-sina-ni	sina-sina-ni	s i n a + s i n a + n i	None	Armentia1887	392	ardor
 3665	( - - ) ð i n - ( dz i n dz i + m e )	398	*caliente,cocinar	Reyesano	dhindzindzi-me	dhindzindzi-me	ð i n dz i n dz i + m e	None		392	hot
-3666	( - - ) θ i n - ( - ʈɽ i ʈɽ í/i m e - )	398	*caliente,cocinar	Maropa	θintritríme	θintritríme	θ i n ʈɽ i ʈɽ í/i m e	None	Heath1883	392	hot
+3666	( - - ) θ i n - ( - tɽ i tɽ í/i m e - )	398	*caliente,cocinar	Maropa	θintritríme	θintritríme	θ i n tɽ i tɽ í/i m e	None	Heath1883	392	hot
 3667	( e + ) h i n a ( - - - - - - - - )	398	*caliente,cocinar	Cavinena	e-hina	e-hina	e + h i n a	None		392	cocido
 3668	( - - ) h i n a ( + m a - - - - - )	398	*caliente,cocinar	Cavinena	hina-ma	hina-ma	h i n a + m a	None		392	crudo (sin cocer)
 3669	( - - ) h i n a ( - - - - - - - - )	398	*caliente,cocinar	Cavinena	hina-	hina-	h i n a	None		392	cocer,cocinar
@@ -4029,36 +4029,36 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 4028	t i ʃ i ( - - - - - )	439	*pisar,arañar	Huarayo	tiši	tiši~kiši-	t i ʃ i	None		430	pisar
 4029	( - - - - - ) t u ( - - - - - - - - - - )	442	*3ra persona	ProtoTakana	tu-	tu-	t u	None		431	3ra person
 4030	( - - - - - ) t u ( - a ʈʂ e d a - - - - )	442	*3ra persona	Tacana	tuaceda	tuaceda	t u a ʈʂ e d a	None		431	ellos (dual)
-4031		888	*3ra persona	Tacana	tuacesa	tuacesa	t u a ʈʂ e s a	None		431	sus (dual)
-4032		889	*3ra persona	Tacana	tuace-seda	tuace-seda	t u a ʈʂ e + s e d a	None		431	de ellos (dual)
-4033		890	*3ra persona	Tacana	tuaweda	tuaweda	t u a β e d a	None		431	él (trans.),ella (trans.)
-4034		891	*3ra persona	Tacana	tueda	tueda	t u e d a	None		431	él (intr.),ella (intr.),eso
-4035		896	*3ra persona	Tacana	tuneda	tuneda	t u n e d a	None		431	ellos
-4036		897	*3ra persona	Tacana	tunasa	tunasa	t u n a s a	None		431	sus (pl.)
-4037		898	*3ra persona	Tacana	tuneseda	tuneseda	t u n e s e d a	None		431	de ellos,suyos (pl.)
-4038		899	*3ra persona	Tacana	tunehe	tunehe	t u n e h e	None		431	con él
-4039		900	*3ra persona	Tacana	tuseda	tuseda	t u s e d a	None		431	de él,suyo
-4040		901	*3ra persona	Tacana	tusa	tusa	t u s a	None		431	su
-4041		902	*3ra persona	Tacana	tuna-mewa	tuna-mewa	t u n a + m e w a	None		431	ellos solos
-4042		869	*3ra persona	Reyesano	tetowe	tetowe~tetoe	t e t o w e	None		431	he
+4031	t u a ʈʂ e s a	888	*3ra persona	Tacana	tuacesa	tuacesa	t u a ʈʂ e s a	None		431	sus (dual)
+4032	t u a ʈʂ e + s e d a	889	*3ra persona	Tacana	tuace-seda	tuace-seda	t u a ʈʂ e + s e d a	None		431	de ellos (dual)
+4033	t u a β e d a	890	*3ra persona	Tacana	tuaweda	tuaweda	t u a β e d a	None		431	él (trans.),ella (trans.)
+4034	t u e d a	891	*3ra persona	Tacana	tueda	tueda	t u e d a	None		431	él (intr.),ella (intr.),eso
+4035	t u n e d a	896	*3ra persona	Tacana	tuneda	tuneda	t u n e d a	None		431	ellos
+4036	t u n a s a	897	*3ra persona	Tacana	tunasa	tunasa	t u n a s a	None		431	sus (pl.)
+4037	t u n e s e d a	898	*3ra persona	Tacana	tuneseda	tuneseda	t u n e s e d a	None		431	de ellos,suyos (pl.)
+4038	t u n e h e	899	*3ra persona	Tacana	tunehe	tunehe	t u n e h e	None		431	con él
+4039	t u s e d a	900	*3ra persona	Tacana	tuseda	tuseda	t u s e d a	None		431	de él,suyo
+4040	t u s a	901	*3ra persona	Tacana	tusa	tusa	t u s a	None		431	su
+4041	t u n a + m e w a	902	*3ra persona	Tacana	tuna-mewa	tuna-mewa	t u n a + m e w a	None		431	ellos solos
+4042	t e t o w e	869	*3ra persona	Reyesano	tetowe	tetowe~tetoe	t e t o w e	None		431	he
 4043	( - - - - - ) t o ( - n a β e - - - - - )	442	*3ra persona	Reyesano	tonabhe	tonabhe	t o n a β e	None		431	they
 4044	( - - - - - ) t u ( - β e - - - - - - - )	442	*3ra persona	Maropa	tuve	tuve	t u β e	None	Heath1883	431	he
-4045		887	*3ra persona	Maropa	tunave	tunave	t u n a β e	None	Heath1883	431	they
+4045	t u n a β e	887	*3ra persona	Maropa	tunave	tunave	t u n a β e	None	Heath1883	431	they
 4046	( - - - - - ) t o ( r a - - - - - - - - )	442	*3ra persona	Cavinena	tora	tora	t o r a	None		431	él (trans.)
-4047		870	*3ra persona	Cavinena	todyanokadya	todyanokadya	t o d j a n o k a d j a	None		431	ese mismo,otra vez
-4048		871	*3ra persona	Cavinena	toeka	toeka	t o e k a	None		431	de allá
-4049		872	*3ra persona	Cavinena	toekekamadya	toekekamadya	t o e k e k a m a d j a	None		431	por allí
-4050		873	*3ra persona	Cavinena	tokeha	tokeha	t o k e h a	None		431	por allá
-4051		877	*3ra persona	Cavinena	tome	tome	t o m e	None		431	allá
-4052		878	*3ra persona	Cavinena	towake	towake	t o w a k e	None		431	allí,de ahi
-4053		879	*3ra persona	Cavinena	toha	toha	t o h a	None		431	su (de él)
-4054		880	*3ra persona	Cavinena	toke	toke	t o k e	None		431	él (intr.)
-4055		881	*3ra persona	Cavinena	toke_kamadya	toke kamadya	t o k e + k a m a d j a	None		431	único,ese no más
-4056		882	*3ra persona	Cavinena	tona	tona	t o n a	None		431	ellos (intr.)
-4057		883	*3ra persona	Cavinena	tonara	tonara	t o n a r a	None		431	ellos (trans.)
-4058		884	*3ra persona	Cavinena	tonaha	tonaha	t o n a h a	None		431	su (de ellos)
-4059		885	*3ra persona	Cavinena	tota	tota	t o t a	None		431	él solo
-4060		886	*3ra persona	Cavinena	totataka	totataka	t o t a t a k a	None		431	él solito
+4047	t o d j a n o k a d j a	870	*3ra persona	Cavinena	todyanokadya	todyanokadya	t o d j a n o k a d j a	None		431	ese mismo,otra vez
+4048	t o e k a	871	*3ra persona	Cavinena	toeka	toeka	t o e k a	None		431	de allá
+4049	t o e k e k a m a d j a	872	*3ra persona	Cavinena	toekekamadya	toekekamadya	t o e k e k a m a d j a	None		431	por allí
+4050	t o k e h a	873	*3ra persona	Cavinena	tokeha	tokeha	t o k e h a	None		431	por allá
+4051	t o m e	877	*3ra persona	Cavinena	tome	tome	t o m e	None		431	allá
+4052	t o w a k e	878	*3ra persona	Cavinena	towake	towake	t o w a k e	None		431	allí,de ahi
+4053	t o h a	879	*3ra persona	Cavinena	toha	toha	t o h a	None		431	su (de él)
+4054	t o k e	880	*3ra persona	Cavinena	toke	toke	t o k e	None		431	él (intr.)
+4055	t o k e + k a m a d j a	881	*3ra persona	Cavinena	toke_kamadya	toke kamadya	t o k e + k a m a d j a	None		431	único,ese no más
+4056	t o n a	882	*3ra persona	Cavinena	tona	tona	t o n a	None		431	ellos (intr.)
+4057	t o n a r a	883	*3ra persona	Cavinena	tonara	tonara	t o n a r a	None		431	ellos (trans.)
+4058	t o n a h a	884	*3ra persona	Cavinena	tonaha	tonaha	t o n a h a	None		431	su (de ellos)
+4059	t o t a	885	*3ra persona	Cavinena	tota	tota	t o t a	None		431	él solo
+4060	t o t a t a k a	886	*3ra persona	Cavinena	totataka	totataka	t o t a t a k a	None		431	él solito
 4061	( - - - - - ) k o ( - j a - - - - - - - )	442	*3ra persona	EseEjja	koya	koya	k o j a	None		431	ese
 4062	( - - - - - ) t u ( - - - - - - - - - - )	442	*barriga	ProtoTakana	tu-	tu-	t u	None		432	barriga
 4063	( - - - e + ) t u ( - - - - - - - - - - )	442	*barriga	Tacana	e-tu	e-tu	e + t u	None		432	barriga
@@ -4301,7 +4301,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 4300	( e + ) w ( - ) a ʈʂ i ( + m e t i d i - )	466	*pié	Tacana	e-waci_metidi	e-waci metidi	e + w a ʈʂ i + m e t i d i	None	Armentia1887	454	uña del pié
 4301	( e + ) w ( - ) a ts i ( - - - - - - - - )	466	*pié	Reyesano	e-waci	e-waci	e + w a ts i	None		454	foot
 4302	é/e h u o t s i	955	*pié	Maropa	éhuotsi	éhuotsi	é/e w o t s i	None	Nordenskiöld1905	454	foot
-4303	( e - ) β ( - ) a ʈɽ i ( - - - - - - - - )	466	*pié	Maropa	evatri	evatri	e β a ʈɽ i	None	Heath1883	454	foot
+4303	( e - ) β ( - ) a tɽ i ( - - - - - - - - )	466	*pié	Maropa	evatri	evatri	e β a tɽ i	None	Heath1883	454	foot
 4304	( e b ) b ( - ) a tʃ i ( - - - - - - - - )	466	*pié	Sapibokona	ebbachi	ebbachi	e b b a tʃ i	None		454	foot
 4305	( e - ) u ( - ) a t - ( - s i - - - - - )	466	*pié	Araona	euatsi	euatsi	e u a t s i	None		454	pié
 4306	( i - ) w ( - ) a ts i ( - - - - - - - - )	466	*pié	Mabenaro	iwatsi	iwatsi	i w a ts i	None		454	foot
