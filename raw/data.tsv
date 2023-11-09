@@ -174,7 +174,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 173	( e + ) a ʈʂ u ( + d u )	31	*teta	Tacana	e-acu-du	e-acu-du	e + a ʈʂ u + d u	None	Armentia1887	6	testes
 174	( - - ) a ʈʂ u ( + n a )	31	*teta	Tacana	acu-na	acu-na	a ʈʂ u + n a	palabra arcaica		6	leche
 175	( - - ) a ts o ( - - - )	31	*teta	Reyesano	aco	aco	a ts o	None		6	breast
-176	( - - ) a tɽ u ( - - - )	31	*teta	Maropa	atru	atru	a tɽ u	None	Heath1883	6	breasts
+176	( - - ) a tʂ u ( - - - )	31	*teta	Maropa	atru	atru	a tʂ u	None	Heath1883	6	breasts
 177	( - - ) a ts o ( + n a )	31	*teta	Cavinena	aco-na	aco-na	a ts o + n a	None		6	leche,ubre
 178	( - - ) a ts o ( - - - )	31	*teta	Cavinena	aco	aco	a ts o	None	Armentia1887	6	leche
 179	a d u n e	32	*chontaloro	ProtoTakana	adune	adune	a d u n e	None		7	chontaloro
@@ -1000,7 +1000,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 999	( - - - - - - ) ʈʂ ( - ) a ( + j a - - - - - - - )	133	*floración	Tacana	ca-ya	ca-ya	ʈʂ a + j a	None		88	piña
 1000	( - - - - e + ) ʈʂ ( - ) a ( + b i - - - - - - - )	133	*floración	Tacana	e-ca-bi	e-ca-bi	e + ʈʂ a + b i	None		88	afrecha,chala,jachi
 1001	( - - - h a + ) ʈʂ ( - ) a ( + d a - - + t i - - )	133	*floración	Tacana	ha-ca-da-ti-	ha-ca-da-ti-	h a + ʈʂ a + d a + t i	None	Armentia1887	88	florecer
-1002	( - - - - e - ) tɽ ( - ) a ( - - - - - - - - - - )	133	*floración	Maropa	etra	etra	e tɽ a	None	Heath1883	88	hair
+1002	( - - - - e - ) tʂ ( - ) a ( - - - - - - - - - - )	133	*floración	Maropa	etra	etra	e tʂ a	None	Heath1883	88	hair
 1003	( - - - k a + ) ts ( - ) a ( + t i - - - - - - - )	133	*floración	Cavinena	ka-ca-ti-	ka-ca-ti-	k a + ts a + t i	None		88	dar guasca,florecer
 1004	( - - - - - - ) ts ( - ) a ( + b o n - a - - - - )	133	*floración	Cavinena	ca-bona	ca-bona	ts a + b o n a	None		88	atoakaka (una fruta del monte)
 1005	( - - - - - - ) ts ( - ) a ( + k o t - e - - - - )	133	*floración	Cavinena	ca-kote	ca-kote	ts a + k o t e	None		88	guayaba
@@ -1087,7 +1087,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 1086	( e + ) ʈʂ ( - ) e ( + k i - - - - - - - - - )	141	*diente	Tacana	e-ce-ki	e-ce-ki	e + ʈʂ e + k i	None	Armentia1887	98	punta
 1087	( e + ) ʈʂ ( - ) e ( + ʈʂ a - - - - - - - h a )	141	*diente	Tacana	e-ce-caha	e-ce-caha	e + ʈʂ e + ʈʂ a h a	None	Armentia1887	98	encía
 1088	( e + ) ts ( - ) e ( - - - - - - - - - - - - )	141	*diente	Reyesano	e-ce	e-ce	e + ts e	None		98	tooth
-1089	( e - ) tɽ ( - ) e ( - - - - - - - - - - - - )	141	*diente	Maropa	etre	etre	e tɽ e	None	Heath1883	98	teeth
+1089	( e - ) tʂ ( - ) e ( - - - - - - - - - - - - )	141	*diente	Maropa	etre	etre	e tʂ e	None	Heath1883	98	teeth
 1090	!é/e ts tʃ !é/e e	1233	*diente	Maropa	étschée	étschée	!é/e ts tʃ !é/e e	None	Nordenskiöld1905	98	tooth
 1091	( e - ) ts ( h ) e ( e - - - - - - - - - - - )	141	*diente	Sapibokona	echee	echee	e tʃ e e	None		98	dente
 1092	( i - ) ts ( - ) i ( - - - - - - - - - - - - )	141	*diente	Mabenaro	itsi	itsi	i ts i	None		98	teeth
@@ -1136,7 +1136,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 1135	( - - - - ) ʈʂ e ʈʂ e ( + h i h - i - - )	143	*fuerte,agrio	Tacana	cece-hihi	cece-hihi	ʈʂ e ʈʂ e + h i h i	None		101	borracho
 1136	( - - - - ) ʈʂ e ʈʂ e ( - - - - - - - - )	143	*fuerte,agrio	Tacana	cece-	cece-	ʈʂ e ʈʂ e	None		101	emborracher
 1137	( - - - - ) ʈʂ e ʈʂ e ( + n a + h i h i )	143	*fuerte,agrio	Tacana	cece-na-hihi	cece-na-hihi	ʈʂ e ʈʂ e + n a + h i h i	None	Armentia1887	101	avinegrado
-1138	( - - - - ) ʈʂ e ʈʂ e ( - m í/i - - - - - )	143	*fuerte,agrio	Maropa	tretremí	tretremí	ʈʂ e ʈʂ e m í/i	None	Heath1883	101	strong
+1138	( - - - - ) tʂ e tʂ e ( - m í/i - - - - - )	143	*fuerte,agrio	Maropa	tretremí	tretremí	tʂ e tʂ e m í/i	None	Heath1883	101	strong
 1139	( k e a + ) s e s e ( - - - - - - - - )	143	*fuerte,agrio	EseEjja	kea-sese	kea-sese	k e a + s e s e	None		101	fuerte,agrio
 1140	( k i a + ) s e s e ( - - - - - - - - )	143	*fuerte,agrio	Huarayo	kia-sese	kia-sese	k i a + s e s e	None		101	agrio
 1141	( - - - - ) s e s !é/e ( + m a - - - - - )	143	*fuerte,agrio	Huarayo	sesé-ma	sesé-ma	s e s !é/e + m a	None		101	no agrio
@@ -1146,7 +1146,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 1145	( e + ) ʈʂ e ( - ) d u ( - - - - - )	144	*pecho	Tacana	e-cedu	e-cedu	e + ʈʂ e d u	None		102	pecho
 1146	( - - ) ʈʂ e ( - ) d u ( + h a r i )	144	*pecho	Tacana	cedu-hari	cedu-hari	ʈʂ e d u + h a r i	None		102	galápago
 1147	( e + ) tʃ e ( n ) dz o ( - - - - - )	144	*pecho	Reyesano	e-čendzo	e-čendzo	e + tʃ e n dz o	None		102	chest
-1148	( e - ) tʃ !é/e ( n ) tɽ u ( - - - - - )	144	*pecho	Maropa	ečéntru	ečéntru	e tʃ !é/e n tɽ u	None	Heath1883	102	chest
+1148	( e - ) tʃ !é/e ( n ) tʂ u ( - - - - - )	144	*pecho	Maropa	ečéntru	ečéntru	e tʃ !é/e n tʂ u	None	Heath1883	102	chest
 1149	( e - ) tʃ e ( - ) r u ( - - - - - )	144	*pecho	Sapibokona	echerù	echerù	e tʃ e r u	None		102	petto
 1150	( e + ) s e ( - ) ʔ o ( - - - - - )	144	*pecho	EseEjja	e-seʔo	e-seʔo	e + s e ʔ o	None		102	pecho
 1151	( e + ) s e ( - ) ʔ o ( + ɲ a - - )	144	*pecho	EseEjja	e-seʔo-ña	e-seʔo-ña	e + s e ʔ o + ɲ a	None		102	vello del pecho
@@ -1209,8 +1209,8 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 1208	ʈʂ i n e ( - - - - - - - - )	151	*día,fiesta	ProtoTakana	c̣ine	c̣ine	ʈʂ i n e	None		109	día,fiesta
 1209	ʈʂ i n e ( - - - - - - - - )	151	*día,fiesta	Tacana	cine	cine	ʈʂ i n e	None		109	día,fiesta
 1210	ʈʂ i n e ( + - - - - - kʷ a )	151	*día,fiesta	Tacana	cine-kwa	cine-kwa	ʈʂ i n e + kʷ a	None		109	tarde
-1211	tɽ !í/i n e ( - - - - - - - - )	151	*día,fiesta	Maropa	tríne	tríne	tɽ !í/i n e	None	Heath1883	109	day
-1212	tɽ i n e ( k u a - - - - - )	151	*día,fiesta	Maropa	trinekua	trinekua	tɽ i n e k u a	None	Heath1883	109	evening
+1211	tʂ !í/i n e ( - - - - - - - - )	151	*día,fiesta	Maropa	tríne	tríne	tʂ !í/i n e	None	Heath1883	109	day
+1212	tʂ i n e ( k u a - - - - - )	151	*día,fiesta	Maropa	trinekua	trinekua	tʂ i n e k u a	None	Heath1883	109	evening
 1213	tʃ i n e ( s u - - - - - - )	151	*día,fiesta	Guariza	chinezu	chinezu	tʃ i n e s u	None		109	in (this) day
 1214	tʃ i n e ( - - - - - - - - )	151	*día,fiesta	Sapibokona	chine	chine	tʃ i n e	None		109	day
 1215	tʃ i n e ( + a r i d a k e )	151	*día,fiesta	Cavinena	čine_aridake	čine aridake	tʃ i n e + a r i d a k e	None		109	fiesta grande
@@ -1232,7 +1232,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 1231	ʈʂ i - - ( + p u - i - )	153	*robar	Tacana	ci-pui	ci-pu(h)i	ʈʂ i + p u i	None		111	ladrón
 1232	ʈʂ i - - ( - - - - - - )	153	*robar	Tacana	ci-	ci-	ʈʂ i	None		111	robar
 1233	ʈʂ i - - ( + h i - - - )	153	*robar	Tacana	ci-hi	ci-hi	ʈʂ i + h i	None	Armentia1887	111	robado,lisiado,herido
-1234	tɽ i - - ( - - - - - - )	153	*robar	Maropa	tri	tri	tɽ i	None	Heath1883	111	steak
+1234	tʂ i - - ( - - - - - - )	153	*robar	Maropa	tri	tri	tʂ i	None	Heath1883	111	steak
 1235	tʃ i r i ( + p o h i - )	153	*robar	Cavinena	čiri-pohi	čiri-pohi	tʃ i r i + p o h i	None		111	ladrón
 1236	tʃ i r i ( - - - - - - )	153	*robar	Cavinena	čiri-	čiri-	tʃ i r i	None		111	robar
 1237	tʃ i r i ( + kʷ e - - - )	153	*robar	Cavinena	čiri-kwe	čiri-kwe	tʃ i r i + kʷ e	None	Armentia1887	111	defraudar
@@ -1395,8 +1395,8 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 1394	( - - - - - - - - ) d a t i ( + p a tʃ i )	174	*tortuga,peta	Tacana	dati-pači	dati-pači	d a t i + p a tʃ i	None		132	peta
 1395	( m u r i + d a + ) d a t i ( - - - - - )	174	*tortuga,peta	Tacana	muri-da_dati	muri-da dati	m u r i + d a + d a t i	None		132	peta seca
 1396	( - - - k i n a + ) d a t i ( - - - - - )	174	*tortuga,peta	Tacana	kina-dati	kina-dati	k i n a + d a t i	None		132	tortuga grande
-1397	( - - - - - - - - ) ndz a t i ( - - - - - )	174	*tortuga,peta	Reyesano	ndzati	ndzati	ndz a t i	None		132	turtle
-1398	( - - - - - - - - ) dr !á/a t i ( - - - - - )	174	*tortuga,peta	Maropa	dráti	dráti	dr !á/a t i	None	Heath1883	132	tortoise
+1397	( - - - - - - - - ) ⁿz a t i ( - - - - - )	174	*tortuga,peta	Reyesano	ndzati	ndzati	ⁿz a t i	None		132	turtle
+1398	( - - - - - - - - ) ɽ !á/a t i ( - - - - - )	174	*tortuga,peta	Maropa	dráti	dráti	ɽ !á/a t i	None	Heath1883	132	tortoise
 1399	( - - - - - - - - ) d a t i ( - - - - - )	174	*tortuga,peta	Cavinena	dati	dati	d a t i	None		132	tortuga,peta
 1400	( - - - - - - - - ) d a k i ( + a i - - )	174	*tortuga,peta	EseEjja	daki-ai	daki-ai	d a k i + a i	None		132	peta del monte
 1401	( - - - - - - - - ) d a k i ( + ʃ e - - )	174	*tortuga,peta	EseEjja	daki-še	daki-še	d a k i + ʃ e	None		132	año (time of turtles)
@@ -1412,11 +1412,11 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 1411	d e h a ( - - - - - - - - - - - )	177	hombre	Tacana	deha	deha	d e h a	None		135	hombre
 1412	d e h a ( + h a n a n a - - - - )	177	hombre	Tacana	deha-hanana	deha-hanana	d e h a + h a n a n a	None		135	hombrecito
 1413	( e + ) - d - i - a ( + β e - - - - - - - - )	1399	hombre	Tacana	e-dia-ve	e-dia-ve	e + d i a + β e	None		135	boy
-1414	ndz e h a ( - - - - - - - - - - - )	177	hombre	Reyesano	ndzeha	ndzeha	ndz e h a	None		135	man
-1415	ndr !é/e s a	1394	hombre	Maropa	ndrésa	ndrésa	ndr !é/e s a	None	Nordenskiöld1905	135	man
-1416	dr e x a ( - - - - - - - - - - - )	177	hombre	Maropa	drexa	drexa	dr e x a	None	Heath1883	135	man
-1417	dr e x !á/a ( β e - - - - - - - - - )	177	hombre	Maropa	drexáve	drexáve	dr e x !á/a β e	None	Heath1883	135	boy
-1418	dr e x a ( β e β e - - - - - - - )	177	hombre	Maropa	drexaveve	drexaveve	dr e x a β e β e	None	Heath1883	135	young
+1414	ⁿz e h a ( - - - - - - - - - - - )	177	hombre	Reyesano	ndzeha	ndzeha	ⁿz e h a	None		135	man
+1415	ɽ !é/e s a	1394	hombre	Maropa	ndrésa	ndrésa	ɽ !é/e s a	None	Nordenskiöld1905	135	man
+1416	ɽ e x a ( - - - - - - - - - - - )	177	hombre	Maropa	drexa	drexa	ɽ e x a	None	Heath1883	135	man
+1417	ɽ e x !á/a ( β e - - - - - - - - - )	177	hombre	Maropa	drexáve	drexáve	ɽ e x !á/a β e	None	Heath1883	135	boy
+1418	ɽ e x a ( β e β e - - - - - - - )	177	hombre	Maropa	drexaveve	drexaveve	ɽ e x a β e β e	None	Heath1883	135	young
 1419	( - - ) - d r i - a ( n i k u á/a n a - - - - )	1397	hombre	Maropa	drianikuána	drianikuána	d r i a n i k u á/a n a	None	Heath1883	135	people
 1420	d e j a ( - - - - - - - - - - - )	177	hombre	Araona	deja	deja	d e j a	None		135	hombre
 1421	r e - a ( - - - - - - - - - - - )	177	hombre	Guariza	rˈea	rˈea	r e a	None		135	body,people
@@ -1438,15 +1438,15 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 1437	d i ( x i d i x i )	178	*mono nocturno	EseEjja	dixidixi	dixidixi	d i x i d i x i	None		136	mono nocturno
 1438	d i ʔ i	180	*mosquito	ProtoTakana	diʔi	diʔi	d i ʔ i	None		137	mosquito
 1439	d i - -	180	*mosquito	Tacana	di	di	d i	None		137	mosquito
-1440	ndz i - -	180	*mosquito	Reyesano	ndzi	ndzi	ndz i	None		137	mosquito
-1441	dr i - -	180	*mosquito	Maropa	dri	dri	dr i	None	Heath1883	137	mosquito
+1440	ⁿz i - -	180	*mosquito	Reyesano	ndzi	ndzi	ⁿz i	None		137	mosquito
+1441	ɽ i - -	180	*mosquito	Maropa	dri	dri	ɽ i	None	Heath1883	137	mosquito
 1442	d i - i	180	*mosquito	Cavinena	dii	di(ʔ)i	d i i	None		137	mosquito,zancudo
 1443	d !í/i - -	180	*mosquito	EseEjja	dí	dí	d !í/i	None		137	mosquito
 1444	( k e a + ) - d - i - i ( + m o )	1400	*mosquito	EseEjja	kea-dii-mo	kea-dii-mo	k e a + d i i + m o	None		137	muchos mosquitos
 1445	d i - -	180	*mosquito	Huarayo	di	di	d i	None		137	zancudo
 1446	( - - - - ) d i ʃ i ( - - - - - - - - )	179	*camino	ProtoTakana	diji	diji	d i ʃ i	None		138	camino
 1447	( - - e + ) d i ɽ i ( - - - - - - - - )	179	*camino	Tacana	e-diři	e-diři	e + d i ɽ i	None		138	camino
-1448	( - - e + ) ndz i ʃ i ( - - - - - - - - )	179	*camino	Reyesano	e-ndziši	e-ndziši	e + ndz i ʃ i	None		138	trail
+1448	( - - e + ) ⁿz i ʃ i ( - - - - - - - - )	179	*camino	Reyesano	e-ndziši	e-ndziši	e + ⁿz i ʃ i	None		138	trail
 1449	( - - e + ) d i s i ( - - - - - - - - )	179	*camino	Araona	e-disi	e-disi	e + d i s i	None		138	camino
 1450	( - - e + ) r i s i ( - - - - - - - - )	179	*camino	Sapibokona	e-rîsi	e-rîsi	e + r i s i	None		138	strada
 1451	( - - e + ) d i h i ( - - - - - - - - )	179	*camino	Cavinena	e-dihi	e-dihi	e + d i h i	None		138	camino
@@ -1460,8 +1460,8 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 1459	( - - - - - ) d u ( + e + h i - - - - - - - - )	181	*pariente	Tacana	du-e-hi	du-e-hi	d u + e + h i	Concept 'bandada' taken from Armentia | *du+re?		139	mucho,harto,tiene hermanos,bandada
 1460	( - - - - - ) d u ( + d u - - - - - - - - - - )	181	*pariente	Tacana	du-du	du-du	d u + d u	Hombres usan para todas las hermanas		139	hermana mayor (entre mujeres)
 1461	( - - - e + ) d u ( + s + a β e - - - - - - - )	181	*pariente	Tacana	e-du-s-awe	e-du-s-awe	e + d u + s + a β e	None		139	cuñado (marido de hermana)
-1462	( - - - - - ) dr !ú/u ( - x a - - - - - - - - - - )	181	*pariente	Maropa	drúxa	drúxa	dr !ú/u x a	None	Heath1883	139	much
-1463	( - - - - - ) dr u ( n d r u - - - - - - - - - )	181	*pariente	Maropa	drundru	drundru	dr u n d r u	None	Heath1883	139	older sister
+1462	( - - - - - ) ɽ !ú/u ( - x a - - - - - - - - - - )	181	*pariente	Maropa	drúxa	drúxa	ɽ !ú/u x a	None	Heath1883	139	much
+1463	( - - - - - ) ɽ u ( n d r u - - - - - - - - - )	181	*pariente	Maropa	drundru	drundru	ɽ u n d r u	None	Heath1883	139	older sister
 1464	( - - - e - ) d o ( - i - - - - - - - - - - - )	181	*pariente	Araona	-edoï-	-edoï-	e d o i	None	Créqui1922	139	parents
 1465	( - - - - - ) d o ( - d o - - - - - - - - - - )	181	*pariente	Mabenaro	dodo	dodo	d o d o	None		139	brother
 1466	( - - - - - ) d o ( - d a - - - - - - - - - - )	181	*pariente	Mabenaro	doda	doda	d o d a	None		139	sister
@@ -1546,7 +1546,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 1545	( - - ) d u ʈʂ i ( - - - - )	183	*brujo,dios	ProtoTakana	duc̣i	duc̣i	d u ʈʂ i	None		143	brujo,dios
 1546	( e + ) d u ʈʂ i ( - - - - )	183	*brujo,dios	Tacana	e-duci	e-duci	e + d u ʈʂ i	None		143	piedra de brujo,poder de brujería
 1547	( e - ) r u tʃ i ( - - - - )	183	*brujo,dios	Sapibokona	eruchi	eruchi	e r u tʃ i	None		143	dio
-1548	( e - ) d u tɽ i ( - - - - )	183	*brujo,dios	Araona	edutzi	edutzi	e d u tɽ i	None		143	dios
+1548	( e - ) d u tʂ i ( - - - - )	183	*brujo,dios	Araona	edutzi	edutzi	e d u tʂ i	None		143	dios
 1549	( e + ) d u tʃ i ( - - - - )	183	*brujo,dios	Cavinena	e-duči	e-duči	e + d u tʃ i	None	Armentia1887	143	dios
 1550	( e + ) d o s i ( + k i a )	183	*brujo,dios	EseEjja	e-dosi-kia	e-dosi-kia	e + d o s i + k i a	None		143	brujo,curandero
 1551	( - - ) d u d u ( - - - - - - - - - - - )	184	*moler,tocar	ProtoTakana	dudu-	dudu-	d u d u	None		144	moler,tocar
@@ -1559,7 +1559,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 1558	( - - - ) d u k e - i ( - - - - - - )	186	*venado	Tacana	dukei	dukei	d u k e i	None		145	venado,huasa
 1559	( tʃ a + ) d u k e - i ( - - - - - - )	186	*venado	Tacana	ča-dukei	ča-dukei	tʃ a + d u k e i	None	Armentia1887	145	venado de pajonal
 1560	( - - - ) d u k e - i ( + b u n a - )	186	*venado	Tacana	dukei-buna	dukei-buna	d u k e i + b u n a	None		145	hormiga colorada larga, muy venenosa
-1561	( - - - ) ndz o kʷ e - i ( - - - - - - )	186	*venado	Reyesano	ndzokwei	ndzokwei	ndz o kʷ e i	None		145	deer
+1561	( - - - ) ⁿz o kʷ e - i ( - - - - - - )	186	*venado	Reyesano	ndzokwei	ndzokwei	ⁿz o kʷ e i	None		145	deer
 1562	( - - - ) d o kʷ e r i ( - - - - - - )	186	*venado	Cavinena	dokweri	dokweri	d o kʷ e r i	None		145	venado,huaso del monte
 1563	( - - - ) d o kʷ e r i ( + - i b a - )	186	*venado	Cavinena	dokweri_iba	dokweri iba	d o kʷ e r i + i b a	None		145	león leopardo
 1564	( - - - ) d o kʷ !é/e - - ( - - - - - - )	186	*venado	EseEjja	dokwé	dokwé	d o kʷ !é/e	None		145	venado
@@ -1587,7 +1587,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 1586	d u ʔ u ( - - - - - - - - - )	190	*mono manechi	ProtoTakana	duʔu	duʔu	d u ʔ u	None		148	mono manechi
 1587	d u - - ( - - - - - - - - - )	190	*mono manechi	Tacana	du	du	d u	None		148	mono manechi
 1588	d u - - ( + k a + d u + k a )	190	*mono manechi	Tacana	du-ka-du-ka	du-ka-du-ka	d u + k a + d u + k a	None		148	mono lucashi
-1589	ndz o - - ( - - - - - - - - - )	190	*mono manechi	Reyesano	ndzo	ndzo	ndz o	None		148	howler monkey
+1589	ⁿz o - - ( - - - - - - - - - )	190	*mono manechi	Reyesano	ndzo	ndzo	ⁿz o	None		148	howler monkey
 1590	- d - o - o ( - - - - - - - - - )	1445	*mono manechi	Cavinena	doo	do(ʔ)o	d o o	None		148	manechi (mono aullador)
 1591	- d - - - o ( + kʷ a + d o + kʷ a )	1444	*mono manechi	Cavinena	do-kwa-do-kwa	do-kwa-do-kwa	d o + kʷ a + d o + kʷ a	None		148	mono lucashi,mono león
 1592	d o ʔ o ( + w a h a - - - - )	190	*mono manechi	Cavinena	doʔo-waha	doʔo-waha	d o ʔ o + w a h a	None		148	erereú (abeja)
@@ -1744,7 +1744,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 1743	( e + - ) i ʃ i ( - - - - - - - - )	202	*tomar,beber	Reyesano	e-iši	e-iši	e + i ʃ i	None		161	corn drink
 1744	( ʔ a - ) - ʃ - - i ( - t i h e - - - )	555	*tomar,beber	Reyesano	ʔašitihe	ʔašitihe	ʔ a ʃ i t i h e	cognate?		161	drink
 1745	( - - - ) i tʃ i ( - - - - - - - - )	202	*tomar,beber	Maropa	ichi	ichi	i tʃ i	None	Cardús1886	161	chicha
-1746	j a i s ts h i tɽ i	554	*tomar,beber	Maropa	jaischitri	jaischitri	j a i s ts h i tɽ i	None	Heath1883	161	to drink
+1746	j a i s ts h i tʂ i	554	*tomar,beber	Maropa	jaischitri	jaischitri	j a i s ts h i tʂ i	None	Heath1883	161	to drink
 1747	( e - - ) i d i ( - - - - - - - - )	202	*tomar,beber	Araona	eidi	eidi	e i d i	None		161	drink
 1748	( - - - ) i h i ( - - - - - - - - )	202	*tomar,beber	Cavinena	ihi-	ihi-	i h i	None		161	tomar,beber
 1749	( - - - ) i h i ( + i ʃ o - - - - )	202	*tomar,beber	Cavinena	ihi-išo-	ihi-išo-	i h i + i ʃ o	None		161	bebida
@@ -2251,7 +2251,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 2250	( - - - ) kʷ ( - ) a ʈʂ a ( + p j a d a - - )	256	*boca	Tacana	kwaca_peada	kwaca peada	kʷ a ʈʂ a + p j a d a	None	Armentia1887	232	un bocado,un trago,una palabra,una boca
 2251	( - - - ) kʷ ( - ) a ʈʂ a ( + t e r i - - - )	256	*boca	Tacana	kwaca-teri	kwaca-teri	kʷ a ʈʂ a + t e r i	None	Armentia1887	232	tapar (cántaro ó botella)
 2252	( e + - ) kʷ ( - ) a ts a ( - - - - - - - - )	256	*boca	Reyesano	e-kwaca	e-kwaca	e + kʷ a ts a	None		232	mouth
-2253	( e - - ) k ( u ) a tɽ a ( - - - - - - - - )	256	*boca	Maropa	ekuatra	ekuatra	e k u a tɽ a	None	Heath1883	232	mouth
+2253	( e - - ) k ( u ) a tʂ a ( - - - - - - - - )	256	*boca	Maropa	ekuatra	ekuatra	e k u a tʂ a	None	Heath1883	232	mouth
 2254	( e - - ) k ( u ) a tʃ a ( - - - - - - - - )	256	*boca	Sapibokona	ecuacha	ecuacha	e k u a tʃ a	None		232	bocca
 2255	( e - - ) k ( u ) a tʃ a ( ts u b b i - - - )	256	*boca	Sapibokona	ecuachacubbi	ecuachacubbi	e k u a tʃ a ts u b b i	None		232	labbro
 2256	( i - - ) kʷ ( - ) a ts a ( - - - - - - - - )	256	*boca	Mabenaro	ikwatsa	ikwatsa	i kʷ a ts a	None		232	mouth
@@ -2552,7 +2552,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 2551	( j + a w e + ) m a n o ( - - - - - - - - - - - )	294	*morir	EseEjja	y-awe-mano	y-awe-mano	j + a w e + m a n o	None		272	viuda
 2552	( - - - - - - ) m a n u ( - - - - - - - - - - - )	294	*morir	Huarayo	manu-	manu-	m a n u	None		272	morir
 2553	( e + - - - - ) m a n o ( - - - - - - - - - - - )	690	*morir	Huarayo	e-mano	e-mano	e + m a n o	None		272	muerto
-2554	( e - - - - - ) m a n !u|o/o ( - - - - - - - - - - - )	294	*morir	Arasa	emanU	eman{u/o}	e m a n !u|o/o	None		272	dead
+2554	( e - - - - - ) m a n !U/o ( - - - - - - - - - - - )	294	*morir	Arasa	emanU	eman{u/o}	e m a n !U/o	None		272	dead
 2555	( - - - - - - - - ) m a p a ( - - - - - )	295	*llevar,cargar,abrazar	ProtoTakana	mapa-	mapa-	m a p a	None		273	llevar,cargar,abrazar
 2556	( j + a n a n a + ) m a p a ( + i - - - )	295	*llevar,cargar,abrazar	Tacana	y-anana_mapa-i	y-anana mapa-(h)i	j + a n a n a + m a p a + i	None		273	baby sitter
 2557	( - - - - - - - - ) m a p a ( - - - - - )	295	*llevar,cargar,abrazar	Cavinena	mapa-	mapa-	m a p a	None		273	llevar,cargar
@@ -2621,10 +2621,10 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 2620	m e ʈʂ i ( - - - - - )	305	*tierra	ProtoTakana	mec̣i	mec̣i	m e ʈʂ i	None		281	tierra
 2621	m e ʈʂ i ( - - - - - )	305	*tierra	Tacana	meci	meci	m e ʈʂ i	None		281	estuco (tierra blanca usada como estuco)
 2622	m e ts i ( - - - - - )	305	*tierra	Reyesano	meci	meci	m e ts i	None		281	earth
-2623	m !é/e tɽ i ( - - - - - )	305	*tierra	Maropa	métri	métri	m !é/e tɽ i	None	Heath1883	281	earth
+2623	m !é/e tʂ i ( - - - - - )	305	*tierra	Maropa	métri	métri	m !é/e tʂ i	None	Heath1883	281	earth
 2624	m e tʃ i ( - - - - - )	305	*tierra	Cavinena	meči	meči	m e tʃ i	None		281	tierra
 2625	m e tʃ i ( + p e h a )	305	*tierra	Cavinena	meči-peha	meči-peha	m e tʃ i + p e h a	None		281	plato
-2626	m !e|ä/e s i ( - - - - - )	305	*tierra	Arasa	mEsi	m{e/ä}si	m !e|ä/e s i	None		281	pot de terre
+2626	m !E/e s i ( - - - - - )	305	*tierra	Arasa	mEsi	m{e/ä}si	m !E/e s i	None		281	pot de terre
 2627	m e ʃ i ( - - - - - - - - )	306	*tierra,arena	ProtoTakana	meji	meji	m e ʃ i	None		281	tierra,arena
 2628	m e ɽ i ( - - - - - - - - )	306	*tierra,arena	Tacana	meři	meři	m e ɽ i	None		281	tierra
 2629	m e ɽ i ( + t u ð i - - - )	306	*tierra,arena	Tacana	meři_tudhi	meři tudhi	m e ɽ i + t u ð i	None		281	greda
@@ -2690,7 +2690,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 2689	x a + m e + h e + w e + k i	586	*mano	EseEjja	xa-me-he-we-ki-	xa-me-he-we-ki-	x a + m e + h e + w e + k i	None		282	lastimarse el dedo
 2690	( e + ) m é/e ( - - - - - - - - - - )	587	*mano	Huarayo	e-mé	e-mé	e + m é/e	None		282	mano
 2691	( e + ) m !é/e ( + b a ɲ e n e i - - )	303	*mano	Huarayo	e-mé_bañenei	e-mé bañenei	e + m !é/e + b a ɲ e n e i	None		282	mano derecha
-2692	e + m !é/e + ʃ a n i	588	*mano	Huarayo	e-mé_šani	e-mé šani	e + m !é/e + ʃ a n i	None		282	mano izquierda
+2692	e + m !é/e + ʃ a n i	588	*mano	Huarayo	e-mé_šani	e-mé šani	e + m !é/e + ʃ a n i	None		282	mano izquierda
 2693	e + m e + s e	589	*mano	Huarayo	e-me-se	e-me-se	e + m e + s e	cognate?		282	flecha
 2694	( - e - ) m a - - - - - - - - - - - -	562	*mano	Arasa	emä	emä	e m a	None		282	hand
 2695	( - e - ) m a s - í/i - - - s i - - - -	561	*mano	Arasa	emäsísi	emäsísi	e m a s í/i s i	None		282	finger
@@ -2747,7 +2747,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 2746	( - - - - ) m ( - ) e k a ( + ʃ o n o - - - - - - - - )	310	*mañana,ayer	EseEjja	meka-šono	meka-šono	m e k a + ʃ o n o	None		290	media noche
 2747	( o m a + ) m ( - ) e k a ( + x - - - - e - - - - - - )	310	*mañana,ayer	EseEjja	oma-meka-xe	oma-meka-xe	o m a + m e k a + x e	None		290	ayer
 2748	( e - - - ) m ( - ) !é/e t e ( - - - - - - - - - - - - - )	310	*mañana,ayer	Arasa	eméte	eméte	e m !é/e t e	None		290	tomorrow
-2749	m e w i|e/i ( - - - - )	311	*celar	ProtoTakana	mewI	mew{i/e}	m e w i|e/i	None		291	celar
+2749	m e w !I/i ( - - - - )	311	*celar	ProtoTakana	mewI	mew{i/e}	m e w !I/i	None		291	celar
 2750	m e β i ( + t u a )	311	*celar	Tacana	mevi-tua-	mevi-tua-	m e β i + t u a	None		291	apuntar
 2751	m e β e ( - - - - )	311	*celar	Cavinena	mewe-	mewe-	m e β e	None		291	celar
 2752	m i ( - - - - - - - - - )	312	*2da persona	ProtoTakana	mi-	mi-	m i	None		292	2da persona
@@ -3263,7 +3263,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 3262	p i ð a ( - - - - - - - )	368	*flecha	Reyesano	pidha	pidha	p i ð a	None		348	arrow
 3263	p i ð a ( + ts o e - - - )	368	*flecha	Reyesano	pidha-coe	pidha-coe	p i ð a + ts o e	None		348	bow
 3264	p i θ a ( - - - - - - - )	368	*flecha	Maropa	piθa	piθa	p i θ a	None	Heath1883	348	arrow
-3265	p i θ a ( + tɽ ú/u e	368	*flecha	Maropa	piθa-trúe	piθa-trúe	p i θ a + tɽ ú/u e	None	Heath1883	348	bow
+3265	p i θ a ( + tʂ ú/u e - - - )	368	*flecha	Maropa	piθa-trúe	piθa-trúe	p i θ a + tʂ ú/u e	None	Heath1883	348	bow
 3266	p i j a ( - - - - - - - )	368	*flecha	Cavinena	piya	piya	p i j a	None		348	flecha,lanza
 3267	p i j a ( + ts e β e + a )	368	*flecha	Cavinena	piya-cewe-a-	piya-cewe-a-	p i j a + ts e β e + a	None		348	flechar
 3268	p i - a ( + k i - - - - )	774	*flecha	Cavinena	pia-ki	pia-ki	p i a + k i	*pisa > piha > pi(y)a?	Armentia1887	348	flechador
@@ -3448,7 +3448,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 3447	( - - ) r a d a ( - - - - - )	513	*juntar,amontonar,acarrear	Cavinena	rada-	rada-	r a d a	None		365	juntar,amontonar,acarrear
 3448	( e + ) r a d a ( - - - - - )	513	*juntar,amontonar,acarrear	Cavinena	e-rada	e-rada	e + r a d a	None	Armentia1887	365	ramillete,junta
 3449	( e + ) r a d a ( + k i - - )	513	*juntar,amontonar,acarrear	Cavinena	e-rada-ki	e-rada-ki	e + r a d a + k i	None	Armentia1887	365	balumba
-3450	ɽ a ɽ !i|e/i	514	*chapapear,abochornar	ProtoTakana	řařI	řař{e/i}	ɽ a ɽ !i|e/i	None		366	chapapear,abochornar
+3450	ɽ a ɽ !I/i	514	*chapapear,abochornar	ProtoTakana	řařI	řař{e/i}	ɽ a ɽ !I/i	None		366	chapapear,abochornar
 3451	r a r e	514	*chapapear,abochornar	Tacana	rare-	rare-	r a r e	None		366	chapapear,asar
 3452	r a r i	514	*chapapear,abochornar	Cavinena	rari	rari	r a r i	None	Armentia1887	366	abochornar,bochorno
 3453	ɽ a u	511	*garza	ProtoTakana	řau	řa(ʔ)u	ɽ a u	None		367	garza
@@ -3664,7 +3664,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 3663	( - - ) s i n a ( - - - - - - - - )	398	*caliente,cocinar	Tacana	sina-	sina-	s i n a	None		392	cocer
 3664	( - - ) s i n a ( + s i n a + n i )	398	*caliente,cocinar	Tacana	sina-sina-ni	sina-sina-ni	s i n a + s i n a + n i	None	Armentia1887	392	ardor
 3665	( - - ) ð i n - ( dz i n dz i + m e )	398	*caliente,cocinar	Reyesano	dhindzindzi-me	dhindzindzi-me	ð i n dz i n dz i + m e	None		392	hot
-3666	( - - ) θ i n - ( - tɽ i tɽ í/i m e - )	398	*caliente,cocinar	Maropa	θintritríme	θintritríme	θ i n tɽ i tɽ í/i m e	None	Heath1883	392	hot
+3666	( - - ) θ i n - ( - tʂ i tʂ í/i m e - )	398	*caliente,cocinar	Maropa	θintritríme	θintritríme	θ i n tʂ i tʂ í/i m e	None	Heath1883	392	hot
 3667	( e + ) h i n a ( - - - - - - - - )	398	*caliente,cocinar	Cavinena	e-hina	e-hina	e + h i n a	None		392	cocido
 3668	( - - ) h i n a ( + m a - - - - - )	398	*caliente,cocinar	Cavinena	hina-ma	hina-ma	h i n a + m a	None		392	crudo (sin cocer)
 3669	( - - ) h i n a ( - - - - - - - - )	398	*caliente,cocinar	Cavinena	hina-	hina-	h i n a	None		392	cocer,cocinar
@@ -4301,7 +4301,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 4300	( e + ) w ( - ) a ʈʂ i ( + m e t i d i - )	466	*pié	Tacana	e-waci_metidi	e-waci metidi	e + w a ʈʂ i + m e t i d i	None	Armentia1887	454	uña del pié
 4301	( e + ) w ( - ) a ts i ( - - - - - - - - )	466	*pié	Reyesano	e-waci	e-waci	e + w a ts i	None		454	foot
 4302	é/e h u o t s i	955	*pié	Maropa	éhuotsi	éhuotsi	é/e w o t s i	None	Nordenskiöld1905	454	foot
-4303	( e - ) β ( - ) a tɽ i ( - - - - - - - - )	466	*pié	Maropa	evatri	evatri	e β a tɽ i	None	Heath1883	454	foot
+4303	( e - ) β ( - ) a tʂ i ( - - - - - - - - )	466	*pié	Maropa	evatri	evatri	e β a tʂ i	None	Heath1883	454	foot
 4304	( e b ) b ( - ) a tʃ i ( - - - - - - - - )	466	*pié	Sapibokona	ebbachi	ebbachi	e b b a tʃ i	None		454	foot
 4305	( e - ) u ( - ) a t - ( - s i - - - - - )	466	*pié	Araona	euatsi	euatsi	e u a t s i	None		454	pié
 4306	( i - ) w ( - ) a ts i ( - - - - - - - - )	466	*pié	Mabenaro	iwatsi	iwatsi	i w a ts i	None		454	foot
@@ -4380,7 +4380,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 4379	w a n u ( - - - - - )	472	*abejo	ProtoTakana	wanu	wanu	w a n u	None		462	abejo
 4380	w a n u ( + w a n u )	472	*abejo	Tacana	wanu-wanu	wanu-wanu	w a n u + w a n u	None		462	erereú (abeja)
 4381	w a n o ( + w a n o )	472	*abejo	Cavinena	wano-wano	wano-wano	w a n o + w a n o	None		462	abejo
-4382	w a p !a|e/a ( - - - - - )	473	*algodón	ProtoTakana	wapA	wap{a/e}	w a p !a|e/a	None		463	algodón
+4382	w a p !A/a ( - - - - - )	473	*algodón	ProtoTakana	wapA	wap{a/e}	w a p !A/a	None		463	algodón
 4383	w a p a ( + w a p a )	473	*algodón	Tacana	wapa-wapa	wapa-wapa	w a p a + w a p a	None		463	blando,esponjado
 4384	w a p e ( + s e - - )	959	*algodón	Tacana	wape-se	wape-se	w a p e + s e	None		463	algodón
 4385	w a p e ( - ð e - - )	473	*algodón	Reyesano	wapedhe	wapedhe	w a p e ð e	None		463	cotton
@@ -4389,7 +4389,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 4388	w a p e ( + h e - - )	958	*algodón	EseEjja	wape-he	wape-he	w a p e + h e	None		463	algodón
 4389	w a p a ( - - - - - )	473	*algodón	EseEjja	wapa-	wapa-	w a p a	None		463	espumar
 4390	w a p !é/e ( - h e - - )	473	*algodón	Arasa	wapéhe	wapéhe	w a p !é/e h e	None		463	cotton
-4391	w !a|e/a p e ( - )	491	*palizado	ProtoTakana	wApe	w{a/e}pe(e)	w !a|e/a p e	None		464	palizado
+4391	w !A/a p e ( - )	491	*palizado	ProtoTakana	wApe	w{a/e}pe(e)	w !A/a p e	None		464	palizado
 4392	w a p e ( - )	491	*palizado	Tacana	wape	wape	w a p e	None		464	palizado (palos montados en río)
 4393	w e p e ( e )	491	*palizado	EseEjja	wepee	wepee	w e p e e	None		464	palizado
 4394	w e p !é/e ( - )	491	*palizado	Huarayo	wepé	wepé	w e p !é/e	None		464	palizado
@@ -4539,7 +4539,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 4538	( - e + ) h u ( - - - - - - - - - - - - )	488	*espiga,cogollo	Tacana	e-hu	e-hu	e + h u	None		481	espiga
 4539	( - e + ) h u ( + b u - - - - - - - - - )	488	*espiga,cogollo	Tacana	e-hu-bu	e-hu-bu	e + h u + b u	Concept 'cogollo' taken from Armentia		481	tola de palmeras,papa de plátano,cogollo
 4540	( - e + ) j o ( + b o - - - - - - - - - )	488	*espiga,cogollo	EseEjja	e-yo-bo	e-yo-bo	e + j o + b o	None		481	cogollo
-4541	( - - - - ) w u ɽ !a|u/a ( - - - - - )	490	*colorear	ProtoTakana	wuřÄ	wuř{a/u}	w u ɽ !a|u/a	None		482	colorear
+4541	( - - - - ) w u ɽ !Ä/a ( - - - - - )	490	*colorear	ProtoTakana	wuřÄ	wuř{a/u}	w u ɽ !Ä/a	None		482	colorear
 4542	( - - - - ) h u r a ( + h u r a )	490	*colorear	Tacana	hura-hura	hura-hura	h u r a + h u r a	None	Armentia1887	482	pintado de colorado y blanmco
 4543	( - - - - ) h o r o ( + h o r o )	490	*colorear	Cavinena	horo-horo	horo-horo	h o r o + h o r o	None		482	pintado,rayado
 4544	( - - - - ) w o ʔ o ( - - - - - )	490	*colorear	EseEjja	woʔo-	woʔo-	w o ʔ o	None		482	colorear
@@ -4643,7 +4643,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 4642	( e + ) ð ( - - ) a p u p u	498	*isla	Tacana	e-dhapupu	e-dhapupu	e + ð a p u p u	None		492	isla
 4643	( - - ) s ( - - ) a p o p o	498	*isla	Reyesano	sapopo	sapopo	s a p o p o	None		492	island
 4644	( i - ) s ( ts h ) !á/a p u p u	498	*isla	Maropa	ischápupu	ischápupu	i s ts h !á/a p u p u	None	Armentia1887	492	island
-4645	z a ɽ !a|e/a ( - - - - - )	500	*prender	ProtoTakana	zařA	zař{a/e}	z a ɽ !a|e/a	None		493	prender
+4645	z a ɽ !A/a ( - - - - - )	500	*prender	ProtoTakana	zařA	zař{a/e}	z a ɽ !A/a	None		493	prender
 4646	ð a r a ( - r a - - )	500	*prender	Tacana	dharara	dharara	ð a r a r a	None		493	rayo
 4647	( - - ) ð a r e ( + ð a r e )	969	*prender	Tacana	dhare-dhare	dhare-dhare	ð a r e + ð a r e	None		493	pintado
 4648	( e + ) ð a w a ( - - - - - )	970	*prender	Tacana	e-dhawa	e-dhawa	e + ð a w a	None		493	tizón de fuego
@@ -4662,7 +4662,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 4661	( - - - - - - - ) s a w a ( - - - - - - - - )	499	*azul,verde	Cavinena	sawa-	sawa-	s a w a	None		494	teñir
 4662	( - - - - - - - ) s a w a ( + k a k a + s o )	499	*azul,verde	Cavinena	sawa-kaka-so-	sawa-kaka-so-	s a w a + k a k a + s o	None		494	enmohecer
 4663	( - - - - - - - ) t a w a ( + d a ʔ a - - - )	972	*azul,verde	Cavinena	tawa-daʔa	<tawa-daʔa>	t a w a + d a ʔ a	None	Armentia1887	494	azulear
-4664	( - - - - - - - ) !s|z/s a w a ( + d a - - - - - )	499	*azul,verde	Cavinena	Sawa-da	<{s/z}awa-da>	!s|z/s a w a + d a	None	Armentia1887	494	azul
+4664	( - - - - - - - ) !S/s a w a ( + d a - - - - - )	499	*azul,verde	Cavinena	Sawa-da	<{s/z}awa-da>	!S/s a w a + d a	None	Armentia1887	494	azul
 4665	( - - - - - e + ) t a w a ( - - - - - - - - )	499	*azul,verde	EseEjja	e-tawa	e-tawa	e + t a w a	None		494	verde
 4666	( - - - k e a + ) t a w a ( - - - - - - - - )	499	*azul,verde	EseEjja	kea-tawa	kea-tawa	k e a + t a w a	None		494	clara (el agua)
 4667	( - - - - - - - ) t a w a ( - - - - - - - - )	499	*azul,verde	EseEjja	tawa-	tawa-	t a w a	None		494	aclararse
@@ -4744,7 +4744,7 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 4743	( b a ʔ e + ) tʃ i tʃ a ( - - - - - - - - )	507	*unir,juntar	EseEjja	baʔe-čiča-	baʔe-čiča-	b a ʔ e + tʃ i tʃ a	None		501	quedar
 4744	( - i j a + ) tʃ i tʃ a ( - - - - - - - - )	507	*unir,juntar	EseEjja	iya-čiča-	iya-čiča-	i j a + tʃ i tʃ a	None		501	recoger
 4745	( - - - - - ) tʃ i tʃ a ( - - - - - - - - )	507	*unir,juntar	Huarayo	čiča-	čiča-	tʃ i tʃ a	cognates?		501	juntar,amontonar
-4746	z i z !a|e/a ( - - - - - - - )	508	*noche	ProtoTakana	zizA	ziz{a/e}	z i z !a|e/a	None		502	noche
+4746	z i z !A/a ( - - - - - - - )	508	*noche	ProtoTakana	zizA	ziz{a/e}	z i z !A/a	None		502	noche
 4747	ð i ð a ( - - - - - - - )	508	*noche	Tacana	dhidha	dhidha	ð i ð a	None		502	noche
 4748	ð i ð a ( + d u s e t e )	508	*noche	Tacana	dhidha-dusete	dhidha-dusete	ð i ð a + d u s e t e	None		502	media noche
 4749	s i s e ( + w a n i - - )	508	*noche	Cavinena	sise-wani	sise-wani	s i s e + w a n i	None		502	neblina
