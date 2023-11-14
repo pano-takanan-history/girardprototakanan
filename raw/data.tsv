@@ -180,36 +180,36 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 179	a d u n e	32	*chontaloro	ProtoTakana	adune	adune	a d u n e	None		7	chontaloro
 180	a d u n e	32	*chontaloro	Tacana	adune	adune	a d u n e	None		7	chontaloro (palmera)
 181	a d o n e	32	*chontaloro	Cavinena	adone	adone	a d o n e	None		7	chontaloro
-182	( - - - - - - ) kʷ i ( - - - - - - - - - - )	2	*árbol	ProtoTakana	kwi	(a)kwi	kʷ i	see also *kwi,*kwati		8	árbol
-183	( - - - - - a ) k i ( - - - - - - - - - - )	2	*árbol	Tacana	aki	aki	a k i	None		8	árbol,palo
-184	( - - - - - a ) k i ( - ɽ a - - - - - - - )	2	*árbol	Tacana	akiřa	akiřa	a k i ɽ a	None		8	espina
-185	( - - - - - a ) k i ( - ɽ a - i - - - - - )	2	*árbol	Tacana	akiřai	akiřai	a k i ɽ a i	None		8	suchi (pez)
-186	( - - - - - a ) k i ( - ɽ u - - - - - - - )	2	*árbol	Tacana	akiřu	akiřu	a k i ɽ u	None		8	manzana silvestre (árbol)
-187	( - - - - - - ) k i ( + p a b i - - - - - )	2	*árbol	Tacana	ki-pabi	ki-pabi	k i + p a b i	None		8	gavetillo (árbol)
-188	( kʷ a s e + e ) k i ( - - - - - - - - - - )	2	*árbol	Tacana	kwase_eki	kwase eki	kʷ a s e + e k i	None		8	árbol de cacao
-189	( - - - - - a ) kʷ i ( - - - - - - - - - - )	2	*árbol	Reyesano	akwi	akwi	a kʷ i	None		8	tree
+182	( - - - - - ) - kʷ i ( - - - - - - - - - - )	2	*árbol	ProtoTakana	kwi	(a)kwi	kʷ i	see also *kwi,*kwati		8	árbol
+183	( - - - - - ) a k i ( - - - - - - - - - - )	2	*árbol	Tacana	aki	aki	a k i	None		8	árbol,palo
+184	( - - - - - ) a k i ( - ɽ a - - - - - - - )	2	*árbol	Tacana	akiřa	akiřa	a k i ɽ a	None		8	espina
+185	( - - - - - ) a k i ( - ɽ a - i - - - - - )	2	*árbol	Tacana	akiřai	akiřai	a k i ɽ a i	None		8	suchi (pez)
+186	( - - - - - ) a k i ( - ɽ u - - - - - - - )	2	*árbol	Tacana	akiřu	akiřu	a k i ɽ u	None		8	manzana silvestre (árbol)
+187	( - - - - - ) - k i ( + p a b i - - - - - )	2	*árbol	Tacana	ki-pabi	ki-pabi	k i + p a b i	None		8	gavetillo (árbol)
+188	( kʷ a s e + ) e k i ( - - - - - - - - - - )	2	*árbol	Tacana	kwase_eki	kwase eki	kʷ a s e + e k i	None		8	árbol de cacao
+189	( - - - - - ) a kʷ i ( - - - - - - - - - - )	2	*árbol	Reyesano	akwi	akwi	a kʷ i	None		8	tree
 190	( e ) k e ( - n á/a - - - - - - - )	767	*árbol	Maropa	ekená	ekená	e k e n á/a	None	Heath1883	8	leaf
-191	( - - - - - !á/a ) k i ( - - - - - - - - - - )	2	*árbol	Maropa	áki	áki	!á/a k i	None	Heath1883	8	tree
-192	( - - - - - a ) kʷ i ( - - - - - - - - - - )	2	*árbol	Araona	acui	acui	a kʷ i	None		8	árbol,palo
-193	( - - - - - a ) kʷ i ( s a - - - - - - - - )	2	*árbol	Araona	acuisa	acuisa	a kʷ i s a	None		8	espina
-194	( - - - - - a ) kʷ i ( - - - - - - - - - - )	2	*árbol	Mabenaro	akwi	akwi	a kʷ i	None		8	tree
-195	( - - - - - a ) kʷ i ( - - - - - - - - - - )	2	*árbol	Cavinena	akwi	akwi	a kʷ i	None		8	árbol,palo
-196	( - - - - - a ) kʷ i ( - h a - - - - - - - )	2	*árbol	Cavinena	akwiha	akwiha	a kʷ i h a	None		8	espina
-197	( - - - - - a ) kʷ i ( - h o - - - - - - - )	2	*árbol	Cavinena	akwiho	akwiho	a kʷ i h o	None		8	bi (árbol y fruta)
-198	( - - - - - - ) kʷ i ( + n a β i - - - - - )	2	*árbol	Cavinena	kwi-nawi	kwi-nawi	kʷ i + n a β i	None		8	clase de árbol
-199	( kʷ a β e + e ) kʷ i ( - - - - - - - - - - )	2	*árbol	Cavinena	kwawe_ekwi	kwawe ekwi	kʷ a β e + e kʷ i	None		8	rama de yuca
-200	( - - - - - a ) kʷ i ( - - - - - - - - - - )	2	*árbol	EseEjja	akwi	akwi	a kʷ i	None		8	árbol,palo
-201	( - - - - - a ) kʷ i ( - ʃ a - - - - - - - )	2	*árbol	EseEjja	akwiša	akwiša	a kʷ i ʃ a	None		8	espina
-202	( - - - - - a ) kʷ i ( + ʃ a x i - - - - - )	2	*árbol	EseEjja	akwi-šaxi	akwi-šaxi	a kʷ i + ʃ a x i	None		8	bagre (pez)
-203	( - - - - - a ) kʷ i ( + - e s i - j e - - )	2	*árbol	EseEjja	akwi-esiye	akwi-esiye	a kʷ i + e s i j e	None		8	naranjo
-204	( - - - - - a ) kʷ i ( + h e - a - - - - - )	2	*árbol	EseEjja	akwi-hea-	akwi-hea-	a kʷ i + h e a	None		8	garrotear
-205	( - - - - - a ) kʷ !í/i ( + h o h e j o - - - )	2	*árbol	EseEjja	akwí-hoheyo	akwí-hoheyo	a kʷ !í/i + h o h e j o	None		8	callapo
-206	( - - - - - a ) kʷ i ( + x a x a + t e w e )	2	*árbol	EseEjja	akwi-xaxa-tewe	akwi-xaxa-tewe	a kʷ i + x a x a + t e w e	None		8	coquino
-207	( - - - - - a ) kʷ i ( + m a kʷ a - - - - - )	2	*árbol	EseEjja	akwi-makwa	akwi-makwa	a kʷ i + m a kʷ a	None		8	quemaquema
-208	( - - - - - a ) kʷ i ( + p e x a - - - - - )	2	*árbol	EseEjja	akwi-pexa	akwi-pexa	a kʷ i + p e x a	None		8	gaveta
-209	( - - - - - a ) kʷ i ( - - - - - - - - - - )	2	*árbol	Huarayo	akwi	akwi	a kʷ i	None		8	árbol,palanca
-210	( - - - - - a ) !ku/kʷ i ( - - - - - - - - - - )	2	*árbol	Arasa	akui	akui	a !ku/kʷ i	None	Armentia1887	8	leaf
-211	( - - - - - a ) !ku/kʷ i ( ʃ a - - - - - - - - )	2	*árbol	Arasa	akuiša	akuiša	a !ku/kʷ i ʃ a	None		8	spine
+191	( - - - - - ) !á/a k i ( - - - - - - - - - - )	2	*árbol	Maropa	áki	áki	!á/a k i	None	Heath1883	8	tree
+192	( - - - - - ) a kʷ i ( - - - - - - - - - - )	2	*árbol	Araona	acui	acui	a kʷ i	None		8	árbol,palo
+193	( - - - - - ) a kʷ i ( s a - - - - - - - - )	2	*árbol	Araona	acuisa	acuisa	a kʷ i s a	None		8	espina
+194	( - - - - - ) a kʷ i ( - - - - - - - - - - )	2	*árbol	Mabenaro	akwi	akwi	a kʷ i	None		8	tree
+195	( - - - - - ) a kʷ i ( - - - - - - - - - - )	2	*árbol	Cavinena	akwi	akwi	a kʷ i	None		8	árbol,palo
+196	( - - - - - ) a kʷ i ( - h a - - - - - - - )	2	*árbol	Cavinena	akwiha	akwiha	a kʷ i h a	None		8	espina
+197	( - - - - - ) a kʷ i ( - h o - - - - - - - )	2	*árbol	Cavinena	akwiho	akwiho	a kʷ i h o	None		8	bi (árbol y fruta)
+198	!/a kʷ i + n a β i - - - - - )	2	*árbol	Cavinena	kwi-nawi	kwi-nawi	!/a kʷ i + n a β i	None		8	clase de árbol
+199	( kʷ a β e + ) !e/a kʷ i ( - - - - - - - - - - )	2	*árbol	Cavinena	kwawe_ekwi	kwawe ekwi	kʷ a β e + !e/a kʷ i	None		8	rama de yuca
+200	( - - - - - ) a kʷ i ( - - - - - - - - - - )	2	*árbol	EseEjja	akwi	akwi	a kʷ i	None		8	árbol,palo
+201	( - - - - - ) a kʷ i ( - ʃ a - - - - - - - )	2	*árbol	EseEjja	akwiša	akwiša	a kʷ i ʃ a	None		8	espina
+202	( - - - - - ) a kʷ i ( + ʃ a x i - - - - - )	2	*árbol	EseEjja	akwi-šaxi	akwi-šaxi	a kʷ i + ʃ a x i	None		8	bagre (pez)
+203	( - - - - - ) a kʷ i ( + - e s i - j e - - )	2	*árbol	EseEjja	akwi-esiye	akwi-esiye	a kʷ i + e s i j e	None		8	naranjo
+204	( - - - - - ) a kʷ i ( + h e - a - - - - - )	2	*árbol	EseEjja	akwi-hea-	akwi-hea-	a kʷ i + h e a	None		8	garrotear
+205	( - - - - - ) a kʷ !í/i ( + h o h e j o - - - )	2	*árbol	EseEjja	akwí-hoheyo	akwí-hoheyo	a kʷ !í/i + h o h e j o	None		8	callapo
+206	( - - - - - ) a kʷ i ( + x a x a + t e w e )	2	*árbol	EseEjja	akwi-xaxa-tewe	akwi-xaxa-tewe	a kʷ i + x a x a + t e w e	None		8	coquino
+207	( - - - - - ) a kʷ i ( + m a kʷ a - - - - - )	2	*árbol	EseEjja	akwi-makwa	akwi-makwa	a kʷ i + m a kʷ a	None		8	quemaquema
+208	( - - - - - ) a kʷ i ( + p e x a - - - - - )	2	*árbol	EseEjja	akwi-pexa	akwi-pexa	a kʷ i + p e x a	None		8	gaveta
+209	( - - - - - ) a kʷ i ( - - - - - - - - - - )	2	*árbol	Huarayo	akwi	akwi	a kʷ i	None		8	árbol,palanca
+210	( - - - - - ) a !ku/kʷ i ( - - - - - - - - - - )	2	*árbol	Arasa	akui	akui	a !ku/kʷ i	None	Armentia1887	8	leaf
+211	( - - - - - ) a !ku/kʷ i ( ʃ a - - - - - - - - )	2	*árbol	Arasa	akuiša	akuiša	a !ku/kʷ i ʃ a	None		8	spine
 212	m a	7	*negative suffix	ProtoTakana	-ma	-(a)ma	m a	None		9	negative suffix
 213	m a	7	*negative suffix	Tacana	-ma	-(a)ma	m a	None		9	negative suffix
 214	m a	7	*negative suffix	Cavinena	-ma	-(a)ma	m a	None		9	negative suffix
@@ -1408,30 +1408,30 @@ ID	ALIGNMENT	COGID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	NOTE	SOURCE	PROTOSET	CONCE
 1407	( - - - ) d e ( + ) d e ( - - - )	176	*raspar	Tacana	de-de-	de-de-	d e + d e	Concept 'pelar' taken from Armentia		134	raspar (con cualquier instrumento sin filo),pelar
 1408	( - - - ) d e ( ʔ ) d e ( - - - )	176	*raspar	EseEjja	deʔde-	deʔde-	d e ʔ d e	None		134	peluquear
 1409	( x a + ) d e ( - ) d e ( + k e )	176	*raspar	EseEjja	xa-dede-ke-	xa-dede-ke-	x a + d e d e + k e	None		134	peluquear
-1410	d e k a ( - - - - - - - - - - - )	177	hombre	ProtoTakana	deka	deka	d e k a	None		135	hombre
-1411	d e h a ( - - - - - - - - - - - )	177	hombre	Tacana	deha	deha	d e h a	None		135	hombre
-1412	d e h a ( + h a n a n a - - - - )	177	hombre	Tacana	deha-hanana	deha-hanana	d e h a + h a n a n a	None		135	hombrecito
-1413	( e + ) - d - i - a ( + β e - - - - - - - - )	1399	hombre	Tacana	e-dia-ve	e-dia-ve	e + d i a + β e	None		135	boy
-1414	ⁿz e h a ( - - - - - - - - - - - )	177	hombre	Reyesano	ndzeha	ndzeha	ⁿz e h a	None		135	man
-1415	ɽ !é/e s a	1394	hombre	Maropa	ndrésa	ndrésa	ɽ !é/e s a	None	Nordenskiöld1905	135	man
-1416	ɽ e x a ( - - - - - - - - - - - )	177	hombre	Maropa	drexa	drexa	ɽ e x a	None	Heath1883	135	man
-1417	ɽ e x !á/a ( β e - - - - - - - - - )	177	hombre	Maropa	drexáve	drexáve	ɽ e x !á/a β e	None	Heath1883	135	boy
-1418	ɽ e x a ( β e β e - - - - - - - )	177	hombre	Maropa	drexaveve	drexaveve	ɽ e x a β e β e	None	Heath1883	135	young
-1419	( - - ) - d r i - a ( n i k u á/a n a - - - - )	1397	hombre	Maropa	drianikuána	drianikuána	d r i a n i k u á/a n a	None	Heath1883	135	people
-1420	d e j a ( - - - - - - - - - - - )	177	hombre	Araona	deja	deja	d e j a	None		135	hombre
-1421	r e - a ( - - - - - - - - - - - )	177	hombre	Guariza	rˈea	rˈea	r e a	None		135	body,people
-1422	( - - ) - d - i - a ( - - - - - - - - - - - )	533	hombre	Mabenaro	dia	dia	d i a	None		135	man
-1423	d e - a ( n a w a - - - - - - - )	177	hombre	Mabenaro	deanawa	deanawa	d e a n a w a	None		135	son
-1424	d e k a ( - - - - - - - - - - - )	177	hombre	Cavinena	deka	deka	d e k a	None		135	hombre,varón,macho
-1425	d e k a ( + n i m e + k i + k e )	177	hombre	Cavinena	deka-nime-ki-ke	deka-nime-ki-ke	d e k a + n i m e + k i + k e	None	Armentia1887	135	marimacho
-1426	d e x a ( - - - - - - - - - - - )	177	hombre	EseEjja	dexa	dexa	d e x a	None		135	hombre
-1427	d e x a ( + t i i - - - - - - - )	177	hombre	EseEjja	dexa-tii	dexa-tii	d e x a + t i i	None		135	hombre viejo
-1428	d e h a ( - - - - - - - - - - - )	177	hombre	Huarayo	deha	deha	d e h a	None		135	hombre
-1429	d e h a ( + a i + a i - - - - - )	177	hombre	Huarayo	deha-ai-ai	deha-ai-ai	d e h a + a i + a i	None		135	hombrón
-1430	( - - ) - l - e x a ( - - - - - - - - - - - )	532	hombre	Huarayo	lexa	lexa	l e x a	None	Fast	135	people
-1431	d !é/e x a ( - - - - - - - - - - - )	177	hombre	Chama	déxa	déxa	d !é/e x a	None		135	man
-1432	d e h a ( - - - - - - - - - - - )	177	hombre	Tiatinahua	deha	deha	d e h a	None	Fast	135	man
-1433	d e j a ( - - - - - - - - - - - )	177	hombre	Arasa	deya	deya	d e j a	None		135	man
+1410	d e k a ( - - - - - - - - - - - )	177	*hombre	ProtoTakana	deka	deka	d e k a	None		135	hombre
+1411	d e h a ( - - - - - - - - - - - )	177	*hombre	Tacana	deha	deha	d e h a	None		135	hombre
+1412	d e h a ( + h a n a n a - - - - )	177	*hombre	Tacana	deha-hanana	deha-hanana	d e h a + h a n a n a	None		135	hombrecito
+1413	( e + ) - d - i - a ( + β e - - - - - - - - )	1399	*hombre	Tacana	e-dia-ve	e-dia-ve	e + d i a + β e	None		135	boy
+1414	ⁿz e h a ( - - - - - - - - - - - )	177	*hombre	Reyesano	ndzeha	ndzeha	ⁿz e h a	None		135	man
+1415	ɽ !é/e s a	1394	*hombre	Maropa	ndrésa	ndrésa	ɽ !é/e s a	None	Nordenskiöld1905	135	man
+1416	ɽ e x a ( - - - - - - - - - - - )	177	*hombre	Maropa	drexa	drexa	ɽ e x a	None	Heath1883	135	man
+1417	ɽ e x !á/a ( β e - - - - - - - - - )	177	*hombre	Maropa	drexáve	drexáve	ɽ e x !á/a β e	None	Heath1883	135	boy
+1418	ɽ e x a ( β e β e - - - - - - - )	177	*hombre	Maropa	drexaveve	drexaveve	ɽ e x a β e β e	None	Heath1883	135	young
+1419	( - - ) - d r i - a ( n i k u á/a n a - - - - )	1397	*hombre	Maropa	drianikuána	drianikuána	d r i a n i k u á/a n a	None	Heath1883	135	people
+1420	d e j a ( - - - - - - - - - - - )	177	*hombre	Araona	deja	deja	d e j a	None		135	hombre
+1421	r e - a ( - - - - - - - - - - - )	177	*hombre	Guariza	rˈea	rˈea	r e a	None		135	body,people
+1422	( - - ) - d - i - a ( - - - - - - - - - - - )	533	*hombre	Mabenaro	dia	dia	d i a	None		135	man
+1423	d e - a ( n a w a - - - - - - - )	177	*hombre	Mabenaro	deanawa	deanawa	d e a n a w a	None		135	son
+1424	d e k a ( - - - - - - - - - - - )	177	*hombre	Cavinena	deka	deka	d e k a	None		135	hombre,varón,macho
+1425	d e k a ( + n i m e + k i + k e )	177	*hombre	Cavinena	deka-nime-ki-ke	deka-nime-ki-ke	d e k a + n i m e + k i + k e	None	Armentia1887	135	marimacho
+1426	d e x a ( - - - - - - - - - - - )	177	*hombre	EseEjja	dexa	dexa	d e x a	None		135	hombre
+1427	d e x a ( + t i i - - - - - - - )	177	*hombre	EseEjja	dexa-tii	dexa-tii	d e x a + t i i	None		135	hombre viejo
+1428	d e h a ( - - - - - - - - - - - )	177	*hombre	Huarayo	deha	deha	d e h a	None		135	hombre
+1429	d e h a ( + a i + a i - - - - - )	177	*hombre	Huarayo	deha-ai-ai	deha-ai-ai	d e h a + a i + a i	None		135	hombrón
+1430	( - - ) - l - e x a ( - - - - - - - - - - - )	532	*hombre	Huarayo	lexa	lexa	l e x a	None	Fast	135	people
+1431	d !é/e x a ( - - - - - - - - - - - )	177	*hombre	Chama	déxa	déxa	d !é/e x a	None		135	man
+1432	d e h a ( - - - - - - - - - - - )	177	*hombre	Tiatinahua	deha	deha	d e h a	None	Fast	135	man
+1433	d e j a ( - - - - - - - - - - - )	177	*hombre	Arasa	deya	deya	d e j a	None		135	man
 1434	d i ( - - - - - - )	178	*mono nocturno	ProtoTakana	di...	di...	d i	None		136	mono nocturno
 1435	d i ( - - d i - a )	178	*mono nocturno	Tacana	didia	didia	d i d i a	None		136	mono nocturno
 1436	d i ( - - d e - - )	178	*mono nocturno	Cavinena	dide	dide	d i d e	None		136	mono nocturno
