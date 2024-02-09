@@ -159,7 +159,7 @@ cuerno,*cuerno,1393,HORN (ANATOMY),131,cuerno
 tortugapeta,"*tortuga,peta",,,132,"tortuga,peta"
 ardilla,*ardilla,1628,SQUIRREL,133,ardilla
 raspar,*raspar,1767,SCRAPE,134,raspar
-hombre,hombre,1554,MAN,135,hombre
+hombre,*hombre,1554,MAN,135,hombre
 mononocturno,*mono nocturno,,,136,mono nocturno
 mosquito,*mosquito,1509,MOSQUITO,137,mosquito
 camino,*camino,2252,PATH,138,camino
@@ -209,9 +209,21 @@ cunado,*cuñado,2314,BROTHER-IN-LAW,178,cuñado
 hermanamenor,*hermana menor,1761,YOUNGER SISTER,178,hermana menor
 hermanomenor,*hermano menor,1760,YOUNGER BROTHER,178,hermano menor
 bofe,*bofe,,,179,bofe
+barrer,*barrer,230,SWEEP,180,barrer
+lavar,*lavar,1453,WASH,181,lavar
+izquierdozurdo,"*izquierdo,zurdo",,,182,"izquierdo,zurdo"
 mandibula,*mandíbula,798,JAW,184,mandíbula
 abrir,*abrir,1156,OPEN,186,abrir
 tareche,*tareche,,,187,tareche
+hincharse,*hincharse,1573,SWELL,188,hincharse
+concha,*concha,598,SHELL,189,concha
+arana,*araña,843,SPIDER,190,araña
+maiz,*maíz,506,MAIZE,191,maíz
+cicatriz,*cicatriz,497,SCAR,192,cicatriz
+oler,*oler,2124,SMELL,193,oler
+canasta,*canasta,1539,BASKET,194,canasta
+echar,*echar,1456,THROW,195,echar
+desiderative,*desiderative,,,197,desiderative
 huevo,*huevo,744,EGG,199,huevo
 plantadeplatano,*planta de plátano,1795,BANANA TREE,200,planta de plátano
 fruta,*fruta,1507,FRUIT,200,fruta
@@ -538,16 +550,4 @@ unirjuntar,"*unir,juntar",1743,JOIN,501,"unir,juntar"
 noche,*noche,1233,NIGHT,502,noche
 ensartarcosturar,"*ensartar,costurar",,,503,"ensartar,costurar"
 capibara,*capibara,314,CAPYBARA,504,capibara
-barrer,*barrer,230,SWEEP,180,barrer
-lavar,*lavar,1453,WASH,181,lavar
-izquierdozurdo,"*izquierdo,zurdo",,,182,"izquierdo,zurdo"
-hincharse,*hincharse,1573,SWELL,188,hincharse
-concha,*concha,598,SHELL,189,concha
-arana,*araña,843,SPIDER,190,araña
-maiz,*maíz,506,MAIZE,191,maíz
-cicatriz,*cicatriz,497,SCAR,192,cicatriz
-oler,*oler,2124,SMELL,193,oler
-canasta,*canasta,1539,BASKET,194,canasta
-echar,*echar,1456,THROW,195,echar
-desiderative,*desiderative,,,197,desiderative
 derivativesuffixwithreferencetobodyparts,*derivative suffix with reference to body parts,,,198,derivative suffix with reference to body parts

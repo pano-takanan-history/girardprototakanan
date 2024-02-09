@@ -175,7 +175,7 @@ class Dataset(BaseDataset):
                 Source=source.split(" "),
                 ProtoSet=protoset,
                 Cognacy=cogid,
-                Alignment="".join(alignment),
+                Alignment=" ".join(alignment),
                 ConceptInSource=conceptinsource,
             )
 
