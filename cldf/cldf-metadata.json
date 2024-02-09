@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/pano-tacanan-history/girardprototakanan",
             "rdf:type": "prov:Entity",
-            "dc:created": "7cf701b",
+            "dc:created": "v1.0.0-2-gf4c87c0",
             "dc:title": "Repository"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.12.0"
+            "dc:description": "3.11.7"
         },
         {
             "dc:title": "python-packages",
