@@ -21,8 +21,8 @@ This dataset is licensed under a CC-BY-4.0 license
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 14
-- **Concepts:** 552
+- **Varieties:** 14 (linked to 8 different Glottocodes)
+- **Concepts:** 552 (linked to 322 different Concepticon concept sets)
 - **Lexemes:** 4,819
 - **Sources:** 6
 - **Synonymy:** 1.47
@@ -41,12 +41,12 @@ This dataset is licensed under a CC-BY-4.0 license
 
 # Contributors
 
-Name | GitHub user | Description | Role |
---- | --- | --- | --- |
+Name | GitHub user | Description | Role   |
+--- | --- | --- |--------|
 Victor Girard | | original collection and analysis of data | Author |
-Frederic Blum | @FredericBlum | CLDF conversion | Other |
-Carlos M. B. Ugarte | @MuffinLinwist | CLDF conversion | Other |
-Johann-Mattis List | @LinguList| CLDF conversion | Other |
+Frederic Blum | @FredericBlum | CLDF conversion | Editor |
+Carlos M. B. Ugarte | @MuffinLinwist | CLDF conversion | Editor |
+Johann-Mattis List | @LinguList| CLDF conversion | Editor |
 
 
 

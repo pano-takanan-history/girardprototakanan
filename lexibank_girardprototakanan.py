@@ -41,6 +41,7 @@ class Dataset(BaseDataset):
     language_class = CustomLanguage
     concept_class = CustomConcept
     lexeme_class = CustomLexeme
+    writer_options = dict(keep_languages=False, keep_parameters=False)
     form_spec = FormSpec(
         separators="~;,",
         missing_data=["--", "- -", "-", "-- **", "--.", "- --"],
