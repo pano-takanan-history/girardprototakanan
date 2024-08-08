@@ -14,6 +14,9 @@ If you use these data please cite
 
 This dataset is licensed under a CC-BY-4.0 license
 
+
+Conceptlists in Concepticon:
+- [Girard-1971-559](https://concepticon.clld.org/contributions/Girard-1971-559)
 ## Statistics
 
 

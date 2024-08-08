@@ -3,6 +3,9 @@
     "aboutUrl": null,
     "dc:bibliographicCitation": "Girard, Victor (1971): Proto-Takanan Phonology. University of California Press, Berkeley.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Girard-1971-559"
+    ],
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
@@ -13,7 +16,7 @@
         {
             "rdf:about": "https://github.com/pano-tacanan-history/girardprototakanan",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0.0-6-g970c1bb",
+            "dc:created": "v1.0.0-7-gc6fec44",
             "dc:title": "Repository"
         },
         {
