@@ -102,7 +102,7 @@ class Dataset(BaseDataset):
             args.writer.add_concept(
                 ID=idx,
                 Name=concept["PROTO_CONCEPT"],
-                Original_Concept=concept["GLOSS"],
+                Original_Concept=concept["SPANISH"],
                 Concepticon_ID=concept["CONCEPTICON_ID"],
                 Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
                 Proto_ID=concept["PROTO_ID"]
