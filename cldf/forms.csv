@@ -4729,7 +4729,7 @@ EseEjja-viejo-2,,EseEjja,viejo,e-tii-kiana,e-tii-kiana,e + t i i + k i a n a,Non
 EseEjja-viejo-3,,EseEjja,viejo,tii-,tii-,t i i,None,,506,,,,( - - - - - - ) t i - i ( - - - - - - ),500,crecer,"['t', 'i', 'i']"
 EseEjja-viejo-4,,EseEjja,viejo,tii-mee-,tii-mee-,t i i + m e e,None,,506,,,,( - - - - - - ) t i - i ( + m e - - e ),500,criar,"['t', 'i', 'i', '+', 'm', 'e', 'e']"
 EseEjja-viejo-5,,EseEjja,viejo,e-tii-mee,e-tii-mee,e + t i i + m e e,None,,506,,,,( - - - - e + ) t i - i ( + m e - - e ),500,entenado,"['e', '+', 't', 'i', 'i', '+', 'm', 'e', 'e']"
-EseEjja-viejo-6,,EseEjja,viejo,čii,čii,!tʃ/t i i,cognate?,,506,,,,!tʃ/t i i,500,padre,"['!tʃ/t', 'i', 'i']"
+EseEjja-viejo-6,,EseEjja,viejo,čii,čii,!tʃ/t i i,cognate?,,506,,,,( - - - - - - ) !tʃ/t i - i ( - - - - - - ),500,padre,"['!tʃ/t', 'i', 'i']"
 Huarayo-viejo-1,,Huarayo,viejo,ečí,ečí,e tʃ í/i,None,,506,,,,( - - - - e - ) tʃ í/i - - ( - - - - - - ),500,viejo/a,"['e', 'tʃ', 'í/i']"
 Huarayo-viejo-2,,Huarayo,viejo,ečíneinei,ečíneinei,e tʃ í/i n e i n e i,None,,506,,,,( - - - - e - ) tʃ í/i - - ( n e i n e i ),500,muy viejo,"['e', 'tʃ', 'í/i', 'n', 'e', 'i', 'n', 'e', 'i']"
 Huarayo-viejo-3,,Huarayo,viejo,tatači,tatači,t a t a tʃ i,cognates?,,506,,,,( t a t a - - ) tʃ i - - ( - - - - - - ),500,padre,"['t', 'a', 't', 'a', 'tʃ', 'i']"

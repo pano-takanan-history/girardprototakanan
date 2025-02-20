@@ -1,5 +1,7 @@
 # CLDF dataset derived from Girard's "Proto-Takanan Phonology" from 1971
 
+[![CLDF validation](https://github.com/pano-tacanan-history/girardprototakanan/workflows/CLDF-validation/badge.svg)](https://github.com/pano-tacanan-history/girardprototakanan/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -12,17 +14,21 @@ If you use these data please cite
 
 This dataset is licensed under a CC-BY-4.0 license
 
+
+Conceptlists in Concepticon:
+- [Girard-1971-559](https://concepticon.clld.org/contributions/Girard-1971-559)
 ## Statistics
 
 
+[![CLDF validation](https://github.com/pano-tacanan-history/girardprototakanan/workflows/CLDF-validation/badge.svg)](https://github.com/pano-tacanan-history/girardprototakanan/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 70%](https://img.shields.io/badge/Concepticon-70%25-orange.svg "Concepticon: 70%")
 ![Source: 19%](https://img.shields.io/badge/Source-19%25-red.svg "Source: 19%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 14
-- **Concepts:** 552
+- **Varieties:** 14 (linked to 8 different Glottocodes)
+- **Concepts:** 552 (linked to 322 different Concepticon concept sets)
 - **Lexemes:** 4,819
 - **Sources:** 6
 - **Synonymy:** 1.47
@@ -41,12 +47,12 @@ This dataset is licensed under a CC-BY-4.0 license
 
 # Contributors
 
-Name | GitHub user | Description | Role |
---- | --- | --- | --- |
+Name | GitHub user | Description | Role   |
+--- | --- | --- |--------|
 Victor Girard | | original collection and analysis of data | Author |
-Frederic Blum | @FredericBlum | CLDF conversion | Other |
-Carlos M. B. Ugarte | @MuffinLinwist | CLDF conversion | Other |
-Johann-Mattis List | @LinguList| CLDF conversion | Other |
+Frederic Blum | @FredericBlum | CLDF conversion | Editor |
+Carlos M. B. Ugarte | @MuffinLinwist | CLDF conversion | Editor |
+Johann-Mattis List | @LinguList| CLDF conversion | Editor |
 
 
 
