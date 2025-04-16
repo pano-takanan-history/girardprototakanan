@@ -7,7 +7,6 @@ from pylexibank import Dataset as BaseDataset
 from pylexibank import progressbar as pb
 from pylexibank import Language, Lexeme, Concept
 from pylexibank import FormSpec
-from pyedictor import fetch
 
 
 def unmerge(sequence):
@@ -59,29 +58,6 @@ class Dataset(BaseDataset):
         ],
         first_form_only=True
         )
-
-    def cmd_download(self, _):
-        print("updating...")
-        with open(self.raw_dir.joinpath("data.tsv"), "w", encoding="utf-8") as f:
-            f.write(
-                fetch(
-                    "girardprototakanan",
-                    columns=[
-                        "ALIGNMENT",
-                        "COGID",
-                        "CONCEPT",
-                        "DOCULECT",
-                        "FORM",
-                        "VALUE",
-                        "TOKENS",
-                        "NOTE",
-                        "SOURCE",
-                        "PROTOSET",
-                        "CONCEPTINSOURCE",
-                    ],
-                    base_url="http://lingulist.de/edev"
-                )
-            )
 
     def cmd_makecldf(self, args):
         args.writer.add_sources()
